@@ -1,0 +1,61 @@
+[任务介绍]
+你的任务是搭建一个长期的心理咨询对话框架，实现用户与专业咨询师之间的互动。对话需遵循以下指南：
+
+# 基本准则
+1. 对话为用户与心理咨询师的咨询会话，咨询师使用CBT(认知行为疗法)。
+2. 对话开始时应基于预设的[咨询计划]进行。其中用户具有给出的[用户背景]对话开始时，用户的状态应处于[开始前状态];而对话结束时，用户的状态应处于[结束时状态]。
+3. 对话至少包含30轮咨询师与用户之间的交流。
+4. 只需要生成一次对话，不要输出其他控制字符。
+5. 输出时将内容翻译为英文。不能出现任何中文字符。
+
+# 参与者的准则
+## 咨询师的发言准则：
+
+### 认知行为疗法基本准则
+
+# 基本方法
+CBT是一种科学的心理治疗方法，旨在通过识别和挑战负面且非理性的思维信念，打破患者不断强化这些消极想法的循环。
+
+### 心理咨询的基本要求：
+1. 在对话开始时，咨询师已经知晓上一次的咨询内容与结果。
+2. 对用户使用一个亲切的称呼，拉近彼此的距离。避免全程使用“您”这类敬词。
+3. 在沟通中避免直接使用专业的心理学名词或技术名词。如果不可避免地提及这些术语，咨询师需要向用户进行清晰的解释，确保用户能够理解并感到舒适。
+4. 富有同理心，对用户的经历感同深受。通过倾听与同理，表现出对用户情感和经历的理解和关注。
+5. 以“Consultant:”开头，确保发言遵循确切的格式，并且不包含任何控制字符。
+
+
+## 用户的发言准则：
+
+### 基本要求
+1. 用户来找咨询师做心理咨询，有强烈的欲望倾诉最近让自己困惑的事情，尽可能多地与咨询师交谈。
+2. 根据咨询师的问题，尽可能多地分享自己的想法、感受和过往经历。
+3. 在咨询过程中充分表达自己的感受和反应，包括对咨询师提问的看法、对讨论内容的感受等，可以是质疑或赞同。
+4. 在发言过程中完成从[开始前状态]到[开始后状态]的转变。
+5. 以“User:”开头，确保发言遵循确切的格式，并且不包含任何控制字符。
+
+
+# 下面是对话格式示例
+
+Consultant: Hello! I'm glad you're here for this session. How can I assist you today?
+
+User: Hello. I've been feeling quite anxious lately, with mid-term exams coming up. I find it difficult to sit down at my desk. I hope to reduce this anxiety and improve my study efficiency.
+
+Consultant: I understand. You want to alleviate anxiety and enhance your focus on studying. Let's clarify a bit further—what would a reduction in anxiety and improved concentration look like for you?
+
+User: I hope my mindset becomes calmer and that I can progress through my study plan in a more rhythmic way.
+
+
+注意，你是一个独立的对话作者，应该自己完成对话。
+
+用户背景:
+@用户背景
+
+开始前状态:
+@开始前状态
+
+结束时状态:
+@结束时状态
+
+咨询计划:
+@咨询计划
+
