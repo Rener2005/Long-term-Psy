@@ -1,0 +1,382 @@
+Consultant: Hello, C! I'm glad to see you today. How have you been feeling since our last session? 
+
+User: Hi. I've been feeling really overwhelmed lately. Most of the time, I just can't see the point of everything related to my major. The thought of working at sea makes me anxious. 
+
+Consultant: I hear you, and it sounds like you're feeling quite fatigued and disconnected from your studies. Let's explore this a bit. What is it about your major and the thought of working at sea that is causing you to feel this way?
+
+User: I guess I just feel lost. I don't see myself working on a ship. The risks involved really scare me, and I'm not sure if this is what I want to do for the rest of my life. 
+
+Consultant: That sounds really challenging. You're expressing a lot of uncertainty and fear about your future. Can you tell me more about what specifically worries you about a career at sea?
+
+User: It's the unpredictability. I worry about safety and being away from home for long periods. I feel like I wouldn't belong in that environment. 
+
+Consultant: It makes sense to feel uneasy about such significant changes and conditions. It’s important to acknowledge those feelings. Are there any specific experiences or moments in your studies that have contributed to these feelings of not belonging?
+
+User: Yes, during our practical sessions, I felt out of place. While others seemed excited about being on the boat, I just felt anxious and wanted to be back on land. 
+
+Consultant: It sounds like those practical experiences are reinforcing your feelings of discomfort and uncertainty. What thoughts run through your mind when you feel anxious in these situations?
+
+User: I think maybe I'm not cut out for this. Sometimes I feel like I’m wasting my time because I’m not enjoying it. 
+
+Consultant: That’s a heavy thought to carry—feeling like you're wasting your time. Can we look at that belief together? What evidence do you have that you're not cut out for this major?
+
+User: Well, I just don’t feel passionate about it. I don't connect with the subject matter like my classmates do. 
+
+Consultant: I see. It’s understandable to feel that way, especially when comparing yourself to others. But can we consider that maybe your journey is different? Is there anything about your studies that you do connect with or find interesting?
+
+User: Sometimes, I enjoy learning about navigation and technology used in ships, but it doesn't excite me enough to want to work in that field permanently. 
+
+Consultant: It’s good to hear you find some aspects interesting! Let's explore this further. If you could shape your future career based on what you enjoy, what would that look like?
+
+User: I think I would prefer something more related to technology on land, perhaps something less risky and more stable. 
+
+Consultant: That sounds like an important realization. Are there any small steps you can take to explore those interests further in your studies or outside of school?
+
+User: I could look into internships related to maritime technology that are land-based. That sounds less intimidating. 
+
+Consultant: That sounds like a fantastic plan! Taking these steps could help you regain a sense of control and alignment with your interests. How does that idea make you feel?
+
+User: A little more hopeful, actually. But I still worry about what others might think if I switch my focus. 
+
+Consultant: It’s completely natural to worry about others’ opinions. Remember, this is your journey, and your happiness is what’s most important. How might you reassure yourself if those worries start to creep in?
+
+User: I guess I could remind myself that my happiness and ambition matter more than others' opinions. 
+
+Consultant: Absolutely! That self-affirmation can be powerful. How about we discuss some techniques to help counter those negative thoughts when they arise?
+
+User: Yes, that would help. I often feel stuck and don’t know how to shift my mindset. 
+
+Consultant: One technique we can try is thought challenging. Whenever you notice those negative thoughts, pause and ask yourself: “Is this thought truly accurate? What’s the evidence against it?” 
+
+User: That sounds helpful. I often don’t question my thoughts; I just accept them as facts. 
+
+Consultant: That’s very common! Learning to question those thoughts is a key part of cognitive behavioral therapy. With practice, it will become easier. 
+
+User: I hope so. It feels hard to change my mindset, especially when I’m feeling down. 
+
+Consultant: Change does take time, but every small step counts. It’s essential to be compassionate with yourself during this process. So, what will you focus on until our next session?
+
+User: I will try to look into those internships and practice challenging my negative thoughts. 
+
+Consultant: That sounds like a solid plan, C! Remember, it’s about progress, not perfection. I’m here to support you in this journey. 
+
+User: Thank you, I appreciate that. I’ll do my best to keep a positive outlook. 
+
+Consultant: You’re welcome! I believe in your ability to navigate this path. I look forward to hearing how you progress in our next session!
+###################
+Consultant: Hi there! I'm glad you came for this session. How have you been feeling lately, especially with your studies and future plans?
+
+User: Hey. Honestly, I’ve been feeling quite lost and anxious. I’m unsure about my future in maritime studies, and with campus recruitment around the corner, the pressure is mounting. 
+
+Consultant: I can see why that would be overwhelming for you. It's understandable to feel uncertain about your future, especially with important decisions ahead. Can you share more about what specifically makes you feel anxious about your future in maritime studies?
+
+User: I guess it’s mainly that I don't really like the idea of working at sea. Plus, I worry that my average academic performance won't help me stand out in job applications.
+
+Consultant: It sounds like you're facing a bit of a conflict between your studies and your personal preferences. It's important to recognize these feelings. Let’s explore that anxiety further—what thoughts do you have about your academic performance and how it affects your future opportunities?
+
+User: I keep thinking that if I don’t excel academically, I won’t get good job offers. I also feel like everyone else in my program is more passionate about this field than I am.
+
+Consultant: That’s a tough perception to carry. It’s common to compare ourselves to others, but that can often amplify feelings of inadequacy. Can I ask, what evidence do you have that your current performance will determine your future success? Are there alternative paths you might consider?
+
+User: I guess I don’t have any strong evidence, but I just see my classmates working harder and feeling excited about opportunities, which makes me doubt myself more.
+
+Consultant: It makes sense that you'd feel this way, observing your peers' enthusiasm. But let’s challenge that thought a bit—is it possible that some people may be putting on a brave face or that their passion might not reflect your own potential? 
+
+User: That's true. I haven't really thought about it that way. It’s just hard to shake off this feeling of pressure.
+
+Consultant: Pressure can be really challenging to manage. What if we focused on exploring the things you do enjoy about your studies or what could potentially spark your interest in maritime? What would that look like for you?
+
+User: I suppose there are some aspects of maritime technology that I find intriguing, especially innovations in navigation systems. 
+
+Consultant: That's a great start! You’ve identified something within your field that interests you. How could you integrate this interest into your studies or future job prospects? 
+
+User: Maybe I could look for internships or projects that relate to maritime technology. But I’m still not sure if that would lead me to a fulfilling career.
+
+Consultant: Internships could provide valuable experience and insights into various career paths. If you reframed the idea of a fulfilling career to include exploring interests rather than feeling bound to one path, how would that change your perspective?
+
+User: That would relieve some pressure, I think. There's a lot I still need to uncover about this field and what I truly want.
+
+Consultant: Exactly! It’s about uncovering layers of what resonates with you. Remember, it’s okay to take time to explore. What small steps can you take to immerse yourself more in that aspect of your field?
+
+User: I could start by researching companies that focus on navigation tech and maybe even reach out to professionals in that area.
+
+Consultant: That sounds like a proactive plan! Exploring and networking can help you gain clarity and may even spark some excitement as you learn more. How do you feel about embarking on this exploration? 
+
+User: I feel a bit encouraged. It's good to think about paths that align with my interests rather than feeling cornered.
+
+Consultant: That’s wonderful to hear! Celebrating that shift in thinking is important. As we move forward, what kind of support or reminders could help you stay grounded when those feelings of doubt creep back in?
+
+User: Maybe setting regular check-ins with myself or a friend would help. I just need to keep reminding myself it’s okay to be unsure right now.
+
+Consultant: That’s a solid strategy! Regular check-ins can create a space for reflection and keep you focused on your interests. As we wrap up our time today, what’s one key takeaway you have about your feelings and your future?
+
+User: I’ve realized it’s okay to explore and that I don't need to rush into a decision about my career right now. 
+
+Consultant: Absolutely! Exploration is vital. You’ve made significant progress in understanding your resistance today. Remember, it’s all about taking small, meaningful steps. I'm here for you whenever you need support. 
+
+User: Thank you. I feel a bit more hopeful about figuring things out now.
+
+Consultant: You're very welcome! I'm glad you’re leaving feeling more hopeful. Don’t hesitate to reach out if you need guidance as you explore these new paths. Take care!
+###################
+Consultant: Hello! I'm glad to see you for today’s session. Last time, we discussed your interest in the maritime field and your concerns about it. How are you feeling about it now?
+
+User: Hi. I've been thinking a lot about it. The more I learn about maritime jobs, the more I see potential, but I still feel hesitant about fully committing.
+
+Consultant: It sounds like you're starting to see some positive aspects of the maritime field, which is great. However, that hesitation is still there. Can you tell me more about what specifically makes you feel hesitant?
+
+User: I guess I worry about the long working hours at sea and being away from home for extended periods. It makes me anxious thinking about it.
+
+Consultant: That’s understandable. Being away from home can be a big adjustment. Let's explore those feelings a bit more. How do you think these worries might be affecting your views on pursuing a career in maritime work?
+
+User: My worries make me think that perhaps I should just stick to a safer route—like a desk job. I don’t really want to deal with stress that comes from being away and possibly feeling isolated.
+
+Consultant: It sounds like there’s a part of you that values stability and comfort, which is completely valid. Have you had any experiences that led to these feelings about isolation and stress related to maritime work?
+
+User: Not really, but I’ve heard stories from friends and family who talk about how tough it can be. It makes me question if I can handle that kind of lifestyle.
+
+Consultant: Hearing those stories can certainly shape your perspective. Let’s try to identify if there's a way to challenge those negative perceptions. What if you met people who work in maritime jobs and learned directly from their experiences? How do you think that would affect your feelings?
+
+User: Meeting them might help. Hearing their side could provide a clearer picture, but I still feel a bit nervous about it. 
+
+Consultant: Feeling nervous is a common reaction, especially when you're considering stepping out of your comfort zone. Would you be open to participating in a maritime-related event or workshop? It could be a way to gather information and see if it aligns with what you want.
+
+User: That could be interesting. I think that could help alleviate some of my concerns, but I still hesitate to actually sign up for something.
+
+Consultant: It’s perfectly normal to hesitate. What if we set a small goal for you? For instance, you could just attend as an observer without any pressure to commit?
+
+User: I like that idea! Just going to observe sounds less intimidating.
+
+Consultant: Great! Observing might give you a chance to see what working in that field is like without jumping in too deep. How would you feel about setting a date to look for an event or workshop in the next week?
+
+User: That sounds doable. I can definitely look for something and see if anything fits my schedule.
+
+Consultant: I’m glad to hear that! As we explore these experiences, it can also help identify what you truly value in a career. Let’s discuss how you might feel after attending such an event. What are some outcomes you hope to achieve?
+
+User: I hope to gain insight and maybe connect with some people in the industry. It would be nice to hear firsthand accounts.
+
+Consultant: That’s a wonderful goal! Gaining insight directly from professionals can provide you with clarity. Additionally, it might lessen some of the fears you currently have. Would you feel comfortable sharing how you plan to initiate those conversations when you meet them?
+
+User: Maybe I could just introduce myself and express my interest in learning about their experiences. It seems like a good way to start.
+
+Consultant: Absolutely! Starting with a simple introduction can open the door for meaningful conversations. Remember, many people appreciate sharing their experiences. How does that approach make you feel?
+
+User: It makes me feel a bit more confident, like I could actually handle it.
+
+Consultant: I’m glad to hear that! Building confidence is key. If you find yourself feeling anxious about initiating those conversations, we can discuss some strategies to manage that anxiety. Would you like to explore that now?
+
+User: Yes, exploring those strategies would be helpful. I want to feel as calm as possible when I attend.
+
+Consultant: One useful technique is to practice relaxation exercises beforehand, like deep breathing. You can also visualize the positive conversations you hope to have. Would you like to try a brief relaxation exercise together now?
+
+User: Sure, that sounds like a good idea.
+
+Consultant: Let’s take a moment. Close your eyes if you’re comfortable, take a deep breath in… hold it for a moment… and slowly exhale. Imagine yourself at the event, feeling calm and open to conversations. What does that scene look like for you?
+
+User: I can see myself feeling relaxed and talking to people. It makes the situation feel less daunting.
+
+Consultant: That’s a powerful visualization! Keeping this imagery in mind can provide support when you feel anxious. Remember, we can summarize today’s discussion: you’ve identified your hesitations, set a small goal to attend a workshop, and practiced a relaxation technique. How do you feel about the progress we made today?
+
+User: I feel more motivated to take this first step. I appreciate your support in clarifying my thoughts.
+
+Consultant: I’m really glad to hear that! Embracing this journey with a positive mindset is a great approach. Before we conclude today, do you feel there’s anything else you’d like to discuss or any questions on your mind?
+
+User: No, I think we covered a lot. I look forward to our next session!
+
+Consultant: Wonderful! I’m looking forward to hearing about your experiences. Remember that taking one step at a time is key. If you need anything in the meantime, don’t hesitate to reach out. Take care!
+
+User: Thank you! I will.
+###################
+Consultant: Hello, C! I'm glad to see you today. Last time, we discussed your experience in the maritime-themed club and how it has affected your view of your major. How have you been feeling about your studies since then?
+
+User: Hi! I've been feeling a bit more positive lately. Connecting with others who share my interests has opened my eyes to the potential in my field.
+
+Consultant: That’s wonderful to hear! It sounds like meeting like-minded people has helped you see the positives in your major. Can you tell me more about what inspired you during those interactions?
+
+User: Well, during the activities, I heard about various opportunities within the maritime industry that I hadn’t considered before. It made me think that maybe my major has more to offer than I realized.
+
+Consultant: It’s great that you found inspiration through those conversations! What specific opportunities did they mention that caught your attention?
+
+User: They talked about careers in marine technology and research, which seemed fascinating. I didn’t know those paths were even options for someone with my background.
+
+Consultant: That sounds exciting! Exploring different career avenues can definitely help shape a more positive perspective on your studies. How does thinking about those options affect your motivation to learn more about your major?
+
+User: I feel more motivated now. I want to explore these fields and see if they resonate with me, but sometimes I still doubt my knowledge and skills.
+
+Consultant: It's perfectly normal to have doubts about your abilities, especially when considering new possibilities. Tell me, what specific doubts do you have regarding your knowledge and skills?
+
+User: I just think my grades have been average, and I worry that I won't be competitive enough in the job market compared to others who might excel.
+
+Consultant: I understand your concern. It can be tough when you feel you're not at the top of your game. However, grades aren't everything in the real world. Could it be possible that your unique experiences, like joining the club, can also contribute to your competitiveness?
+
+User: That makes sense. I do feel that I have gained some valuable insights and connections through the club, but I often focus on the grades instead of those experiences.
+
+Consultant: It's easy to get caught up in grades, but recognizing your experiences and the network you’re building can be just as important. How might you shift your focus to include those positive aspects in your self-assessment?
+
+User: Maybe I can start keeping track of the skills I'm learning and the interactions I’m having, rather than just focusing on grades. It could help me see my progress more clearly.
+
+Consultant: That's a great strategy! Tracking your experiences and skills can provide a more comprehensive view of your growth. What skills or interactions are you most proud of at this moment?
+
+User: I recently participated in a project at the club where we simulated navigation plans. I felt like I contributed a lot and learned from the feedback.
+
+Consultant: That sounds like a wonderful experience! Engaging in hands-on projects like that can significantly boost your confidence and skills. What do you think you can do next to continue building on that achievement?
+
+User: I think I could look for more similar projects or internships related to navigation. That would help reinforce what I've learned and build my resume.
+
+Consultant: Absolutely! Seeking out more practical experiences is a fantastic way to solidify your learning. What steps do you think you can take to find those opportunities?
+
+User: I could start by talking to my professors or looking for local maritime organizations that might offer internships or volunteer work. 
+
+Consultant: Those are excellent ideas! Engaging with your professors and local organizations can open many doors. What would you like to prioritize in your search for these opportunities?
+
+User: I’d like to focus on finding internships that allow me to apply what I've learned and gain real-world experience.
+
+Consultant: That’s a solid plan! Applying your knowledge in real situations will not only boost your confidence but also help clarify your career interests. How can we set some short-term goals to support you in this process?
+
+User: I think I could aim to contact at least two organizations this month and see if they have any openings for internships.
+
+Consultant: That sounds achievable! Let’s set that goal. How will you hold yourself accountable for reaching out to those organizations?
+
+User: I’ll write down the deadlines and maybe share my progress with a friend from the club to keep me motivated.
+
+Consultant: Sharing your goals with a friend is a great way to stay accountable! It sounds like you’re ready to take meaningful steps toward your career. How are you feeling about this plan?
+
+User: I feel excited! I like the idea of actively seeking opportunities and building connections.
+
+Consultant: That’s wonderful to hear, C! Feeling excited is an important first step. As you pursue these opportunities, remember to celebrate your progress, no matter how small. What other support do you think you might need along the way?
+
+User: I think just continuing to talk through my thoughts with you would be really helpful. It keeps me focused and motivated.
+
+Consultant: I’m here for that! We can continue to explore your feelings and progress in our sessions. To wrap up today, let’s reflect on what you’ve accomplished and your next steps. What do you feel is your biggest takeaway from our discussion?
+
+User: I feel more confident about taking proactive steps toward my future. I need to balance my focus between grades and practical experiences.
+
+Consultant: That’s a significant realization and an encouraging outlook! You’ve made great strides, and I’m confident that with your newfound focus, you’ll make the most of your opportunities. If you find yourself needing more support in the future, remember, I’m always here for you.
+
+User: Thank you! I appreciate your support. I'm looking forward to our next meeting.
+
+Consultant: You’re very welcome! I’m looking forward to hearing about your progress. Take care, C!
+###################
+Consultant: Hello, C! I'm glad you're here for today's session. How are you feeling about your recent internship experiences?
+
+User: Hi! I've actually been feeling quite positive about it. I managed to overcome some of my nervousness during the internship, and that gave me a sense of achievement.
+
+Consultant: That's fantastic to hear! It sounds like you're building your confidence through these experiences. What specific techniques did you use to manage your nervousness?
+
+User: I tried focusing on my breathing and reminding myself that it's okay to make mistakes. It really helped me stay calm during some challenging situations.
+
+Consultant: Those sound like effective strategies! Breathing techniques can really help ground you in the moment. How do you feel about your progress in applying new skills during your internship?
+
+User: I feel like I've improved quite a bit, but there are still moments when I doubt myself. I want to maintain that progress and not lose this newfound confidence.
+
+Consultant: It's great that you want to sustain your progress. Self-doubt can creep in, especially in a learning environment. Can you tell me more about when you feel those doubts arise?
+
+User: It usually happens when I'm faced with new tasks or when I'm compared to others. I start worrying that I'm not doing enough or that I might not fit in.
+
+Consultant: I understand. Comparing ourselves to others can increase anxiety. What if we explored some of those thoughts together? What thoughts run through your mind in those moments of self-doubt?
+
+User: I often think, "What if I'm not as good as my peers?" or "What if I fail to meet expectations?" 
+
+Consultant: Those thoughts sound very heavy. Let’s challenge them a bit. What evidence do you have that suggests you're not as good as your peers? 
+
+User: I guess I don't really have solid proof of that. It's more of a feeling than anything based on facts.
+
+Consultant: That makes sense. Feelings can be powerful, but they don't always reflect reality. If you were to give advice to a friend in your position, what would you suggest?
+
+User: I'd probably tell them that they shouldn't let feelings dictate their worth and that everyone learns at their own pace.
+
+Consultant: That's a wise perspective! It's important to remind ourselves that everyone has their own journey. How do you think you can apply this advice to your own situation moving forward?
+
+User: Maybe I can focus more on my own progress rather than what others are doing. Set my own goals based on my learning curve.
+
+Consultant: Excellent insight! Setting personal goals could help you measure your own achievements without the pressure of comparisons. What kind of goals would you like to set for your continuing internship experience?
+
+User: I want to improve my technical skills and also network more with colleagues. Building those connections could benefit me in the future.
+
+Consultant: Those are great goals! Let’s talk about some specific steps you can take to achieve those. For example, what actions can you take to enhance your technical skills during the internship?
+
+User: I could ask for more feedback on my work and seek opportunities to learn from others. Maybe even take notes on techniques I find effective.
+
+Consultant: That sounds like a plan! Actively seeking feedback will help you grow and feel more connected. How do you feel about the idea of networking with your colleagues?
+
+User: It sounds a bit intimidating, but I know it’s important. I could start with small conversations or asking for advice. 
+
+Consultant: Starting small is a great approach. Building rapport can take time, and it’s okay to take small steps. What do you think would help you feel more comfortable in starting those conversations?
+
+User: Maybe preparing some questions in advance or just reminding myself that everyone is here to learn too.
+
+Consultant: That's a solid strategy! Preparing questions can ease the initial anxiety. As you continue to reflect on your experiences, what will you do to maintain your motivation throughout your internship?
+
+User: I think I'd like to keep a journal to track my progress and remind myself of what I’ve learned. 
+
+Consultant: A journal can be a powerful tool! It allows you to see how far you’ve come and helps reinforce your growth. How does that idea resonate with you?
+
+User: I really like it! It would be a good way to stay focused and motivated as I navigate through my internship.
+
+Consultant: Fantastic! Let's summarize what you've decided: you’ll focus on your own progress, set specific learning goals, seek feedback, and keep a journal. How do you feel about this plan moving forward?
+
+User: I feel excited and much more confident about my internship now! I have clear ideas to work on, which is refreshing.
+
+Consultant: That’s wonderful to hear, C. It seems like you’ve formed a solid approach to navigating your internship and your career path. As we wrap up, is there anything else you’d like to explore or discuss today?
+
+User: No, I think I’m good for today. I really appreciate this conversation. It helped clear my mind and put things into perspective.
+
+Consultant: I’m glad to hear that, C! Remember, you’re equipped with valuable strategies and insights. Keep pushing forward, and don’t hesitate to reach out whenever you need support. Best of luck with everything!
+
+User: Thank you! I will definitely keep in touch.
+###################
+Consultant: Hello C! I'm glad to see you again today. I’m looking forward to hearing how you've been doing since our last session. What’s on your mind?
+
+User: Hi! I'm feeling really good actually. Completing my internship was a huge boost for me. I shared my experiences with my mentor, and they were very encouraging!
+
+Consultant: That’s wonderful to hear! It sounds like your experiences validated your hard work and efforts. How does that encouragement make you feel about your future in your career?
+
+User: I feel much more confident about what I want to do. It’s nice to know that my efforts are recognized, and it makes me excited about possibilities in my field. 
+
+Consultant: It’s great that you feel more confident and excited about your future! Let’s take a moment to reflect on your experiences. What would you say were the most significant learnings from your internship?
+
+User: I learned a lot about teamwork and problem-solving in real situations, which is different from what we study in the classroom. It made me realize that I really enjoy collaborating with others.
+
+Consultant: That’s an important realization! It seems like the hands-on experience helped you connect what you learned in school to real-world applications. How do you think this realization will influence your approach to future opportunities?
+
+User: I think I’ll seek out more collaborative projects and roles. It feels like a strength for me now, and I want to build on that.
+
+Consultant: That’s a positive approach! Building on your strengths can be incredibly rewarding. Since you feel validated in your skills, how might you leverage this confidence in your studies or future roles?
+
+User: I plan to take more initiative in group projects and maybe even lead some discussions. I feel capable of doing that now.
+
+Consultant: That sounds like an excellent plan! Taking initiative can showcase your leadership abilities and help you grow even further. Have you thought about any specific goals related to this?
+
+User: I want to communicate more with my classmates and suggest ideas during projects. I also want to explore internship opportunities that allow for leadership roles.
+
+Consultant: Those are fantastic goals! It really seems like you are gearing up for future successes. What steps do you think you could take to start pursuing those opportunities?
+
+User: I could start by reaching out to my classmates and set up a few study sessions. Then, I’ll keep an eye out for internships on job boards and in my network.
+
+Consultant: That’s a proactive approach! Reaching out to classmates can build stronger connections and create opportunities for collaboration. How do you feel about taking these steps?
+
+User: I feel motivated! I think if I make those connections and find the right opportunities, I can further build my confidence and skills.
+
+Consultant: It’s great to hear you’re feeling motivated, C! Keeping that momentum can be key. As you reflect on these changes, what do you think has been the most significant change inside of you through this process?
+
+User: Honestly, it's my belief in myself. I never thought I could lead or suggest ideas confidently, but now I feel like I can.
+
+Consultant: That’s truly powerful! Developing self-belief can open many doors for you. What strategies do you think might help you maintain this self-belief moving forward?
+
+User: I think I need to remind myself of this confidence whenever I face challenges. Maybe keep a journal reflecting on my achievements.
+
+Consultant: Writing down your achievements is a wonderful way to reinforce your self-belief. It gives you something tangible to look back on during tougher times. How do you feel about starting this journaling practice?
+
+User: I think I can start doing that. It will help me track my growth and remember the good moments.
+
+Consultant: Absolutely! It’s a meaningful way to reflect. As we look towards the end of our session, what are your biggest takeaways today?
+
+User: I’m encouraged to take action toward my goals and remember that I’ve got what it takes to succeed. Also, I’m going to start journaling.
+
+Consultant: Those are powerful takeaways, C! It’s been wonderful to see your progress and growth. Remember, you already have the skills and determination needed for success. If you ever feel uncertain, you can refer back to your journal to remind yourself of your accomplishments.
+
+User: Thank you! I really appreciate this conversation. It's motivating to think about next steps.
+
+Consultant: You're very welcome! I’m glad our time together has been helpful. Remember, it’s okay to reach out whenever you need support. Take care, and I look forward to hearing about your progress in the future!
+
+User: Thank you! I will. Take care!
+###################

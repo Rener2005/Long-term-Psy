@@ -1,0 +1,384 @@
+Consultant: Hello Z! I'm glad you're here for our session today. I want to check in with you about how you're feeling recently. What has been on your mind?
+
+User: Hi. I've really missed my parents since they left for work. I feel lonely all the time and it's hard to focus on school. Sometimes I cry because I think they don’t like me.
+
+Consultant: I can see how much you're struggling with these feelings of loneliness and your thoughts about your parents. It’s understandable to feel this way when you miss them so much. Can you tell me more about what makes you feel they might not like you?
+
+User: I just feel like if they really cared, they wouldn’t leave me here with my grandparents. It makes me think they don't want to be around me.
+
+Consultant: It sounds like you're interpreting their absence as a sign that they don't love you. What if we explore that idea a bit? Is there any evidence that could support or challenge that belief?
+
+User: I don’t know... Maybe they have to work for us, but it still hurts. I can’t help but think if they wanted to, they could come back more often.
+
+Consultant: It’s really painful to feel abandoned, Z. But let's consider how their work may be about providing for you, rather than not wanting to be with you. How do you think your parents would feel about being away from you?
+
+User: I think they must feel sad too. But I still wish they were here. It’s hard to talk to my friends about it since they don’t understand.
+
+Consultant: I get that, Z. Sharing your feelings can sometimes be tough, especially when it feels like others don’t relate. How do you think your friends might react if you told them how much you miss your parents?
+
+User: I think they would just say, "It’s fine, they’ll come back" or "Just play with us." They don’t really get it.
+
+Consultant: That sounds frustrating. It seems like you're longing for someone to understand your feelings. What if you tried explaining your situation to them? It might help them understand better.
+
+User: I guess I could try, but I feel scared they won’t get it anyway.
+
+Consultant: It's completely normal to feel scared about opening up. But sharing your feelings might allow your friends to support you more. What do you think could happen if you shared a little bit about your loneliness with them?
+
+User: Maybe they would be nicer to me. I just don’t want to look weak.
+
+Consultant: Feeling vulnerable can seem challenging, Z. But allowing yourself to be open can actually strengthen your relationships. How can we work together to help you feel more comfortable talking to them?
+
+User: I don't know…maybe I could think of some simple things to say?
+
+Consultant: That sounds like a great idea! We could come up with some phrases that express how you feel without feeling too exposed. What key feelings do you want to share with your friends?
+
+User: I want them to know that I miss my parents and it makes school harder for me.
+
+Consultant: That’s a powerful start. You could say something like, “I miss my parents, and it makes it hard for me to focus on school.” This way, you’re sharing your feelings but also keeping it simple. How does that sound?
+
+User: That sounds okay. I think I could say that.
+
+Consultant: I’m glad you feel that way! Remember, expressing yourself is a strength, not a weakness. And how do you think your friends might respond to that?
+
+User: They might be understanding… or at least they would know why I’m feeling like this.
+
+Consultant: Yes! It’s a step toward building connection and understanding. Now, let’s talk about how you can handle your feelings of loneliness more effectively. What activities make you feel good or distract you from these thoughts?
+
+User: I like drawing and playing video games. But when I start feeling lonely, I just want to shut everything out.
+
+Consultant: It’s okay to withdraw sometimes when you’re feeling down. But what if we set a small goal to combine your interests, like drawing your feelings or drawing with a friend? How would that feel for you?
+
+User: That sounds kind of nice. I usually just draw by myself.
+
+Consultant: Trying to share that with someone else may help you feel more connected. It could even be a good way to invite a friend to join you. What do you think about that idea?
+
+User: I think I could try asking a friend if they want to draw with me after school.
+
+Consultant: That’s a wonderful idea, Z! Building connections takes time and courage, and you're already taking steps in the right direction. Do you feel more hopeful about connecting with others now?
+
+User: Yes, I do. It feels good to think my friends might understand me better.
+
+Consultant: That’s great to hear! As we wrap up today, let’s reflect on what you've learned. You’ve recognized your feelings and how to communicate them, which is a big step. What do you take away from our conversation today?
+
+User: I learned that it’s okay to talk about my feelings, and that people might understand if I share.
+
+Consultant: Exactly, Z. You’ve gained tools to express yourself and build understanding with your friends. Remember, it’s okay to feel lonely, but you have people around you who care. Is there anything else you’d like to discuss before we finish?
+
+User: No, I think I'm good. Thanks for helping me figure this out.
+
+Consultant: You're very welcome! I'm proud of the progress you've made today. Remember to keep practicing these ideas, and we'll talk again soon. Take care!
+###################
+Consultant: Hello Z! I'm glad to see you today. I know you've been dealing with some feelings that might be confusing lately. Would you like to share what's been on your mind?
+
+User: Hi. I don't know, it seems like my teacher has been paying a lot more attention to me lately. It's really confusing. I wonder if my classmates are seeing me differently now.
+
+Consultant: That sounds like a lot to process. It's understandable to feel a bit unsure about how others are perceiving you when changes happen. Can you tell me more about what feelings come up for you regarding your teacher's attention?
+
+User: It makes me feel like I'm being singled out. I’m not sure if that's a good or bad thing. Sometimes I feel anxious, thinking maybe I'm not doing things right.
+
+Consultant: I hear you. It sounds like you're feeling both worried and uncertain about being in the spotlight. What kind of thoughts do you have when you feel like your teacher is focusing on you more than before?
+
+User: I guess I start thinking that maybe everyone thinks I'm not smart enough, or maybe they're just waiting for me to mess up.
+
+Consultant: Those thoughts sound very heavy, Z. It seems like you are interpreting their attention as a negative thing. Can we explore where those thoughts come from? Were there any past experiences where attention felt overwhelming for you?
+
+User: Yes, I remember in the past when I had to do presentations, I would feel really nervous because I was afraid people would judge me. 
+
+Consultant: It makes sense that those past experiences would shape your current feelings. Can we take a moment to challenge those thoughts? What evidence do you have that your classmates think you're not smart enough?
+
+User: I don’t know, I guess it's just a feeling. 
+
+Consultant: It's okay to feel that way, but feelings aren't always facts. Let’s think of it this way: if a friend of yours was feeling the same way, what would you say to them about their thoughts?
+
+User: I would tell them that maybe people don’t think like that and to just do their best.
+
+Consultant: That's a supportive perspective! You’re right—your classmates might be more understanding than your thoughts suggest. How do you feel about considering that their attention might mean they see something positive in you?
+
+User: I suppose that could be true. Maybe my teacher is just trying to help me succeed.
+
+Consultant: Exactly, Z! It sounds like you’re beginning to see a new perspective. Would you be willing to try and observe your classmates and teacher this week with a more open mind?
+
+User: I can try that. But what if I still feel anxious?
+
+Consultant: That’s a great question. It's normal to feel anxious sometimes. We could brainstorm some strategies to manage those feelings when they come up. What do you think might help you feel calmer in those moments?
+
+User: Maybe taking deep breaths or reminding myself that it’s okay to make mistakes?
+
+Consultant: Those are excellent strategies! Deep breathing can really help center you. You could even create a little reminder for yourself about being okay with mistakes. How does that sound?
+
+User: That sounds good. I think I could make a note to help me remember.
+
+Consultant: Wonderful! Having a visual reminder can support your efforts. As you practice these strategies, let’s also check in about how your interactions feel. Are there specific situations with your classmates that you’re hoping to address next time?
+
+User: I want to be able to talk to them, but sometimes it feels really hard. 
+
+Consultant: Engaging with peers can certainly feel daunting, especially when you’re feeling unsure. What about trying to say “hi” or ask a simple question to one of them? This could help break the ice.
+
+User: I can try. Maybe starting with just one person would be easier.
+
+Consultant: That’s a great plan. Starting small can make it feel much more manageable. Remember, building connections takes time. How are you feeling about everything we’ve discussed today?
+
+User: I feel a bit better. Talking about it helps, and I like the idea of trying small steps.
+
+Consultant: I’m really glad to hear that! It’s a big step to discuss these feelings. As we move forward, continue to monitor your thoughts and give those strategies a go. What is one thing you can commit to trying before our next session?
+
+User: I will try to say “hi” to one classmate this week.
+
+Consultant: That sounds like a fantastic commitment! I’m looking forward to hearing about how it goes. Keep in mind that it’s all part of the process, and whatever happens, it’s okay. I’m here to support you. We’ll talk again soon, Z.
+###################
+Consultant: Hello Z! I'm glad you could make it to our session today. How have you been feeling since we last talked?
+
+User: Hi. I don’t know, I guess I’m still feeling kind of sad. There’s still that thing with my classmates bothering me. I feel like they don’t really want me around.
+
+Consultant: It sounds like you're still feeling a bit down about your classmates and their behavior towards you. Can you tell me more about what happened and how it made you feel?
+
+User: Well, we were playing a game, and I wanted to join in, but they just ignored me. It felt like they were having fun without me, and it made me feel left out. I just wanted to cry again.
+
+Consultant: I can imagine that would be really hurtful, feeling excluded like that. Sometimes when things like this happen, it can lead to doubts about trusting others. How have you been coping with those feelings since then?
+
+User: I’ve mostly just kept to myself. I don't want to deal with my classmates if they are going to ignore me. But I still really want to have friends.
+
+Consultant: It’s understandable to want to withdraw when you feel hurt, but it’s great that you still hope to have friends. What do you think it would feel like to make a connection with someone new or to heal your relationships with your classmates?
+
+User: I think it would feel nice. I just don’t know how to start talking to them again. I worry they’ll just brush me off again.
+
+Consultant: Opening up that line of communication can be scary, especially if you’re worried about rejection. But let’s try to think about strategies that could help you approach them more confidently. What have you noticed about how your classmates interact with each other?
+
+User: They seem to joke around a lot. I always feel like I can’t join in because I don’t know what to say, and I’m afraid they’ll laugh at me if I mess up.
+
+Consultant: It’s understandable to be hesitant, especially if you fear being laughed at. What if we think of something you could say or do that feels comfortable? Maybe a light comment or a shared interest that could help you join in on the fun?
+
+User: I like video games. Maybe I could talk about that. 
+
+Consultant: That sounds like a great idea! Talking about something you enjoy can help build a connection. What kind of games do you play that you think others might also like?
+
+User: I play a lot of Minecraft. It seems like some of my classmates play it too.
+
+Consultant: Minecraft is very popular! You could start by asking them if they play it or even mention something exciting you built in the game. How do you feel about trying this next time you see them?
+
+User: I feel a bit nervous, but it also sounds kind of exciting. 
+
+Consultant: That’s a good sign! Feeling nervous is normal when trying something new, but excitement is a great motivator. Remember, if the conversation doesn’t go perfectly, it's okay. You can always learn from it. What other strategies do you think might help if the conversation feels tough?
+
+User: Maybe I could give myself a little pep talk first. 
+
+Consultant: That’s an excellent idea! Giving yourself a pep talk can boost your confidence. What kinds of things would you say to encourage yourself?
+
+User: I could remind myself that it’s okay to make mistakes and that I want to make friends.
+
+Consultant: Absolutely, reminding yourself of those positive affirmations can be really powerful. Now, let’s think about how to handle situations if you encounter negativity again. How would you prefer to respond if someone ignores you?
+
+User: I think I’d try not to take it personally. I could just find someone else to talk to.
+
+Consultant: That’s a wise approach! Focusing on the positive connections you can create is key. It sounds like you’re starting to build a healthier mindset around these interactions. Have you thought about how else you could enhance your social skills?
+
+User: I think practicing talking to different people might help. 
+
+Consultant: That's a wonderful plan! Practicing with different people will definitely build your confidence. Perhaps you could start small by chatting with someone in your class or a neighbor. How does that sound to you?
+
+User: Yeah, I think I could try that, maybe just to say hello. 
+
+Consultant: That’s a perfect starting point! It can be as simple as saying hi and smiling. Small steps can lead to bigger changes. What goals would you like to set for yourself in social situations going forward?
+
+User: I want to try talking to at least one new person every week. 
+
+Consultant: That sounds like a fantastic goal, Z! It’s small enough to feel manageable but still helps you push outside your comfort zone. As we wrap up today, how do you feel about the progress we've made in our sessions?
+
+User: I feel more hopeful now. I think I can really try to make new friends.
+
+Consultant: I love to hear that! You’ve shown great resilience in wanting to improve your connections. Remember, it’s okay to ask for help if you need it. We can continue to work on this together whenever you need. 
+
+User: Thank you! I appreciate all your help. 
+
+Consultant: You’re very welcome! I'm proud of the progress you've made. Keep practicing those strategies, and I look forward to hearing about your experiences next time. Take care!
+###################
+Consultant: Hello, Z! It's great to see you today. How are you feeling about the recent community activities you've participated in?
+
+User: Hi! I feel really happy about it. I actually received positive feedback from others, which made me feel good. But I'm still a bit nervous when meeting new people.
+
+Consultant: That's wonderful to hear that you received positive feedback! It sounds like you are starting to feel more comfortable with social situations. Can you tell me more about what specifically makes you feel nervous when you meet new people?
+
+User: I guess I worry that they won't like me or that I won't know what to say. It's just easier to stay quiet sometimes.
+
+Consultant: It makes sense to feel that way. Many people worry about being liked or not knowing what to say. Can you think of a time recently when you felt a bit more open or engaged with someone? What helped you feel that way?
+
+User: During the last community event, I helped out and spoke with some kids. They seemed to like what I was doing, and I felt good about it.
+
+Consultant: That's a great example, Z! It sounds like being involved in helping others allowed you to connect in a positive way. What do you think you did during that event that helped you feel more comfortable?
+
+User: I think it was because I was focusing on helping instead of worrying about myself. It felt nice to work with others towards something.
+
+Consultant: That's a valuable insight! Focusing on contributing to a group can really help ease personal worries. Let's explore how you can use that feeling of collaboration in future activities. What are some ways you can be involved in group situations?
+
+User: Maybe I could volunteer in more activities or even start small conversations with people while helping out.
+
+Consultant: Those are excellent ideas! Volunteering and starting small conversations can build your confidence. What kind of small conversations do you think you could try with others?
+
+User: I could ask people how they are doing or talk about the activity we're doing together.
+
+Consultant: Those are great starting points, Z! Asking about someone’s day or discussing the activity can be easy ways to engage. How do you feel about trying this approach at your next event?
+
+User: I feel a bit nervous but also excited to try. I really want to connect with others.
+
+Consultant: It's completely normal to feel nervous, especially when trying something new. Remember, focusing on the activity can help reduce that anxiety. What strategies can you use if you start feeling too anxious before or during the conversation?
+
+User: Maybe I could take a deep breath and remind myself that it's okay to not be perfect.
+
+Consultant: That’s a fantastic strategy! Taking a moment to breathe and reminding yourself that it's perfectly fine to be yourself can help a lot. Have you thought about setting small, achievable goals for your next community activity?
+
+User: I haven't really thought about that. What do you mean by goals?
+
+Consultant: Setting small goals can give you a clear focus. For instance, you could aim to start one conversation or to volunteer for a specific task. What small goal would feel good for you at the next event?
+
+User: I think I’d like to try starting at least one conversation with someone new.
+
+Consultant: That sounds like a wonderful goal, Z! It's achievable and can help you build your social skills. How do you think you’ll feel if you manage to achieve that goal?
+
+User: I think I would feel really proud of myself. It would be nice to have made a connection.
+
+Consultant: Absolutely! Feeling proud of your efforts is a great motivation. Let's also think about how to build on that feeling afterward. What can you do to celebrate your success, no matter how small it may seem?
+
+User: Maybe I could tell my parents about it or write in my journal to remember how it went.
+
+Consultant: Those are both powerful ways to acknowledge and celebrate your achievements! Reflecting on your experiences can reinforce those positive feelings. How do you think you can maintain this positive perspective on social interactions moving forward?
+
+User: I guess I can remind myself of the good feelings I have from helping and connecting with others. I want to keep that up.
+
+Consultant: That’s a great mindset, Z! Holding onto those positive moments can really help build your confidence. As we wrap up today, what do you think is the most important takeaway from our discussion?
+
+User: I think it’s about being open to trying, focusing on helping, and remembering it's okay to be myself while talking to others.
+
+Consultant: That’s an excellent realization, Z! Embracing those thoughts will help you in your interactions. I'm looking forward to hearing about your next experience. Remember, it's all about progress. You're doing a great job!
+
+User: Thank you! I feel more hopeful about talking to others now.
+
+Consultant: You're very welcome! I'm glad to hear that. Keep practicing, and remember you can always discuss your experiences with me whenever you need support. Take care, Z!
+###################
+Consultant: Hello, Z! I'm really glad to see you today. It sounds like you've been trying some new things lately. Can you tell me more about how you've been feeling, especially after participating in group activities?
+
+User: Hi! Yes, I feel pretty good actually. In the group activity, I had fun working with others. It was nice to experience that teamwork and enjoy the warmth of being part of a group.
+
+Consultant: That's wonderful to hear, Z! It seems like you've found some joy in working with others. What specific moments during the activity made you feel happy or connected with your peers?
+
+User: I liked when we all worked together to solve a problem. Everyone was chatting and laughing, and I felt like I belonged. It was comforting.
+
+Consultant: Feeling a sense of belonging is so important! It's great that you felt comfortable enough to enjoy those moments. Did you notice any changes in how you interacted with your peers during this activity?
+
+User: Yeah, I think I was more open to talking to them. Normally, I don’t talk much to new people, but this time I tried to join in the conversation.
+
+Consultant: That’s a significant step forward, Z! Being open to conversations can help strengthen those connections. How did it feel to interact more with your peers?
+
+User: It felt nice; I wasn't so lonely for a change. But sometimes, I still think about my parents and feel sad when they are not around.
+
+Consultant: It’s completely normal to miss your parents, especially since they’re away for work. You’ve experienced some positive moments with peers, and it's okay to still have mixed feelings. How do you think you can balance those feelings of missing them with your enjoyment of being with your friends?
+
+User: I think I can try to focus on the fun I have with my friends more. Maybe I can tell them how I feel about missing my parents.
+
+Consultant: Expressing your feelings to friends is a great idea, Z. They might feel similarly and it could help you feel even more connected. What other ways do you think you might maintain that sense of enjoyment in your social interactions while also dealing with those emotions?
+
+User: Maybe I can ask my friends to do more activities together. That way, I can keep my mind off things and feel happier.
+
+Consultant: That sounds like a solid plan! Engaging in more activities with your friends can help strengthen those connections and support your emotional well-being. What types of activities do you think would be most enjoyable for you and your friends?
+
+User: I think sports would be fun! I like playing soccer, and maybe we can organize a game together.
+
+Consultant: Soccer sounds like a fantastic choice! It's a great way to bond with others while keeping active. Have you thought about how you might approach your friends with this idea?
+
+User: I could just ask them during school or maybe in our group chat. I think they would like the idea.
+
+Consultant: That’s a great approach, Z! Being proactive about suggesting activities shows leadership and can help deepen your friendships. Do you feel more confident about reaching out to them now?
+
+User: Yes, I feel a bit more confident. It helps to think that they might be excited about it too.
+
+Consultant: Exactly! It's all about sharing those moments together. As you continue to build these friendships, are there any tools or skills you’d like to develop that could help you in social situations?
+
+User: I think I want to get better at starting conversations. Sometimes I just don’t know what to say.
+
+Consultant: Starting conversations can be challenging at times. One helpful tip is to ask open-ended questions. This allows the other person to share more and can keep the conversation flowing. Would you like to practice some questions together?
+
+User: Sure! That sounds helpful.
+
+Consultant: Great! One simple question you can ask is, “What’s your favorite game to play?” This opens up a chance for them to share, and you can build off their response. How do you feel about trying this question with your friends?
+
+User: I think I could do that! It sounds less scary than just jumping in with a lot to say.
+
+Consultant: Exactly! Taking it step by step can make it easier. As you keep practicing this skill, how do you think it will impact your social interactions moving forward?
+
+User: I hope it will help me feel more comfortable talking to my friends. Maybe I won’t feel as shy anymore.
+
+Consultant: That's a fantastic goal, Z! Feeling comfortable in conversations will definitely help you connect with your peers more. As we wrap up today, what do you think you’d like to focus on before our next session?
+
+User: I want to try talking to my friends more and organize that soccer game. I’ll also practice asking questions.
+
+Consultant: Those are excellent goals! Remember to be kind to yourself as you take these steps, and we’ll discuss how it went in our next session. I’m looking forward to hearing all about your experiences! 
+
+User: Thank you! I’m looking forward to it too!
+
+Consultant: You’re welcome, Z! Take care, and see you next time!
+###################
+Consultant: Hello! I'm glad you're back for this session. How have you been feeling since our last talk?
+
+User: Hi! I’ve actually been feeling a bit better. I have started to talk more with my parents about my school life, and it feels nice to share my thoughts with them.
+
+Consultant: That’s wonderful to hear! It sounds like you're making good progress in connecting with your parents. Can you tell me a bit more about how those conversations have been for you?
+
+User: Yeah, we talked about my friends and how I sometimes feel lonely at school. They listened and shared their own experiences, which made me feel understood.
+
+Consultant: It’s great that your parents are sharing their experiences too. That connection can really strengthen your relationship. How do you think these conversations have impacted your feelings at school?
+
+User: I think I feel less alone now. It’s like they understand what I’m going through, and I feel more confident talking to others at school.
+
+Consultant: That’s a fantastic development! Feeling understood can often reduce feelings of loneliness. Have you noticed any changes in how you interact with your classmates since you started feeling more connected with your parents?
+
+User: Yes, I’ve tried talking to a few classmates during lunch. It was hard at first, but I felt more comfortable reaching out to them.
+
+Consultant: That's a significant step! Engaging with classmates can help build those friendships you may be missing. What was it like for you to initiate those conversations?
+
+User: It was a little scary, but once I started talking, it felt easier. I asked them about their favorite games, and they seemed interested.
+
+Consultant: That’s fantastic! You took the initiative to connect over shared interests, which is a great way to foster relationships. How did it feel for you to take that step?
+
+User: It felt good! I was nervous, but talking about something I like made it easier.
+
+Consultant: It's normal to feel nervous when reaching out, but you handled it well! Keeping conversations focused on mutual interests can build more connections. Are there any challenges you still experience when trying to talk to others?
+
+User: Sometimes, I worry about what to say next. I fear they might not want to talk to me.
+
+Consultant: That’s a common fear, but it’s great that you’re aware of it. What could help you handle those moments when you’re unsure of what to say?
+
+User: Maybe I can prepare a couple of questions beforehand or think about some fun topics to discuss?
+
+Consultant: That’s a brilliant idea! Having a few go-to questions can make it easier to keep the conversation flowing. Do you want to brainstorm some topics or questions that might work for you?
+
+User: Sure! I think I could ask about their favorite subjects or what games they are playing.
+
+Consultant: Those are great topics! Both school subjects and games are relatable and can lead to more discussions. How do you feel about trying out these questions the next time you interact with your classmates?
+
+User: I feel excited but a little nervous at the same time. 
+
+Consultant: It’s completely normal to feel both excitement and nerves! Remember, each conversation is a learning opportunity. If it doesn’t go as planned, you can always try again. What motivates you to keep putting yourself out there?
+
+User: I want to have friends and feel like I belong at school. I don’t want to miss out on having fun experiences with others.
+
+Consultant: That’s a wonderful motivation! Wanting to connect with others and enjoy school life is very important. Let’s think about some strategies you can use if things don’t go well. What could you do to reassure yourself?
+
+User: I can remind myself that it’s okay if someone isn’t interested. I can focus on the next person I meet.
+
+Consultant: Exactly! Shifting your focus can help reduce stress and keep you open to new connections. How do you feel about your progress in coping with loneliness and social interactions now?
+
+User: I feel more hopeful. With my parents' support and some strategies, I think I can make more friends.
+
+Consultant: That’s a fantastic outlook! Hope is a powerful emotion, and it seems like you are ready to embrace new experiences. Before we wrap up, what are some next steps you’d like to take after today’s session?
+
+User: I want to try talking to at least one new classmate this week and keep chatting with my parents about my feelings.
+
+Consultant: Those sound like excellent steps! I’m confident you’ll continue to make progress. Remember, I'm here to support you. How are you feeling about today's session overall?
+
+User: I feel good! I think this was helpful in making me feel more confident about reaching out to others.
+
+Consultant: I’m glad to hear that! You’ve made impressive strides in our sessions. If you continue to practice these skills, I believe you will keep growing. Let’s check in again soon to see how everything's going.
+
+User: Thank you! I look forward to it.
+
+Consultant: You’re welcome! Take care, and remember that you are not alone in this journey. We'll talk again soon.
+###################

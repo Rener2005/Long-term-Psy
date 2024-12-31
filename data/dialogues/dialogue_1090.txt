@@ -1,0 +1,404 @@
+Consultant: Hello! I'm glad you're here today. I want to start by understanding how you've been feeling recently. What has been on your mind?
+
+User: Hi. I’ve been feeling really low lately. I’m not working, and it’s hard for me to accept my current situation. It's like I've lost all motivation.
+
+Consultant: I hear you. It sounds like you're really struggling with your current situation and feeling overwhelmed. Can you share what specific thoughts or feelings come up for you when you think about not having a job or being alone?
+
+User: I just feel like a failure. My parents always expected me to do well, and now it feels like I'm disappointing them. I can't help but think they must be embarrassed of me.
+
+Consultant: It sounds incredibly hard to feel that way, especially with the pressure you feel from your family. It's common to internalize those expectations as self-judgment. Let’s explore that further. What are some of the thoughts that run through your mind when you think about disappointing your parents?
+
+User: I keep thinking that I should have done better in my studies and gotten a good job by now. Instead, I’m just drinking and smoking to feel better, and I know it’s not healthy.
+
+Consultant: It's understandable to seek ways to cope when you're feeling low; sometimes we turn to unhealthy habits as a form of escape. When you think about those thoughts of disappointment, how do they make you feel emotionally?
+
+User: I feel anxious and ashamed. I’ve even had thoughts of giving up. It just feels like there’s no way out of this situation.
+
+Consultant: I can sense that this anxiety and shame are quite heavy for you. You mentioned having thoughts of giving up—could you tell me more about what those thoughts are like?
+
+User: Sometimes I think maybe life would be easier if I weren’t here. But I wouldn't actually do anything about it... I just don’t know how to get out of this rut.
+
+Consultant: It’s really important to talk about these feelings, and I appreciate your honesty. Those thoughts can be very isolating. Let’s work on understanding those feelings better. When you feel these thoughts, what specific situations trigger them for you?
+
+User: It usually happens when I see friends moving forward in their careers or when I hear my parents talking about my life choices.
+
+Consultant: It makes sense that seeing others succeed would trigger those feelings of inadequacy. Let’s focus on those moments—how do you typically react emotionally when these triggers occur?
+
+User: I just feel empty and stuck. It’s like I can't move forward or escape that feeling of disappointment in myself.
+
+Consultant: Feeling stuck can be incredibly frustrating. It sounds like you’ve been in a cycle of negative emotions. Would it be helpful to identify some of the key negative thoughts during those moments? 
+
+User: Yes, if I can understand them better, maybe I can change how I feel.
+
+Consultant: That's a great perspective. Can we try to identify one specific thought that stands out to you when you feel that disappointment? Perhaps focusing on one thought at a time will be easier to manage.
+
+User: I often think I'm not good enough—like I’m failing at everything I do.
+
+Consultant: Let’s challenge that thought together. How true do you believe that thought is? Is there evidence that supports it, or perhaps evidence that contradicts it?
+
+User: I guess I have had some successes, like graduating from college, but it feels insignificant compared to what everyone else is doing now.
+
+Consultant: It's understandable to feel that way, but graduating is a significant achievement. How would you feel if a friend shared similar thoughts about themselves? Would you be as harsh in your judgment of them?
+
+User: I wouldn't be. I’d probably tell them they’ve accomplished a lot and that they should be proud.
+
+Consultant: Exactly! It’s easier to empathize with others than with ourselves sometimes. Let's think about how you can apply that same kindness and understanding to your own situation. What might that look like for you?
+
+User: Maybe I should remind myself of my accomplishments and not just focus on what I haven’t done.
+
+Consultant: That sounds like a wonderful strategy. Keeping a list of your achievements might help you see them more clearly. What are some healthy ways you could reinforce those positive thoughts?
+
+User: I could start journaling about my achievements and even things I’m grateful for.
+
+Consultant: That’s an excellent idea! Journaling can be a powerful tool. Would you be willing to set a goal to try this daily or weekly?
+
+User: Yes, I can commit to that. It can’t hurt to try.
+
+Consultant: Great! It’s a step forward. Before we wrap up today, can we also talk about your relationship with your parents? You mentioned feeling misunderstood by them.
+
+User: Yeah, I feel like they don't get what I'm going through at all. I just want their support, but it feels lacking.
+
+Consultant: I understand that must be frustrating. What do you think might help improve that connection with them? 
+
+User: I think if I could express how I feel without them judging me, that would help.
+
+Consultant: That sounds like a healthy approach. Finding the right moment to share your feelings with them might create an opportunity for deeper understanding. Would you feel comfortable discussing your feelings with them?
+
+User: I could try, but I worry they won’t understand.
+
+Consultant: That’s a natural concern, but remember that you’re taking a brave step by being willing to share. Even if they don’t fully understand, expressing your emotions is valuable. Would you like to think about how you might start that conversation?
+
+User: Yes, I think I need to prepare what I want to say first.
+
+Consultant: Preparing ahead of time is a great idea. Let’s review some strategies for expressing your feelings clearly. How do you feel about our session today?
+
+User: I feel a bit better actually. Talking about my feelings helps. I’ll definitely try journaling and thinking of what to say to my parents.
+
+Consultant: I’m glad to hear that! Remember, taking small steps is important. We'll continue to build on these strategies in our future sessions. You're doing important work here.
+###################
+Consultant: Hello, Wang. I'm glad to see you again. Let's talk about how you've been feeling lately, especially regarding your relationship with your parents.
+
+User: Hi. I'm feeling pretty lost. My parents just don’t understand me. I feel like they don’t support me at all, and that makes it hard for me to move forward. 
+
+Consultant: I can sense how frustrating that must be for you. It sounds like you're feeling alone in this situation. Could you share more about what specific instances have been bothering you with your parents?
+
+User: Well, we had an argument last week about my job situation. They keep pushing me to find work, but I don’t even know if I’m ready for that. It makes me feel more inadequate.
+
+Consultant: It’s tough when expectations from loved ones don’t match how we feel about ourselves. How did that argument affect your feelings toward your parents?
+
+User: It just reinforced my feeling that they don’t get me. I feel judged and misunderstood, and I ended up feeling really alienated from them.
+
+Consultant: So you’re experiencing feelings of judgment and isolation in your relationship with them. That can be very painful. Have you had a chance to express how their comments make you feel?
+
+User: Not really. I just shut down during the argument because I felt overwhelmed. I didn’t know how to respond. 
+
+Consultant: Shutting down can be a common reaction when emotions run high. It’s understandable. Let's explore what you wish you could have said to them. What would have made you feel heard?
+
+User: I wish I could have told them that their pressure only makes me feel worse and that I need support instead of just advice.
+
+Consultant: That's a powerful insight. Expressing your need for support could improve your conversations. How do you think your parents might respond if you shared these feelings with them?
+
+User: I don’t know if they would understand. They have their own views about success and hard work. 
+
+Consultant: That uncertainty can be tough. However, sometimes bringing our truth to the table can lead to better understanding. Would you be willing to consider approaching them with your feelings in a calm way next time?
+
+User: I guess I could try, but what if they just dismiss me again? 
+
+Consultant: That concern is valid. It’s unsettling to fear rejection. Let’s think of it this way: What if their response doesn’t define your worth? You can express your feelings regardless of how they respond. 
+
+User: I see what you mean. It’s difficult, though. I just feel stuck in this cycle of feeling inadequate. 
+
+Consultant: Feeling stuck can be frustrating. Let’s work on challenging that feeling of inadequacy together. Can you think of instances where you have succeeded or felt capable?
+
+User: Well, I did get my degree, and I used to do well in school. But that seems so far away now.
+
+Consultant: That’s a significant achievement, and it demonstrates your capabilities. Those successes still matter, even if things feel tough now. How can we use those experiences to help bolster your confidence when dealing with your parents?
+
+User: Maybe I can remind myself that I’ve accomplished things in the past, and that it's okay to not have everything figured out now.
+
+Consultant: Absolutely! That’s a great perspective. Acknowledging your past successes can help you develop resilience. How do you feel about practicing sharing these thoughts with your parents?
+
+User: I feel scared but also a little hopeful. I think expressing my needs might help. 
+
+Consultant: That’s a wonderful step forward, Wang. It’s okay to feel scared; it indicates that you care deeply. Would you like to outline what you could say to them?
+
+User: Sure. I could say something like, “I feel pressured and I need your support, not just advice.” 
+
+Consultant: That’s a great start! It’s clear and expresses your feelings well. How do you think you will feel after you’ve said that?
+
+User: I think it might feel relieving to get it off my chest. Maybe I won’t feel so alone anymore.
+
+Consultant: That’s a promising thought. Let’s also discuss what you might want to do if the conversation doesn’t go as hoped, so you can maintain your confidence regardless of the outcome.
+
+User: I guess I could remind myself of my worth and the things I’ve achieved, like you said.
+
+Consultant: Exactly! Focusing on your strengths can help you stay grounded. As we wrap up today, how do you feel about your progress in this session?
+
+User: I feel like I have a clearer path to approach my parents. It feels good to talk about it.
+
+Consultant: That’s fantastic to hear! Remember, open communication is key. Let’s continue our work in our next session, and you can share how it went. 
+
+User: Yes, I’ll do my best to reach out to them. Thank you!
+
+Consultant: You're welcome, Wang! I'm here for you. Remember to be gentle with yourself. Until next time!
+###################
+Consultant: Hello, Wang! It's great to see you again. I know you've been feeling quite angry and disappointed about your past relationship. How have you been since our last session, especially after hearing from your ex-wife?
+
+User: Hi. I just feel a surge of anger every time I think about her reaching out. It reminds me of how I was left behind. I don't know how to deal with these feelings.
+
+Consultant: It sounds like you're grappling with a lot of intense emotions right now. It's completely understandable to feel that way. Can you share a bit more about what thoughts go through your mind when you think about her contacting you?
+
+User: I just can't help but feel like she discarded me. I wonder why she’s bringing all this up now, like she wants to reopen old wounds. It feels so unfair.
+
+Consultant: I hear you. That sense of unfairness can amplify feelings of anger. Let’s explore those thoughts more. What evidence do you have that supports the idea that she wanted to hurt you by reaching out?
+
+User: I don't have much evidence, really. But I feel like if she truly cared, she wouldn't have left. 
+
+Consultant: It’s understandable to feel that way, Wang. Our emotions often cloud our reasoning. What if we considered an alternative explanation? Perhaps her reaching out could be a way to close unfinished business, rather than to hurt you.
+
+User: I guess that makes sense, but it doesn't change how I feel. I'm just stuck in this loop of anger and hurt.
+
+Consultant: Those feelings are valid. It's important to acknowledge them. What do you think could happen if you allowed yourself to accept these feelings without judgment, rather than resisting them?
+
+User: I think I would feel vulnerable. Accepting them feels like giving in, and I'm afraid that would just make it worse.
+
+Consultant: That makes sense. Accepting emotions doesn’t mean you’re giving up; it means you're acknowledging their existence. What if you could hold space for both acceptance and a desire to move forward? 
+
+User: Maybe that could work. It’s just hard for me to see that perspective right now.
+
+Consultant: It can be challenging, for sure. Would you be willing to try an exercise where you list down the feelings you have about your past relationship? We can then discuss how to sit with those feelings.
+
+User: I can try that. I guess writing them down might help me process them.
+
+Consultant: Great! Let’s take a moment to do that. After you’ve listed them, can you share which one feels the most overwhelming?
+
+User: Okay. I have anger, sadness, and a bit of confusion. The anger is the strongest, though.
+
+Consultant: Thank you for sharing that, Wang. Let's focus on the anger. Can you think of a recent situation where this anger was particularly intense?
+
+User: Last night, I drank too much and started thinking about her again. It spiraled into a lot of dark thoughts.
+
+Consultant: It sounds like alcohol might have amplified those feelings. When you reflect on that experience, what other choices could you make next time to navigate your feelings differently?
+
+User: I could try to reach out to friends instead of drinking. I just feel so alone a lot of the time.
+
+Consultant: That’s a wonderful idea! Connecting with friends can provide support and distraction. How does that make you feel about taking action when those feelings arise?
+
+User: It feels good. I think it would be a healthier way to cope. 
+
+Consultant: That’s a positive perspective! Let’s work on creating a plan for how you can reach out to friends when you start feeling overwhelmed. 
+
+User: Yeah, that sounds helpful. Maybe I could set a reminder on my phone or something when I sense those feelings coming.
+
+Consultant: That’s an excellent strategy! Setting reminders can help prompt you to take that step. As we start to transition towards the next week, what will you focus on regarding your feelings and reaching out?
+
+User: I’ll focus on writing down my feelings and reaching out when I feel that anger creeping back.
+
+Consultant: That sounds like a solid plan, Wang. Reflecting on your emotions and engaging with friends can help you feel less isolated. How are you feeling about this plan?
+
+User: I feel a bit hopeful, honestly. I just need to take things one step at a time.
+
+Consultant: That’s a healthy mindset to have. Remember, it’s alright to take things slowly. Each step counts. Let’s check in on this in our next session. 
+
+User: Thanks, I appreciate your support. It feels good to have a direction now.
+
+Consultant: I’m glad to hear that! You’ve made some meaningful progress today. Do remember, it’s normal to feel ups and downs along the way, but you’re not alone in this journey. 
+
+User: Thank you! I look forward to our next session.
+
+Consultant: Take care, Wang. I'm looking forward to our next conversation where we can build on what we discussed today!
+###################
+Consultant: Hello, it's great to see you today. Before we delve into our session, I want to check in on how you've been feeling lately, especially considering your thoughts about returning to work.
+
+User: Hi, I've been feeling really anxious about my job search. Just the thought of going back into the workforce makes me doubt myself. I worry that I might not be capable enough.
+
+Consultant: I hear you. It sounds like there’s a lot of uncertainty surrounding your ability to find satisfying work. Can you share what aspects of returning to work are causing you the most anxiety?
+
+User: I feel like I’ve been out of the job market for too long, and I don’t know if I still have the skills needed. Plus, I haven't worked since my wife left, so I’ve lost some confidence.
+
+Consultant: That makes sense, and it's completely normal to feel this way after being away from work for a while. What do you think would help you feel more confident about your skills or abilities as you consider returning?
+
+User: Maybe if I could remind myself of what I used to be good at or even take a refresher course to update my skills could help.
+
+Consultant: That's a proactive approach! It's important to recognize what you've achieved before and how you can build on those skills. Can you tell me more about some of your strengths or past accomplishments that you feel proud of?
+
+User: Well, I graduated with good grades, and I did have some internships that I was proud of. I think I was a good team player and was able to communicate well with others.
+
+Consultant: Those are fantastic strengths to draw upon! Recognizing that you have a solid educational background and interpersonal skills is a great foundation. How do you feel about reaching out to former colleagues or friends in your field for support or advice?
+
+User: I haven't really thought about that. I guess I’m worried they might judge me for not having a job.
+
+Consultant: It's understandable to have those worries. However, reaching out can often surprise us—many people are willing to help and might even admire your initiative to connect. What if you approached it from a perspective of wanting to learn from them?
+
+User: That could be less intimidating, I suppose. I guess it’s easier to talk to them about networking rather than asking for a job outright.
+
+Consultant: Exactly! Networking can really help rebuild your confidence. What do you think might be your next step in making those connections?
+
+User: Maybe I could send a few messages on LinkedIn or even ask to meet up with some contacts for coffee. It doesn't have to be formal.
+
+Consultant: That sounds like a great idea! Setting a low-pressure environment for those conversations can really ease the stress. How do you feel about following through with that plan?
+
+User: I think I could do that. It feels less scary than I imagined. 
+
+Consultant: That’s fantastic to hear! And after reaching out, how do you envision handling any feelings of anxiety that may arise?
+
+User: I might try some breathing exercises or remind myself of the positive outcomes that could come from these conversations.
+
+Consultant: Those strategies sound very effective! It's also helpful to have a reminder of your strengths handy—maybe even write them down. Would it help to practice a positive affirmation before these meetings?
+
+User: Yes, that could reinforce my confidence. Something like, "I bring valuable skills and insights"?
+
+Consultant: Absolutely! That affirmation is powerful. It's a great way to remind yourself of your worth. Speaking of insights, how do you feel about the journey of finding a job beyond just the technical qualifications? 
+
+User: I guess I’ve been too focused on my fears. I should probably consider what I really want to do and where I might fit in.
+
+Consultant: That's an insightful shift! Understanding what you want can guide you in exploring job opportunities that match your values and interests. What are some areas you’re interested in pursuing or exploring further?
+
+User: I used to enjoy marketing and communication a lot. I think I might want to go back to that.
+
+Consultant: Excellent! That’s a field where your strengths in communication can really shine. Have you looked into any current marketing opportunities that might align with your interests?
+
+User: Not yet. I was too caught up in my worries. I’ll try to look online this week.
+
+Consultant: That sounds like a wonderful plan! It’s about taking those first steps. Remember to be kind to yourself throughout this process. Each small action leads to progress. How do you feel about our session today?
+
+User: I feel a bit lighter and more optimistic. Talking through my thoughts helps clarify things a lot.
+
+Consultant: I'm so glad to hear that! You’ve made some meaningful progress today. Before we end, let’s recap your next steps and how to maintain the momentum we’ve built.
+
+User: I’ll reach out to my contacts, look for marketing jobs, and remember my strengths and affirmations.
+
+Consultant: Perfect! That sounds like a solid plan. Remember, it’s okay to experience some anxiety, but you are capable of navigating it. I believe in your ability to find a fulfilling job and connect with others. I’m here for you whenever you need support. 
+
+User: Thank you so much! I appreciate your help today. I feel ready to take these steps.
+
+Consultant: You’re very welcome! Keep embracing that newfound confidence. I look forward to hearing about your progress next time. Take care!
+###################
+Consultant: Hello, Wang! I'm really pleased to see you today. I remember from our last session that you've started engaging more with friends, which is great. How have you been feeling about your social interactions lately?
+
+User: Hi! Yes, I'm starting to enjoy social activities again. But sometimes I still worry about whether I can maintain those relationships in the long run. 
+
+Consultant: It sounds like you're really excited to reconnect but also feeling a bit anxious about sustaining those connections. Can you tell me more about what specifically worries you about maintaining these relationships?
+
+User: I guess I'm afraid that I might not be able to respond appropriately or that I could say something wrong and push them away. 
+
+Consultant: That's a genuine concern. It's understandable to worry about how we come across to others. Let’s explore those feelings a bit more. When you think about interacting in a social setting, what specific thoughts come to mind?
+
+User: I often think, “What if they don't like me?” or “What if I embarrass myself?” Those thoughts really hold me back.
+
+Consultant: Those automatic thoughts can indeed be quite limiting. Let’s try identifying the emotions they evoke. How do those thoughts make you feel when you're about to socialize?
+
+User: They make me feel anxious and a bit helpless, like I want to avoid the situation altogether.
+
+Consultant: That makes sense. It’s tough to feel anxious and want to retreat from social situations. Now, let’s take a moment to challenge those thoughts. What evidence do you have that supports the idea that they wouldn’t like you or that you would embarrass yourself?
+
+User: I don’t have concrete evidence, just past experiences where I felt awkward.
+
+Consultant: It's common to base our fears on previous experiences. However, those moments don’t define who you are today or your potential to connect with others. If a friend were in your shoes, what would you tell them about their worries?
+
+User: I would probably say that everyone has awkward moments and that it's okay to be imperfect.
+
+Consultant: Exactly! It’s perfectly normal to have those moments. So, how might you apply that friendly advice to yourself in future situations?
+
+User: Maybe I could remind myself that it’s okay to be imperfect and focus on just enjoying the time with them instead of worrying.
+
+Consultant: That’s a great strategy! By shifting your focus to enjoyment, you can alleviate some of that pressure. Now, let’s think about setting small social goals for yourself. What kind of interactions would you feel comfortable practicing first?
+
+User: Maybe I could start by reaching out to a couple of friends for a casual meet-up, like for coffee.
+
+Consultant: That sounds like a perfect plan! Setting smaller goals can help build your confidence. How do you feel about making that first step?
+
+User: I feel a bit nervous, but also excited. It feels more doable now.
+
+Consultant: That’s a wonderful combination of feelings! Nervousness is normal, but excitement shows your motivation to connect. How might you prepare yourself for that coffee meeting?
+
+User: I could think of a few topics to chat about beforehand, so I’m not caught off guard.
+
+Consultant: Great idea! Having a few conversation starters can definitely help ease your nerves. What other supports do you think you might need as you take this step?
+
+User: I guess just reminding myself to be patient and gentle with myself if things don’t go perfectly.
+
+Consultant: That’s very wise. Being compassionate to yourself during this process will allow you to learn and grow. Let’s also think about potential challenges. What worries do you have about that initial meeting?
+
+User: I worry that our conversation might fall flat or that there will be silence.
+
+Consultant: It's understandable to feel that way. Silence can happen in conversations, and it’s often not as uncomfortable as we think. How might you respond if there’s a lull in the conversation?
+
+User: Maybe I could ask a question to keep it going or share something interesting that happened to me.
+
+Consultant: That’s a solid approach! Engaging your friends with questions can maintain the flow. Lastly, let’s visualize how that meetup might unfold. Can you imagine arriving, greeting your friend, and how that moment feels?
+
+User: I can picture it now, feeling a little nervous but also looking forward to the conversation.
+
+Consultant: Fantastic! Visualizing those positive interactions can reinforce a sense of capability. Just remember, every step you take to connect is progress. How do you feel about what we’ve discussed today?
+
+User: I feel more empowered and a little less anxious. I think I can really try to reach out to my friends.
+
+Consultant: That's wonderful to hear, Wang! It's great to see you feeling empowered. Remember, every little interaction helps build your confidence. As you go forward, make sure to reflect on your experiences. 
+
+User: Yes, I will! Thank you for your help today.
+
+Consultant: You’re very welcome! I look forward to hearing about your progress in our next session. Remember, you are capable of maintaining these connections. See you next time!
+###################
+Consultant: Hello, Wang! I'm glad you're back for our session today. It sounds like you've been reflecting a lot on your sense of self-worth since your recent volunteer experience. Can you share how you’ve been feeling since then?
+
+User: Hi! Yes, I’ve been feeling much better. Helping others made me realize that I can contribute positively, and it feels good to have a purpose again. But I still feel a little lost about what to do next.
+
+Consultant: It's wonderful to hear that you found joy in helping others and that it has positively impacted your self-worth. Let’s explore that sense of purpose further. What aspects of volunteering resonate with you the most?
+
+User: I think it's the connection with people and seeing the difference I can make in their lives. It’s really fulfilling, but I'm unsure how to turn that into a career or something more long-term.
+
+Consultant: That’s a valuable insight, Wang. Connecting with people and making a difference is a powerful motivator. Have you thought about what kind of roles or fields might allow you to continue doing that?
+
+User: I’ve thought about social work or community services, but I’m not sure if I have the qualifications or the right background for it.
+
+Consultant: It’s great that you’re considering options like social work and community services. You don’t necessarily need formal qualifications to start; your life experiences and willingness to help can be very valuable. What steps do you think you could take to explore these options more?
+
+User: Maybe I could look for some training programs or workshops related to social work. It might help me gain some knowledge and see if this is the right path.
+
+Consultant: That sounds like a proactive plan! Gaining some training would not only enhance your skills but also help you feel more confident in pursuing this field. How do you feel about looking into those options?
+
+User: I feel excited about it! It would be nice to have some direction and to learn more about how I can help others.
+
+Consultant: That’s a positive attitude! It’s important to take steps that align with your values. Besides training, are there other ways you could immerse yourself in this area while exploring it?
+
+User: I could volunteer again or even try to connect with local organizations to see if they have any events I could attend. That way, I could learn more about what they do.
+
+Consultant: Absolutely! Volunteering again or attending local events is a fantastic way to gain more insights. It also allows you to network with individuals who share your interests. How do you feel about taking that step?
+
+User: I feel good about it. I think meeting others who are involved would be inspiring, and it might give me more ideas about potential paths.
+
+Consultant: That sounds like a smart approach, Wang. It’s also a way to reinforce your sense of self-worth through these connections. Is there anything holding you back from taking these actions?
+
+User: I guess a bit of fear about whether I’ll be good enough or if I’ll connect with the right people. I sometimes worry about being judged.
+
+Consultant: It’s completely normal to feel that way, especially when stepping into something new. Remember, many people have similar fears. What can you tell yourself to counter that negative thinking when you start to feel judged?
+
+User: I could remind myself that everyone has to start somewhere and that my intentions are genuine. 
+
+Consultant: That’s a great self-affirmation! Focusing on your intentions can help shift your mindset. How about we come up with a simple plan for you to take these next steps?
+
+User: Sure! I think I could start by searching for training programs this week and then look for local events next week.
+
+Consultant: That’s an excellent timeline! Setting specific actions can help it feel more achievable. Would you like to set some goals for how you’ll follow through with this plan?
+
+User: Yes, I think I’ll set a goal to research at least three training programs and two events by the end of the week.
+
+Consultant: That sounds very achievable, Wang! Setting clear goals helps maintain focus and motivation. How do you feel about sharing your progress with me next time we meet?
+
+User: I think that would be helpful. It keeps me accountable, and I'm excited to share my progress!
+
+Consultant: Perfect! Accountability can really support your growth. As we wrap up today's session, let’s summarize what you’ve learned and your next steps.
+
+User: I learned that I can continue exploring my value through volunteering and that it’s okay to be uncertain about the path. I’ll look into training programs and events for volunteer work.
+
+Consultant: That’s a fantastic realization! Remember, every small step you take reinforces your sense of self-worth. How confident do you feel about this plan now?
+
+User: I feel really confident! Talking about it makes it feel more real and actionable.
+
+Consultant: I’m glad to hear that! You’ve made significant progress. Just remember, you’re not alone in this journey, and you can always reach out for support. Keep focusing on your goals, and I look forward to hearing about your progress next time!
+
+User: Thank you! I appreciate your help and guidance. 
+
+Consultant: You’re very welcome, Wang! I’m proud of the steps you’re taking. Take care, and see you next time!
+###################

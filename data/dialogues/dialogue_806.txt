@@ -1,0 +1,370 @@
+Consultant: Hello, Wu! I’m glad to see you today. I want to start by acknowledging what you’ve been going through. How have you been feeling lately?
+
+User: Hi. I’ve been feeling extremely low lately. I lost an important project at work, and now I’m struggling with anxiety and self-doubt. It feels overwhelming.
+
+Consultant: That sounds really tough. It’s understandable to feel overwhelmed, especially after losing a project that you were responsible for. Can you tell me more about how this situation is affecting your daily life?
+
+User: Well, I've lost my appetite and haven’t been sleeping well. I’m constantly thinking about work and my mistakes. It’s hard to switch off.
+
+Consultant: I can see how that would be draining for you. When we have such intense feelings about our work, it can spill over into other areas of our lives. What specific thoughts tend to go through your mind when you think about the project you lost?
+
+User: I keep thinking that I failed and that it’ll impact my career. I worry that my colleagues will see me differently. It's like I'm a failure.
+
+Consultant: Those thoughts sound really weighty. It’s common to feel as if a single event defines our entire self-worth. Let’s take a closer look at those thoughts. What evidence do you have that supports the idea that you are a failure?
+
+User: I think about how others might view my performance. I feel like I let the team down, and it’s hard to shake off that feeling.
+
+Consultant: It's natural to worry about how others perceive us, especially in a team environment. However, let’s explore whether this view is realistic. Have there been times in the past when you faced challenges yet still saw success afterward?
+
+User: Yes, there have been situations where I felt overwhelmed, but eventually I managed to come through. I guess I achieved positive outcomes before.
+
+Consultant: That’s important to recognize! It shows that you have the ability to overcome difficulties. If a colleague were to lose a project, would you consider them a failure?
+
+User: No, I would see it as part of work life and something that can be learned from.
+
+Consultant: Exactly! It might help to apply the same perspective to yourself. Reflecting on failures as learning experiences can reduce their emotional weight. How does that shift in perspective resonate with you?
+
+User: It sounds comforting, but it’s hard to feel that way about myself right now.
+
+Consultant: I understand. It can be challenging to change our mindset, especially when emotions are running high. Let’s try to develop some coping strategies that can help you manage your feelings during this time. What activities usually make you feel better?
+
+User: I used to enjoy jogging and reading, but lately, I haven’t felt like doing anything.
+
+Consultant: It’s tough when you lose motivation for activities you once enjoyed. Let’s create a small plan to gently reintroduce some of those activities into your routine. How about starting with short walks or a short reading session?
+
+User: That might be manageable. I think a short walk could help clear my mind.
+
+Consultant: That’s a great start! Just remember to be kind to yourself, taking small steps is important. Additionally, when anxiety creeps in, consider techniques like deep breathing or grounding exercises. Would you like to explore some of these techniques together?
+
+User: Yes, that would be good. I’ve heard about deep breathing but haven’t tried it much.
+
+Consultant: Deep breathing can be very effective! Let’s practice together. You can try inhaling deeply through your nose for a count of four, holding it for four, and then exhaling slowly through your mouth for a count of six. Shall we give it a try?
+
+User: Sure, I’ll try that now.
+
+Consultant: Great! Focus on the rhythm of your breath and let any negative thoughts float away. How do you feel after doing that exercise?
+
+User: I feel a bit more relaxed. It’s nice to take a moment to breathe.
+
+Consultant: I’m glad to hear that! Breathing exercises can serve as a quick tool to manage anxiety when it strikes. Remember, it’s about practice and finding what works for you. As we wrap up today, what strategies do you feel would help you moving forward?
+
+User: I think setting small goals and practicing deep breathing will be helpful. I also want to try to reframe my thoughts about failure.
+
+Consultant: That sounds like a solid plan! Remember, it’s a journey, and you’ll have ups and downs. Let’s check in on your progress next time. If you ever feel overwhelmed, don’t hesitate to use the skills we talked about today. You’re doing well, Wu.
+
+User: Thank you! This session has helped me feel a bit less burdened.
+
+Consultant: I am glad to hear that. It’s all about taking one step at a time. I look forward to our next session. Remember that you’re not alone in this—I'm here to support you. Take care!
+###################
+Consultant: Hello, Wu! I'm glad you're here for our session today. I understand that you've been feeling quite low lately. Can you share a bit more about what you've been experiencing?
+
+User: Hi! Yes, I've been feeling really overwhelmed at work. There have been changes in work assignments, and I feel like my responsibilities have increased significantly. It's like I'm constantly questioning my abilities.
+
+Consultant: It's understandable to feel overwhelmed when your responsibilities increase unexpectedly. It sounds like you're feeling a lot of pressure to perform. Can you tell me more about how this has been impacting your day-to-day life?
+
+User: Well, I've been looking at emails and thinking about work even after hours, and at night, I struggle to sleep. I just keep going over every little detail in my mind, worrying about whether I'm doing enough.
+
+Consultant: That sounds exhausting. You're experiencing a lot of racing thoughts that make it difficult to relax. What kind of thoughts come up when you worry about your work performance?
+
+User: I keep thinking I'm not good enough, and that my colleagues will see I'm not capable of handling my job. I'm afraid I’ll fail.
+
+Consultant: Those thoughts sound quite negative and heavy. Let's try to identify how those thoughts make you feel. When you think, "I'm not good enough," what sort of emotions does that bring up for you?
+
+User: I feel anxious and helpless. It’s as if I'm paralyzed and can't make any decisions. I just want to hide.
+
+Consultant: It's tough to feel that way. It seems like those thoughts are creating a cycle of anxiety and avoidance for you. Have you noticed any specific moments when these feelings intensify?
+
+User: Yes, during team meetings when I have to speak up or share my ideas. I feel like everyone is judging me, and it just makes the anxiety worse.
+
+Consultant: I see. It sounds like those moments trigger a lot of pressure for you. Let’s explore those feelings more closely. Can you recall a specific meeting where you felt particularly judged?
+
+User: I remember last week, I presented a project, and I stumbled over my words. I felt like everyone was looking at me like I had failed.
+
+Consultant: That sounds really challenging. It seems like that incident amplified your self-doubt. Can we examine that moment? What evidence do you have that your colleagues were judging you as severely as you felt?
+
+User: I guess I don't really have solid evidence, but it felt so real at the moment. 
+
+Consultant: It’s common for our minds to create stories in the moment. If a friend were in your position, how might you help them view that situation differently?
+
+User: I'd probably tell them it’s okay to stumble and that everyone makes mistakes. I would encourage them to focus on what they did well.
+
+Consultant: That's a compassionate perspective! It seems you can provide kindness to others, but not as easily to yourself. What would happen if you tried to apply that same kindness to your own experience?
+
+User: I suppose if I looked at it that way, I wouldn't be so hard on myself. But I struggle to see it when I'm in the moment.
+
+Consultant: That’s understandable—it takes practice. One approach could be to keep a journal where you note instances where you felt you performed well, as well as any constructive feedback you received. How does that sound to you?
+
+User: That might help! It would be good to have reminders of my successes.
+
+Consultant: Great! It can serve as a tool to shift your focus on the positive. You also mentioned feeling anxious in meetings. Would you be open to exploring some techniques that might help you manage that anxiety in those situations?
+
+User: Sure! I’d love to hear those techniques.
+
+Consultant: One technique is preparation. Practicing what you want to say can boost your confidence. You could also try some deep breathing exercises right before the meeting to calm your mind. Would you be willing to try that?
+
+User: Yeah, I could definitely try that. Breathing exercises sound calming.
+
+Consultant: Wonderful! Let’s plan on that. Before our next session, try to use the journal and breathing exercises in stressful situations and notice any changes in your feelings. How do you feel about these strategies?
+
+User: I feel hopeful that they could actually help. It’s nice to have something practical to try.
+
+Consultant: I’m glad to hear that! It's a step in the right direction. Remember, building your self-confidence takes time, and being patient with yourself is important. 
+
+User: Thank you, that really helps me put things into perspective.
+
+Consultant: You're welcome, Wu! Let’s check in about your progress next time. Remember, it’s about small steps, so be gentle with yourself as you work through these feelings. 
+
+User: I will! Thank you so much for today. I appreciate your support.
+
+Consultant: It’s my pleasure! I’m here to help. Before we wrap up, do you feel any different now than when we started today?
+
+User: Yes, I feel a bit lighter. I realize I can start changing my thoughts gradually. 
+
+Consultant: That's wonderful to hear! Keep practicing, and we’ll continue to build on your progress. I’m looking forward to seeing you again soon. Take care!
+
+User: Take care!
+###################
+Consultant: Hello, Wu. I'm glad to see you again today. Last time we talked about your feelings after receiving criticism at work. How have you been since then?
+
+User: Hi, I've been feeling quite low. The criticism has really affected my self-esteem. I keep thinking about it and it's hard to focus on anything else.
+
+Consultant: I'm sorry to hear that. It sounds like it's been a tough week for you. Can you tell me more about what specifically is on your mind regarding the feedback you received?
+
+User: Well, my productivity has dipped, and it feels like everyone is noticing. I keep replaying the conversations in my head, and it's really discouraging.
+
+Consultant: That sounds really overwhelming. It seems like these thoughts are really impacting how you view your work and yourself. What kind of thoughts do you find yourself having when you think about the criticism?
+
+User: I often think that I’m not good enough at my job. It feels like I’m failing to meet expectations, which makes me question my abilities.
+
+Consultant: It's understandable to feel that way after facing criticism. Can we explore that thought together? How much evidence do you think supports the idea that you are not good enough?
+
+User: I guess I see my slower productivity as proof. I feel like I've let my team down.
+
+Consultant: I hear you. It can be hard to shake those feelings. But if we step back for a moment, are there any accomplishments or positive feedback you've received in the past that could counterbalance that feeling of inadequacy?
+
+User: Well, yes. I did get recognized for a project I completed a few months ago. My manager even said I did great work.
+
+Consultant: That’s really important to acknowledge! It shows that you have the capability to do well. How could that past success impact the way you view your current situation?
+
+User: I suppose it could remind me that I've had good moments, but it’s hard to hold onto that when I'm feeling so down.
+
+Consultant: It's totally understandable to find it challenging. Let’s try something. When you notice those negative thoughts creeping in, could you replace them with a reminder of your past success? 
+
+User: I could try that. It might help me shift my focus.
+
+Consultant: Great! Let's also think about how to handle criticism moving forward. When criticism arises, instead of letting it shake your self-worth, how could you respond to it constructively?
+
+User: Maybe I could ask for specific feedback on how to improve instead of just feeling criticized.
+
+Consultant: Absolutely! That’s a proactive approach. Seeking clarity can also help you feel more empowered. How would you feel about practicing this next time you receive feedback?
+
+User: I think that could be really helpful. It would give me something to focus on instead of getting lost in the negative feelings.
+
+Consultant: Exactly! It’s about turning those moments into opportunities for growth. Before we wrap up, let’s talk about what you can take away from today’s session. What do you think stands out to you the most?
+
+User: I think recognizing that I have had successes before, and that I can be proactive about feedback, really resonates with me.
+
+Consultant: That’s wonderful insight, Wu! Remember, it’s a journey—focusing on progress rather than perfection can help ease that pressure you feel. 
+
+User: I will try to keep that in mind going forward.
+
+Consultant: I'm glad to hear that! As we move forward, how do you feel about reaching out for support when you feel low?
+
+User: I think it’s important. I realized that I don’t have to handle everything on my own. 
+
+Consultant: That’s a powerful realization! Seeking support is a strength, not a weakness. I encourage you to keep exploring that. 
+
+User: Thank you, that really helps. I feel a bit better just talking about it.
+
+Consultant: I'm really glad to hear that. Remember, it's important to express your emotions and seek support. I'm looking forward to our next session and continuing this journey together.
+
+User: Yes, I’ll see you next time. Thanks for your help today!
+
+Consultant: You're welcome, Wu. Take care until then!
+###################
+Consultant: Hello, Wu! I'm glad to see you today. How have you been feeling since our last session?
+
+User: Hi. Honestly, I still feel quite disappointed in myself. I’ve been struggling with low spirits and some sleepless nights. I keep thinking about work-related issues, and it’s been hard to shake off those thoughts.
+
+Consultant: I can sense that it's been tough for you. It sounds like you're caught up in a cycle of negative thoughts about your situation. I’m here to help you explore this further. Can you share more about what specific thoughts keep coming back to you?
+
+User: It’s mostly about feeling inadequate at work. I keep worrying that I’m not meeting expectations and that my colleagues might be judging me.
+
+Consultant: That sounds really distressing. Let’s take a moment to identify these automatic thoughts. What emotions do you experience when these thoughts arise? 
+
+User: I feel anxious and really down, like there's a weight on my chest. It’s frustrating because I want to be more productive, but it’s hard to get started.
+
+Consultant: It’s understandable to feel weighed down when those thoughts appear. Let’s consider how your thinking might be affecting your emotions and actions. You mentioned feeling like your colleagues are judging you—do you think there might be any cognitive distortions at play here?
+
+User: Cognitive distortions… I suppose I could be jumping to conclusions. But it still feels very real to me.
+
+Consultant: That’s a valid point. It can be tough to separate those feelings from reality. Can we explore this together? What evidence do you have that your colleagues are judging you in that way?
+
+User: Well, I don’t have any concrete evidence. It’s more of a feeling I get when I’m in meetings. Maybe I am being a bit extreme in my thinking.
+
+Consultant: It’s great that you’re starting to see that. If a friend were in your situation, how do you think you would advise them to view it differently?
+
+User: I would probably tell them to focus on what they can control rather than worrying about what others think. 
+
+Consultant: That’s a constructive perspective! Now, let’s apply that to your own situation. How can you focus on what you can control moving forward?
+
+User: I guess I could try to set small goals for myself at work to regain my confidence. 
+
+Consultant: That sounds like a powerful strategy. What’s the first small goal you’d like to set for yourself this week?
+
+User: Maybe I could commit to finishing one project that I’ve been postponing. 
+
+Consultant: Excellent. Completing that project could really help you feel more accomplished. As you work on this, what activities could you engage in to help stabilize your mood and reinforce that sense of accomplishment?
+
+User: I think I’d like to spend more time with friends who have been supportive. We often chat about our challenges and that helps me a lot.
+
+Consultant: That’s a wonderful idea! Utilizing your social support network is important. How could you incorporate those connections this week?
+
+User: I could reach out to a couple of friends and arrange to meet up for coffee. 
+
+Consultant: That sounds like a great plan! It’s beneficial to engage in social interactions that uplift you. Remember, you’re not alone in this, and reaching out can provide you with the support you need. 
+
+User: I appreciate that. Sometimes I forget how valuable talking to friends can be.
+
+Consultant: It's easy to overlook, especially when you’re in a challenging mindset. As we wrap up today, let’s reflect on what you’ve learned. What is one key takeaway you’d like to remember as you move forward this week?
+
+User: I think the main thing is to focus on what I can control and to reach out to my friends more. 
+
+Consultant: Absolutely! Those are powerful insights. Also, remember that you have the ability to challenge those negative thoughts when they pop up. You’re making progress, Wu. 
+
+User: Thank you! I think I’m feeling more hopeful about managing my feelings now.
+
+Consultant: I’m glad to hear that! You’ve taken some important steps today. Just know that I’m here to support you, and we can continue building on this progress in our future sessions. 
+
+User: Sounds good! I look forward to it. 
+
+Consultant: Great! Take care of yourself, and I’ll see you next time.
+###################
+Consultant: Hello, Wu. I'm really glad to see you again today. You mentioned that you've been feeling quite low lately and grappling with your emotions. Let's start by discussing how you've been feeling since our last session. 
+
+User: Hi. I still find myself struggling a bit. I feel better in terms of self-awareness after the recent activities, but I still have doubts about my ability to stabilize my emotions long-term. It's like I know what I should do, but putting it into practice feels difficult.
+
+Consultant: It’s good to hear that your self-awareness has improved. It’s completely normal to feel uncertain about applying what you’ve learned. Can you share a specific situation where you've felt your emotions were difficult to manage?
+
+User: Sure. Just yesterday at work, I was overwhelmed with tasks and started thinking about everything that could go wrong. I could feel my stress levels rising, and it became hard to focus on anything. 
+
+Consultant: It sounds like you were really under pressure. When you started thinking about everything that could go wrong, what thoughts were running through your mind exactly? 
+
+User: I thought things like, "What if I can't meet the deadlines?" and "Everyone will think I'm incapable." Those thoughts just spiraled, and I felt really anxious.
+
+Consultant: Those thoughts sound quite intense and can understandably lead to anxiety. Can we take a moment to explore those thoughts? How do you think they affected your feelings during that time?
+
+User: They made me feel really helpless and paralyzed. I just wanted to escape the situation instead of facing it.
+
+Consultant: That's a very common reaction. When we experience anxiety, the instinct can often be to avoid facing what we perceive as threatening. Do you find that these thoughts tend to appear frequently in other situations as well?
+
+User: Yes, I think so. It's not just work; it happens in other areas of my life too, like personal relationships. I often worry about how others perceive me.
+
+Consultant: It sounds like these thoughts might be part of a broader pattern for you. Let's examine this further. When you catch yourself thinking this way, can you challenge those thoughts? For instance, what evidence do you have that supports or contradicts those thoughts?
+
+User: I suppose there are times when my colleagues praise my work, but I just choose to ignore that because I focus more on the negatives.
+
+Consultant: That insight is crucial! It appears you're aware of the positive feedback but may have developed a habit of dismissing it. What if you tried to actively consider those positive moments when you notice negative thoughts creeping in?
+
+User: That makes sense. I think acknowledging those positive aspects could help balance out my thinking.
+
+Consultant: Absolutely! It’s about creating a more balanced perspective. How about we come up with a few strategies together to help you actively challenge those negative thoughts when they arise?
+
+User: Yes, I'd like that. What can we do?
+
+Consultant: One approach could be to keep a journal where you write down negative thoughts and then challenge them by listing evidence against them, including positive feedback you've received. Another method is practicing mindfulness to help you stay grounded when those overwhelming thoughts come up. 
+
+User: I like the idea of journaling. It might help me see things more clearly and stop the spiral before it starts.
+
+Consultant: That’s great to hear! Journaling can really provide clarity and can serve as a tool for reflection. How often do you think you could commit to journaling during the week? 
+
+User: I think I could start with a couple of times a week. I don't want to overwhelm myself right away.
+
+Consultant: That sounds like a reasonable and manageable plan. As you start this, remember to be kind to yourself. It’s okay if you miss a day or two. The act of reflecting is what’s most important. 
+
+User: I understand. Thank you for that reminder. What other strategies can I use besides journaling?
+
+Consultant: Another effective strategy is to engage in activities that bring you joy and fulfillment. What are some things that you enjoy doing or used to enjoy?
+
+User: I used to love playing basketball, but I haven’t done that in a while. 
+
+Consultant: That’s wonderful! Physical activity can be a great mood booster and help reduce anxiety. Would you consider trying to play basketball again or even just practicing a bit on your own?
+
+User: Yeah, I think I’d like to give it a shot. It’s been too long since I felt the excitement of playing.
+
+Consultant: That’s fantastic! Setting aside some time for that can really help elevate your mood. How about we set a small goal for this week regarding your basketball practice?
+
+User: I could commit to going to the court at least once this week for an hour. 
+
+Consultant: Perfect! That sounds achievable and it’s a great way to lift your spirits. I’d like to hear about how it goes in our next session. 
+
+User: Sure! I will definitely update you on that. 
+
+Consultant: Great! As we wrap up today’s session, let’s review what we’ve discussed: You've gained some insights into your thinking patterns, and we’ve set up a couple of strategies, including journaling and rediscovering basketball. 
+
+User: Yes! I feel more hopeful about making these changes. 
+
+Consultant: That’s wonderful to hear! It’s all about progressing step by step. Remember, whenever doubts or negative thoughts arise, you have the tools to challenge them. I look forward to seeing how these strategies have worked for you next time. 
+
+User: Thank you so much! I appreciate your support. 
+
+Consultant: You’re very welcome! I’m glad to be here with you on this journey. Don't hesitate to reach out if you need anything before our next session. Take care, and see you next time!
+###################
+Consultant: Hello, Wu! It's great to see you again today. How have you been feeling since our last session?
+
+User: Hi! I've been feeling a lot better, actually. My confidence at work is gradually returning, and I'm managing my emotions more effectively. I’m able to engage with my colleagues and superiors without feeling as anxious as before.
+
+Consultant: That’s wonderful to hear! It sounds like you’ve made significant progress. What specific changes have you noticed in your interactions with others at work?
+
+User: I've noticed that I can participate in discussions more openly now. I don't overthink what I say, and I feel more at ease during meetings.
+
+Consultant: That’s a fantastic improvement, Wu! Feeling more comfortable in discussions is a big step forward. Let’s reflect on your growth—what do you think contributed to this change?
+
+User: I think the strategies we've discussed in our sessions have really helped me. Plus, I’ve been trying to focus on the positives instead of worrying about what might go wrong.
+
+Consultant: That’s an excellent approach! Focusing on positive outcomes can really shift your mindset. How do you plan to sustain this positive momentum going forward?
+
+User: I want to keep practicing those techniques and maybe set some small goals for myself to help keep things on track. I’d also like to explore future professional development opportunities.
+
+Consultant: Setting small goals is a great idea! It can help you maintain that forward momentum. What kind of professional development are you considering?
+
+User: I’m thinking about taking some online courses related to my field, as well as seeking feedback from my manager about areas I can improve on.
+
+Consultant: That sounds promising! Seeking feedback is an excellent way to identify growth opportunities. As you explore these courses, what skills do you think would benefit you the most?
+
+User: I believe enhancing my project management skills and communication would really help me advance. They seem to be crucial for my role.
+
+Consultant: Absolutely, those skills are vital in any workplace. As you move forward, how can we integrate these new goals into your daily routine to ensure you’re making progress?
+
+User: I could dedicate a few hours each week to study and create a schedule for feedback sessions with my manager. That way, I’m being intentional about my learning and development.
+
+Consultant: That sounds like a solid plan! Scheduling dedicated time for study and feedback will help you hold yourself accountable. What challenges do you anticipate in sticking to this plan?
+
+User: I tend to get overwhelmed with tasks and sometimes procrastinate. I worry I might not follow through as planned.
+
+Consultant: It's common to feel overwhelmed, especially when balancing multiple tasks. How about we brainstorm some strategies to manage that overwhelm and stay focused on your goals?
+
+User: Yes, that would be helpful! I think breaking tasks into smaller steps might help. It feels less daunting that way.
+
+Consultant: Great idea! Breaking things down into smaller, manageable steps can make a big difference. Are there any other strategies you think could assist you in staying focused?
+
+User: I could also set reminders or maybe use a planner to keep me organized. It might prevent me from losing track of what I want to achieve.
+
+Consultant: Using a planner is an excellent strategy! It not only keeps you organized but also provides you with a visual representation of your progress. How does that make you feel about your plans moving forward?
+
+User: It makes me feel more confident! Having a clear plan gives me a sense of direction, and I think it will help in reducing my stress levels.
+
+Consultant: That’s a positive mindset! Remember, it’s okay to adjust your plan as needed. Flexibility can help reduce pressure. Are there any additional thoughts or concerns you’d like to discuss today?
+
+User: I think we’ve covered a lot already. I feel good about my plan and the changes I've made. 
+
+Consultant: It sounds like you’ve made great strides, Wu. Before we wrap up, let’s summarize your key takeaways from our session today.
+
+User: Sure! I’ll focus on setting realistic goals, enhancing my skills, staying organized with a planner, and continuing to practice positive thinking.
+
+Consultant: Those are all fantastic strategies to keep in mind. As we conclude our session, I want to remind you that you have the tools to maintain your progress. If challenges arise, don’t hesitate to reach out. 
+
+User: Thank you! I appreciate your support and guidance through this process. 
+
+Consultant: You’re very welcome! It’s been a pleasure to work with you. Remember, you’re not alone in this journey. Best of luck, and take care!
+###################

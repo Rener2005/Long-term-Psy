@@ -1,0 +1,404 @@
+Consultant: Hello! I'm glad you're here today. Based on our previous session, I know you've been feeling quite disengaged from your studies and uncertain about your future. How have you been feeling since we last spoke?
+
+User: Hi. Honestly, I still feel pretty lost. I don’t really find any joy in studying anymore, and it’s hard to care about my grades when everything feels so empty.
+
+Consultant: I understand that it can be really challenging when you're feeling this way. You've excelled in your studies before, so it must be frustrating to feel this lack of motivation. Can you share more about what specifically makes you feel empty or disengaged?
+
+User: It just feels like I’m going through the motions. I keep studying, but I don’t feel excited about anything. It’s like I’m just doing it to keep up my grades, not because I want to learn.
+
+Consultant: It sounds like you're feeling a sense of obligation rather than passion for your studies. Let's explore this a bit more—what do you think has changed for you? When did you start feeling like this?
+
+User: It started after the last exams. I thought I would feel relieved, but instead, I just felt more drained. I kept asking myself why I’m studying so hard when it doesn't feel worthwhile.
+
+Consultant: That can indeed lead to a sense of burnout, especially when you've been under a lot of pressure. It might be helpful to explore what thoughts you've been having about your studies and how they've influenced how you feel. Can you recall any specific thoughts that come to mind when you think about learning or studying now?
+
+User: I often think that I’m wasting my time and that it’ll never really lead to anything meaningful. I just feel like I’m stuck in this cycle of studying for grades that ultimately don't matter to me.
+
+Consultant: It’s definitely understandable to feel that way, especially when the purpose behind your efforts seems unclear. Those thoughts can create a significant emotional burden. Let’s examine this further—what evidence do you have to support the idea that your studies are a waste of time? Are there any alternative perspectives you could consider?
+
+User: I guess I haven't really thought about alternatives. I just expect that I should enjoy it because I used to. Maybe I could think about how learning new things could help me in the future, but it’s hard to feel motivated.
+
+Consultant: That recognition is an important step. It indicates that deep down, you still hold some value in learning. To redirect your focus, we might want to set some smaller, achievable goals that could reconnect you to the joy of learning. What kinds of subjects or topics have you enjoyed in the past?
+
+User: I used to love biology and how it relates to real life—like understanding how the body works. But now, I don’t even want to open my textbook.
+
+Consultant: It sounds like biology could be a starting point for reigniting your interest. How about we create some small goals around exploring interesting concepts in biology that excite you? Perhaps focusing on real-life applications could make it more engaging. What do you think?
+
+User: That could work. I think if I connected it to something interesting, like health or the environment, I might feel more engaged.
+
+Consultant: That's a fantastic idea! By linking your studies to real-world applications, you can reignite your passion. Let’s think about one specific topic in biology that you’ve always found fascinating. How about we set a goal to explore that topic this week?
+
+User: I’d like to look into environmental science. It’s something I care about, but I haven’t studied it much.
+
+Consultant: Great choice! Environmental science is very relevant and can be both fascinating and impactful. Let's aim for a goal where you can spend some time researching a specific aspect of it, perhaps one that connects to your interests. How does that sound?
+
+User: That sounds achievable. I think I can manage to spend a bit of time on it.
+
+Consultant: Excellent! Remember, the aim here is to enjoy the process of learning again. You mentioned feeling isolated in your emotional experience. Do you think sharing what you discover with classmates could add a social element to your study?
+
+User: Yes, I barely talk to my friends about my studies anymore. I think sharing might help make it feel more enjoyable.
+
+Consultant: That sounds like a positive step! Engaging with your peers could help alleviate some of that loneliness as well. How about making a plan to share what you learn next week? You could even suggest a study group or just chat with them about the topic.
+
+User: I’ll try to do that. I think it could help me feel more connected and less alone.
+
+Consultant: Absolutely! Connecting with others can provide support and help reinforce your learning experience. As we move forward, let’s keep checking in on how these small goals and social connections affect your feelings. 
+
+User: I will. I hope it helps me feel a bit more motivated.
+
+Consultant: Let's make that our aim! Each step you take could lead to a shift in how you're feeling. Before we wrap up today, do you have any thoughts or feelings about what we discussed that you want to share?
+
+User: Just that I appreciate these strategies. It feels good to have a plan, and recognizing I can connect with my friends again gives me hope.
+
+Consultant: I’m really glad to hear that! It sounds like you're beginning to see a pathway forward. Remember that you've taken a significant step today, and I believe you can reconnect with your passion for learning. 
+
+User: Thanks, I really hope so too.
+
+Consultant: You’re welcome! You’ve got this, and I’m here to support you. Before we end the session, just take a moment to acknowledge this progress. I look forward to hearing about how it goes next time!
+
+User: I will; thanks again for your help!
+
+Consultant: You're very welcome! I’ll see you next time. Take care!
+###################
+Consultant: Hello, Zhang! I'm glad to see you today. How have you been feeling since our last session?
+
+User: Hi! I’ve been feeling really lonely lately. I realized that I’ve been interacting less with my classmates, and it’s starting to bother me. I want to change that but I'm not sure how.
+
+Consultant: It’s great that you recognize how you’re feeling and want to make a change. Loneliness can be tough to deal with. What do you think is holding you back from connecting with your classmates more?
+
+User: I guess I just feel awkward around them. I used to be more social, but now I feel like I don’t belong, or they won't understand me.
+
+Consultant: That sounds really challenging. It’s understandable to feel that way, especially if you’ve been feeling distant. Can you share a specific moment when you felt this disconnect with your classmates?
+
+User: Just last week, there was a group project, and I didn’t participate much. I kept thinking, ‘What if they think I’m not good enough?’ So, I just stayed quiet.
+
+Consultant: It's really insightful of you to notice that thought. It seems like you're dealing with some self-doubt during such interactions. What kind of emotions did you experience while you were in that group?
+
+User: I felt anxious and frustrated with myself. I wanted to speak up, but I felt like I wouldn’t have anything valuable to say.
+
+Consultant: Thank you for sharing that. It’s understandable to feel anxious in situations like that. Let's explore that thought—“I won’t have anything valuable to say.” How likely do you think it is that your classmates would truly feel that way?
+
+User: I mean, they might be nice about it, but what if they think it's dumb or trivial?
+
+Consultant: That sounds like a tough belief to hold onto. What evidence do you have that your thoughts about them judging you are true? Have you had experiences where your opinions were valued by others?
+
+User: Not really, but I keep remembering some past situations where I felt ignored. It lingers in my mind.
+
+Consultant: It’s understandable that past experiences can linger and influence how we feel now. What if we tried to identify alternative thoughts? For example, what would you tell a friend in your situation who feels anxious about sharing their thoughts?
+
+User: I guess I would tell them that it's okay to express themselves, and their thoughts might actually help the group. 
+
+Consultant: That's a very supportive viewpoint! So, it seems that you can see the value in sharing your thoughts, even if you might doubt your own. How can we apply that same kindness to yourself? 
+
+User: Maybe I should remind myself that my contributions are worth sharing, too. It’s just hard sometimes.
+
+Consultant: That sounds like a useful strategy. Practicing self-compassion can be really beneficial. Would you like to think of some small steps you could take to engage more with your classmates in the next week?
+
+User: I could try to contribute at least one idea in the next group discussion. 
+
+Consultant: That sounds like a fantastic goal, Zhang! It’s a manageable step that allows you to ease back into participating. How do you feel about setting that goal?
+
+User: It makes me feel a bit nervous, but also excited. It’s a start, I think.
+
+Consultant: That’s a wonderful reaction! It’s completely normal to feel a mix of nerves and excitement when trying something new. Remember, each small effort counts. How about we think of ways to make that experience more comfortable for you?
+
+User: Maybe I can prepare my thoughts ahead of time, so I feel more confident before speaking.
+
+Consultant: Preparing is a great strategy! This way, you can express your ideas more clearly and you'll feel more confident. Would it help to practice your thoughts with someone before the actual discussion?
+
+User: Yes, I could practice with you right now, if that’s okay?
+
+Consultant: Absolutely! Let’s take a moment to brainstorm some ideas. What topics are coming up that you’d like to address in your group discussion?
+
+User: We’re supposed to discuss our perspectives on environmental issues. 
+
+Consultant: That's a very relevant topic! What are some points you feel strongly about regarding environmental issues?
+
+User: I think we should focus on reducing plastic waste and promoting recycling programs. 
+
+Consultant: Those are excellent points! You already have valuable ideas to share. How could you frame those thoughts to encourage a conversation with your classmates?
+
+User: I could start by asking what they think about plastic pollution and then share my thoughts on recycling as a solution.
+
+Consultant: That’s a great way to engage others in the discussion! Starting with a question can make it feel less daunting. How do you feel about trying that approach in your next group discussion?
+
+User: I feel more confident about it now. I think I can do that!
+
+Consultant: I’m really glad to hear that, Zhang! Remember, engaging in conversations is a skill, and like any other skill, it improves with practice. How about we check in next time to see how it went?
+
+User: Yes, I would like that! I'm feeling more motivated to interact now.
+
+Consultant: That’s wonderful progress! You’re taking positive steps towards rebuilding those connections. Before we wrap up today, is there anything else on your mind that you’d like to discuss?
+
+User: No, I think we've covered a lot today. I appreciate your help!
+
+Consultant: You're very welcome! I'm proud of you for your willingness to explore these feelings and for setting goals. I look forward to hearing about your experiences in our next session. Take care!
+###################
+Consultant: Hello, Zhang! I'm glad you're here today. I understand that you've been feeling both excited and nervous about sharing your thoughts during the debate. Can you tell me a bit more about your experience?
+
+User: Hi! Yes, I've been really excited about the chance to express myself, but I was also so nervous that I couldn't perform my best. It's frustrating because I enjoy debating and want to do well at it.
+
+Consultant: It's completely normal to feel both excitement and anxiety, especially in situations where you want to showcase your abilities. What do you think made you feel so nervous during the debate?
+
+User: I think I worried a lot about how others would judge my performance. I really want to impress my teachers and classmates, and I ended up overthinking everything.
+
+Consultant: It sounds like the fear of being judged created a lot of pressure for you. What specific thoughts were running through your mind when you felt that pressure?
+
+User: I kept thinking, "What if I forget what I want to say?" or "What if I sound silly?" I felt like if I didn't do well, it would mean I’m not good enough.
+
+Consultant: I can see how those thoughts would make you feel anxious. Do you believe these thoughts are always true, or could there be other ways of looking at the situation?
+
+User: I'm not sure. I guess I feel like they’re true when I’m in the moment, but maybe they're not. I really want to convince myself that I'm capable.
+
+Consultant: That desire to believe in your capability is powerful! Let’s challenge those thinking patterns a bit. What evidence do you have that you are capable when it comes to debating or expressing your ideas?
+
+User: Well, I did well in my practice sessions, and I felt confident sharing my ideas with friends. They seemed to appreciate what I had to say.
+
+Consultant: That’s a great starting point! It sounds like you've successfully expressed yourself before, which shows your abilities. What if you viewed the debate as an opportunity to share your ideas, rather than as a test of worth?
+
+User: That makes sense. If I think of it that way, it feels less intimidating. I want to enjoy the experience instead of worrying about the outcome.
+
+Consultant: Absolutely! Refocusing on enjoyment can really help with performance anxiety. Can we set a goal for your next experience where you aim to share your thoughts without focusing too much on the outcome?
+
+User: I’d like that! Maybe I could set a goal to speak at least one full point during the next debate without worrying too much.
+
+Consultant: That sounds like an excellent goal! How do you think you could prepare yourself beforehand to help reduce that nervous feeling?
+
+User: I could practice deep breathing before I speak and remind myself that it’s okay to make mistakes. Also, maybe visualizing myself speaking confidently might help.
+
+Consultant: Visualization is a fantastic strategy! Imagining yourself succeeding can create a positive mindset. Would you like to incorporate short moments of deep breathing into your preparation routine?
+
+User: Yes, I think that would be really helpful. I usually forget to breathe when I'm nervous!
+
+Consultant: It’s easy to forget that in stressful situations. How about we practice some deep breathing together now? You can take a few deep breaths and feel the tension release.
+
+User: Okay, let’s do it. *takes deep breaths* I already feel a bit more relaxed.
+
+Consultant: Wonderful! Deep breathing can be a great tool in those moments. Reflecting on your strengths, practicing visualization, and implementing breathing techniques will surely help build your confidence.
+
+User: I really hope so. I want to feel more excited and less anxious the next time.
+
+Consultant: That excitement is a wonderful feeling. Let's aim to focus on what makes you happy about debating. What parts of debating do you enjoy the most?
+
+User: I love the thrill of discussing ideas and hearing different perspectives. It’s really satisfying to engage with others.
+
+Consultant: Engaging with others is such a valuable part of debates! How can you remind yourself of that enjoyment when you start to feel nervous again?
+
+User: Maybe I can write down a few positive reminders about why I love debating and keep them handy.
+
+Consultant: That's a fantastic idea! Creating those reminders can help ground you in the moment. What do you think would be a good affirmation to keep in mind? 
+
+User: How about, “I am passionate about sharing my thoughts, and it’s okay not to be perfect”?
+
+Consultant: That affirmation is powerful and encouraging. It’s great to embrace your passion while allowing yourself the freedom to be imperfect. Given all we've discussed, what do you think your next steps will be?
+
+User: I’ll practice deep breathing, visualize my success, and remind myself of my love for debating before my next event.
+
+Consultant: That sounds like a solid plan! As we start to conclude our session, I’d like to hear what you believe you've learned about yourself today.
+
+User: I learned that it's normal to feel anxious, but I can work on managing it. I have the capability to improve and enjoy debating.
+
+Consultant: Yes, absolutely! Recognizing anxiety as a common experience and affirming your capabilities is an important step forward. Remember to celebrate each progress you make along the way.
+
+User: Thank you! I feel more motivated to get back to debating and build my confidence.
+
+Consultant: You're very welcome! I'm so glad to hear that. Remember, it’s a journey, and you have the tools you need to navigate it. I look forward to hearing how everything goes in our next session. 
+
+User: Me too! I appreciate all your help today.
+
+Consultant: It’s my pleasure, Zhang! See you next time, and keep believing in yourself!
+###################
+Consultant: Hello, it’s great to see you today! I remember you mentioning feeling a bit lost after reading that impactful book about youth growth. How have you been feeling since then?
+
+User: Hi! Yes, that book really made me think about my own life. I felt touched and started reflecting on my growth journey. But I still feel uncertain about my direction and what I truly want to achieve.
+
+Consultant: I understand. It sounds like that book sparked something in you, but there's still some confusion about your path. Can you share more about what specific thoughts or feelings came up while reading it?
+
+User: Well, it talked about finding purpose and helping others, which really resonated with me. I realized that beyond studying, I want to have a life filled with more meaning and contributions. But I don’t know how to start or if I'm capable of that.
+
+Consultant: That’s a profound realization! Wanting to find meaning and contribute is a significant step. What do you think are some things holding you back from exploring those feelings further?
+
+User: I guess I often feel overwhelmed by schoolwork and the pressure to perform well academically, which makes me neglect my own interests and values. It’s like I’m stuck in this cycle of just studying and not exploring anything else.
+
+Consultant: It seems like academic pressure is creating a barrier for you. How about we explore some of your interests that could align with finding that purpose? What activities or causes have you always been curious about?
+
+User: I’ve always loved biology and helping others. I’ve thought about volunteering at a local community health center, but I’ve never actually done it because it feels too big for me.
+
+Consultant: Volunteering sounds like a wonderful way to combine your interest in biology with helping others. What do you think might be the first small step you could take towards that? 
+
+User: Maybe I could start by researching local health centers or talking to my teachers about any programs they might know of. It seems manageable.
+
+Consultant: That sounds like a fantastic starting point! Researching and gathering information can help ease some of that overwhelm. How do you feel about taking that first step?
+
+User: I feel a mix of excitement and nervousness, but I think it would be good to finally do something outside of my usual routine.
+
+Consultant: It’s completely normal to feel both excited and nervous. It seems like you’re ready for change! What would you like to set as a goal for yourself in this process? 
+
+User: I’d like to find a volunteer opportunity by the end of this month. I think that would help me feel more connected and find some purpose.
+
+Consultant: That's a great goal! Finding a volunteer opportunity by the end of the month can give you a sense of accomplishment. How do you see this goal impacting your feelings about yourself and your life?
+
+User: I think it could make me feel more fulfilled and less lost. I want to see that my life can have meaning beyond just studying.
+
+Consultant: Absolutely! Engaging in activities that fulfill you can change how you perceive your life overall. What are some feelings you hope to experience when you start volunteering?
+
+User: I hope to feel happier and more connected to people. I want to experience the joy of helping others; I think that would be really rewarding.
+
+Consultant: That sounds like a lovely aspiration! The joy of helping others can bring a lot of positivity into your life. How about we discuss some strategies to help you manage your academic pressures while exploring these new interests?
+
+User: I’d like that! Maybe I could create a better study schedule that allows me to also have time for volunteering.
+
+Consultant: Creating a balanced schedule could definitely help. Let’s think about how you can incorporate volunteering into your weekly routine. What would that look like for you?
+
+User: I could set aside some weekends for volunteering, and maybe dedicate a couple of hours after school on one day during the week.
+
+Consultant: That’s a well-thought-out plan! Setting specific times can really help make it happen. What challenges do you anticipate facing as you try to stick to this schedule?
+
+User: I might struggle with feeling overwhelmed by school assignments or just not having enough energy after a long day.
+
+Consultant: That’s a valid concern. It might help to prioritize your tasks and perhaps set limits on how much time you spend on schoolwork. What strategies can you think of to ensure you have the energy for both studying and volunteering?
+
+User: I could try to break my study tasks into smaller chunks and take breaks in between. Also, I should make sure I’m getting enough rest and not overloading myself.
+
+Consultant: Those sound like effective strategies, especially breaking tasks up and allowing time for rest. How does that make you feel about moving forward with your plan?
+
+User: I feel more confident that I can manage my time better. It doesn’t seem as daunting now.
+
+Consultant: That’s wonderful to hear! Confidence can make a big difference. Remember, it's all about balance and allowing yourself to explore without pressure. What other support can you think of that might help you along this journey?
+
+User: Maybe talking to my friends or family about my plans could help. They might be able to encourage me or even join me in volunteering.
+
+Consultant: Involving friends or family can be a great source of support and motivation. It's also an opportunity to connect with them in a meaningful way. How do you feel about discussing your volunteering plans with them?
+
+User: I think I’d feel excited to share! It might even inspire them to get involved too.
+
+Consultant: That sounds like a positive possibility! Sharing your enthusiasm could foster connections and support. As we wrap up today’s session, what are the key takeaways you’d like to remember?
+
+User: I want to remember that I can find ways to align my studies with my interests and seek fulfillment. I’ll start researching volunteer options and manage my schedule effectively.
+
+Consultant: Those are fantastic takeaways! It seems like you’re making constructive plans for your future, which is wonderful. Remember, if you ever feel overwhelmed or need more support, I'm here to help. 
+
+User: Thank you! I really appreciate your guidance. I look forward to taking these steps!
+
+Consultant: You’re very welcome! I’m excited for you and can’t wait to hear about your progress. Until next time, take care!
+###################
+Consultant: Hello, Zhang! I'm glad to see you today. It’s great to hear that you felt joy and a sense of connection during the recent volunteer activity. Can you share more about that experience and what it meant for you?
+
+User: Hi! Yes, it was a wonderful experience! Helping others made me feel really good about myself, like I was doing something meaningful for the community. However, I also realize that I still feel a bit lost and unmotivated when it comes to my personal life.
+
+Consultant: It's understandable to feel a mix of emotions, especially after experiencing joy in helping others but still feeling lost in your own life. Can you describe what specific thoughts or feelings you have when you think about your own life outside of school and studying?
+
+User: I often think that studying is the only thing I’m good at. When I’m not studying, I feel like I don’t have any value. It's like I’m just going through the motions of life without really living it.
+
+Consultant: That sounds really tough, feeling like your value is tied solely to academic success. Let's explore this more—what do you think would happen if you viewed your worth in a broader sense, beyond just your studies?
+
+User: I suppose I’d feel more free and less pressured. But then again, I worry about what that would look like—sometimes I just can’t see it.
+
+Consultant: It’s normal to feel uncertainty when considering new perspectives. Let’s try to unpack those feelings. Can you think of any qualities or strengths you possess that are unrelated to your studies, maybe something you've realized during your volunteer work?
+
+User: I guess I can connect with people easily, and I really enjoyed working as part of a team during the volunteering. It felt nice to share ideas and encourage one another.
+
+Consultant: That’s a valuable quality, Zhang! Being a good communicator and collaborator can significantly enhance your self-worth. How do you think you can integrate these strengths into your daily life or other activities aside from studying?
+
+User: Maybe I could look for more volunteer opportunities or even start a study group where we can help each other out. It could make studying a bit more social.
+
+Consultant: That sounds like a wonderful idea! Fostering connections through teamwork can help you feel more engaged and less isolated. How do you feel about setting a goal to find at least one new volunteering opportunity next week?
+
+User: I think setting that goal sounds great! It gives me something to look forward to and also helps me stay active.
+
+Consultant: Absolutely! Setting that goal can bring excitement and purpose to your life. As you pursue these activities, remember to reflect on how they make you feel. This awareness can help you connect more deeply with your sense of value. How do you envision following through with this goal?
+
+User: I could research local organizations online and maybe ask my friends if they want to join me. Having someone to go with would definitely make it easier.
+
+Consultant: That sounds fantastic! Having friends join you can not only make it more enjoyable but also strengthen those connections. As you work on this, what thoughts do you think might come up that could challenge your motivation?
+
+User: I might start to doubt if I’m really making a difference or if I'm doing enough. Sometimes I have these negative thoughts that tell me I’m not good enough.
+
+Consultant: It's quite common to have those negative thoughts pop up. Let’s challenge them together. When those doubts arise, how might you reframe those thoughts to prove to yourself that you are making a difference?
+
+User: Maybe I could remind myself that every small contribution matters and that feeling good while helping others is a sign I'm doing something worthwhile. 
+
+Consultant: Exactly! Acknowledging that every effort counts is vital. We could even create a mantra for you to repeat during those times of doubt, like “My efforts, big or small, contribute to the world.” How does that sound?
+
+User: That sounds empowering! I can really see how that kind of thinking could help me push through those doubts.
+
+Consultant: Wonderful! Empowering yourself with positive affirmations can greatly shift your mindset. As we continue our sessions, we’ll explore more about your experiences and how they influence your feelings of self-worth. 
+
+User: I'm looking forward to that! It feels good to have a plan and to recognize that I have strengths I can lean into.
+
+Consultant: I’m glad to hear that! As we wrap up today, let’s summarize what we've accomplished. You now have a goal of finding volunteering opportunities, and we’ve identified ways to challenge those negative thoughts. How do you feel about these insights?
+
+User: I feel much clearer about what I want to do next! This has been so helpful—I’d like to keep this positive momentum going.
+
+Consultant: That’s great to hear! We’ll continue to build on your progress in our next session. Remember to keep nurturing those connections and positive feelings. If you ever feel overwhelmed, it’s okay to reach out for support. 
+
+User: Thank you so much! I really appreciate your support and guidance. I’ll see you next time! 
+
+Consultant: You’re very welcome, Zhang! I'm looking forward to our next session and hearing about your experiences. Take care and see you soon!
+###################
+Consultant: Hello, Zhang! I'm really glad to see you today. How have you been feeling since our last session, especially with the conversations you've had with your parents?
+
+User: Hi! I feel much better. Those talks helped a lot. I don't feel as lonely anymore, and it's nice to have that support. But I still wonder what to do with my life beyond studying.
+
+Consultant: I'm happy to hear that your conversations with your parents have improved your feelings of loneliness! It sounds like you're feeling some relief, but there's still a sense of uncertainty about your life and purpose outside of studying. Can you share more about what you're feeling regarding that uncertainty?
+
+User: Yes, studying has always been my focus. I used to enjoy it, but now I feel empty. I just go through the motions without any excitement. It’s like all I am is a student.
+
+Consultant: I can sense that you’re grappling with this feeling of emptiness and the pressure of being solely identified by your role as a student. Let’s explore this a bit—when you think about activities or interests outside of studying, what comes to mind?
+
+User: I used to like painting and hanging out with friends, but I haven’t done those things in a while. I just feel like I should be studying all the time.
+
+Consultant: It sounds like those activities brought you joy, but the pressure to keep studying has taken over. Let’s think about how you might be able to reintroduce some of those activities into your life. What if we set some small goals that involve painting or spending time with friends?
+
+User: That could be nice! I think I need those things back in my life. But what if I fall behind on my schoolwork?
+
+Consultant: That’s a valid concern. Balancing leisure activities with your studies can feel challenging. How about starting with short time blocks for painting or socializing? You could set a specific time each week where you allow yourself to engage in these activities without the guilt.
+
+User: That sounds manageable. Maybe just an hour to start. I can try to not think about studies during that time.
+
+Consultant: That’s a great plan! Allowing yourself that hour can help you reclaim some joy and perhaps even recharge for your studies. How do you feel about setting this hour aside for painting or hanging out with friends?
+
+User: I feel excited! It’s been so long since I've done something just for me.
+
+Consultant: That's wonderful to hear, Zhang! It seems like you're starting to reconnect with things that used to bring you joy. Let’s also talk about how you can maintain this balance. What strategies can you think of to ensure you stick to this plan?
+
+User: I could write it down in my planner. That way, I won't forget. Maybe I can also remind myself that taking breaks is okay.
+
+Consultant: Writing it down is a great idea! It can serve as a visual reminder of your commitment to yourself. And yes, reminding yourself that breaks are essential for productivity is crucial. What other ways do you think you can practice self-compassion during this time?
+
+User: I might start talking to myself more positively. Instead of thinking I’m wasting time, I’ll remind myself that this helps me recharge.
+
+Consultant: That’s an excellent shift in mindset! Self-compassion can have a significant impact on your emotional well-being and motivation. I encourage you to reflect on how these self-affirmations make you feel over the next week. What else can we work on today to help maintain the progress you’ve made?
+
+User: I want to ensure I keep feeling better. Maybe we can talk about how to handle stress when it comes up again?
+
+Consultant: Absolutely, that’s a very proactive approach! Stress will come up, and having tools to deal with it is essential. Can you recall a recent situation where you felt stressed? What triggered it?
+
+User: I felt stressed during the last few days leading up to my exams, just cramming all the material. I remember feeling overwhelmed.
+
+Consultant: That’s understandable, especially with the pressure of exams. In that context, what thoughts crossed your mind? How did those thoughts affect your feelings?
+
+User: I kept thinking that I wouldn’t do well, and that made me anxious, making it hard to concentrate.
+
+Consultant: It's clear how those negative thoughts contributed to your anxiety. Next time you find yourself in a similar situation, it might be helpful to challenge those thoughts. What could be a more balanced thought to counter "I won’t do well"?
+
+User: Maybe I can remind myself that I’ve prepared well and that I can handle whatever comes.
+
+Consultant: That’s a much more constructive perspective! Reminding yourself of your preparation and your ability to cope can alleviate some of that pressure. How does it feel to recognize that you are capable of handling challenges?
+
+User: It makes me feel more confident. I like that thought!
+
+Consultant: Confidence is such a crucial part of managing stress. How about we summarize what you've learned today and how you can apply these strategies moving forward? 
+
+User: Sure! I’ll set aside time for my hobbies, practice positive self-talk, and write down my plan. 
+
+Consultant: That sounds like a solid plan! I’m proud of the steps you’re taking towards creating space for joy in your life. It’s also important to keep that communication with your parents open, as their support will enhance your progress. How do you feel about that?
+
+User: I feel good! I’ll definitely keep sharing my thoughts with them.
+
+Consultant: Excellent! Communication is key. I think you’re making fantastic strides toward your happiness. This will be our last session for now, but remember, you have many tools at your disposal. If you ever feel overwhelmed, you can always return for support. How do you feel about where we’ve come today?
+
+User: I feel relieved and hopeful. Thank you for helping me work through this!
+
+Consultant: You’re very welcome, Zhang. I believe in your ability to maintain this positive change and look forward to hearing about your progress if you choose to come back. Take care and embrace that creativity!
+###################

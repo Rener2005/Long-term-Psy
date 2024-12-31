@@ -1,0 +1,428 @@
+Consultant: Hello, Xiaogao! I’m glad to see you today. How have you been feeling lately with everything going on at school?
+
+User: Hi. I’ve been feeling really bad about my schoolwork. I got called out in class for not doing well on my mid-term exam, and now I feel really anxious about studying.
+
+Consultant: I understand that must be tough for you. It's normal to feel anxious when facing challenges like that. Can you tell me what thoughts you have when you think about your exams and studying?
+
+User: I just keep thinking that I’m not good enough and that I’ll never do well. It makes me not want to try at all.
+
+Consultant: That sounds really heavy. It seems like you're feeling quite pressured by those thoughts. What emotions do these thoughts bring up for you?
+
+User: I feel sad and really alone. I wish my parents cared more about me, but they’re always away, and it feels like they don’t even notice me.
+
+Consultant: I hear you, Xiaogao. It's painful to feel ignored by the people who are supposed to care about you the most. Can you share more about how this has affected your daily life, like at school or with your friends?
+
+User: I don’t have many friends. I mostly feel left out during recess or lunchtime. I’m shy, and it’s hard for me to talk to others. I just wish I could fit in better.
+
+Consultant: It sounds like you're feeling stuck between wanting connection and struggling to reach out. Let's explore that a bit. What do you think might happen if you tried to talk to someone at school?
+
+User: I think they might ignore me or think I’m weird. That just makes me not want to try.
+
+Consultant: That’s a valid concern, and it’s understandable to feel this way. What if we thought of some small steps together to help you ease into social situations? It might take the pressure off.
+
+User: I guess I could try saying hi to someone in my class, but it feels really scary.
+
+Consultant: Starting with a simple “hi” sounds like a great first step! It doesn’t have to be a big conversation. How about we plan for you to do that during your next break? 
+
+User: Maybe I can try. I’ll think about it. 
+
+Consultant: That’s the spirit! And remember, it’s okay to feel anxious. You could also express your feelings through drawing, which you enjoy. It might help you work through those feelings about your parents and studies.
+
+User: I do like to draw. I could show my feelings through art, I suppose. 
+
+Consultant: Absolutely! Art can be a wonderful way to express emotions safely. If you would like, you could create something that represents how you feel about your parents and school, and we can talk about it next time.
+
+User: That sounds interesting. I’ll try making something.
+
+Consultant: Perfect! I look forward to seeing your artwork. It may help you look at things differently. Speaking of thoughts about your parents, have you thought more about how you feel towards them lately?
+
+User: I still feel angry that they’re not here, but I also feel sad. Sometimes I think they love me less because they don’t visit often.
+
+Consultant: It's completely understandable to feel both anger and sadness. It shows you care about them. Have you considered writing them a letter to express your feelings? 
+
+User: Writing a letter? I never thought about that. 
+
+Consultant: It could be a good way to share your feelings without needing an immediate response. It might help you feel closer to them, even if they can’t be there physically.
+
+User: I might try that. I just want them to understand how I feel.
+
+Consultant: That’s a great motivation! It’s important that your feelings are known. Also, when reflecting on your studies, can you think of one subject or part of school where you feel a little more confident?
+
+User: I enjoy drawing, but I don’t think it counts as a subject. I’m not sure about anything else.
+
+Consultant: Drawing does count! It's a skill you have that can build your confidence. Perhaps we can think about how you can incorporate drawing into your schoolwork. 
+
+User: I normally just use it for fun. I don’t think it will help with my grades though.
+
+Consultant: It can actually help by turning your study materials into something visual. You could create flashcards or illustrations to help remember things better. Would you be open to trying that?
+
+User: I guess that might make studying more fun.
+
+Consultant: Exactly! Making it enjoyable can reduce anxiety too. Remember that learning can be a process, and it’s okay to go step by step. 
+
+User: Thanks for the suggestions. It really helps to talk about this.
+
+Consultant: I’m really glad to hear that, Xiaogao. You’ve shared so much today, and taking these small steps will help you feel more connected and confident. Let’s recap what we've discussed today and your feelings about it.
+
+User: I talked about feeling anxious about school and how I feel about my parents. I want to express my feelings through art and maybe talk to someone at school. 
+
+Consultant: That’s a fantastic summary! You’re recognizing and addressing your emotions, which is a huge step. Before we end today, do you have any thoughts on how you can continue building these skills moving forward?
+
+User: I think I’ll try drawing more and maybe slowly talking to classmates. 
+
+Consultant: That sounds like a great plan! By giving yourself these opportunities, you’re learning to manage your feelings and become more confident. Remember, I’m here to help if you ever need it again. 
+
+User: Thank you! I’ll see you next time!
+
+Consultant: You're welcome, Xiaogao! Take care, and I'm looking forward to hearing about your progress next time!
+###################
+Consultant: Hello, Xiaogao! I'm glad you’re here for today’s session. I understand that you've been feeling a bit down recently. Can you share what’s been going on?
+
+User: Hi. I feel really sad because I wasn’t chosen to be in the student council. It makes me feel like I'm not important to my classmates. 
+
+Consultant: I see, not being selected for the student council has made you feel unimportant and disappointed. It's completely normal to feel this way when we face rejection. Let's take a moment to explore how this experience has impacted your feelings about yourself. How have you been viewing your abilities since then?
+
+User: Honestly, I feel like I'm not good enough. I keep thinking that maybe I'm just not cut out for these things. Like, everyone else is better.
+
+Consultant: It sounds like you’re being quite hard on yourself. You mentioned feeling that everyone else is better—could you tell me some specific thoughts that have crossed your mind during this time?
+
+User: I think about how my friends are more outgoing and everyone likes them. I feel like I don't fit in, and that maybe it’s because I'm not as talented or fun as them.
+
+Consultant: Those thoughts can be really tough to handle, Xiaogao. When you think about not fitting in, how does that make you feel emotionally? 
+
+User: It makes me feel really lonely. I often just want to be by myself because being around others feels too uncomfortable.
+
+Consultant: It’s understandable to want to retreat when you're feeling lonely and uncertain. However, avoiding social situations might make those feelings worse over time. Let’s explore some ways to help you feel more confident in interacting with your classmates. What are some situations at school where you’d like to feel more comfortable?
+
+User: I think during group activities or when we have class discussions. I often just stay quiet instead of sharing my thoughts.
+
+Consultant: Group activities and discussions can be especially daunting when you’re feeling this way. But remember, sharing your thoughts can also be a way to connect with others. Let’s work on some small steps that can help you feel more comfortable contributing. How would you feel about trying to express one of your opinions in a group setting next time?
+
+User: I’m not sure. What if I say something wrong? Then everyone will think I'm stupid.
+
+Consultant: It's perfectly okay to feel nervous about speaking up. It might help to remember that everyone makes mistakes; that’s part of learning. If a friend of yours was in your position, what would you tell them about expressing their thoughts?
+
+User: I guess I would tell them that it's okay to make mistakes and that people are usually understanding.
+
+Consultant: Exactly! You’re showing the kindness you’d offer a friend to yourself. Let's try reframing your thoughts about speaking in class. Instead of thinking "What if they think I'm stupid?", you might say, "This is a chance for me to share and learn together." How does that sound to you?
+
+User: That sounds better, but I still worry inside.
+
+Consultant: That’s completely normal. Let’s build on that positive self-talk gradually. How about we think of a few things about yourself that you do like or are proud of? Recognizing your strengths can help build your confidence.
+
+User: Well, I like to draw. And sometimes my classmates say they like my drawings.
+
+Consultant: That's wonderful! Drawing is a great talent, and it shows that you have creativity. How about you think of ways to incorporate that into social interactions? Perhaps you can share your drawings with classmates or even ask them for feedback next time?
+
+User: Maybe I could do that. It seems easier than just talking.
+
+Consultant: Definitely! It could be a nice icebreaker. Sharing your art might also create opportunities for you to connect with those who appreciate your work. What do you think you might do next time you feel nervous about interacting?
+
+User: Maybe I can remind myself that it's okay to be nervous and start with talking about my drawings.
+
+Consultant: That sounds like a great plan! Remember, starting small is key. Over time, practicing these interactions can help you build confidence. We can also role-play some scenarios if you'd find that helpful. 
+
+User: I think that could help. I need to practice how to talk more.
+
+Consultant: Great idea! Let’s set up a scenario where you show your drawing to a classmate and ask for their thoughts. I’ll play the role of your classmate, and you can come to me with your drawing. 
+
+User: Okay, I’ll give it a try.
+
+Consultant: Perfect! Just take a deep breath and be yourself. I’ll be here to support you. Let’s imagine the setting—where do you think you would show your drawing?
+
+User: Maybe during art class or at recess.
+
+Consultant: Sounds like a great time! Now, let’s begin. You can approach me and share your drawing whenever you’re ready. 
+
+User: *Pretends to approach* Hi! I drew this picture. What do you think?
+
+Consultant: Wow, I really like it! Your use of colors is amazing. What inspired you to create it?
+
+User: I wanted to show my idea of… um, happiness!
+
+Consultant: That’s beautiful! Happiness is such an important theme. You’re making a great start with sharing your creativity! How are you feeling so far in this role-play?
+
+User: I feel a bit nervous, but also excited that I could say something.
+
+Consultant: That's a wonderful realization, Xiaogao! Feeling nervous is okay, but experiencing excitement means you're taking steps forward. Now, let’s think about how you can reinforce these experiences. What can you tell yourself after you successfully share your drawing to remind yourself of this moment?
+
+User: I can tell myself that I did well for trying and that it’s okay to feel nervous.
+
+Consultant: Absolutely! That positive self-talk will be key as you navigate these situations. As we continue our sessions, we’ll keep focusing on building these skills and exploring new strategies together. 
+
+User: Thank you! I think I can try this more now.
+
+Consultant: I’m so glad to hear that, Xiaogao. Remember, it’s all about progress and not perfection. For our next session, think about any experiences where you’ve tried interacting more with your classmates, and we can discuss how it went. 
+
+User: Okay, I’ll do that! 
+
+Consultant: Great! I’m looking forward to hearing your updates. You’re making significant strides towards feeling more connected and confident. Take care, and I’ll see you next time!
+###################
+Consultant: Hello, Xiao Gao! I'm really pleased you're here today. I’d like to start by talking about how you've been feeling lately. Can you share a bit about what’s been on your mind?
+
+User: Hi. I don’t know, I just feel really lonely. My classmates don’t understand me, and I feel like I don’t fit in. It’s hard to talk to them, and I just prefer being alone.
+
+Consultant: It sounds like you're feeling quite isolated and misunderstood by your classmates. That can be really difficult. Can you tell me more about a specific situation where you felt this way?
+
+User: Well, there was this group project, and I wanted to contribute, but they just ignored me. I didn’t know what to say, and they made jokes that I didn’t understand, so I just sat quietly.
+
+Consultant: That must have felt really frustrating for you. It’s understandable to feel left out in that kind of situation. When they ignored you or made jokes, what thoughts were running through your mind?
+
+User: I kept thinking that they don’t want me around and that I’m not interesting. I thought maybe I should just stay away from them.
+
+Consultant: Those thoughts can really impact how you feel and behave. It sounds like you felt rejected and that made you want to withdraw even more. Is this how you often feel when you're in a group setting?
+
+User: Yeah, it happens a lot. I feel like I don’t really belong anywhere, and it’s easier just to keep to myself.
+
+Consultant: I see. Wanting to protect yourself from feeling hurt makes sense, but it can also lead to more loneliness. What would it look like for you to feel more connected with your classmates?
+
+User: I don’t know… maybe if they talked to me more or if I could find a way to fit in without feeling awkward.
+
+Consultant: That sounds like a great goal! Let's explore some ways to help you start connecting with them. What interests do you share with your classmates, or what activities do you think you could join in?
+
+User: They like sports and sometimes drawing too. I’m good at drawing, but when they talk about sports, I feel lost.
+
+Consultant: That's a good starting point! Perhaps you could share your drawings with them—it might spark some conversations. How do you think they would react if you showed them your art?
+
+User: I think they might like it, but I’m scared they’ll make fun of it.
+
+Consultant: It's completely normal to have that fear, but let's challenge that thought. Is there any evidence that they would make fun of your artwork?
+
+User: I guess not. Some of them do like drawing, but I just worry.
+
+Consultant: It’s really brave of you to recognize that fear. Remember, if some classmates share an interest in drawing, that gives you something in common. How about we try a little role-play? You could practice how you might introduce your drawings to them.
+
+User: Okay, I can try that.
+
+Consultant: Great! Let’s imagine you’re showing them your artwork. What would you say to start the conversation?
+
+User: I’d say, “Hi, I drew this picture. Do you want to see it?”
+
+Consultant: That sounds like a perfect start! It’s simple and inviting. After that, how could you engage them further?
+
+User: I could ask them what they think about it or if they draw too.
+
+Consultant: Excellent! Engaging them by asking questions shows that you’re interested in their thoughts as well. Practicing this could help you feel more comfortable. Are there other situations where you could use this approach?
+
+User: Maybe during lunch or art class, when I could sit with them.
+
+Consultant: Absolutely! Finding opportunities to initiate conversations during lunch or in classes can be really beneficial. How do you feel about trying this out?
+
+User: I feel a bit nervous, but also excited to see what happens.
+
+Consultant: That’s a wonderful attitude to have! Feeling nervous is completely normal. Remember, it’s just about taking small steps. We can also think of other strategies if it doesn’t go as well as you hope. What do you think you could do if things don’t go as planned?
+
+User: I guess I could try again another time or talk to another classmate.
+
+Consultant: Exactly! Having that mindset can really help. It’s all about learning and building those connections over time. Do you feel like you have some practical steps to try this week?
+
+User: Yeah, I’ll try to show my drawing and ask questions. I’ll also think about sitting with them at lunch.
+
+Consultant: That sounds like a fantastic plan, Xiao Gao! I’m really proud of you for stepping out of your comfort zone. Before we end today, let’s reflect on how you can keep building your confidence through your art. What does drawing mean to you?
+
+User: It makes me feel proud and happy. I love when I create something I like.
+
+Consultant: That's wonderful! Your drawings are an expression of your talent and can definitely help build connections. How could you use that pride in your art as a way to boost your self-esteem when interacting with others?
+
+User: I guess if I remember that I create good things, I could be more confident.
+
+Consultant: Absolutely! Keep that in mind, and remember to value what you bring to the table. You have so much potential to connect with others. We’ll continue exploring these skills together. I’m looking forward to hearing about your experiences next time. How do you feel about our conversation today?
+
+User: I feel good. I’m glad I talked about this. It helps to have a plan.
+
+Consultant: I’m glad to hear that! You’ve taken a big step today, and I’m confident you’ll make progress. Remember, keep practicing and be kind to yourself. I’m looking forward to our next session. 
+
+User: Thank you! See you next time!
+
+Consultant: Take care, Xiao Gao! See you soon!
+###################
+Consultant: Hello, Xiaogao! I'm really glad you're here today. I want to start by congratulating you on winning first place in the painting competition! That’s an amazing achievement. How are you feeling about it?
+
+User: Hi! Thank you! I feel really proud, but at the same time, I'm worried that this attention might not last long. What if no one cares about my paintings in the future?
+
+Consultant: It's completely normal to feel proud and also have concerns about how long that recognition will last. It sounds like your achievements have made you feel valued but also anxious about being seen. Can you tell me more about what that attention means to you right now?
+
+User: It makes me feel like I belong somewhere, and it's nice to hear people say nice things about my art. But I also wonder if they will forget about me once the excitement fades.
+
+Consultant: Yes, feeling a sense of belonging is really important. It’s understandable to think about whether that attention will continue. Let’s explore how you can keep building that sense of belonging and value through your passion for painting. How do you see painting fitting into your life moving forward?
+
+User: I really love painting. It helps me express what I'm feeling. Maybe if I keep painting, it can help people remember me or even connect more with others. 
+
+Consultant: That’s a wonderful perspective! Using your passion as a way to connect with others and express yourself is a great strategy. Have you thought about ways to share your artwork with people more often, maybe even in your community or school?
+
+User: I haven't really shared much beyond the competition. I draw a lot, but I'm not sure how to show it to others without feeling shy.
+
+Consultant: It’s understandable to feel shy about sharing your work. Sharing art can be a vulnerable experience. What if we brainstorm some ways that feel comfortable for you to start sharing your drawings with others?
+
+User: Maybe I could start with my friends or show my grandparents? They always support me.
+
+Consultant: That’s a great idea! Your grandparents and friends are likely to be very encouraging. Sharing your drawings with them could strengthen those connections and help you feel more comfortable. How do you think they would react to seeing your artwork?
+
+User: I think they would be really proud and excited to see what I create. My grandparents always cheer me on.
+
+Consultant: It sounds like you have a supportive environment at home. That support can help you grow your confidence. Let’s think about how you can use this positive energy from your grandparents and friends to motivate you in your painting. How about setting a goal to share a piece of art with them each week?
+
+User: That sounds like a good idea! If I had a plan, I wouldn’t feel so nervous about it.
+
+Consultant: Exactly! Having a plan can really help alleviate anxiety. It can also provide you with opportunities to practice sharing your feelings through your art. What kind of feelings or stories do you want to express in your paintings?
+
+User: I often feel lonely because my parents are not around much, but I think I could paint about my happiness when I’m with my grandparents.
+
+Consultant: That’s a beautiful theme. Painting about your happiness with your grandparents can help you process those feelings of loneliness while also celebrating your connection with them. Would you like to plan a painting session where you explore these themes?
+
+User: Yes, I think that would help me. I could create a special painting for them!
+
+Consultant: That’s a lovely idea! Creating a painting specifically for your grandparents not only expresses your feelings but also gives them a wonderful gift. How do you think it would feel to present it to them?
+
+User: I think it would make me feel really happy to show them! They would love it, and I’d feel proud of sharing my work directly with them.
+
+Consultant: That sense of pride and happiness is invaluable. This process can deepen your bond with them and help you feel more anchored in your family dynamic. How else do you think painting can serve you during moments when you feel lonely?
+
+User: I could use it as a way to express my feelings when I'm sad or overwhelmed. It’s like my own special way to cope.
+
+Consultant: Exactly! Painting can be a powerful emotional outlet. By regularly using it to express yourself, you can manage your feelings in a healthy way. Would you like to try incorporating daily painting into your routine as a form of emotional expression?
+
+User: I could try that! Maybe I can spend a few minutes every day just drawing or painting whatever I feel.
+
+Consultant: That sounds like a fantastic plan, Xiaogao! Daily practice can help you not just express yourself, but also improve your skills over time. As you engage in this routine, I encourage you to really tune into your feelings—what are you experiencing as you paint?
+
+User: I think focusing on my feelings while I paint will help me understand myself better. 
+
+Consultant: That’s a great realization! Self-awareness is a valuable part of emotional growth, and it can be powerful to see how your art reflects your feelings. Let’s take a moment to reflect on the emotional journey you’ve had today. What stands out for you?
+
+User: I feel more connected to my grandparents and my art. I realized that sharing my feelings through painting can help me feel less lonely.
+
+Consultant: That’s a significant insight, Xiaogao! Recognizing the value of your connections and using art as an emotional outlet can profoundly affect your well-being. As we wrap up today’s session, what strategies can you take with you to maintain this positive momentum?
+
+User: I will plan to share my art with my grandparents and keep painting every day. 
+
+Consultant: That’s an excellent strategy! Your commitment to sharing and expressing through art will undoubtedly enhance your self-esteem and the connections you cherish. If you ever feel overwhelmed, remember you can always come back and talk about your progress. 
+
+User: Thank you! I’ll keep that in mind. I really appreciate this session.
+
+Consultant: You’re very welcome! I’m glad we could talk today. Remember, keep painting from the heart, and I’ll be here whenever you need support. Take care, Xiaogao!
+###################
+Consultant: Hello, Xiao Gao! I'm glad to have you here today. How are you feeling since our last session?
+
+User: Hi! I feel a little different. I've been thinking about my grandparents and how much they support me. But I still have mixed feelings about my parents not being around often.
+
+Consultant: It sounds like you're starting to recognize your grandparents' importance in your life, while also grappling with feelings about your parents' absence. Would you like to share more about those mixed feelings?
+
+User: Yes, I guess I feel happy that my grandparents are there for me. But sometimes, I get sad and frustrated when I think about my parents. I wish they could be more present in my life.
+
+Consultant: Your feelings are completely valid—it's okay to feel both grateful for your grandparents and disappointed with your parents' absence. How do these feelings impact your daily life and your emotions?
+
+User: Sometimes, I just feel lonely. I like to draw, which helps, but I wish I could share my thoughts or my drawings with my parents too. I want them to notice me.
+
+Consultant: It seems like drawing provides you with an outlet, but sharing your thoughts and creativity with your parents is really important to you. Have you thought about any ways to connect with them, despite the distance?
+
+User: I wrote them a letter once, but I didn’t hear back. It made me feel kind of ignored, to be honest.
+
+Consultant: That experience sounds really tough. It's understandable that not receiving a response could deepen those feelings of being ignored. What if we explored other ways for you to express yourself or to reach out that might feel more effective or fulfilling?
+
+User: Maybe I could try calling them instead? But sometimes I’m scared they might not understand me.
+
+Consultant: That's a great idea! A phone call could offer a more immediate connection. It’s normal to feel a bit anxious about how they might respond. What are some things you would want to say to them if you made that call?
+
+User: I want to tell them about my drawings and how I feel in school. I also want to ask why they can’t come home more often.
+
+Consultant: It sounds like you have some important things to express. When you think about sharing these things, what emotions come up for you?
+
+User: I feel nervous, but also a bit hopeful. I think they might be surprised to hear from me.
+
+Consultant: That mixture of nervousness and hope is entirely normal. We can practice together a simple way to frame your thoughts for the call, ensuring you feel more ready. Would you like to try that?
+
+User: Yes, that sounds good! 
+
+Consultant: Wonderful! A possible start could be: "Hi Mom and Dad, I've been drawing a lot lately and wanted to share how much I appreciate my grandparents' support." How does that sound to you?
+
+User: That sounds nice! I like how it starts with something positive.
+
+Consultant: I’m glad you like it! Starting on a positive note can help set the tone for the conversation. What would follow that in your mind?
+
+User: I think I would tell them some things that are happening in school and ask them why they miss family events.
+
+Consultant: Perfect! Sharing your experiences can help them feel more connected to your life. When you express your feelings about family events, remember to approach it with openness. What do you think might happen if they realize how much those events mean to you?
+
+User: Maybe they’ll understand better and want to be more involved? That would be nice.
+
+Consultant: Yes, that’s a likely possibility! Sometimes it just takes opening the door for communication to create more understanding. How are you feeling about the idea of making this call now?
+
+User: I still feel a bit anxious, but talking about it makes me want to try. 
+
+Consultant: It’s great to hear that you feel motivated to take that step. Remember, it's okay to feel nervous about it. You can practice calming your mind with some deep breaths before you call. Would you like to try a simple breathing exercise together?
+
+User: Yes, I’d like that.
+
+Consultant: Alright! Let’s take a deep breath in for four counts... and then exhale for four counts. Let's do this a few times together: Inhale... 1, 2, 3, 4... and exhale... 1, 2, 3, 4. How do you feel after that?
+
+User: I feel a bit calmer now. 
+
+Consultant: That’s wonderful! Calming your mind can help you approach the call with more confidence. As you move forward, remember to appreciate the support from your grandparents, and the courage you have in reaching out to your parents. 
+
+User: Thank you! I feel more confident about what I want to say now.
+
+Consultant: You're welcome! It's impressive to see you grow and reflect on these important relationships. What do you think will be your next step after our session today?
+
+User: I think I’ll try to call my parents later today. 
+
+Consultant: That sounds like an excellent plan! Remember, no matter the outcome, you’re taking a brave step towards expressing yourself, and that’s important. We can discuss how the call goes in our next session. 
+
+User: I’m looking forward to it. Thank you for all your help today!
+
+Consultant: You’re very welcome, Xiao Gao! I'm proud of how far you’ve come. Take care, and I’ll see you next time!
+###################
+Consultant: Hello, Xiao Gao! It's great to see you again. I hope you’re doing well today. How are you feeling after the art exhibition?
+
+User: Hi! I feel really good. Everyone was so nice to me, and my art was praised. It made me feel special and confident!
+
+Consultant: That’s wonderful to hear! It sounds like the positive feedback really boosted your confidence. How do you think this recognition will influence your feelings about your abilities moving forward?
+
+User: I think it makes me want to draw more and share my art with others. I feel like I can do it!
+
+Consultant: That’s an exciting perspective! You’re recognizing your talent and wanting to express it further. Let’s explore how you can maintain this motivation and confidence as you move forward. Have you thought about any specific goals you’d like to set for yourself related to art or your social interactions?
+
+User: I want to join the art club at school and maybe even enter more competitions. Making friends while doing art sounds fun too!
+
+Consultant: That sounds like a great plan! Joining the art club can help you connect with others who share your interests. How do you feel about taking that step to engage more socially?
+
+User: I'm a bit nervous because I don't know anyone there, but I really want to try.
+
+Consultant: It's completely normal to feel nervous in new situations, especially when meeting new people. We can work together on some strategies to help you feel more comfortable. What do you think might help ease your nerves?
+
+User: Maybe I could prepare some things to say or topics to talk about. That might help break the ice.
+
+Consultant: That's a great strategy! Preparing topics or even questions to ask can make social interactions feel less daunting. Let's brainstorm a few conversation starters or questions you might feel comfortable using when you meet new people.
+
+User: I could ask them about their art or what they like to draw!
+
+Consultant: Absolutely! Those are excellent conversation starters. Inquiring about their interests shows you’re engaged, and it can also help you find common ground. What else could you ask?
+
+User: Maybe I can ask if they’ve entered any competitions or what their favorite artists are.
+
+Consultant: Those are fantastic ideas, Xiao Gao! By asking about their experiences, you’re inviting them to share, which often leads to a deeper connection. Now, let’s consider how you can keep this momentum going. What other steps can you take to support your growth in art and social interactions?
+
+User: I could practice drawing more often and maybe ask my teacher for advice on improving. Talking to my classmates about art could help too.
+
+Consultant: Those are great suggestions! Regular practice is key to improving your skills, and seeking feedback from your teacher is an excellent way to grow. Plus, discussing art with classmates can lead to new friendships. How do you feel about approaching your teacher for advice?
+
+User: I think I can do it! I’ve always been a bit shy, but now I feel like I can ask for help.
+
+Consultant: That’s a huge step forward! Remember, asking for help is a strength, not a weakness. It shows you’re willing to learn and grow. Let’s establish a timeline for your goals. When would you like to start practicing and reach out to your teacher?
+
+User: I can start practicing drawing every day after school, and I want to ask my teacher next week.
+
+Consultant: That sounds like a solid plan! Setting those timelines makes your goals more achievable. How do you think you'll feel once you start implementing these plans?
+
+User: I think I’ll feel proud of myself for taking action! I hope it will make me more confident too.
+
+Consultant: Absolutely! Taking action towards your goals will definitely enhance your confidence. As you move forward, remember that it's okay to have ups and downs. How will you remind yourself of the positive experiences you’ve had, like the art exhibition?
+
+User: I could keep the pictures of my art and think about the compliments I got. Maybe I’ll write them down.
+
+Consultant: That’s a wonderful idea! Keeping reminders of your achievements can serve as motivation during tougher times. Writing them down can help you reflect on your progress whenever you need a confidence boost. So, as we wrap up, what do you feel is your biggest takeaway from our session today?
+
+User: I feel like I can take steps to both improve my art and connect with others. I’m excited about the future!
+
+Consultant: That’s a fantastic takeaway, Xiao Gao! You’ve shown great insight into your progress and future goals. As you continue this journey, remember that you have the power to shape your experiences. If you ever feel uncertain or need support, don’t hesitate to come back. You’ve got this!
+###################

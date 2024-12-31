@@ -1,0 +1,388 @@
+Consultant: Hello, Jiang. I’m glad to see you today. How have you been feeling since our last session?
+
+User: Hi. Honestly, I've been feeling really down. My grades have dropped even more, and the tension with my uncle is weighing heavily on me. I just don’t know how to handle it.
+
+Consultant: I can sense that you're going through a tough time, especially with the ongoing family issues and academic pressure. Can you share more about how these conflicts are affecting you emotionally?
+
+User: Well, it just makes me feel more isolated. I used to think my uncle understood me, but after our last fight, I feel like I can’t talk to anyone. It's like I'm alone in all of this.
+
+Consultant: Feeling isolated in difficult times can be incredibly hard. It seems like your connection with your uncle meant something to you, and now that it’s strained, you're feeling more alone. How does this isolation impact your studies?
+
+User: It makes it really hard to focus. I sit down to study, but my mind just wanders, and I can’t retain anything. I feel overwhelmed, and then I just give up.
+
+Consultant: That sounds frustrating. When you try to study but feel overwhelmed, it’s understandable to want to give up. What thoughts come to your mind when you’re trying to study and feeling this way?
+
+User: I keep thinking that I’m not smart enough and that I’ll never be able to catch up. It feels pointless to even try sometimes.
+
+Consultant: It sounds like you’re dealing with some very negative thoughts about your abilities. Let’s take a moment to explore those thoughts. How much evidence do you have that supports the idea that you’re not smart enough?
+
+User: I suppose there’s no solid proof. I did well in the first two years, but now I just keep messing up and failing exams.
+
+Consultant: That’s an important realization, Jiang. It seems like you’re judging your abilities based on recent struggles. If a friend were in your position, what might you tell them about their situation?
+
+User: I would probably tell them that just because they’re struggling now doesn’t mean they’re not capable. I guess I should consider that for myself too.
+
+Consultant: Exactly! It's essential to separate your current challenges from your overall capability. It sounds like you do recognize your potential. How might you begin to shift your focus away from those negative thoughts?
+
+User: I think I can try to remind myself that I’ve succeeded before. Maybe I can make a plan to tackle my studies step by step instead of feeling overwhelmed all at once.
+
+Consultant: That sounds like a constructive approach! Breaking things down into smaller tasks can help reduce that feeling of being overwhelmed. What’s the first step you might take towards that plan?
+
+User: I could create a study schedule that’s more manageable. I might also reach out to a classmate to study together. 
+
+Consultant: I love that idea! Collaborating with peers can provide support and make studying feel less isolating. How does the prospect of studying with someone else make you feel?
+
+User: It actually sounds a bit comforting. I like the idea of having someone to share the workload with, and maybe it will help ease the pressure a little.
+
+Consultant: That’s a positive outlook! Taking small steps to improve your study environment and support system can really help. Let’s also touch on your relationship with your mother. How are you feeling about that at the moment?
+
+User: It’s complicated. She can be very critical, and I don’t feel like I can express how I really feel. It just adds to my stress.
+
+Consultant: It’s important to feel able to express your feelings, especially with someone as significant as your mother. What do you think holds you back from opening up to her?
+
+User: I guess I worry she won’t understand. She already has so much pressure on her, and I don’t want to add more to that.
+
+Consultant: That’s understandable, wanting to protect her from additional stress. However, sharing your truth can sometimes bring you closer. What if you tried expressing just one small feeling to her next time you connect?
+
+User: I could try saying that I’ve been finding things difficult lately. It’s not too heavy, and maybe it will start a better conversation.
+
+Consultant: That sounds like a great starting point! Opening that door could lead to deeper conversations over time. How do you feel about taking that step?
+
+User: I feel a bit nervous, but I think it’s worth a try. Maybe it would help both of us understand each other better.
+
+Consultant: Absolutely! And remember, it’s okay to feel nervous—change takes time. As we wrap up today, let’s summarize what you've taken away from our session. What do you feel are your key takeaways?
+
+User: I realize I need to be kinder to myself regarding my studies and that reaching out to others can really help. Opening up to my mother could also ease some of my burden.
+
+Consultant: Those are significant insights, Jiang. It sounds like you're beginning to see how changing some patterns could positively influence your feelings and situation. How are you feeling about these steps moving forward?
+
+User: I feel hopeful, but I know it will take practice. I’ll do my best, though.
+
+Consultant: That’s a wonderful attitude to have! Remember, progress takes time, and it's okay to take those steps slowly. If you ever need more support, I'm here for you. 
+
+User: Thank you. I really appreciate it. I think I’ll start making that study plan tonight.
+
+Consultant: That's great to hear! I look forward to hearing how it goes in our next session. Take care!
+###################
+Consultant: Hello, Jiang! I'm glad to see you today. I understand that you've been facing some challenges lately. Can you share with me how you've been feeling about your studies and your family situation?
+
+User: Hi. I feel really overwhelmed right now. My studies are suffering, and I can't seem to focus because of the constant tension at home. It’s frustrating, especially since I had a scholarship before. Now, I'm just lost.
+
+Consultant: It sounds like you're experiencing a lot of pressure both from your studies and the family conflicts. Let's explore this a bit more. What specific thoughts come to your mind when you think about your studies and your family situation?
+
+User: I keep thinking that I'll never be good enough, especially compared to my older brother. I feel like my mother is always disappointed in me, and it just makes everything worse.
+
+Consultant: I hear you. It seems like there's a strong belief within you that you're not measuring up to expectations, particularly from your mother. Can you tell me how these thoughts make you feel emotionally?
+
+User: They make me feel really anxious and sad—a mix of helplessness and frustration. I just feel like I can't do anything right.
+
+Consultant: Those feelings of anxiety and sadness can be really tough to manage. It sounds like your thoughts about not being good enough are contributing to these feelings. Let's look at that thought closely. Do you think there might be other ways to interpret your situation or your abilities?
+
+User: I guess I could think that I’m still trying, and there’s still time to improve. But it’s hard when my mother’s attitude makes me feel so bad.
+
+Consultant: That's a great insight, Jiang! You recognize the possibility that improvement is still within reach. What do you think would happen if you focused on your efforts rather than the outcome, especially in your studies?
+
+User: I think it might relieve some pressure. But still, I can’t escape the conversations and arguments at home that drag me down.
+
+Consultant: I understand how those ongoing family conflicts can be draining. Have you thought of any strategies that might help you manage your time better or set boundaries when it comes to your studies or those family situations?
+
+User: I’ve tried to create a study schedule but it never works because I get distracted or upset during family arguments. It’s like I can’t escape it.
+
+Consultant: Distractions from family conflicts can easily disrupt your focus. How about we brainstorm some small steps you can take to carve out time for studying? Maybe starting with a specific place or routine that feels safe for you?
+
+User: That sounds good, but I’m not sure where to start. I just feel so heavy all the time.
+
+Consultant: It’s okay to feel that heaviness. Let’s try to break it down. Can you identify a particular time or environment where you felt somewhat at ease to study, even if just for a short while?
+
+User: Sometimes, when I go to the library, I can concentrate, but I don’t go there often enough lately.
+
+Consultant: Going to the library sounds like a positive step. Could we set a goal for you to visit the library a few times this week for even short study sessions? What do you think about that?
+
+User: Yeah, I could try that. It feels better thinking about a specific place to go. 
+
+Consultant: That’s a promising start! Besides working on your study environment, let’s also consider how to address the family dynamics that are affecting you. In those tense moments, how do you usually feel or respond?
+
+User: I usually just shut down or want to leave the room. I don’t feel like I can express myself without arguing.
+
+Consultant: Shutting down can feel like a protective instinct, but it could also leave you feeling unheard. Would you be open to exploring some ways to express your feelings to your family without escalating tensions?
+
+User: I’d like that, but I don't know how to start. It’s really challenging.
+
+Consultant: It can be challenging to find the right words, especially in high-stress situations. Perhaps we can role-play a scenario about how you might express your feelings calmly. Would you be willing to try that?
+
+User: Sure, role-playing might help. I can practice how to talk to them without feeling overwhelmed.
+
+Consultant: Great! Let’s imagine a situation where you’re feeling frustrated. You could say something like, "I feel upset when conflicts arise, and I’d appreciate if we could talk about it calmly." How does that sound to you?
+
+User: That sounds okay. It’s like I’m taking the first step in not being reactive all the time. 
+
+Consultant: Exactly! It’s about taking control of your reactions and creating space for understanding. How do you feel about implementing this approach in the coming days?
+
+User: I feel a bit more hopeful about it, actually. If I can practice it in a safe space like here, maybe I can do it at home too.
+
+Consultant: Hope is a very powerful emotion, Jiang! With practice, you can gradually improve your interactions at home. Let’s also think about how you can remind yourself of your self-worth when those old negative thoughts come creeping back. 
+
+User: I could write down positive affirmations about myself, like remembering my achievements.
+
+Consultant: Excellent idea! Keeping those affirmations visible can help strengthen your self-belief over time. How about setting a small daily goal to reflect on these affirmations?
+
+User: That sounds manageable! I can make it part of my morning routine.
+
+Consultant: That's a fantastic plan! Morning routines can set a positive tone for the day. As we wrap up today, let’s summarize what you’ll focus on in the coming week. 
+
+User: Okay. I’ll visit the library a few times, practice expressing my feelings without arguing, and do my affirmations each morning.
+
+Consultant: Sounds like a solid plan! Remember, change takes time, and it’s okay to take small steps. I’m proud of what you’ve achieved today. If challenges come up, we can always revisit them in our next session. How are you feeling about everything we discussed?
+
+User: I feel lighter and more focused. Thank you for the support. I think I can manage it better now.
+
+Consultant: You're very welcome, Jiang. I'm glad to hear that you're feeling lighter. Keep in mind that it's a journey, and I'm here to support you along the way. See you next time!
+###################
+Consultant: Hi there! I'm really glad you could make it today. How have you been feeling since our last session?
+
+User: Hi. I've been feeling a bit better emotionally, but I still feel lonely. I'm trying to engage more with my classmates, but it doesn't always go as planned.
+
+Consultant: It's great to hear that you're feeling a bit better. Loneliness can be tough, especially in a university environment. Can you share some recent experiences you've had when interacting with your classmates?
+
+User: Well, I approached a few classmates to form a study group. I thought it would help me with my studies and get to know them better, but I still felt kind of awkward during our first meeting.
+
+Consultant: That’s a brave step, reaching out to form a group! It’s common to feel awkward in new social situations. What kind of thoughts did you have during that meeting? How did those thoughts affect your emotions?
+
+User: I kept thinking that they wouldn't want to include me or that I was bothering them. It made me feel anxious and self-conscious.
+
+Consultant: It's understandable to have those thoughts, especially when you're trying to connect with others. Let's explore those thoughts together. How do you think these thoughts might distort the situation?
+
+User: I guess I’m being overly harsh on myself. They might just be focused on studying and not really think about me bothering them. But it still makes me feel down. 
+
+Consultant: That’s a valuable insight! It seems like you’re recognizing that perhaps your thoughts aren’t entirely accurate. If a friend were in your position, what would you tell them about these thoughts?
+
+User: I would probably tell them that it’s normal to feel awkward, and as long as they’re trying, they shouldn’t beat themselves up. 
+
+Consultant: Exactly! It shows how much more forgiving we can be towards others than ourselves. What if we approached this situation with the same kindness towards yourself? How might that change your experience?
+
+User: I think it could help me feel more relaxed and maybe even more willing to engage with them again. 
+
+Consultant: Absolutely! Giving yourself permission to feel awkward can definitely ease the pressure. What small goal could you set for your next interaction with your classmates?
+
+User: I’ll try to speak up more during our next meeting and maybe ask a few questions to keep the conversation going.
+
+Consultant: That sounds like a perfect goal! Engaging more during the meeting can not only help you feel more involved but could also build connections with your classmates. How do you feel about setting that goal?
+
+User: I feel a bit nervous, but also a bit excited. It seems doable.
+
+Consultant: That’s a great reaction! It’s okay to feel a mix of emotions. Remember, each small step counts. What support or resources do you think you could rely on when you start to feel anxious about this?
+
+User: I guess I could remind myself of the positive experiences I’ve had. Maybe even talk to my roommate about my feelings beforehand to get his support.
+
+Consultant: That’s a smart strategy—recalling positive experiences can help counter those anxious thoughts. And reaching out to your roommate for support is a good way to feel connected. How do you feel about sharing your progress with him?
+
+User: That could really help. He knows me well, and I think talking it out would make me feel less alone.
+
+Consultant: Definitely! Sharing your feelings can create a supportive environment, which is crucial for your journey. How do you see your interactions with your classmates evolving from here?
+
+User: I hope they will become easier and that I can feel more part of the group. I want to keep building these connections.
+
+Consultant: That’s an encouraging outlook! It sounds like you’re ready to take these steps to improve your connections. As we wrap up today, what’s one key takeaway you’ll hold onto from our conversation?
+
+User: I think I’ll remember to be kinder to myself in social situations and to set small goals to gradually build my confidence.
+
+Consultant: That’s a wonderful takeaway! Kindness towards yourself can really transform how you approach these situations. Keep focusing on those small steps, and remember, you’re not alone in this. I look forward to hearing how things go next time!
+
+User: Thanks! I feel a bit more hopeful now, and I'm eager to see how I manage things.
+
+Consultant: I’m glad to hear that! Take care, and see you soon.
+###################
+Consultant: Hello, Jiang. Welcome to our session today. I'm glad to see you again. How have you been feeling since our last discussion?
+
+User: Hi. I've been feeling a little better in some ways, mainly because I've been trying to engage more with my peers in extracurricular activities. But, I still feel a lot of pressure from my family situation, especially my mother.
+
+Consultant: It's great to hear that you've been trying to engage with others more. That can definitely be a positive step forward. Can you share more about what you're experiencing with your mother's behavior and how it impacts you?
+
+User: Well, she can be quite harsh at times. I often feel like I can't do anything right in her eyes. And then there’s also the constant arguing with my uncle and aunt, which adds to the tension at home.
+
+Consultant: That sounds really challenging. It's understandable that the family dynamics would weigh heavily on you, especially when you're trying to find balance in your life. Have you found that these feelings affect your studies or social interactions in any way?
+
+User: Yes, definitely. Sometimes I just feel too overwhelmed to focus on my studies, and it makes me anxious about my grades. I want to perform well, especially since I'm on a scholarship, but my mind is just so cluttered.
+
+Consultant: It sounds like the pressure from both your family and academic expectations is creating a lot of anxiety for you. It's commendable that you're aiming to maintain high academic standards while navigating these difficult feelings. What would you say would help you feel more in control over your studies and emotional well-being?
+
+User: I think being able to manage my emotions better and having a clearer mind would help. Maybe if I could communicate better with my mother, it might ease some of the conflict too.
+
+Consultant: That’s a valuable insight. Being able to communicate openly with your mother can definitely help in reducing the tension at home. We can work on strategies together that might assist you in having those conversations. For now, how about we discuss some small, manageable goals you could set for your studies and family interactions?
+
+User: That sounds good. I feel like if I could set some small goals, it would give me a sense of accomplishment, even if it's just little steps.
+
+Consultant: Absolutely! Setting small, achievable goals is a great way to build confidence and a sense of control. For your studies, how about focusing on one subject each week to improve, and perhaps scheduling a brief, calm conversation with your mother to express how you’re feeling? What do you think?
+
+User: I think that makes sense. One subject a week seems doable. As for talking to my mother, I’d be a bit nervous, but I want to try.
+
+Consultant: It's normal to feel nervous about initiating those conversations. Perhaps we could practice some ways you might approach it during our sessions? Starting with expressing your feelings can sometimes lead to more productive discussions. What feelings would you like to share with her?
+
+User: I think I’d want to tell her that I'm trying my best in school and that her constant criticism makes it hard for me. I just want her to understand me better.
+
+Consultant: That’s a powerful message, Jiang. Expressing your feelings and letting her know how her words impact you can be a crucial step towards more understanding. We can draft some phrases together to help you communicate effectively with her if you’d like.
+
+User: Yes, definitely! That would help me feel more prepared. 
+
+Consultant: Great! Let’s begin by identifying what specific phrases might convey your feelings. For instance, you could say something like, “I feel overwhelmed when I hear criticism about my performance because I’m trying my best.” How does that sound to you?
+
+User: I like that approach. It feels honest and straightforward. I hope it won't lead to more conflict.
+
+Consultant: It’s understandable to be concerned about potential conflict, but approaching it with honesty often fosters more understanding. We can also talk about ways to handle her responses, should they not be as supportive as you'd hope. How would you feel about that?
+
+User: That’s a good idea. I think having a response ready in case it doesn’t go well would help me feel more secure.
+
+Consultant: Absolutely! Preparation can provide you with the reassurance you need. It might help to remind yourself that your feelings are valid, regardless of her initial reaction. How about we also talk about some self-care techniques to help manage your anxiety during this process?
+
+User: Yes, that would be helpful. I’ve been trying to practice some mindfulness, but it's tough to stick with it.
+
+Consultant: Mindfulness can indeed be challenging, especially under stress. We could explore a simple mindfulness technique that you can easily incorporate into your daily routine. For example, taking just five minutes to focus on your breath can be very grounding. Would you be open to trying that?
+
+User: I think I could try that. Just taking a few minutes could really help me settle my mind when things get overwhelming.
+
+Consultant: That sounds like a great plan, Jiang. Reassuring yourself that it's okay to take a moment to breathe can create a significant shift in your emotional state. Let’s summarize what we’ve discussed today—setting a goal for your studies, preparing for a conversation with your mother, and incorporating mindfulness practice into your routine. How are you feeling about these steps?
+
+User: I feel a bit lighter, actually. Having concrete steps makes everything seem less daunting. I’m looking forward to trying them out.
+
+Consultant: I'm really glad to hear that! Taking actionable steps is a big part of feeling more empowered. Remember, progress takes time, and it’s perfectly okay to reach out for support along the way. How about we check in on these goals in our next session? 
+
+User: That sounds good. I appreciate the support. 
+
+Consultant: You’re very welcome, Jiang. I'm here to support you, and I look forward to hearing about your experiences next time. Take care until then!
+###################
+Consultant: Hello, Jiang! I'm happy to see you today. How have you been feeling since our last session? 
+
+User: Hi. I’ve been feeling a bit anxious lately, especially regarding my interactions with my mother and the overall family dynamics. I tried talking to her, but it didn't go as well as I had hoped.
+
+Consultant: I see. It sounds like you're feeling both hopeful and cautious about your communication efforts with your mother. Can you share more about how you felt during that conversation? 
+
+User: I felt a mix of disappointment and a slight sense of empowerment because I tried to express myself. But it was hard to get through to her. 
+
+Consultant: It's understandable to feel that way. Attempting to communicate can be challenging, especially in complex family situations. How has this experience impacted your motivation or feelings about your studies?
+
+User: My motivation has taken a hit. Sometimes I feel overwhelmed and distracted. But after that conversation, I'm trying to focus more on what I can control.
+
+Consultant: That’s a positive shift in perspective! Focusing on what you can control can be very empowering. What specific actions or goals have you considered to enhance your sense of control in your studies or daily life?
+
+User: I’ve thought about setting small, achievable study goals each week and sticking to a routine to help manage my time better.
+
+Consultant: That sounds like a great plan! Breaking your studying into smaller, manageable goals can make a significant difference. What are some of the small goals you’d like to set for this week?
+
+User: I’d like to aim for studying at least two hours each day and finishing specific readings. Maybe I can also start reviewing past materials to help me catch up.
+
+Consultant: Those goals sound very realistic and productive. How do you feel about holding yourself accountable for these targets? 
+
+User: I think it might help. I could set reminders or share my goals with a friend for some support.
+
+Consultant: Involving a friend can definitely provide an extra layer of accountability and support. Speaking of support, how do you think discussing your feelings about your family or studies with others helps you during this process?
+
+User: It helps me not feel alone in my struggles, and hearing others’ perspectives often lightens my load a bit.
+
+Consultant: That’s a valuable insight! Connecting with others can create a supportive environment. Is there anyone in your life you feel comfortable sharing your thoughts with regularly?
+
+User: I have a couple of friends I trust, but I’m not sure if they understand the depth of what I’m going through.
+
+Consultant: It’s good to have friends you trust. Perhaps you could share a little more about your experiences. It might foster deeper connections and understanding. How does that idea resonate with you? 
+
+User: I think it could be beneficial to open up to them. I just need to figure out how to express my feelings without overwhelming them.
+
+Consultant: That’s a thoughtful approach. You could start with something simple—sharing specific situations rather than a full overview. Talking about smaller events may help them grasp your feelings without feeling overwhelmed. Would you be open to trying that?
+
+User: Yes, that sounds doable. I could describe one recent situation that stressed me out, like the conversation with my mom.
+
+Consultant: That’s a great starting point. Sharing specific events can lead to more meaningful conversations. How would you feel if you opened the discussion with one of your friends about that?
+
+User: I think I might feel nervous initially, but it could help relieve some pressure. 
+
+Consultant: Feeling nervous is completely natural. Remember, you’re taking a step towards expressing yourself, and that’s significant. How about we discuss any strategies to manage that nervousness before you approach your friend?
+
+User: I could try some deep breathing exercises beforehand to calm my mind. 
+
+Consultant: Deep breathing is an excellent strategy to ease nervousness. Practicing this can help you feel more centered before a conversation. Is there anything else you think might support you during these discussions with friends?
+
+User: Maybe writing down my key points before talking could help me stay on track. 
+
+Consultant: That’s another fantastic strategy! Having notes can provide clarity and ease the conversation. Could you set a time for when you would like to reach out to your friend?
+
+User: I could try to message them this weekend. 
+
+Consultant: That sounds like a solid plan. You're actively working towards enhancing your communication and support network. Reflecting on our conversation today, what do you feel has been your biggest takeaway?
+
+User: I’ve realized I have more control over my situation than I thought, and I can reach out for support. 
+
+Consultant: That’s a crucial realization, Jiang. Recognizing your sense of control can really empower you moving forward. As we wrap up today’s session, what steps will you take to ensure the progress we discussed continues?
+
+User: I’ll focus on my study goals, practice deep breathing before conversations, and reach out to my friends this weekend.
+
+Consultant: Those are excellent commitments! I'm confident these steps will keep you moving forward. Remember, it's okay to seek help and lean on your support network. How do you feel about our session today overall?
+
+User: I feel positive. I appreciate your insights and the strategies we've discussed. 
+
+Consultant: I’m glad to hear that! Your willingness to engage in this process is commendable. Remember, you can always return whenever you feel the need for support. I’m here for you. 
+
+User: Thank you! I really appreciate it. 
+
+Consultant: You’re always welcome, Jiang! Looking forward to hearing about your progress next time. Take care!
+###################
+Consultant: Hello, Jiang! It's great to see you again. How have you been feeling since our last session?
+
+User: Hello! I've been feeling a bit more motivated lately, especially with the support from my project team. It has helped me regain some enthusiasm for studying.
+
+Consultant: That’s wonderful to hear! Team support can really make a difference. Can you share more about how this motivation has impacted your studies?
+
+User: Yes, I've found myself being able to focus more and manage my time better. I'm not as overwhelmed as I used to be, although I still have some lingering thoughts about my family situation.
+
+Consultant: I appreciate your honesty. It's normal to have mixed feelings, especially regarding family dynamics. What specific thoughts or feelings about your family are still bothering you?
+
+User: Sometimes, I still feel stressed because of the constant arguments between my mother and my uncle. It makes the home environment quite tense, and I find it hard to concentrate on my studies there.
+
+Consultant: That sounds challenging. It’s understandable that such an environment can affect your ability to concentrate. Have you noticed any specific strategies that have helped you cope when you’re feeling stressed?
+
+User: I've been trying to spend more time in the library or with friends when things get tense at home. That seems to help, but I still feel anxious when I think about the issues back home.
+
+Consultant: It's good to hear that you're utilizing your environment and support system to cope. Let’s talk a bit about these anxieties. Can you identify what specific thoughts come to your mind when you think about your family issues?
+
+User: I often worry that if things don't improve, it will affect my studies and overall well-being. I keep thinking that I have to fix everything, which is really overwhelming.
+
+Consultant: It sounds like you’re carrying a lot of responsibility on your shoulders. It's important to recognize that you don't have to solve everything by yourself. Can we explore the possibility of letting go of some of that pressure?
+
+User: I guess I could try, but I feel guilty when I think about it. I want to help my family, but I’m also aware I need to take care of myself.
+
+Consultant: That’s a valid concern. Helping your family is important, but your well-being is just as crucial. What would it look like for you to balance both—supporting your family while also caring for yourself?
+
+User: Maybe I could set some boundaries. Like, I could talk to my mother when things get too heated and try to keep my study space as a safe zone away from those tensions.
+
+Consultant: Setting boundaries sounds like a healthy strategy! It can help create that safe space you need. How do you feel about implementing this approach?
+
+User: I think it could work, but I worry about her reaction. She can be quite confrontational.
+
+Consultant: That’s understandable. It might be helpful to think about how you can communicate your needs calmly. Would you be comfortable discussing some ways to approach that conversation with her?
+
+User: Yes, I think I could practice how to express my feelings without escalating the situation. That feels doable.
+
+Consultant: Excellent! Practicing the conversation can help. What kind of phrases or words do you think you might use to convey your feelings?
+
+User: I could start with something like, “I feel stressed when there’s tension in the house, and I need my study space to be calm.” 
+
+Consultant: That’s a great start! It’s honest and expresses your feelings without placing blame. How about we also brainstorm some other coping strategies for when these tensions arise?
+
+User: Sure! I often listen to music when I need to relax. Maybe I could schedule some breaks where I focus on that instead of thinking about the family problems.
+
+Consultant: That’s a fantastic idea! Music can be a great emotional release. How about planning specific times for your relaxing activities? 
+
+User: I could set a timer every few hours to remind myself to take those breaks. That might help me feel less overwhelmed.
+
+Consultant: Sounds like a practical plan! It's important to be intentional about self-care. As we wrap up today’s session, let's summarize some of the progress you’ve made. What do you feel has been your biggest takeaway?
+
+User: I think recognizing that it’s okay to set boundaries and focus on my well-being is my biggest lesson. I’m also feeling more confident about managing my study environment.
+
+Consultant: That’s wonderful to hear, Jiang! You’ve made significant progress. As we look forward, what strategies can you use to maintain these improvements moving ahead?
+
+User: I want to practice setting boundaries and make sure to incorporate regular breaks. I also want to keep communicating my feelings.
+
+Consultant: Those sound like effective strategies! Remember, it’s a journey, and it’s okay to seek support along the way. Our sessions have come to a close for now, but know that you have the tools to navigate this. If you ever need help again, you’re always welcome back. 
+
+User: Thank you! I appreciate your support and guidance throughout this process. I feel more equipped to handle things now.
+
+Consultant: You’re very welcome, Jiang! I’m proud of the progress you’ve made. Take care, and remember to treat yourself kindly. Goodbye for now!
+###################

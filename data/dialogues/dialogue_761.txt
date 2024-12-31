@@ -1,0 +1,378 @@
+Consultant: Hello Zhang, I’m glad to see you again today. How have you been feeling since our last session?
+
+User: Hi. Honestly, I've been feeling pretty anxious, especially since that math exam didn't go well. I keep worrying about feeling that way again. 
+
+Consultant: I see that the aftermath of the exam has been weighing on you. Can you tell me more about what specifically makes you anxious about future exams or study sessions?
+
+User: I really stress out thinking I might feel nauseous or lightheaded again like I did during the test. It just makes it hard for me to focus on studying, especially with all the noise from my classmates.
+
+Consultant: It sounds like the physical reaction you experienced during the exam has left a lasting impression on you. Understanding that connection can really help. What thoughts go through your mind when you start feeling anxious about studying?
+
+User: I often think that I won't be able to perform well, that I’ll just mess up again. This leads to even more anxiety. 
+
+Consultant: That’s a tough cycle to be stuck in. Let’s examine those thoughts. Can you share a specific instance where this occurred, maybe during studying?
+
+User: Sure. Last week, I was trying to focus on math, but the noise from the classroom made me feel overwhelmed. I ended up thinking I wouldn't understand anything no matter how much I tried, and then I felt really sick again.
+
+Consultant: It sounds like the noise really triggers your anxiety, making you feel overwhelmed. When you had those thoughts about not understanding, how did that make you feel emotionally?
+
+User: I felt really helpless and frustrated. It’s like I doubted my abilities, and that just made it worse.
+
+Consultant: I can imagine how frustrating that must be. Let’s try to challenge that thought. What evidence do you have that you won’t understand the material at all?
+
+User: Well, I struggled on that last exam... but maybe that’s not enough evidence to think I’ll never understand math.
+
+Consultant: Exactly. That’s an important realization. Everyone has tough days, and one exam doesn’t define your ability. If a friend was in your position, what would you tell them?
+
+User: I think I’d tell them to keep trying, that they can improve with practice.
+
+Consultant: That’s a compassionate perspective. You deserve that same kindness from yourself. How can we practice shifting your mindset when you feel overwhelmed by noise or anxiety?
+
+User: I guess I could remind myself that I’ve done well before and that it’s okay to struggle. Maybe I can try to block out the noise with headphones or something.
+
+Consultant: That sounds like a great strategy! Using headphones can help create a buffer. Additionally, you mentioned practice—what small steps can you take to reintroduce studying in a comfortable way?
+
+User: I could try studying in a quieter space first and then gradually face the noise again for short periods.
+
+Consultant: That’s a solid plan! Gradual exposure can help you become more comfortable over time. How does that idea make you feel?
+
+User: It feels a bit reassuring. I think I could handle that better.
+
+Consultant: That’s fantastic to hear! Remember, it’s about progress, not perfection. And facing it step by step can help regain your confidence. Are there any tools we discussed last time that you think could help during this process?
+
+User: I think practicing some relaxation techniques could really help manage my anxiety when I feel overwhelmed.
+
+Consultant: Yes, absolutely! Techniques like deep breathing or mindfulness can be very effective. Shall we practice one together right now?
+
+User: Okay, that sounds good.
+
+Consultant: Great! Let’s take a deep breath in through your nose... and out through your mouth. As you do this, try to focus on how your body feels. What do you notice as you breathe?
+
+User: I feel a little more relaxed, actually. It’s nice to take a moment like this.
+
+Consultant: I’m glad to hear that. Remember that you can use this anytime you feel overwhelmed. As we wrap up today, how do you feel about your ability to face the upcoming study sessions?
+
+User: I feel a bit more hopeful now. I think with some practice, I can handle it better and not let the noise bother me so much.
+
+Consultant: That’s a wonderful takeaway, Zhang. You’ve made progress in understanding your anxiety and finding strategies to cope. Keep reminding yourself of your strengths. If those anxious feelings return, just remember what we discussed today.
+
+User: I will. Thank you for your help. 
+
+Consultant: You’re very welcome! I'm here for you. Take care, and I look forward to our next session.
+###################
+Consultant: Hello, Zhang! I'm glad you're here today for our session. I remember from our last conversation that you've been dealing with anxiety, especially related to schoolwork. How are you feeling about that now?
+
+User: Hi! Yes, I still feel quite anxious, especially with my classmates comparing grades and the pressure of upcoming exams. It's overwhelming at times.
+
+Consultant: I can understand how those comparisons and pressures might increase your feelings of anxiety. Let's take a moment to explore what it means for you to feel overwhelmed. What thoughts come to mind when you're feeling this way?
+
+User: I often think that I'll fail or that I'm just not good enough compared to my classmates. It makes me want to avoid studying altogether because I feel like it won’t help.
+
+Consultant: It sounds like you're caught in a cycle of negative thinking. You mentioned feeling that you're not good enough. Can you tell me how this thought affects your emotions and behavior when it comes to studying?
+
+User: When I think I'm not good enough, I feel hopeless and frustrated. Then I just procrastinate instead of studying, which makes everything worse. 
+
+Consultant: That’s a tough cycle to be in—feeling hopeless leading to procrastination, which in turn reinforces those negative thoughts. Let's take a closer look at that thought: how much evidence do you have that supports the idea that you’re not good enough?
+
+User: I guess I don't have strong evidence. I do okay on some tests, but I just focus on the times I struggle and blow things out of proportion.
+
+Consultant: It's interesting that you recognize this pattern. How would you advise a friend who was feeling this way? What different perspective might you offer them?
+
+User: I would probably tell them that it's normal to struggle sometimes and that they shouldn’t compare themselves to others. Everyone has their strengths and weaknesses.
+
+Consultant: Exactly! That's great insight. You have the ability to view it more compassionately when it comes to someone else. Let’s try to apply that perspective to yourself. How can we challenge your negative thoughts with this kinder viewpoint?
+
+User: Maybe I could remind myself that I have strengths, too, and that struggling doesn’t define my abilities or my worth.
+
+Consultant: That’s a fantastic approach! It’s essential to recognize both your strengths and weaknesses. How might you remind yourself of your strengths before you start studying or when you feel anxious?
+
+User: I could list my achievements or things I enjoy about studying, maybe even keep a visible reminder on my desk.
+
+Consultant: That sounds like a great idea! Having a physical reminder can be powerful. So, what steps can we take to help you implement this strategy when you sit down to study?
+
+User: I could take a few minutes before studying to look at my reminder and take some deep breaths to calm down.
+
+Consultant: That sounds like a good plan! Deep breathing can help center you. Let’s explore some specific breathing exercises you can use. Would you like to try one together?
+
+User: Sure, I’d like to try that.
+
+Consultant: Great! Let’s take a deep breath in for four counts, hold it for four counts, and then breathe out slowly for six counts. Ready? Let’s do this a few times together. 
+
+User: Okay. (Pauses) That feels nice. I already feel a bit calmer.
+
+Consultant: I’m glad to hear that! Incorporating breathing exercises can help you manage those anxious moments. Now, when you're feeling overwhelmed, what other coping strategies can you think of to help you through?
+
+User: I might try to break my study sessions into smaller chunks and reward myself after completing each one.
+
+Consultant: That’s an excellent strategy! Breaking tasks into smaller pieces often makes them feel more manageable. What kind of rewards do you have in mind?
+
+User: Maybe I could allow myself to watch an episode of my favorite show after I finish a section.
+
+Consultant: Perfect! That seems like a fun and motivating reward. How do you think breaking your study sessions into smaller tasks and using rewards will impact your anxiety?
+
+User: I think it might help me feel less pressured. Knowing I won’t have to study for hours at a time could make it easier to start.
+
+Consultant: It sounds like you’re beginning to see a way to reduce the anxiety associated with studying. Remember, it's okay to feel anxious about studying; the key is how you respond to that anxiety. How do you feel about these strategies we’ve discussed today?
+
+User: It feels good to have some ways to cope. I think I can handle this better now.
+
+Consultant: I’m really glad to hear you say that! As we wrap up today, what’s one takeaway you want to carry with you until our next session?
+
+User: I think I’ll focus on being kinder to myself and using my breathing techniques when I start feeling anxious.
+
+Consultant: That’s a wonderful takeaway! Remember, you’re on the right path, and I’m here to support you. If you notice anything else you want to discuss in our next session, feel free to bring it up. 
+
+User: Thank you! I appreciate your help.
+
+Consultant: You’re welcome, Zhang! I’m looking forward to hearing about your progress next time. Take care until then!
+###################
+Consultant: Hello, Zhang! I'm glad to see you again today. How have you been feeling since our last session?
+
+User: Hi! I've been trying to implement some strategies, but I still find it hard to stay focused while studying. It feels overwhelming when I encounter new topics, and I get anxious about not understanding them.
+
+Consultant: It's great that you're exploring new strategies! It sounds like you're experiencing anxiety when faced with new information, which is completely understandable. Can you share what specific thoughts come to your mind when you start to feel overwhelmed during your studies?
+
+User: When I can't concentrate, I often think, "I'm never going to get this," or "I am so dumb." Those thoughts just spiral, and I feel even more anxious.
+
+Consultant: It seems those thoughts are quite intense and aren't helping you at all. When you say, "I'm never going to get this," do you notice how it makes you feel about your abilities?
+
+User: Yes, it makes me feel really defeated and more anxious. It’s like I’ve already given up before I even start.
+
+Consultant: I appreciate you sharing that with me. Let's try to challenge those thoughts together. What evidence do you have that supports the idea that you won’t understand the material? Have there been times when you’ve succeeded despite feeling anxious?
+
+User: Actually, there have been times I learned something new and did well on tests. But I don't seem to remember those moments when I'm stressed.
+
+Consultant: That’s a valuable insight! Your past successes can serve as proof that you are capable of understanding new material. How can we remind you of those successes during your study sessions to help counter the negative thoughts?
+
+User: Maybe I could write down my successes and look at them when I feel anxious?
+
+Consultant: That’s a fantastic idea! Creating a document of your achievements could help reinforce a more positive mindset. Let’s also explore how we can create a more focused study environment for you. What distractions do you usually face when you study?
+
+User: I get really distracted by my phone and sometimes by noise from outside. It’s hard to concentrate with all that going on.
+
+Consultant: I understand. Limiting those distractions is essential. How would you feel about setting specific phone-free study periods or using noise-canceling headphones? 
+
+User: I think both of those ideas could really help. I just need to stick to it and not give in to the temptation.
+
+Consultant: Commitment can be challenging, especially when distractions are around. One technique we can discuss is stimulus control. This means creating an environment conducive to studying. What specific times can you dedicate to study without distractions?
+
+User: I usually have some free time in the afternoon after school. I could try to study during that time.
+
+Consultant: That sounds like a good plan! You might consider setting a timer for your study sessions as well. How long do you think you can focus before needing a break?
+
+User: I think I could manage around 25 minutes before needing a quick break.
+
+Consultant: Perfect! That’s known as the Pomodoro Technique, which involves studying for 25 minutes followed by a 5-minute break. It helps maintain your focus. How does that sound to you? 
+
+User: It sounds manageable! I’ll definitely try it.
+
+Consultant: Great! After your breaks, reflect on how the session went and if any negative thoughts arose. We can even use the three-column and five-column tools we discussed to work through those thoughts together. How does that sound for next time?
+
+User: I like that idea. It’ll help me clarify my thoughts and see how I can change them.
+
+Consultant: I'm glad to hear that! Remember, it's about gradually building your confidence and skills in managing those thoughts. Before we wrap up today, let's review what we’ve talked about. What do you think will be your most significant takeaway from our session?
+
+User: I think focusing on my past successes and setting up a structured study environment will help a lot. Also, using the timers and reflecting on my thoughts!
+
+Consultant: Absolutely! Those are fantastic strategies to take forward. As you implement these techniques, don't hesitate to reflect on your experiences. I’m confident you’ll notice improvements in your focus and overall comfort with studying. If you encounter difficulties, we can discuss them in our next meeting. 
+
+User: Thanks! I feel more hopeful about managing my anxiety and staying focused now.
+
+Consultant: You’re very welcome, Zhang! I’m proud of the progress you’re making. Keep reminding yourself of your strengths, and don’t forget to take good care of your mental health. I look forward to hearing about your experiences next time. 
+
+User: Thank you! I appreciate your help and am looking forward to our next session!
+
+Consultant: Take care, Zhang! Remember, you have the tools to manage this, and I believe in your ability to implement them. See you next time!
+###################
+Consultant: Hello, Zhang! I'm glad you're back for another session. How have you been feeling since our last conversation?
+
+User: Hi! I've been trying to use the relaxation techniques we discussed, and I think it’s helping a bit. But sometimes I still feel overwhelmed, especially with upcoming exams.
+
+Consultant: It's great to hear that you've been trying the relaxation techniques! It's normal to feel overwhelmed with exams approaching. Can you share more about those feelings? What specifically causes you to feel overwhelmed?
+
+User: Well, I feel anxious just thinking about the exams. I worry I might not perform well, and then I overthink everything. It makes it hard to concentrate.
+
+Consultant: It sounds like you're experiencing a lot of pressure around the exams. That pressure can definitely make concentration difficult. When you think about the exams, what kind of thoughts come to your mind?
+
+User: I often think things like "What if I fail?" or "I'm going to mess it up." It really makes me feel stressed and panicky.
+
+Consultant: Those thoughts sound really intense and understandably make you feel anxious. Let's explore those thoughts a bit more. How do you feel when you think, "What if I fail?"?
+
+User: I feel a knot in my stomach, and my heart races. I just want to escape from it all.
+
+Consultant: That physical reaction makes sense in response to such overwhelming thoughts. It seems like you're facing some extreme thinking. Have you noticed if there are other ways to view your situation? 
+
+User: Not really. I guess I just focus on the worst-case scenarios.
+
+Consultant: It’s easy to fall into that pattern. Let's try to challenge those thoughts a bit. What evidence do you have that supports the thought, "What if I fail?"? And could there be alternative explanations for your situation?
+
+User: Well, I haven’t failed before, but I just feel a lot of pressure this time.
+
+Consultant: You’ve succeeded before, and that’s important to remember! If a friend were in your position, what would you say to help them view it differently?
+
+User: I would probably tell them to stay calm and that one exam doesn’t define them.
+
+Consultant: Exactly! It’s very insightful to remind yourself that one exam doesn’t determine your worth or future. Let's try to replace that "What if I fail?" thought with something more balanced. Perhaps, "I can do my best, and that's enough." How does that sound?
+
+User: That sounds better. It feels less stressful.
+
+Consultant: I'm glad to hear that! Now, let’s incorporate some relaxation techniques. When you start to feel that knot in your stomach, what if you took a moment to practice deep breathing? Would you be willing to give it a try when those feelings arise?
+
+User: Yes, I think I could do that. I've tried it a bit before, and it helped.
+
+Consultant: That's wonderful! Let's plan to practice deep breathing together now. Place your hand on your stomach, take a deep breath in through your nose, and let your belly expand. Hold it for a moment, then slowly breathe out through your mouth. How do you feel after doing that?
+
+User: I feel a bit calmer. It really does help to focus on my breathing.
+
+Consultant: That’s fantastic, Zhang! Deep breathing can be a powerful tool to help manage anxiety. Let’s incorporate that into your study routine. When else can you see yourself using this technique?
+
+User: Maybe before I start studying or even before the exams.
+
+Consultant: Great idea! Establishing that routine will help create a calming habit for you. Before we conclude today, let's reflect on what we talked about. How do you feel about the new perspectives we’ve explored regarding your thoughts and the relaxation techniques?
+
+User: I feel more hopeful, and I think I can improve my mindset. I want to keep practicing the breathing and challenge my negative thoughts.
+
+Consultant: That’s a positive mindset shift! Remember, it’s all about progress. You’ve learned valuable skills today, and I encourage you to keep practicing. When we meet next time, we can assess your progress and keep building on what you've learned. How does that sound?
+
+User: That sounds good! Thank you for your help today.
+
+Consultant: You’re welcome, Zhang! I'm proud of the progress you're making. Remember that it's a journey, and every small step counts. Looking forward to seeing you next time!
+###################
+Consultant: Hello, Zhang! I'm really glad to see you here today. It sounds like you've been exploring new online learning tools. How has that experience been for you so far?
+
+User: Hi! Yes, I’ve been trying out this new tool my friend recommended. At first, I was a bit skeptical, but I feel like it's really helping me organize my study sessions better.
+
+Consultant: That’s great to hear! It seems like you're open to these new techniques and are starting to see some positive effects. What specific changes have you noticed in your study habits or mood since you started using this tool?
+
+User: I’ve been able to focus better and get through my study plan more smoothly. I feel less overwhelmed than before. 
+
+Consultant: It sounds like you're experiencing a positive shift in both your focus and your feelings about studying. What do you think contributes most to this increased focus?
+
+User: I think the way the tool breaks down the material into smaller parts helps a lot. I don't feel like I’m staring at a mountain of work anymore.
+
+Consultant: That makes sense! Breaking tasks into smaller, manageable pieces can make a big difference. Have you noticed any specific moments when you felt particularly motivated or productive while using the tool?
+
+User: Yes, there were a couple of sessions where I managed to study for a longer time without losing concentration. I felt proud of myself afterward.
+
+Consultant: That's an excellent achievement, Zhang! Feeling proud of your progress is important. How did those successful study sessions influence your feelings about tackling your other study tasks?
+
+User: It definitely made me feel more confident. I think I’m starting to believe I can handle my workload better.
+
+Consultant: That confidence is huge! It’s wonderful to see how the tool is reinforcing your self-belief. Are there any challenges you’re still facing when using the tool, or are you feeling quite comfortable with it now?
+
+User: There are still some moments where I find it hard to start studying. I get distracted easily, especially with my phone nearby.
+
+Consultant: Ah, distractions can be tough, especially with so many things competing for our attention. Maybe we could explore some strategies to help manage those distractions. What do you think might work for you? 
+
+User: I guess putting my phone away while studying could help. But it's hard to resist checking it sometimes.
+
+Consultant: It’s completely understandable. It can be a challenge to resist those temptations. What if we tried setting small goals for yourself, like studying for a certain period without checking your phone first? How does that sound?
+
+User: That could work. If I know I have a set time to focus, I might be more inclined to stick to it.
+
+Consultant: That’s a great approach! Setting specific time limits can create a better structure for your study sessions. How do you feel about the idea of rewarding yourself after successfully completing those focused study periods?
+
+User: I like that idea! Maybe I could reward myself with a few minutes on my phone after studying for a while.
+
+Consultant: That sounds like a balanced way to handle it! By rewarding your focus, you are creating a positive feedback loop. What do you think will be the biggest challenge for you in implementing this new strategy?
+
+User: I think I might struggle with staying disciplined and not getting distracted during those study blocks.
+
+Consultant: It’s normal to face that struggle, especially at first. We can develop a plan to gradually increase your study time while minimizing distractions. Would you feel comfortable trying out this strategy for a week and then reflecting on your experience?
+
+User: Yes, I would be willing to give it a try! I think I just need to commit to it.
+
+Consultant: That’s the spirit, Zhang! Commitment is key, and you're already showing a positive mindset. How about we set a specific goal for the week, like studying for three 30-minute blocks each day without distractions?
+
+User: That seems doable! I’ll write it down and keep track of my progress.
+
+Consultant: Excellent! Keeping track can really help you stay motivated. As we move forward, how can I support you in your journey this coming week?
+
+User: I think just having someone check in with me afterward would help a lot. Even if it’s just to share my progress.
+
+Consultant: I would be happy to check in with you! It’s helpful to have accountability. When we meet next, we can discuss how it went and any patterns you noticed during your study sessions.
+
+User: Sounds good! I’m excited to see how it goes.
+
+Consultant: Fantastic! I’m proud of you for being proactive about your studies. Let’s make sure to celebrate any progress you make, no matter how small. How are you feeling about this overall?
+
+User: I feel optimistic! It's nice to have a concrete plan and someone to talk to.
+
+Consultant: I’m glad to hear that! Optimism is a powerful tool in maintaining motivation. Remember, every step you take is a step towards improvement. Before we wrap up today, is there anything else on your mind that you’d like to share?
+
+User: Not right now. I feel like we covered a lot, and I appreciate your help!
+
+Consultant: It’s truly my pleasure, Zhang. I’m looking forward to hearing about your progress next time. Remember, you’ve got this! If you have any questions in the meantime, feel free to reach out. Have a wonderful week ahead!
+
+User: Thank you! I will. See you next time!
+###################
+Consultant: Hello, Zhang! It’s great to see you again. I’m really happy to hear about the progress you’ve made in managing your emotions and improving your study efficiency. How have you been feeling since our last session?
+
+User: Hi! I feel surprisingly confident and motivated. The positive feedback from my teacher really helped boost my spirits. It's nice to see my hard work paying off.
+
+Consultant: That’s wonderful to hear! Positive feedback can be very encouraging. Can you tell me a bit about how those feelings have affected your daily life or study habits since our last talk?
+
+User: Well, I’ve been able to sit down and study without feeling overwhelmed. I used to procrastinate a lot, but now I find myself sticking to my study plans.
+
+Consultant: It sounds like you’ve made significant strides in becoming more focused and disciplined. What do you think has contributed most to this change?
+
+User: I think it’s a combination of the strategies we discussed and the support from my family. They’ve been really understanding and encouraging.
+
+Consultant: That’s really positive! Support from family can make such a difference. Now, let’s focus on how we can maintain this progress. What are some strategies you think you could use to ensure you keep feeling this way as you move forward?
+
+User: I believe I should keep practicing the techniques you shared, like setting small goals for each study session. I think I might also need to communicate more with my teacher if I face challenges.
+
+Consultant: Those sound like excellent strategies! Setting small goals can help keep your motivation up, and keeping the lines of communication open with your teacher can provide valuable support. How do you feel about establishing a routine for checking in with your teacher or family about your progress?
+
+User: I think that’s a good idea. Regular check-ins would help me stay accountable and not drift back into old habits.
+
+Consultant: Absolutely! Accountability is key in maintaining progress. Would you like to set some specific times for these check-ins? Perhaps weekly or bi-weekly?
+
+User: Yes, a weekly check-in sounds manageable. That way, I can make sure I’m staying on track and get feedback on my progress.
+
+Consultant: Great! A weekly check-in can really help you stay focused on your goals. Let’s also discuss how you feel when faced with potential challenges. Are there any specific situations that make you feel anxious about studying or about reaching out for help?
+
+User: Sometimes, I still worry about disappointing my family or teachers if I don’t do well. That fear can make it hard to ask for help.
+
+Consultant: That’s completely understandable, Zhang. It’s normal to have concerns about disappointing others. Could we explore the possibility of reframing how you view asking for help? Instead of seeing it as a potential disappointment, what if you viewed it as an opportunity for growth and support?
+
+User: I see your point. Asking for help could actually show that I’m committed to improving, rather than a sign of failure. 
+
+Consultant: Exactly! Seeking assistance is a smart strategy that reflects your commitment to your growth. How do you feel about trying that perspective in your future studies?
+
+User: I feel a lot better about it, like it's okay to not know everything and to reach out when I need help.
+
+Consultant: That’s a significant insight! Remember, everyone needs support at times. Now, let’s talk about any specific situations in the upcoming weeks where you might need to apply this new way of thinking. 
+
+User: Well, I’ve got a big exam coming up in two weeks. I think I could definitely benefit from asking my teacher some questions about topics I'm struggling with.
+
+Consultant: That’s a great plan! Preparing a few key questions in advance might make it easier for you to reach out. How would you feel about doing that?
+
+User: I could definitely do that. Having specific questions might lessen my anxiety about the interaction.
+
+Consultant: Exactly, having specific topics in mind can make conversations feel more manageable. Would you like to create a list of those questions together now?
+
+User: Sure, I think that would help me feel more prepared!
+
+Consultant: Fantastic! Let’s make that list. Once you have your questions ready, you can approach your teacher with confidence. After your exam, we’ll evaluate how it went. 
+
+User: I’m looking forward to seeing how this goes!
+
+Consultant: Me too! And remember, no matter the outcome, you’re making significant progress just by preparing and being proactive. 
+
+User: Thank you! I feel more motivated and less anxious already.
+
+Consultant: You’re doing amazing work, Zhang. As we wrap up today’s session, let’s summarize the strategies we’ve discussed, including the weekly check-ins and preparation for your exam. How do you feel about your plan moving forward?
+
+User: I feel really good about it! I think I have some solid strategies to keep progressing.
+
+Consultant: That’s wonderful to hear! You’ve made incredible progress, and I am confident that you can maintain it. Remember to take things step by step, and don’t hesitate to reach out for help when you need it. 
+
+User: Thanks! I appreciate your support and guidance.
+
+Consultant: Anytime, Zhang! You’re welcome to reach out if you need anything in the future. I’m here for you. Let’s plan to meet again after your exam to discuss how it all went. You’ve got this!
+
+User: I’ll see you then! Thanks again.
+
+Consultant: Take care, Zhang! I look forward to our next session.
+###################

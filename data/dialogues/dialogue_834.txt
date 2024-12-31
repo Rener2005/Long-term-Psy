@@ -1,0 +1,406 @@
+Consultant: Hello! I'm really glad you're here today. I want to create a safe space for you to share what's been on your mind lately. How have you been feeling?
+
+User: I just feel so lost. Ever since the accident and losing my daughter, everything has become unbearable. I can't seem to find any joy in anything, and I feel like I'm just a burden.
+
+Consultant: That sounds incredibly painful, and I'm sorry to hear you're experiencing such deep grief and hopelessness. It’s completely understandable to feel lost after such a tragic event. Can you tell me more about what you're feeling each day?
+
+User: Each day feels like a struggle. I barely eat, I can't sleep well, and I just don't want to do anything. Some days, I find it hard to even get out of bed.
+
+Consultant: It sounds like your daily life has become very challenging since the accident. The loss of your daughter and your injury are huge burdens to carry. Have there been any specific thoughts that come to your mind during these tough times?
+
+User: I keep thinking that I should have done something to prevent the accident. If I had just been more careful, maybe she would still be here.
+
+Consultant: That sort of thinking is a common reaction to loss, but it often leads to overwhelming guilt. Can I ask you, is there evidence that supports this belief? Or have there been other explanations for what happened?
+
+User: I don't know. It's hard to think clearly. I feel like I should have protected her. It’s my fault.
+
+Consultant: It’s understandable to place blame on yourself, especially when grief is intense. However, accidents can be unpredictable, and it's essential to recognize that placing all the blame on yourself might not be entirely fair. What would you say to a friend who felt similarly in your situation?
+
+User: I suppose I would try to comfort them, but it’s different for me. I feel like I can't forgive myself.
+
+Consultant: It’s important to give yourself the grace and compassion you would offer a friend. You're processing immense grief, and self-forgiveness can be a long journey. Would you be willing to explore some small steps towards that?
+
+User: Maybe. I just don't know where to start. It all feels so overwhelming.
+
+Consultant: It does sound overwhelming. Let’s take it one step at a time. We can start with expressing your feelings. It might help to write down your thoughts or try talking to someone you trust. How does that sound to you?
+
+User: Writing might be easier. I can’t talk about this to anyone else, it hurts too much.
+
+Consultant: That makes sense. Writing can be a safe way to express your emotions. I encourage you to jot down how you feel whenever it feels too much. And remember, it's okay to take breaks if it feels heavy. How do you feel about trying this?
+
+User: I think I can try that. I just hope it helps.
+
+Consultant: That's a positive step! And it’s completely okay to have doubts. Taking small actions can gradually create room for healing. Have you considered any other ways to care for yourself, even in small ways?
+
+User: I haven’t thought about it, honestly. I just feel like I don't deserve to do anything good for myself right now.
+
+Consultant: It’s understandable to feel that way, but self-care is not about deserving. It’s about survival and gradually finding comfort. Would you be open to exploring some basic self-care practices together, like relaxation exercises or deep breathing?
+
+User: I guess I wouldn’t mind learning something new. Maybe it could help me calm down a bit.
+
+Consultant: That's great to hear! Deep breathing is a wonderful place to start. It can help you feel more centered when emotions become intense. Would you like to try a simple breathing exercise with me now?
+
+User: Sure, I can give that a try.
+
+Consultant: Perfect! Let’s take a deep breath in through your nose for a count of four… hold it for a count of four… and slowly exhale through your mouth for a count of six. Let’s do this a few times together.
+
+User: Okay, that does feel a bit calming.
+
+Consultant: I’m glad to hear that! Remember, it’s okay to take these moments for yourself. As we continue our sessions, we can explore more techniques to help manage your feelings. What do you think about that?
+
+User: I think that’s a good idea. I need all the help I can get.
+
+Consultant: We’ll take this journey together, and I’m here for you. As we conclude for today, would you like to share any thoughts you have about our discussion or what you've learned today?
+
+User: I think I realize it’s okay to express how much I’m hurting. This feels like a small step forward. 
+
+Consultant: Absolutely, acknowledging your pain is a significant step. Remember, you’re not alone in this. In our next session, we can build on what we've discussed today. How does that sound to you?
+
+User: That sounds good. I’ll try to write down my feelings and practice the breathing exercises until we meet again.
+
+Consultant: I think that’s an excellent plan. Just take it one day at a time. I'm looking forward to talking again and hearing about your progress. Take care until then!
+
+User: Thank you. I appreciate it.
+###################
+Consultant: Hello! I'm really glad to see you today. How have you been feeling since our last conversation?
+
+User: Hi. Honestly, I still feel overwhelmed with guilt about my daughter's death. It's hard to even think about the good times we had without feeling that pain.
+
+Consultant: I understand that reflecting on those good memories can be really difficult right now, especially when they bring up such intense feelings of guilt. Can you tell me more about what you feel when those memories surface?
+
+User: Whenever I remember her, I can't help but think about how things could have been different. I feel a deep sense of regret and just... loss.
+
+Consultant: It sounds like those thoughts are really heavy for you. You're feeling a lot of regret and sadness when you think about her. Have there been any specific situations or thoughts that trigger these feelings?
+
+User: Just being at home reminds me of her. It's like everything I see makes me feel like I've failed her somehow.
+
+Consultant: Being in a place filled with memories can certainly amplify those feelings. It seems like you’re holding yourself accountable for her passing. In moments like these, what kind of thoughts cross your mind?
+
+User: I keep thinking, "If only I had done something different, she would still be here." It feels like I could have prevented it.
+
+Consultant: It’s painful to carry those thoughts of "if only". Let’s explore those thoughts together. What evidence do you have that supports the idea that you could have prevented the tragedy?
+
+User: I just feel like I should have been there for her more. I keep replaying those moments in my head.
+
+Consultant: It’s understandable to want to find reasons or answers in difficult situations. However, are there any facts or perspectives that could give you a different view on what happened?
+
+User: I know I couldn’t control the accident itself, but the guilt still doesn’t go away.
+
+Consultant: It's tough when your mind tries to make sense of the tragedy. If you were to speak to a friend who felt the same way, what would you tell them about their feelings of guilt?
+
+User: I'd probably tell them that it's not their fault, that accidents happen. But I can't seem to accept that for myself.
+
+Consultant: It’s a powerful insight that you recognize how you would comfort a friend. Let’s try to apply that same compassion to yourself. What if you challenged the belief that you are to blame? How might that change how you feel?
+
+User: I guess I could try to see it from a different angle, but it’s hard. I feel so responsible.
+
+Consultant: It definitely takes time and effort to shift that perspective. Remember, self-compassion is a journey. Would you be open to exploring some gentle reminders or affirmations that could help you in those tough moments?
+
+User: I’d be willing to try that. Anything to ease this burden a bit.
+
+Consultant: That’s a great step forward! How about creating some affirmations that remind you it's okay to grieve and that you’re not solely to blame? For instance, “I did my best at the time” or “It’s okay to feel sad about my loss.”
+
+User: I like the sound of that. I can focus on those when I start to spiral.
+
+Consultant: That’s wonderful! It’s about acknowledging your feelings without letting them consume you. In addition to affirmations, have you found any activities or moments that help provide a little relief from those intense emotions?
+
+User: I haven’t really had the energy to do much lately. I just feel so tired.
+
+Consultant: Feeling tired is completely understandable given what you’re going through. How about we brainstorm some simple activities, perhaps short walks or listening to music that reminds you of her? Just gentle actions to nurture yourself?
+
+User: I could try listening to some of her favorite songs. That might help a little.
+
+Consultant: That sounds like a beautiful idea. Music can be a powerful tool for emotional expression. Remember, it’s important to take small steps to care for yourself. How do you feel about starting this week with one of those songs?
+
+User: I think I can manage that. I’ll give it a try.
+
+Consultant: Great to hear! And as you begin to explore this, try to stay gentle with yourself. How has talking through these feelings today impacted you?
+
+User: I feel a bit lighter, actually. It’s nice to share this and not keep it all bottled up.
+
+Consultant: I’m so glad to hear that! Sharing your feelings is an important part of healing. As we look ahead, we’ll continue to explore these emotions together. It’s a journey, and you’re not alone in this.
+
+User: Thank you. That means a lot to me.
+
+Consultant: You're very welcome. Just know that you’re taking essential steps on this path, and I look forward to continuing to support you in our next session. How does that sound?
+
+User: Sounds good. I will see you next time.
+
+Consultant: Take care until then, and remember to be kind to yourself in the days ahead.
+###################
+Consultant: Hello! I'm really glad to see you today. How have you been feeling since our last session?
+
+User: Hi. It's been a bit rough, to be honest. I still think about the accident and my daughter often. Sometimes it hits me all of a sudden, and I feel overwhelmed.
+
+Consultant: I can imagine how tough that must be for you. It’s completely understandable to feel overwhelmed, especially given the gravity of your experiences. Can you tell me more about when these feelings come up for you?
+
+User: It usually happens when I’m alone. I can be sitting quietly, and then memories just flood in. I remember the accident clearly, and then I start thinking about my daughter. It makes me feel really heavy.
+
+Consultant: Those memories sound incredibly painful. It makes sense that being alone would allow those thoughts to surface more intensely. Have you noticed any specific triggers or thoughts that lead up to these overwhelming moments?
+
+User: Sometimes it’s just seeing something on TV or even hearing a sound that reminds me of the crash. It feels like I'm right back in that moment.
+
+Consultant: That sounds really challenging. It seems like certain reminders can transport you back to those painful feelings. When these memories arise, what emotions do you typically feel in those moments?
+
+User: I feel a mix of sadness and anger. Sadness for my loss and anger because I hate that this happened to me and my family.
+
+Consultant: Those emotions are completely valid. It’s alright to feel that way after such a traumatic experience. Have you found any ways to cope with those emotions when they arise?
+
+User: Not really. I just try to shut it out or distract myself, but that doesn’t always work. I don’t want to think about it, but it keeps coming back.
+
+Consultant: It’s understandable to want to avoid those thoughts; they’re incredibly painful. By facing them, we can work together to lessen their power over you. How would you feel about trying to talk about some of those memories in a safe way today?
+
+User: I guess I could try. I just don’t want to feel worse afterward.
+
+Consultant: That’s a valid concern. We can take it slow, and I'm here to support you through it. Can you start by sharing a memory that feels manageable to discuss right now?
+
+User: Well, I remember the day of the accident. It was just a normal day, and then everything changed so fast. I didn’t even see it coming.
+
+Consultant: I can see how that sudden change would be shocking. When you think about that moment, what feelings come up the most for you?
+
+User: I feel like I was just robbed of my normal life. Everything just seemed so unfair.
+
+Consultant: It really does feel unfair, and that’s a painful realization. You had every right to feel secure and happy in your life before that day. Recognizing that sense of loss is important. Would you be willing to explore how these memories affect your daily life now?
+
+User: I think so. It definitely affects how I feel about everything. I’ve lost interest in so many things.
+
+Consultant: It’s common to feel disconnected from activities and interests after such a loss. Let’s look at some of the activities you used to enjoy. What are some things that used to bring you happiness?
+
+User: I liked spending time outdoors, going for walks with my family, but now it feels pointless.
+
+Consultant: Those moments sound precious, and it’s understandable to struggle with finding joy in them now. What if we think about how to bring a bit of that outdoor enjoyment back into your life, even in small ways?
+
+User: I don’t know. I feel stuck, like I wouldn’t enjoy it anymore.
+
+Consultant: It’s alright to feel that way. We can take small steps. Perhaps starting with a brief walk outside, even just to feel the fresh air, could help. What do you think about that idea?
+
+User: That sounds a bit easier, I guess. 
+
+Consultant: I’m glad to hear that! It can be a gentle way to reconnect with a piece of what you once enjoyed. It’s also perfectly fine to take those baby steps. How do you feel about setting a small goal for your week, like a short walk?
+
+User: I think I could try to do that. Just a few minutes, maybe.
+
+Consultant: That sounds like a great plan! Just a few minutes of walking can be a good start. Remember, it’s about being gentle with yourself. As you work on these small steps, it might help you feel a bit more hopeful. 
+
+User: I hope so. It’s hard to imagine feeling better sometimes.
+
+Consultant: It’s completely understandable. Hope can feel distant, but it often starts with very small actions, just like the one you’re planning. Keeping up with these small goals can gradually help shift your feelings. 
+
+User: I’ll give it a try and see how it goes. 
+
+Consultant: That’s a wonderful attitude! I believe in you, and I’m here to support you along the way. Let’s also think about how to incorporate your group activities into this process — they can provide extra support for you. What do you think?
+
+User: Yeah, I’ve started to join some group activities lately. It’s a little hard, but sometimes it helps to talk to others.
+
+Consultant: That’s fantastic to hear! Sharing your experiences with others can be a powerful way to feel less alone. Engaging in those activities can also support your emotional healing. How have those interactions been for you?
+
+User: Some have been good, while others are tough. But I guess it's nice to be around people who understand.
+
+Consultant: Being surrounded by understanding people can make a big difference. It’s okay if some interactions are harder than others. Each step you take towards connecting with others is valuable. 
+
+User: I appreciate that. I’ll keep trying to talk with them more.
+
+Consultant: That sounds like a positive plan! Remember, every effort you make counts. So, as we wrap up today’s session, what’s one thing you’re taking away from our conversation?
+
+User: I think I need to be more patient with myself and take small steps forward. 
+
+Consultant: Absolutely! Patience is key, and celebrating those small steps is important too. I’m looking forward to hearing about your progress next time. Remember, you’re not alone in this journey. 
+
+User: Thank you. I’ll do my best.
+
+Consultant: You’re very welcome! Take care of yourself, and I’ll see you soon.
+###################
+Consultant: Hello! It's good to see you again. I know we've been working on your emotional well-being and your journey towards recovery. How have you been feeling since our last session?
+
+User: Hi. Honestly, it’s been tough. I try to do a little bit of the rehab training but I still feel overwhelmed and insecure about it. 
+
+Consultant: I appreciate you sharing that. Attempting rehab can indeed bring about a mix of feelings—both uncertainty and a sense of achievement. Can you tell me what parts of the training felt overwhelming?
+
+User: It just feels like I’m not really making progress, and some days, I just don’t want to try at all. 
+
+Consultant: That’s completely understandable. It can be tough to see progress, especially when it feels slow. Let’s focus on what you managed to accomplish lately during your rehab training. What small steps did you take that made you feel even a bit accomplished?
+
+User: Well, I managed to sit up with support for a little while and even tried moving my legs a bit. It was scary, but I did it. 
+
+Consultant: That’s a significant step! It’s important to acknowledge those achievements, no matter how small they seem. How did it feel for you to take those actions during training? 
+
+User: I felt a bit proud, but then that feeling quickly faded to anxiety again. 
+
+Consultant: It’s common for mixed emotions to arise. You felt pride, yet anxiety crept back in. Can we explore that anxiety a little further? What thoughts ran through your mind when you tried those exercises?
+
+User: I kept thinking that I might fail, or what if I can’t do things right? Those thoughts just make me want to give up.
+
+Consultant: Those thoughts sound quite daunting and create a barrier for you. Let’s challenge those thoughts. Do you have any evidence that you might fail? What about the times you succeeded in sitting up or moving your legs? 
+
+User: Well, I did manage to do those things at least... 
+
+Consultant: Exactly! You succeeded in those moments, and that's evidence that you can make progress. How would you advise a friend who feels the same way you do? What would you tell them about their successes?
+
+User: I guess I’d tell them to keep trying and not focus so much on the bad thoughts. 
+
+Consultant: That’s a great perspective! Often, we are our own worst critics. How about we apply that same kindness to yourself? Would you be willing to set a small, achievable goal for your rehab training, focusing on your strengths rather than the negatives?
+
+User: Maybe I could aim to practice sitting up for a longer time or moving my legs a bit more each day?
+
+Consultant: That sounds like a fantastic goal! Aiming to increase your time sitting up or the movements you do is very feasible. How do you think working towards that goal will feel for you? 
+
+User: I think it could keep me motivated, and if I succeed, I might feel a bit better about myself. 
+
+Consultant: Exactly! Success, no matter how small, can build momentum. Let’s also discuss how you’ll reward yourself when you achieve these goals. What kind of recognition might make you feel good about your efforts?
+
+User: I might treat myself to something nice or just give myself some positive self-talk.
+
+Consultant: Those are excellent ideas! Celebrating your achievements, regardless of size, is crucial for building that self-esteem. How would you remind yourself of the positive self-talk when those negative thoughts arise? 
+
+User: I could write them down or say them out loud whenever I feel anxious. 
+
+Consultant: That’s a powerful strategy! Keeping a list of positive affirmations could be a great way of reinforcing your strengths. What do you think one of your affirmations could be today?
+
+User: Maybe, “I am capable of improving and I’ve already made progress.” 
+
+Consultant: That's a wonderful affirmation! It captures both capability and recognition of your progress. As we close our session today, how are you feeling about the direction your recovery is taking?
+
+User: I feel slightly more hopeful. The idea of setting small goals seems less scary now. 
+
+Consultant: That’s fantastic to hear! Remember, everyone’s progress looks different, and it’s the small steps that count. I’m here to support you in your journey. When we meet next, we can explore how your goals went and any challenges you faced. 
+
+User: Thank you, I appreciate that. I’m looking forward to it. 
+
+Consultant: You’re very welcome! Keep focusing on those small victories, and take care of yourself as we prepare for next time. You’ve got this!
+###################
+Consultant: Hello! I'm really glad to see you today. Let's talk about how you've been feeling lately and your experiences during your rehabilitation. 
+
+User: Hello. I've been trying hard in my rehab, but some days I just feel so low. Even though I've made some progress, I still struggle to see the point in all of it.
+
+Consultant: It sounds like you're experiencing a mix of feelings about your progress. You mention that you are trying hard but also feeling low. Can you share what specific achievements you’ve made in your rehabilitation that made you feel good?
+
+User: Well, I managed to sit for a longer time during the training last week, and there were moments when I was able to stand with help. That was a small win, but I don't know if it really matters.
+
+Consultant: Those are indeed significant accomplishments! It's important to recognize those moments, as they show your effort and resilience. How did it feel when you achieved those milestones?
+
+User: It felt nice in the moment, like maybe I can really improve. But then I think about how far I still have to go, and it just brings me down again.
+
+Consultant: I completely understand that. It’s common to feel both proud of accomplishments and weighed down by the overall journey ahead. Let's explore that feeling more. What thoughts come to your mind when you think about the distance left to go in your rehabilitation?
+
+User: I often think that no matter how hard I try, I might never get back to how I was before. That thought really hurts.
+
+Consultant: That thought sounds quite heavy. It’s understandable to have those feelings, especially after experiencing such significant changes in your life. Can we take a moment to challenge that thought? Is there any evidence that supports how you might be able to improve over time?
+
+User: There are definitely times when I feel stronger after making some progress. Other patients in rehab have told me it’s possible to adapt. 
+
+Consultant: That’s a great insight! You already have some evidence from your experience and observations. What if you looked at your journey as a series of small steps instead of one big leap? How might that change your perspective?
+
+User: I suppose if I think of it as small steps, it doesn’t feel as overwhelming. But I still struggle with the concept of being okay with where I am.
+
+Consultant: Accepting where you are can be a challenge, but it's also an important part of the journey. What would it take for you to feel okay about your current situation?
+
+User: Maybe if I could find ways to celebrate the small wins more often, I might feel better. 
+
+Consultant: That sounds like an excellent strategy! Celebrating those small wins can help reinforce your motivation. How do you envision celebrating your progress?
+
+User: I could perhaps share my achievements with my family more and let them support me. 
+
+Consultant: Involving your family sounds like a wonderful idea! Support from loved ones can really help in your journey. How do you think they would react to hearing about your achievements?
+
+User: I think they would be really happy. They’ve been supportive through all of this, so sharing my progress might make us all feel better.
+
+Consultant: Absolutely! Celebrating together can strengthen your support network and encourage you to keep pushing forward. What small step would you like to focus on in the coming week to help maintain that positive momentum?
+
+User: I think I’ll try to focus on improving my sitting time more and maybe communicate my achievements to my family, even the tiny ones.
+
+Consultant: That sounds like a solid plan. By focusing on those improvements, you're acknowledging your progress, however small it may feel. How do you feel about this plan?
+
+User: I feel good about it, actually. It gives me something to look forward to.
+
+Consultant: I’m really glad to hear that! Setting those achievable goals can make a big difference. How about we also set a time to reflect on how it went in our next session?
+
+User: That sounds helpful. I’d like that. 
+
+Consultant: Perfect! Before we wrap up today, is there anything else on your mind that you’d like to discuss or any other concerns you might have?
+
+User: No, I think I’ve shared everything for now. Just feeling a bit more hopeful.
+
+Consultant: That’s great to hear! Feeling hopeful is a significant step forward. Remember, it's about the journey and the progress you’ve already made. Looking forward to our next chat!
+
+User: Thank you! I appreciate your help today. 
+
+Consultant: You're very welcome! It's my pleasure to assist you. Take care, and we'll speak soon!
+###################
+Consultant: Hello! I'm glad you're here for this session. How are you feeling today?
+
+User: Hello. I'm feeling a bit better than before. I’ve started to think about my recovery and what life might look like moving forward. Still, I struggle with motivation sometimes.
+
+Consultant: It's great to hear that you're feeling better and starting to think positively about your future. Can you tell me more about what aspects of your recovery and future life you’re considering?
+
+User: Well, I’m thinking about how I can manage my daily activities better. I want to regain some independence, but it feels daunting.
+
+Consultant: Regaining independence is a significant goal, and it’s natural to feel daunted by the challenges ahead. What activities do you think you would like to start with that could help you feel more independent?
+
+User: I’d like to be able to do simple things, like get dressed by myself or make a meal. I know those sound basic, but they feel overwhelming right now.
+
+Consultant: Those are absolutely important steps toward independence. Let's break them down together. What do you think would be the first small step you could take towards achieving one of those activities?
+
+User: Maybe I could start with getting dressed. I could try to do it with some help first and then see if I can do it on my own.
+
+Consultant: That sounds like a practical plan! Starting with help can make it less overwhelming. How would you feel about trying that this week?
+
+User: I think I can manage that. It might be frustrating, but I want to give it a try.
+
+Consultant: It’s perfectly okay to feel frustrated; that’s a normal part of the process. As you start trying these new skills, are there certain thoughts or feelings that come up for you when you think about them?
+
+User: I worry that I won’t be able to do it right or that I’ll give up again.
+
+Consultant: Those are valid concerns, but it’s important to remember that learning takes time and practice. Let’s explore those thoughts. What evidence do you have that suggests you might not be able to do it?
+
+User: I just feel like I’ve struggled so much, and I don’t know if this will be any different.
+
+Consultant: It’s understandable to feel that way based on your past experiences. However, you’ve already made progress in your emotional and physical recovery. How might you reframe that thought to focus more on your current improvements?
+
+User: Maybe I could think that I’ve been improving, so I could try again. I guess I should be patient with myself.
+
+Consultant: That’s a positive shift in thinking! Reminding yourself of your progress and allowing room for patience can make a big difference. How about we come up with a few encouraging statements you can say to yourself when those doubts creep in?
+
+User: That sounds helpful. Maybe something like, "I have improved, and I can keep going"?
+
+Consultant: That’s an excellent affirmation! Let’s practice that when you feel those doubts surfacing. In addition, how do you feel about setting a specific time for your dressing activity this week?
+
+User: Setting a time might help. I could try it in the morning when I usually have some help available.
+
+Consultant: Perfect! Establishing a routine can offer structure and support. How can you make this plan feel more manageable for you?
+
+User: I think I could ask my spouse to remind me and be there for support. That might help keep me accountable.
+
+Consultant: Involving your spouse is a great strategy! Support can make all the difference. How about we also set a backup plan for those days when motivation might be low? 
+
+User: I could have a backup plan where if I can’t do it one day, I can focus on another small task instead.
+
+Consultant: That’s a fantastic idea! Flexibility is key, and it’s okay to adapt your plans. Reflecting on how far you’ve come, what would you say has been your biggest challenge?
+
+User: Honestly, just accepting what happened and trying to move forward with my life has been tough.
+
+Consultant: Acceptance can indeed take time and effort. What strategies have you used in the past that helped you manage acceptance?
+
+User: I used to write about my feelings. Sometimes it helped to get things out on paper.
+
+Consultant: Writing can be a powerful tool for processing emotions. Would you be open to integrating writing into your routine as part of your recovery plan?
+
+User: I think that could be beneficial. I could set aside some time to write during the week to reflect on my feelings.
+
+Consultant: That’s a wonderful addition! Reflecting can lead to greater self-awareness. How are you feeling about the steps we’ve discussed today?
+
+User: I feel a bit more hopeful. Having these small targets makes things seem less overwhelming.
+
+Consultant: I’m glad to hear that! It’s all about taking those small steps. As we wrap up today’s session, let’s summarize what we’ve accomplished and plan for next time. 
+
+User: We’ve talked about getting dressed, involving my spouse, and writing. I feel like I have a clearer plan.
+
+Consultant: Yes, and remember to be patient with yourself. Each step is progress! Do you have any concerns before we finish our session?
+
+User: Not really. I’m just looking forward to making some changes.
+
+Consultant: That's the spirit! Remember to celebrate every small victory along the way. If you feel comfortable, let’s schedule our next session to continue your progress.
+
+User: Sure, let's do that. I appreciate all the help.
+
+Consultant: It’s my pleasure! I look forward to hearing about your progress in our next session. Take care until then!
+###################

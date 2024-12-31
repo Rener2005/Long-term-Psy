@@ -1,0 +1,400 @@
+Consultant: Hello, Xiao Ming! I'm really happy to see you today. How are you feeling about your experience at school lately?
+
+User: Hi! I'm feeling really good! I was able to stay quiet during class, and my teacher said I did a great job!
+
+Consultant: That’s wonderful to hear! It sounds like you’re feeling proud of yourself for your good behavior. Can you tell me more about how you managed to stay quiet this time?
+
+User: Well, I just remembered that my teacher wants us to listen and not talk too much. I thought it would help me learn better.
+
+Consultant: That’s a great thought, Xiao Ming! Remembering your teacher's instructions shows that you’re becoming more aware of the classroom rules. How did it feel to keep quiet while learning?
+
+User: It felt nice. I could hear what the teacher was saying, and I think I understood the lesson better.
+
+Consultant: That’s an excellent observation! Understanding the lesson is important. What do you think might happen if you continue to practice staying quiet in class?
+
+User: I hope I can help my friends too. If I stay quiet, maybe they can hear better like I did!
+
+Consultant: That’s such a caring thought, Xiao Ming! Supporting your friends by being quiet shows you’re a good friend. How does it feel to think about helping others in class?
+
+User: It makes me happy! I want my friends to learn just like I did.
+
+Consultant: I can hear that you really value your friends and their learning. Let’s think about how you can remind yourself to stay quiet more often. What can you do when you feel the urge to talk?
+
+User: Maybe I can take deep breaths or just think about the lesson instead of what I want to say.
+
+Consultant: Those are excellent strategies, Xiao Ming! Taking deep breaths can help you calm down and focus. How do you think your classmates would react if they saw you using these techniques?
+
+User: I think they might notice and want to do it too. I want to show them how it works!
+
+Consultant: That’s a great idea! By showing them, you can lead by example. How does it feel to think about being a role model for your friends?
+
+User: It feels really cool! I want to be a good example.
+
+Consultant: I can see you’re excited about being a good example! Let’s also talk about what good behavior looks like outside of class. Are there times during play that you could practice staying calm and focused?
+
+User: Yes! Sometimes during games, I get a little too excited and want to talk a lot, but I think I can try to focus more.
+
+Consultant: That’s a fantastic insight! Focusing during games can help everyone have more fun. Can you think of a specific game where you can practice this?
+
+User: Maybe during tag. I can listen for when it’s my turn and not shout too much.
+
+Consultant: That’s a perfect choice! Listening carefully during tag will help the game run smoothly. How do you feel about trying that next time you play?
+
+User: I feel good about it! I’m excited to try and see if it works.
+
+Consultant: I’m excited for you too, Xiao Ming! Remember, practicing these skills will take time. What can you do to remind yourself to stay calm when playing?
+
+User: I can ask my parents to help me remember. They can remind me before I start playing!
+
+Consultant: That’s a great plan! Your parents can certainly help support you. What else can you do to reinforce your good behavior in school and during play?
+
+User: Maybe I can tell my teacher and friends what I’m trying to do. They can help me too!
+
+Consultant: Absolutely! Involving your teacher and friends can create a supportive environment. How do you feel about sharing your goals with them?
+
+User: I think it will be nice! They can cheer me on and help me remember.
+
+Consultant: That sounds very encouraging! Having support can really help you succeed. As we wrap up today, what do you think is the most important lesson you've learned about staying calm and focused?
+
+User: I learned that staying quiet helps me listen better, and I can help my friends too!
+
+Consultant: Precisely, Xiao Ming! You’ve shown great understanding today. As you continue to practice, remember to be patient with yourself. How are you feeling about your progress so far?
+
+User: I feel really happy and excited to try everything we talked about!
+
+Consultant: That’s fantastic to hear! I believe you can absolutely do it. Keep practicing, and we’ll talk again soon about how it’s going. You’re doing amazing work!
+
+User: Thank you! I can’t wait to share my progress next time!
+###################
+Consultant: Hello, little Ming! I'm happy to see you today. How are you feeling about getting along with your classmates?
+
+User: Hi! I feel pretty good, but I’m a bit worried. I want to be friends with everyone, but sometimes I don’t know what to say or how to invite them to play.
+
+Consultant: It’s great that you want to make friends! Can you tell me more about a time when you felt like you wanted to join in but weren’t sure how?
+
+User: At my friend’s birthday party, I saw some kids playing a game, and I wanted to ask if I could join, but I was too shy and just sat there.
+
+Consultant: I see! It sounds like you were excited to play but didn't feel confident enough to ask. What do you think made you feel shy at that moment?
+
+User: I think I was afraid they might say no or think I’m weird for wanting to join.
+
+Consultant: That’s a very common feeling! It’s normal to worry about what others think. If you could imagine a positive way to ask to join, what would that look like?
+
+User: Maybe I could say, “Can I play with you?” But I’m not sure if I could say it out loud.
+
+Consultant: That’s a great start! Let’s practice that together. How would you tell me, “Can I play with you?” right now?
+
+User: Okay… “Can I play with you?” I think I could try to say it.
+
+Consultant: That sounded really good, Ming! Remember, practicing helps you feel more comfortable. How do you feel after saying it out loud?
+
+User: I feel a little better, but still a bit nervous.
+
+Consultant: It's okay to feel nervous! Everyone does sometimes. What could help you feel less nervous next time you want to ask?
+
+User: Maybe if I take a deep breath before I ask, it might help.
+
+Consultant: Taking a deep breath is a fantastic idea! It can calm you down. Is there another situation where you’d like to invite a friend to play or do something together?
+
+User: Yes! There's a boy in my class, Tim, and I want to invite him to play with my toys after school.
+
+Consultant: That sounds like a fun plan! How could you invite Tim to play with your toys? Let’s think of some words you can use.
+
+User: I could say, “Do you want to come to my house and play with my toys?” 
+
+Consultant: Absolutely! That’s a clear and friendly invitation. How do you feel about saying that to Tim?
+
+User: I feel good. I think I can do it!
+
+Consultant: Awesome! What would be a good way to approach Tim when you see him next?
+
+User: I could catch him during recess when we are both playing.
+
+Consultant: That sounds perfect! Remember to smile when you ask. After you invite him, what do you think will happen next?
+
+User: I hope he says yes! I really want to play together.
+
+Consultant: That’s a great expectation! If he says yes, what fun things do you want to do with him?
+
+User: Maybe we can build a big tower with my blocks! 
+
+Consultant: Building a tower sounds like a lot of fun! What if, instead, Tim says he can’t play today? How would you feel about that?
+
+User: I think I would be a bit sad, but it’s okay. I could ask him again another day.
+
+Consultant: That’s a mature way to think about it, Ming! Being okay with someone saying no shows you’re resilient. Remember, friendships take time. How about we summarize what you’ll do?
+
+User: I’ll practice asking, “Can I play with you?” and I’ll invite Tim to play with my toys. If he says no, I’ll try again later. 
+
+Consultant: That’s a wonderful plan! You’ve got some solid strategies to use. How do you feel about our session today?
+
+User: I feel a bit more confident now. Thank you!
+
+Consultant: You’re very welcome! I’m glad you feel better. Remember, every small step counts. I'm looking forward to hearing about your progress next time!
+###################
+Consultant: Hello, Xiaoming! I'm really glad to see you today. How have you been feeling since we last talked?
+
+User: Hi! I’ve been a bit sad because I had a disagreement with one of my classmates. I wanted to play, but we didn’t understand each other, and it ended up in a fight.
+
+Consultant: I see. It sounds like that situation made you feel upset. It’s good that you are here and ready to talk about it. Can you tell me more about what happened during that disagreement?
+
+User: Well, I wanted to play with the toys, but my classmate said no. I felt angry and said something mean, and then we both didn’t want to play anymore.
+
+Consultant: That sounds tough, Xiaoming. It's normal to feel angry when someone doesn't want to share. What do you think made it difficult for you two to understand each other?
+
+User: I think we both wanted to play with the toys, but we didn't say it nicely. I just got frustrated and didn't know how to ask.
+
+Consultant: It’s okay to feel frustrated. Understanding how to express your feelings can be really important in situations like these. How do you think you could have expressed your feelings differently in that moment?
+
+User: Maybe I could have said, “I really want to play with the toys. Can we share them?” But I didn’t think of that when I was angry.
+
+Consultant: That's a great thought, Xiaoming! Using “I” statements like that can help your friends understand how you feel without getting defensive. How do you feel about trying to use that approach next time?
+
+User: I think I’d like to try it. I really want to be friends and play together again.
+
+Consultant: That's a wonderful intention, and I'm proud of you for wanting to make it better with your friend. Let's practice together! How would you say it if your friend didn’t want to play?
+
+User: Um... I would say, “I feel sad when you don’t want to play. Can we share?”
+
+Consultant: Very good, Xiaoming! That sounds kind and clear. How do you think your friend would respond to that?
+
+User: I hope they would understand and say yes. I just want to play without fighting.
+
+Consultant: That's perfectly valid. Focusing on sharing can really help. If a disagreement happens again, what might you do first to calm down?
+
+User: I can take a deep breath and count to three before saying anything mean.
+
+Consultant: Great strategy! Taking a moment to breathe can help you think before reacting. How does that make you feel about handling future conflicts?
+
+User: It makes me feel a bit more confident. I want to be better at talking to my friends.
+
+Consultant: That’s an excellent mindset to have! Confidence will help you express your feelings better. How do you think your relationship with your friends would improve if you used these skills?
+
+User: I think we would understand each other more and have more fun together.
+
+Consultant: Absolutely! Building understanding can lead to more fun and laughter. Now, let’s think of a time when you successfully talked to a friend. Can you tell me about it?
+
+User: There was a time when I wanted to play a game, and I asked nicely. We shared the toys and had a lot of fun together.
+
+Consultant: That’s a fantastic example, Xiaoming! It shows that open communication can lead to positive experiences. How did you feel after that?
+
+User: I felt very happy! It was nice to play together. I want to feel that way again.
+
+Consultant: I’m so glad to hear that! Remembering those happy moments can motivate you to use your communication skills. What do you think you can do at home to practice expressing your feelings with your family?
+
+User: I can tell my mom when I feel tired or when I want to play. I’ll try to explain nicely.
+
+Consultant: That sounds like a wonderful plan! Practicing at home can make it easier when you’re with your friends. Do you feel ready to use these skills in your daily life?
+
+User: Yes, I feel ready! I’m excited to try talking more openly.
+
+Consultant: Fantastic! You're making great progress, Xiaoming. Before we wrap up today’s session, what’s one thing you want to remember from our conversation?
+
+User: I want to remember to use “I” statements and take deep breaths to stay calm.
+
+Consultant: Perfect! Those tools will serve you well. I'm proud of you for being open and ready to learn. Remember, it’s okay to ask for help whenever you feel unsure, either from me or your family. 
+
+User: Thank you! I’ll keep practicing and come back if I need more help.
+
+Consultant: You're very welcome, Xiaoming! I'm here for you anytime you need support. Have a wonderful day, and keep practicing your new skills!
+###################
+Consultant: Hello, Xiao Ming! I'm delighted to have you here today. Let's start by talking about how you're feeling since the family sports day. What has been on your mind?
+
+User: Hi! I feel happy about spending time with my family. I liked playing games, and I think we did really well together!
+
+Consultant: That sounds wonderful! It's great to hear that you enjoyed the games and feel good about your family time. How did it feel to work together with your family?
+
+User: It felt nice! I felt like we were all a team. I liked when we cheered for each other!
+
+Consultant: Feeling like a team is very important! It helps us feel closer to each other. Did you notice any moments when you felt really confident or proud during the games?
+
+User: Yes! I scored a point in the relay race, and everyone was cheering for me. It made me feel really special!
+
+Consultant: What a fantastic achievement! Cheering from your family must have made you feel great. How do you think that experience might help you in other activities, like in school or during playtime with friends?
+
+User: I think if I can score points again, I'll feel brave enough to try more things. Maybe I can play more with my friends!
+
+Consultant: That's a wonderful connection you've made! Feeling brave can encourage you to try new things. Are there specific activities or games you’d like to try with your friends?
+
+User: I want to play soccer with them. I love running and kicking the ball!
+
+Consultant: Soccer sounds like a lot of fun! How do you think playing soccer with your friends might help you feel more confident?
+
+User: I think if I play with them, I'll get better. And if they cheer for me, I might feel even more special like at the sports day!
+
+Consultant: Exactly! Having your friends cheer for you can boost your confidence just like your family did. It sounds like you’re ready to take that step. What do you think could help you prepare for playing soccer with them?
+
+User: Maybe I can practice running and kicking the ball at the park first. Then I’ll feel more ready!
+
+Consultant: That's a brilliant idea! Practicing will certainly help you feel more comfortable. How about setting a little goal for yourself? Something you can do today or this week to get ready?
+
+User: I could go to the park tomorrow and practice for a little while!
+
+Consultant: That sounds like a great plan, Xiao Ming! Setting small goals helps us build confidence. After practicing, how will you feel when you try playing soccer with your friends?
+
+User: I think I’ll feel really confident! And I want to show them what I can do!
+
+Consultant: That's the spirit! I'm sure your friends will be excited to see your skills. Remember, you can also encourage your friends as you play together, just like at the family sports day. How do you feel about that idea?
+
+User: That sounds fun! I like cheering for my friends too!
+
+Consultant: Wonderful! Cheering each other on is such a positive experience. Now, let's talk about how we can celebrate your achievements. When you practice and play soccer, how can we acknowledge your efforts?
+
+User: Maybe my parents can give me a sticker for practicing and for playing well!
+
+Consultant: Stickers are a fantastic way to celebrate! It shows your hard work and encourages you to keep going. How would you feel when you receive a sticker for your progress?
+
+User: I think I’ll feel really happy! And it will make me want to try even harder!
+
+Consultant: Absolutely! Positive reinforcement like stickers can boost your confidence and motivation. Lastly, what do you think is the most important thing you learned from the family sports day that you want to remember for the future?
+
+User: I learned that it’s really fun to work together and cheer for each other!
+
+Consultant: That’s a valuable lesson, Xiao Ming! Teamwork and support can make any activity more enjoyable. How can you use this in other parts of your life, like in school or with friends?
+
+User: I can try to help my friends more during games. And I can ask them to help me too!
+
+Consultant: That’s a wonderful idea! Helping each other builds strong relationships. I’m so glad you shared your thoughts today, Xiao Ming. Remember to practice your soccer and encourage your friends. I believe you will do great!
+
+User: Thank you! I feel more confident now!
+
+Consultant: You’re very welcome! It’s been a pleasure talking with you. I'm proud of you for wanting to take these steps. Keep practicing, and remember that you can always share your experiences in our next session. Have fun with soccer!
+
+User: I will! I'm excited to practice!
+###################
+Consultant: Hello there, little buddy! I'm really glad to see you today. I want to talk to you about how you've been feeling since your classroom performance. How has it been for you since then?
+
+User: Hi! I've been feeling really happy because my teacher said I did a great job. I want to try more things like that!
+
+Consultant: That’s wonderful to hear! It sounds like you’re feeling more confident about trying new things. Can you tell me what you enjoyed most about performing in front of your classmates?
+
+User: I liked being on stage and making my friends laugh. It felt really fun to be in the spotlight!
+
+Consultant: That sounds like a fantastic experience! It’s great that you enjoyed being the center of attention. Have you thought about what role you might like to take on in your next performance or activity?
+
+User: I want to be a leader! Maybe I can be the one who helps everyone and decides what we do together.
+
+Consultant: Being a leader is a great aspiration! Helping others and guiding your friends shows a lot of maturity. What do you think makes a good leader?
+
+User: A good leader listens to everyone and makes sure everyone has fun. I want my friends to enjoy what we do together.
+
+Consultant: That’s an excellent point! Listening and ensuring everyone enjoys themselves are key parts of being a great leader. Have you had any opportunities in class to practice being a leader yet?
+
+User: Not yet, but I hope we can have more group projects soon, so I can try being a leader.
+
+Consultant: It sounds like you're ready for more chances to shine! When you have those projects, what could be a way for you to help everyone work together?
+
+User: I think I can ask everyone what they want to do and then we can take turns doing things. 
+
+Consultant: That’s a wonderful idea! Asking for everyone’s opinions will help your friends feel included, and taking turns is a great way to share responsibilities. How do you think that could make you feel as a leader?
+
+User: I would feel proud because everyone is happy and we can all do a good job together.
+
+Consultant: Feeling proud is a great reward for your efforts! It’s also important to remember that sometimes things might not go as planned. How would you handle it if someone disagrees with your ideas during a group activity?
+
+User: Maybe I could ask them what they think, and we could find a way to make it work for both of us.
+
+Consultant: That’s a perfect approach! Being open to others' ideas shows strong leadership. It’s important to work together and to solve problems as a team. Is there anything else you feel you might need to help you be a good leader?
+
+User: I think I want to practice more, like in games or fun activities, so I get better.
+
+Consultant: Practicing in games and fun activities is a fantastic way to build your leadership skills! Would you like me to suggest some games or activities where you can take on a leading role?
+
+User: Yes, please! That would help me a lot!
+
+Consultant: Great! How about trying out group games where you can be the one to explain the rules or suggest ideas? Games like "Simon Says" or team-building activities can give you a chance to lead. Does that sound fun?
+
+User: Yes! I would love to do that with my friends!
+
+Consultant: I’m so glad you’re excited! Remember, leading is also about enjoying the process and making connections with your friends. How do you feel about the idea of leading your friends in one of those games soon?
+
+User: I feel excited! I want to show them how to have fun together!
+
+Consultant: That’s the spirit! Excitement makes a great leader. Just think about how much fun everyone will have under your guidance. Speaking of having fun, what do you think your friends would enjoy the most about playing those games with you?
+
+User: I think they would like it because I can make it funny and exciting.
+
+Consultant: Being funny and exciting is a wonderful way to make activities enjoyable for everyone. Your ability to bring joy to the group will surely help you become a great leader! Is there something you’re particularly looking forward to in your next group activity?
+
+User: I really want to see everyone laughing and cheering. I think it will be awesome!
+
+Consultant: That sounds amazing! Creating laughter and cheers is a fantastic goal. Remember, leadership is also about supporting each other and celebrating successes together. As we wrap up our talk today, what do you feel you’ve learned about being a leader?
+
+User: I learned that I need to listen to others and help everyone have fun. It’s not just about me!
+
+Consultant: Exactly! That’s such an important lesson. I’m proud of you for recognizing that. Keep that mindset, and you’ll inspire your friends along the way. If you continue to practice these skills, I’m sure you’ll become the leader you want to be! 
+
+User: Thank you! I’m excited to try all of this!
+
+Consultant: You’re very welcome! Remember, I believe in you, and you can always come back to share how it goes. Have fun leading, and I can’t wait to hear all about your success next time!
+###################
+Consultant: Hello, Xiao Ming! I'm really glad to see you today. How are you feeling about being recognized as a "Little Role Model" in your class?
+
+User: Hi! I'm really happy about it! My teacher and friends said nice things about me, and it makes me feel proud. I want to help others be better too.
+
+Consultant: That's wonderful to hear! It sounds like you’re feeling proud and motivated to help your classmates improve. What kind of ideas do you have about helping others?
+
+User: I think I could share what I do to study well and maybe help them with their homework. I want to show them it’s fun to learn!
+
+Consultant: Sharing your study tips and showing your friends that learning can be fun is a great idea! Can you tell me more about what you enjoy most when you're studying?
+
+User: I really like reading stories and drawing pictures. It makes things feel more interesting, and I think my friends would like it too!
+
+Consultant: Reading stories and drawing can be very engaging and helpful! How do you think you could combine those activities to help your friends?
+
+User: Maybe I could organize a reading time where we all read together, and then we can draw what we remember from the stories! 
+
+Consultant: That sounds like a fantastic plan! Organizing a group reading and drawing activity would be a great way to connect with your friends. What do you think would be a good time to do this?
+
+User: I think we could do it during recess, or maybe after school. I can ask my teacher if it’s okay!
+
+Consultant: That's an excellent idea, Xiao Ming! Asking your teacher is a smart step. How do you feel about taking the lead in this activity?
+
+User: I feel excited! I think it would be fun to be the one to start it. I want everyone to enjoy it as much as I do.
+
+Consultant: It's great that you're feeling excited about leading this activity! Taking on that role can show your leadership skills. What do you think will be the biggest challenge for you in organizing this?
+
+User: Maybe some of my friends might be shy to join, or they might think it’s boring.
+
+Consultant: That's a common concern when involving others. What could you do to encourage those who might feel shy or think it’s boring to participate?
+
+User: I could tell them how much fun I have when I do it alone, and maybe offer some snacks to make it more fun!
+
+Consultant: Offering snacks and sharing your excitement is a wonderful idea! It can definitely help your friends feel more comfortable. What are some other ideas you have to make it enjoyable for everyone?
+
+User: I could let them pick the stories we read together. That way, they can choose what they like!
+
+Consultant: Allowing your friends to choose their stories is a brilliant strategy! It gives them ownership of the activity. How do you feel about working together with your friends to prepare for this activity?
+
+User: I think teamwork is important! It would be cool to have everyone help prepare. I want everyone to feel included.
+
+Consultant: Exactly! Working as a team can bring everyone closer and make the experience more rewarding. How would you like to kick off this planning with your friends?
+
+User: I could invite them all to my house one afternoon and we can talk about what we want to do for the reading time!
+
+Consultant: That's a great way to start! Inviting them over for planning can make them feel special and valued in the process. What do you hope your friends will take away from this experience?
+
+User: I hope they see that learning can be fun and that we can help each other. I want them to feel happy and excited about reading!
+
+Consultant: That's a beautiful goal, Xiao Ming. Helping others see learning as enjoyable is a great gift. How does it feel to know you are making a difference in sharing your joy of learning?
+
+User: It feels amazing! I want to do my best to help them enjoy it too.
+
+Consultant: Your commitment to helping others is truly inspiring! Let's talk about how you can make this initiative even more impactful. What kind of support do you think you might need?
+
+User: I might need ideas from my parents or teacher on how to set everything up. I want to make it special!
+
+Consultant: Asking for advice from parents and teachers will certainly help! Their experience can guide you. What’s your next step to get started with this plan?
+
+User: I will talk to my parents tonight and see what they think! Then I will ask my teacher tomorrow.
+
+Consultant: That sounds like a solid plan! You've put a lot of thought into this, and it’s exciting to see you take these steps. As we wrap up today, what is one thing you feel most proud of regarding this project?
+
+User: I am proud that I came up with this idea! I really want to help my friends and show them that learning is fun.
+
+Consultant: You should be very proud of yourself, Xiao Ming! Helping others while enjoying learning is a powerful way to make a difference. Remember, you have the ability to inspire your friends. 
+
+User: Thank you! I'm really excited to start!
+
+Consultant: You're very welcome! I'm looking forward to hearing about your progress next time. Take care, and have fun with your project!
+###################

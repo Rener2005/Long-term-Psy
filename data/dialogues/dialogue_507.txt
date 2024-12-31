@@ -1,0 +1,404 @@
+Consultant: Hello, Z! I'm glad to see you again. How have you been feeling since our last session?
+
+User: Hi. I'm feeling a bit anxious. School has been really challenging lately, especially with all the pressure to improve my grades.
+
+Consultant: I see. It's tough when you feel that pressure to meet your academic expectations. Can you share more about what's making you feel anxious about your grades?
+
+User: Well, I’ve been thinking that I really want to do better this semester, but I feel like my foundation isn't strong enough, and that worries me.
+
+Consultant: It sounds like you have a desire to improve, but at the same time, you're feeling uncertain about your skills. What specific thoughts come to mind when you think about your abilities in school?
+
+User: I often think that I won’t be able to keep up with my classmates. Sometimes I feel like I'm failing even before I’ve started studying.
+
+Consultant: That sounds really challenging. It's understandable to feel that way, especially when you compare yourself to others. How do these thoughts about failing affect you emotionally when you’re studying or preparing for exams?
+
+User: When I think like that, I get really anxious and sometimes just want to avoid studying altogether. It feels overwhelming.
+
+Consultant: Avoiding studying can sometimes feel like the easiest option when anxious, but it sounds like you want to change that. Let’s explore this further—what would it look like for you to feel more confident and calm while studying?
+
+User: I would like to have a clear plan and stick to it without feeling so worried. Maybe if I had some methods to study better, I wouldn't feel so lost.
+
+Consultant: Setting a clear study plan sounds like a great step. We can definitely work on that. What strategies have you tried in the past when trying to manage your studying or anxiety?
+
+User: I have tried making a to-do list, but I often don’t follow it or I get sidetracked. I feel bad about it afterward.
+
+Consultant: It’s okay to feel that way. Many people find it difficult to stick to a plan at first. Let’s think about this—what thoughts run through your mind when you don’t follow through with your plan? 
+
+User: I think things like "I always mess up" or "I’m not capable of following a schedule."
+
+Consultant: Those are very powerful thoughts that can certainly add to your anxiety. How do you feel when you have those thoughts about yourself?
+
+User: I feel really defeated and lose motivation to try again. 
+
+Consultant: It sounds like those thoughts can be quite discouraging. Let’s challenge them together. What evidence do you have that supports or contradicts these feelings of being incapable?
+
+User: Well, I have managed to complete assignments on time sometimes, but I feel like it's never good enough. 
+
+Consultant: That’s an important realization! You have completed your assignments, which shows you are capable in many ways. What would you say to a friend who felt the same way about their capabilities?
+
+User: I would tell them that they often do their best, and it's okay to not be perfect.
+
+Consultant: That’s a kind and encouraging perspective. Let's consider applying that same kindness to yourself. How can you reframe your thoughts in a way that feels more supportive?
+
+User: Maybe I could tell myself that it's alright to make mistakes and that I’m learning, and that’s what matters.
+
+Consultant: That’s a wonderful adjustment! Focusing on learning rather than perfection can help reduce anxiety and build your self-esteem. What steps can you take this week to practice that mindset while studying?
+
+User: I could remind myself to focus on the effort I put in rather than the results, and maybe set a smaller, more manageable goal each day.
+
+Consultant: That’s a great plan, Z! Small goals can really help you feel a sense of accomplishment. How about we set some specific small goals for your study sessions for the coming week?
+
+User: Yes! I think I could start with studying for just 20 minutes a day on one subject. 
+
+Consultant: That sounds like a perfect place to start—just 20 minutes can really add up. And remember to be gentle with yourself during this process. How do you feel about this plan now?
+
+User: I feel a little more hopeful, but I’m still worried I might not stick to it.
+
+Consultant: It’s understandable to have those worries. What could you put in place to help remind you of your goals and keep you motivated? 
+
+User: Maybe I could set reminders on my phone or ask my mom to check in with me.
+
+Consultant: Those are excellent ideas! Having reminders and support can make a big difference. As we wrap up today, let’s take a moment to reflect on what we’ve discussed. What do you feel is the biggest takeaway from our session today?
+
+User: I think it’s that I can challenge my negative thoughts and that setting small, achievable goals can help me manage my studying better.
+
+Consultant: That’s a significant insight! I’m proud of the progress you’re making. Remember, it’s okay to have setbacks, but each step you take is moving you closer to your goals. I look forward to hearing how your week goes when we meet next time!
+###################
+Consultant: Hello, Little Z! I'm glad you're here today. How have you been feeling about your studies lately?
+
+User: Hi! I feel pretty lost. I started trying to follow a new study plan that my parents suggested, but it hasn't worked out well. I just can't seem to stick to it, and it's making me feel anxious about my grades.
+
+Consultant: It sounds like you're feeling a bit overwhelmed with the new study methods and the pressure to improve your grades. Let's talk about this study plan you've been trying. Can you tell me what specific parts have been challenging for you?
+
+User: Well, I tried to make a schedule, but then I get distracted easily when I sit down to study. I find it hard to concentrate and end up wasting time.
+
+Consultant: That's understandable. It can be tough to stay focused, especially with distractions around. When you sit down to study, what thoughts go through your mind that might make it harder for you to concentrate?
+
+User: I keep thinking about how I didn’t do well in the last tests, and how I really need to improve. That just makes me more stressed out, and then I can't focus.
+
+Consultant: So, your worries about past performance are affecting your ability to focus on your current studies. It's important to recognize how those thoughts can impact your feelings and actions. If we were to challenge those thoughts a bit, what would you say to a friend who felt the same way about their past performance?
+
+User: I guess I would tell them that it's okay to not have done well before and that they can always try again. 
+
+Consultant: Exactly! It’s a much kinder way to look at it. You deserve that same compassion. Let's consider how we can apply that to you. What if we broke your study plan into smaller, manageable steps? What would that look like for you?
+
+User: I could maybe try studying for just 20 minutes at a time and then take a short break instead of trying to do everything in one go.
+
+Consultant: That sounds like a great approach! Short bursts of focused study can be really effective. What subjects do you think you'd like to start with?
+
+User: I think I should focus on math first because I feel the most lost there.
+
+Consultant: Focusing on math sounds like a solid choice. Let's create a small task for your math study. How about this: for the next few days, you can set a timer for 20 minutes and go through a single math topic? Does that sound doable?
+
+User: Yes, I can definitely try that. 
+
+Consultant: Wonderful! Now, after those 20 minutes, plan to do something enjoyable as a reward. What would you like to do during your breaks?
+
+User: I could listen to music or play a quick game on my phone! 
+
+Consultant: Those sound like enjoyable rewards. Incorporating breaks with fun activities can help reinforce those study habits. As we move forward, how do you think you'll feel once you start sticking to this new smaller plan?
+
+User: I hope it will make me feel better about my studies. I really want to see some improvement.
+
+Consultant: That’s a great mindset! Improving in these small steps can build your confidence. As you start this new approach, it could also help reduce some of that anxiety about your grades. How does that sound to you?
+
+User: That sounds really good! I think it might really help.
+
+Consultant: I believe it will! Besides the study plan, are there any other factors in your environment that you think might be affecting your focus when you study?
+
+User: Sometimes, my siblings can be really noisy, and that can be distracting too.
+
+Consultant: I see. Perhaps we can think of ways to minimize those distractions. What if you asked for some quiet time during your study sessions, or found a quieter place to study? What do you think?
+
+User: Yeah, I could ask my siblings to keep it down during my study time. That might help.
+
+Consultant: That’s a proactive step! Communication can be really helpful. Now, let's reflect on our discussion today. How are you feeling about your study plan and the changes we discussed?
+
+User: I feel a bit more hopeful now. I have a clearer idea of what to do and how to manage my time.
+
+Consultant: I'm glad to hear that! Remember, it’s all about progress over perfection. Reassess how the plan is working after a few days. If it feels overwhelming at any point, we can adjust it together. What will be your first step when you leave here today?
+
+User: I’ll set a timer for 20 minutes and start studying math once I get home.
+
+Consultant: That sounds like a fantastic plan! I look forward to hearing how it goes next time. Remember, you’re not alone in this process, and I’m here to support you. 
+
+User: Thanks! I appreciate your help. 
+
+Consultant: You’re very welcome! I believe in your ability to improve and look forward to seeing your progress in our next session. Take care, Little Z!
+###################
+Consultant: Hi there, welcome to our session today! I'm glad you could make it. How have you been feeling recently about your studies?
+
+User: Hi! I’ve been feeling like I don’t have enough time to finish my homework. I’m trying to study, but it just feels like I’m not making progress, and I get a bit anxious about it sometimes.
+
+Consultant: I see, it sounds like you're feeling a bit overwhelmed with your homework and your progress in studying. Can you tell me what your study routine looks like right now and what specific worries you have?
+
+User: Well, I’ve started trying to study in phases, and it seems to help a bit. But at night, I still spend a long time finishing my assignments, and I can't shake off the feeling that I’m not doing well enough.
+
+Consultant: It’s great to hear you’re trying different approaches to studying! Let’s explore your evenings a bit more. What does your homework schedule look like, and which subjects are taking you the longest?
+
+User: I usually start my homework around 5 PM, but I end up working on it until 9 PM or later. Math and science take the longest because I find them challenging, and I get distracted easily.
+
+Consultant: That sounds like a lot of time to spend on homework. It’s understandable to feel anxious then. Let’s try to find a way to make this more manageable. Have you tried breaking your homework into smaller tasks or setting specific goals for each study session?
+
+User: I haven’t really thought about setting smaller goals. I just try to get everything done, which seems overwhelming. 
+
+Consultant: Setting smaller, clearer goals can really help! For instance, instead of saying “I need to finish all my math homework,” you could say, “I’ll complete five math problems first.” This can make the work feel less daunting. How do you feel about trying that?
+
+User: That sounds a bit easier to handle! I think I could try that. 
+
+Consultant: I'm glad to hear that! Now, what time could you set for yourself to work on those smaller tasks? Maybe starting with shorter time blocks could help keep you focused?
+
+User: Maybe I could try 30-minute blocks. I could take a short break in between too. 
+
+Consultant: That’s a great idea! Working in 30-minute blocks with breaks can really help maintain your focus as well as reduce fatigue. After your study sessions, you can reassess how you feel and whether you want to adjust your tasks for the evening. 
+
+User: I like that. I’ll try to keep track of how I feel after each block too.
+
+Consultant: Perfect! And remember to acknowledge your progress, no matter how small it is. How would you feel about rewarding yourself after successfully completing your homework tasks?
+
+User: I could reward myself with some time to play a game or watch a show after finishing my work. 
+
+Consultant: That sounds like a fun reward! It can be really motivating to look forward to something enjoyable after completing tasks. Let's also discuss how to handle the distractions. What usually distracts you while you’re studying?
+
+User: I often check my phone or get sidetracked by things going on around me. 
+
+Consultant: That's completely normal! Consider setting your phone aside during your homework time and creating a dedicated study space with fewer distractions. How does that sound to you?
+
+User: I think that could work, I’ll try to put my phone in another room while studying.
+
+Consultant: Excellent choice! This will help you stay focused and reduce the temptation to check your phone. After implementing these changes, how do you think you might feel about your studies?
+
+User: I feel like it could help me be more confident because I’ll be getting things done, and hopefully, I won't feel stressed for so long.
+
+Consultant: That’s a wonderful outlook! Building confidence through accomplishing your goals can be really powerful. It sounds like you’ve already taken some steps forward. How do you feel about your current knowledge of the subjects you're studying?
+
+User: I still feel like I need help with math, but maybe if I manage my time better, I can ask for help more often.
+
+Consultant: Seeking help is a great strategy! Would you feel comfortable discussing with your teacher or classmates when you encounter difficult concepts that you need assistance with?
+
+User: Yes, I think I could do that. I just have to overcome my nervousness about asking questions.
+
+Consultant: It’s completely understandable to feel nervous! Remember, many students feel the same way. You’re not alone in this. What if you practiced asking questions with a friend or family member first?
+
+User: That could help. It might make me feel less nervous when I actually do it.
+
+Consultant: Absolutely! Practicing can make you feel more comfortable. It also helps reinforce your understanding of the material. As we wrap up today, what steps do you feel you’ll take moving forward from here?
+
+User: I’ll try to set smaller goals, take breaks, and put my phone away. I also want to practice asking questions more confidently.
+
+Consultant: Those are excellent steps, and I’m excited for you to try them out! You’re making wonderful progress already. Remember, it’s all about the small changes leading to big improvements. How do you feel about our session today?
+
+User: I feel inspired and more organized! Thank you for the help.
+
+Consultant: You’re very welcome! I'm glad to hear that. I believe you’ll continue to make great strides, and I look forward to hearing about your progress next time. Take care until then!
+###################
+Consultant: Hello, Z! It's great to see you again. I remember we talked about your recent experiences with the group activity and how it’s helped boost your confidence a bit. How have you been feeling since then?
+
+User: Hi! I've been feeling a bit better. I enjoyed the group activity, but I'm still worried about my grades and whether I can keep this up. 
+
+Consultant: It's understandable to feel that way, especially after feeling a bit more confidence. Can you share what specifically worries you about your grades? 
+
+User: I just feel like I'm not good enough compared to others. Sometimes it's hard to keep up with their pace, and I don’t want to be left out.
+
+Consultant: That sounds tough. It seems like you're feeling pressure to perform at the same level as your peers. What do you think might help you feel more on track with your studies?
+
+User: I think I need to find a better way to study, but I just don't know where to start. I feel overwhelmed.
+
+Consultant: Finding a new study method can be challenging, especially when you're feeling overwhelmed. What have you tried so far that worked for you in the past? 
+
+User: I usually just read my notes and do homework, but it feels boring and I don’t feel like I learn much.
+
+Consultant: It sounds like those methods might not be engaging enough for you. What do you think could make studying more interesting or effective for you?
+
+User: Maybe if I could work with others more or try some different activities? 
+
+Consultant: That’s a wonderful idea, Z! Working with peers can really enhance your learning experience. What activities have you thought about that could help with your studies?
+
+User: I liked discussing problems in the group, we could help each other out. Maybe I could set up study sessions with friends?
+
+Consultant: That sounds like a great plan! Setting up study sessions could provide the support you need and make learning more enjoyable. What subjects do you think you’d want to focus on during those sessions?
+
+User: I think math and science, those are the ones I struggle with the most.
+
+Consultant: Focusing on math and science with your friends sounds perfect. How do you think studying together will help you improve in those subjects?
+
+User: I guess I could ask questions without feeling embarrassed. And maybe it will help me understand things better since we can explain stuff to each other.
+
+Consultant: That’s a fantastic perspective! Asking questions and explaining concepts are both great ways to reinforce your comprehension. How do you feel about initiating these study sessions with your friends?
+
+User: It makes me a little nervous, but I think it could also be fun. 
+
+Consultant: It’s completely normal to feel nervous about taking that step. Maybe we can brainstorm some ways to make it easier for you. What would you need to feel more comfortable reaching out to your friends?
+
+User: I think if I had a plan for what topics to cover, I’d feel less anxious about asking them.
+
+Consultant: Having a plan is a great strategy! What specific topics or questions do you think you could prepare ahead of time to guide your study sessions?
+
+User: I could write down the chapters or problems I find difficult and share them with them. 
+
+Consultant: That sounds like a solid approach, Z! Writing down your difficulties will not only help you, but it will also make it easier for your friends to understand how to support you. When do you think you could start preparing this list?
+
+User: Maybe I can work on it this weekend. 
+
+Consultant: That sounds like a good timeline. How do you think you'll feel once you have your list prepared?
+
+User: I think I’ll feel more organized and ready to tackle the subjects. 
+
+Consultant: That’s an excellent mindset! Feeling organized can make a big difference in managing your studies. Besides this list, are there any other strategies you’d like to try to keep up your motivation?
+
+User: Maybe I could reward myself after each study session? 
+
+Consultant: Rewards can be a great motivator! What kind of rewards do you think would work for you?
+
+User: I enjoy watching a show or playing a game. I could do that after studying.
+
+Consultant: Those sound like enjoyable rewards! Planning those breaks will give you something to look forward to after productive study sessions. How do you think this will help you manage your study time better?
+
+User: I think it would make me feel less pressured and more excited to study, knowing I get something fun afterward.
+
+Consultant: Absolutely! Balancing study with enjoyable activities can help maintain your motivation. Let’s think about your progress. How do you feel about the changes you’re planning to make in your study routine?
+
+User: I feel hopeful! I really want to improve and believe these changes could help me.
+
+Consultant: That’s a wonderful attitude to have! Remember, it’s about progress, not perfection. You’re taking positive steps towards your goals. What do you want to focus on in our next session?
+
+User: I’d like to share how the study sessions go and talk more about building my confidence.
+
+Consultant: That sounds like a fantastic plan! I’m looking forward to hearing about your experiences and helping you build that confidence even more. Keep up the great work, Z!
+###################
+Consultant: Hello, Z! I'm glad to see you today. How have you been feeling since our last session? 
+
+User: Hi! I’ve been feeling good actually. I did better than I expected on my mid-term exams, and it feels nice to see my efforts pay off.
+
+Consultant: That’s wonderful to hear! It sounds like your hard work is starting to pay off, which can be really motivating. What do you think contributed to this improvement?
+
+User: I think I studied more consistently this time and tried to focus better during classes. It felt like I was really understanding the material.
+
+Consultant: It’s great that you’ve recognized the strategies that worked for you. Understanding what helps you succeed is a powerful part of maintaining that progress. Are there specific subjects you feel more confident in now?
+
+User: Yes, I feel much better in math and science, but I still struggle with languages. 
+
+Consultant: It's completely normal to have different levels of comfort in different subjects. Let’s explore how you can apply the same study strategies from math and science to your language studies. What do you think you might need to do differently for languages?
+
+User: I think I need to practice more speaking and writing. I tend to avoid it because I feel embarrassed. 
+
+Consultant: That’s a common feeling, Z. Sometimes we avoid what makes us uncomfortable. Can you think of a small step you could take to practice speaking or writing in a way that feels manageable?
+
+User: Maybe I could try writing a short story or summarizing a book I read. 
+
+Consultant: That sounds like a fantastic idea! Writing about something you enjoy can help ease that discomfort. How do you feel about sharing it with a friend or family member once you are done?
+
+User: Sharing it sounds a bit scary, but I think it would help me improve too. 
+
+Consultant: It’s understandable to feel that way. Sharing can feel intimidating at first, but it can also provide you with valuable feedback. What do you think might happen if you share it with someone you trust?
+
+User: I guess they might encourage me and help me see where I can improve. 
+
+Consultant: Exactly! Positive feedback can reinforce your efforts and motivate you to keep improving. Let’s set a small goal for this week: could you aim to write your story and share it by our next session? 
+
+User: I can try to do that! 
+
+Consultant: Awesome! Remember to acknowledge the effort, regardless of the outcome. You’re already making great strides, and that’s what truly counts. What will you reward yourself with if you complete this goal?
+
+User: Maybe I can treat myself to some ice cream if I finish it!
+
+Consultant: That sounds like a delicious reward! It’s important to celebrate your achievements, no matter how small. Speaking of achievements, how have you been feeling about your performance in school lately?
+
+User: I feel more confident, especially knowing that I can improve. 
+
+Consultant: That’s fantastic! Confidence often grows through recognizing our progress. Let’s think about how we can ensure you keep building on that. What are some long-term goals you’d like to set for this academic year?
+
+User: I want to aim for better grades in all my subjects and feel more comfortable participating in class. 
+
+Consultant: Those are excellent goals! Setting specific targets in each subject can help you keep track of your progress. How about we break that down together? 
+
+User: Sure, that sounds helpful! 
+
+Consultant: Great! For each subject, we can identify what “better grades” looks like to you and the steps needed to get there. In languages, for example, do you have a target grade you want to reach?
+
+User: I think aiming for a B or higher would be good! 
+
+Consultant: Perfect! Let's focus on what you can do each week to move towards that goal. Have you thought about any specific strategies or resources that could help you achieve that?
+
+User: I could ask my teacher for extra help and maybe find some online resources or practice exercises. 
+
+Consultant: Those are excellent ideas, Z! Reaching out for help shows initiative, and using online resources can reinforce what you learn in class. I encourage you to make a plan for how you’ll incorporate these into your study routine. 
+
+User: I will. Writing this all down sounds like a good step.
+
+Consultant: Absolutely! Writing down your plan can clarify your priorities and keep you on track. Let’s also ensure you regularly reflect on what’s working and celebrate your successes as you implement your plan. 
+
+User: Thanks, I feel more motivated now to keep going!
+
+Consultant: I’m glad to hear that! Remember, it’s about progress, not perfection. Keep the momentum going, and we'll revisit this next session. 
+
+User: Sounds great! I can’t wait to update you on my progress and share my story!
+
+Consultant: I look forward to hearing all about it. You’re doing wonderfully, Z. Keep embracing those small steps, and you’ll see big changes over time. 
+
+User: Thank you! I really appreciate your support! 
+
+Consultant: You’re very welcome! Remember, you have the ability to achieve these goals. I'm excited for our next session, and I'm here if you ever need anything in the meantime. 
+
+User: Thanks again! I will! 
+
+Consultant: Bye for now, Z! Take care, and enjoy your writing!
+###################
+Consultant: Hello, little Z! I'm glad to see you today. How have you been feeling since our last session?
+
+User: Hi! I've been feeling pretty good. I’m really excited about my summer study plan. I want to make sure I stick to it and improve my grades next semester.
+
+Consultant: That sounds wonderful! It's great to hear you're feeling positive about your study plan. Can you tell me more about what specific goals you have for your studies this summer?
+
+User: Well, I want to work on my math and English skills since I struggle with those subjects. I think if I practice regularly, I could get better.
+
+Consultant: That's a solid plan, Z! Focusing on math and English will definitely help you improve your overall performance. Have you thought about how you’ll incorporate practice into your daily routine?
+
+User: I’m thinking of setting aside about an hour each day for math and then another hour for English. I might also use some online resources to make it more interesting.
+
+Consultant: That sounds like a good strategy! Setting aside specific time daily and using online resources can make studying more engaging. What kind of online resources are you considering?
+
+User: I found some math games and videos on YouTube that explain things well. For English, I thought I could read some short stories and maybe even join an online study group.
+
+Consultant: Those are fantastic ideas! Using games and stories can make learning enjoyable. How do you feel about joining an online study group? Is that something you would be comfortable with?
+
+User: I think I’d like to try it! I’m a bit nervous about speaking with new people, but it might help me learn better.
+
+Consultant: It’s completely normal to feel nervous about meeting new people. Remember, many others in the group will probably feel the same way. How do you think participating in the group could help you with your studies?
+
+User: I hope it gives me a chance to ask questions and hear how others approach difficult topics. I sometimes feel confused when studying alone.
+
+Consultant: That’s a very insightful perspective, Z. Group study can definitely provide support and different viewpoints. Have you reflected on any specific topics or questions you want to ask when you join the group?
+
+User: Yes! I really want to understand fractions better in math, and for English, I’d love to discuss character development in the stories we read.
+
+Consultant: Those are great topics to focus on! Understanding fractions will definitely help you in math while discussing character development can deepen your appreciation for literature. How do you feel about your progress so far in addressing these subjects?
+
+User: I think I’m doing well! I’ve been trying to review what I learned in class consistently, and I feel that I’m slowly understanding more.
+
+Consultant: That’s wonderful to hear! Consistency is key to learning. What rewards do you think you can give yourself for sticking to your learning goals?
+
+User: Maybe I could treat myself to a movie or some time playing video games after completing my study sessions. 
+
+Consultant: That’s a nice balance! Having a reward can motivate you to stick to your plan. It’s also a good way to celebrate your progress. Do you have any concerns about sticking with your study routine over the summer?
+
+User: I hope I won’t get bored or distracted. Sometimes, I just want to hang out with friends instead of studying.
+
+Consultant: It’s important to find balance between studying and having fun. How can you plan your time to include social activities while still keeping up with your studies?
+
+User: I could set specific study times and then make sure I have free time after to hang out with friends. Maybe I could invite them over to study together!
+
+Consultant: That sounds like a great solution! Having friends join you can make studying more enjoyable, and it gives you a chance to be social too. What’s one thing you’re most looking forward to in your summer study plan?
+
+User: I’m really looking forward to seeing how much I can improve! I hope by the end of summer, I’ll feel much more confident.
+
+Consultant: That’s a fantastic goal. It’s great that you’re focusing on building confidence along with your skills. As we wrap up, what is one action step you can take today to keep you on track toward your summer goals?
+
+User: I’ll create a study schedule tonight and maybe even reach out to my friends about starting a study group. 
+
+Consultant: That sounds like an excellent plan! Remember, you’re capable of achieving your goals. I’m excited for the progress you’ll make this summer, and I’m here to support you whenever you need it. How are you feeling as we conclude today’s session?
+
+User: I feel really motivated! I’m glad I came today. It helps to talk about my plans.
+
+Consultant: I’m glad to hear that! It's always helpful to talk things through. Keep that motivation high, and we’ll discuss your progress in our next session. Have a great time with your studies, little Z!
+###################

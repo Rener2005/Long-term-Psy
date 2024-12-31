@@ -1,0 +1,418 @@
+Consultant: Hello, it's great to see you here today. I know you’ve been feeling a bit lost and lacking motivation lately. Can you tell me more about what you're experiencing?
+
+User: Hi. I just feel really overwhelmed and guilty about my studies. I know I need to improve, but every time I try to focus, I find myself scrolling through my phone or playing games instead. It’s like I’m stuck.
+
+Consultant: It sounds like you're battling with distractions and a lack of direction. When you think about studying, what emotions come up for you?
+
+User: Honestly, I feel anxious and frustrated. I want to do better, especially since I’ve already failed four subjects. But I don't know how to change that.
+
+Consultant: It's understandable to feel anxious when you have those pressures. Let’s explore that frustration a bit. You mentioned wanting to change but feeling stuck. What do you think is holding you back?
+
+User: I guess it’s just this feeling of helplessness. I want to motivate myself, but I keep falling back into old habits—like spending too much time online. It makes me feel worse.
+
+Consultant: Feeling stuck in old habits can be really difficult. It’s like a cycle that keeps repeating. What do you think about your current habits makes it hard for you to break out of them?
+
+User: I think they’re just easier. When I try to study, I feel bored and overwhelmed, but playing games or chatting online feels more rewarding—even if it’s temporary.
+
+Consultant: It makes sense that you'd gravitate towards what feels rewarding in the moment. It can be hard to focus on something that feels demanding. How would you like to feel when you sit down to study instead?
+
+User: I want to feel focused, like I’m making progress. Instead, I just feel guilty and anxious the whole time.
+
+Consultant: That desire for focus and progress is a great goal. Can we explore some small steps you could take to help shift that focus? Maybe we could identify specific things that engage you in studying.
+
+User: Sure. I think if I could break my study time into smaller chunks, it might help. But I’m worried I’ll get distracted again.
+
+Consultant: Breaking your study into smaller, manageable chunks is a fantastic approach! We can work together on establishing a structure for your study time. How about setting a timer for short intervals? This can keep you accountable.
+
+User: That sounds doable, but I worry I’ll give in to distractions during those breaks. 
+
+Consultant: That’s a valid concern. It might help to plan what you do during those breaks—like a quick walk or stretching rather than just reaching for your phone. How does that sound?
+
+User: I guess that could work. If I keep it short, maybe I won’t get sucked into something too long.
+
+Consultant: Exactly! It’s about creating a balance. Let’s also think about what motivates you in your studies. Are there subjects or topics that you find interesting?
+
+User: I used to enjoy my practical classes in design, but now I just feel so out of touch with everything.
+
+Consultant: It's good to hear that you enjoyed those classes. You might harness that interest to reignite your motivation! Maybe spending some time on practical projects can mix things up. What do you think?
+
+User: That could help. But I still feel like I lack discipline. What if I can’t stick to it?
+
+Consultant: It’s natural to doubt yourself when trying to change habits. Let’s challenge that thought. What evidence do you have that you can’t stick to a plan? Have there been times when you did manage to stay on track?
+
+User: I did manage to study for a project once. I guess I just forget that sometimes I can be focused.
+
+Consultant: That’s a great realization! It shows you have the capability. How about we set a couple of achievable goals? Maybe aim for one focused study session this week.
+
+User: That seems reasonable. I can try to commit to one good study session.
+
+Consultant: Perfect! This is a step towards building your confidence. After your study session, reflect on how you felt during and after. What do you think about keeping a journal for that?
+
+User: Writing it down sounds good! I could see my progress and how much better I feel when I focus.
+
+Consultant: Absolutely! Reflecting on your experiences can be empowering. It’ll also help you recognize when you do well, reinforcing that positive motivation. What do you think is a good way to reward yourself after your study session?
+
+User: Maybe I could allow myself some gaming time afterwards if I complete my session.
+
+Consultant: That’s a great idea! It gives you something to look forward to while encouraging positive behavior. Remember, it’s all about finding a balance. How do you feel about putting these plans into action?
+
+User: I think it feels more manageable. I’m still nervous, but I want to try.
+
+Consultant: Feeling nervous is totally normal, and wanting to try is a big positive step! As we move forward, let’s keep checking in on how you're feeling about these changes. We’re working together through this, and you can always return if you need more support.
+
+User: Thank you! I really appreciate this. I hope I can make some changes.
+
+Consultant: You’re welcome! Change takes time, but with these small steps and your willingness to try, you can definitely make progress. Let’s outline our next steps, and remember, this is a journey. 
+
+User: I’ll do my best. Thanks for helping me feel more hopeful.
+
+Consultant: I’m glad to hear that. You have the potential to make these changes! Keep in touch, and I look forward to our next session to see how you’re doing.
+###################
+Consultant: Hello, Weng! Welcome to today's session. I’m glad you’re here. Can we start by discussing how you’ve been feeling lately and any particular thoughts or challenges that have been on your mind?
+
+User: Hi. I've been feeling quite lost lately. I really want to improve my time management and study habits, but I always seem to mess up my plans, and it frustrates me. Sometimes I just want to give up. 
+
+Consultant: It sounds like you're feeling a mix of frustration and maybe even a sense of helplessness regarding your goals. What would it look like for you to manage your time well and stick to your study plans? 
+
+User: I guess I hope to feel more in control and be able to stick to a schedule without constantly getting distracted. I really want to avoid failing my classes again.
+
+Consultant: That’s a very understandable goal, Weng. Gaining control over your time management can really impact your academic experience positively. Can you share more about what distractions you often find that pull you away from studying? 
+
+User: Well, I often get tempted by my phone and social media. It’s just so easy to start scrolling and lose track of time. Then I end up not studying at all.
+
+Consultant: The phone can definitely be distracting. It's great that you recognize that pattern. When you sit down to study, what thoughts come to you that might lead to picking up your phone instead? 
+
+User: I think it's just a habit at this point. I tell myself I’ll only check for a few minutes, but then it turns into hours. Deep down, I worry that I’ll never get to where I want to be in school. 
+
+Consultant: Those thoughts of doubt can be tough to deal with. Let’s explore those feelings further. How does thinking that you may not succeed affect your motivation to study? 
+
+User: It makes me feel defeated. If I think I'm going to fail, then sometimes I don't even want to try because what's the point?
+
+Consultant: That’s very insightful. You're feeling stuck because of the fear of failure. Let’s consider a different perspective: what would happen if you approached each study session as a chance to learn rather than a test of your abilities? 
+
+User: I guess if I looked at it that way, I might be more willing to try, even if it doesn’t go perfectly. But I still feel like my motivation to study is really low.
+
+Consultant: Finding ways to boost your motivation is essential. One approach we could use is to set small, achievable goals for your study time. Would you be open to trying that together? 
+
+User: Yeah, I think breaking it down could help. I just usually feel overwhelmed with everything I have to do.
+
+Consultant: Let’s break it down, then! How about we start with something small, like setting a timer for 25 minutes of focused studying, followed by a 5-minute break? Would that be manageable for you? 
+
+User: That sounds doable! I think I could handle 25 minutes. But what if I still get distracted? 
+
+Consultant: That's a valid concern. One strategy is to keep your phone in another room while you study, reducing the temptation. What do you think about that idea? 
+
+User: That might work. It's hard to resist when it's right next to me. Maybe I should keep it away until I'm done with my study session.
+
+Consultant: That’s an excellent strategy, Weng! By physically distancing yourself from distractions, you're taking an active step to stay focused. How about we try this out and see how it feels for you? 
+
+User: I’d like to try it! But I still worry about not being able to stick to it.
+
+Consultant: It’s natural to have concerns about staying committed. Remember, it’s about progress, not perfection. If you find yourself slipping up, let’s treat it as a learning opportunity instead of failing. What do you think about taking notes during your study sessions to track your progress? 
+
+User: That sounds useful. I can write down what I accomplished. It might help see how much I can actually get done.
+
+Consultant: Exactly! Writing it down can create a sense of achievement, boosting your confidence as you notice your progress. Remember to celebrate those small wins! Can you commit to starting this plan for the upcoming week? 
+
+User: Yes, I’ll give it a shot! I really hope it will help me stop feeling so lost.
+
+Consultant: That’s a great approach, Weng! Remember, you aren’t alone in this. After a week, we can discuss how it went and any adjustments we might need to make. 
+
+User: That makes sense. I’m actually looking forward to our next session now!
+
+Consultant: I'm glad to hear that! Before we wrap up today, let's touch on how you're feeling right now about these changes—any worries or excitement? 
+
+User: I'm a bit excited to try something new. But I still feel anxious about my grades and if my efforts will actually pay off.
+
+Consultant: It’s completely understandable to feel anxious, especially with the pressure of grades. Just remind yourself that each step you take, no matter how small, is still moving you forward. 
+
+User: Yeah, I’ll try to keep that in mind. It just helps to talk about it.
+
+Consultant: I’m glad our conversation has been helpful! Remember, I’m here to support you. Next time, we can also look at your feelings about relationships with your roommates, if you'd like. 
+
+User: That sounds good. I have some things to sort out there too, actually.
+
+Consultant: Perfect! I look forward to our next meeting where we can explore that together. Take care, Weng, and remember to practice those new strategies this week! 
+
+User: Thanks! I will see you next time!
+###################
+Consultant: Hello there! I'm glad you're here today. I understand that you've been feeling a bit overwhelmed with relationships and your future direction. Can we start by talking about how you're feeling right now?
+
+User: Hi. Yeah, I'm really stressed. My relationship with my roommates has been really tense lately. We have different views on future plans, and it's causing a lot of conflict. I feel quite alone in this.
+
+Consultant: It sounds tough dealing with conflict, especially when you feel alone. Let’s explore this further. Can you tell me more about what led to the tensions with your roommates?
+
+User: Well, we just don't see eye to eye. They have their goals and ambitions, and I often feel lost and unmotivated, like I'm not living up to what’s expected from me, especially with my studies.
+
+Consultant: So, you're feeling pressured by both your roommates and your own expectations? It’s understandable to feel lost in such circumstances. How do you think this pressure affects your daily life?
+
+User: I find it hard to focus on my studies, and I often play on my phone or get distracted online. I know I should be studying, but I just don’t have the motivation. It’s frustrating because I feel like I’m wasting my time.
+
+Consultant: That frustration is valid. It can be really challenging when you want to study but can't seem to find the motivation. Can you share what thoughts come to your mind when you think about your studies or your future?
+
+User: I often think that I’ll never succeed. Like, if I can't pass my exams, what’s the point? It's like I'm stuck in this cycle of failing and not being able to change anything.
+
+Consultant: It sounds like you're caught in some very negative thoughts about your abilities. Let's take a moment to explore these thoughts. What evidence do you have that supports these beliefs about failing? Are there any moments where you felt successful, even if they seem small?
+
+User: I guess there were times when I did manage to get through some assignments or even enjoyed a class. But it feels so distant now. Most of the time, I just feel like I'm falling behind.
+
+Consultant: It's important to acknowledge those moments of success, even if they feel small. They show you that you have the ability to succeed. What if we worked on challenging those negative thoughts together? 
+
+User: I would like that. It just feels so overwhelming right now.
+
+Consultant: Totally understandable! Let's look at those beliefs more closely. If a friend were in your shoes, what advice would you give them about their situation?
+
+User: I think I’d tell them to take it one step at a time and not to give up. But I struggle to apply that to myself.
+
+Consultant: That’s a wise perspective! It shows you know what could help. Now, let’s try to apply that advice to yourself. What would be one small step you could take to start feeling more motivated?
+
+User: Maybe I could set a small goal for my studies, like studying for just 20 minutes a day, and see how it feels.
+
+Consultant: That sounds like a great plan! Starting small can make a big difference. How do you think accomplishing even a little study time could change your feelings about it?
+
+User: I think if I actually manage to do it, I might feel a bit more in control and less anxious about everything.
+
+Consultant: Exactly! That feeling of control can be very empowering. Now, let’s discuss how we can improve your communication skills to ease the tension with your roommates. Can we role-play a situation where you express your feelings to them?
+
+User: Sure, I’d like to try that. 
+
+Consultant: Great! Let’s imagine you're sitting down with one of your roommates. How would you start the conversation?
+
+User: I’d probably say something like, “Hey, I’ve been feeling a bit neglected in our discussions about future plans, and I want to share how it's affecting me.”
+
+Consultant: That’s a strong opening! It expresses your feelings while inviting dialogue. How do you think your roommate would respond to that?
+
+User: I hope they’d understand and be willing to talk! 
+
+Consultant: That’s a positive hope! How about we think of some ways to ask open-ended questions to encourage them to share their thoughts too?
+
+User: Maybe I could ask, “What are your thoughts on how we can support each other better?”
+
+Consultant: That’s an excellent question! It fosters a sense of teamwork and understanding. Now, let’s think about how you can sustain this positive momentum. What strategies can you employ to maintain good communication with your roommates?
+
+User: I think setting regular times to check in with each other would help, to make sure we're all on the same page.
+
+Consultant: That’s a wonderful strategy! Regular check-ins can create a more open environment. Let’s also think about activities that could help you bond with your roommates and provide some relief from stress.
+
+User: Maybe we could have game nights or study sessions together. 
+
+Consultant: Those sound like fantastic ideas! Building connection through shared activities can enhance your relationships. How are you feeling about these suggestions?
+
+User: I feel hopeful. It seems like I have some tangible steps to take, both for my studies and my relationships.
+
+Consultant: That’s fantastic to hear! Reflecting on all the progress you’re making, what do you feel is the most significant takeaway from our conversation today?
+
+User: I think understanding that I can make small changes and communicate better is huge for me. It feels less daunting.
+
+Consultant: That's a tremendous realization! As we wrap up today’s session, how do you plan to implement these ideas in your daily routine?
+
+User: I will set my study goals this week, talk to my roommates, and plan some activities. It's going to be challenging, but I feel ready to try.
+
+Consultant: That’s a powerful commitment! Remember, it’s perfectly fine to take it one step at a time. You have the tools to navigate this. If you ever feel overwhelmed, don’t hesitate to reach out for support. 
+
+User: Thank you! I appreciate your help and feel more positive now. 
+
+Consultant: You’re very welcome! I’m glad you feel more positive. I look forward to hearing about your progress in our next session. Take care!
+###################
+Consultant: Hello, Tong! I'm really glad you're here today. It sounds like you've been making some positive changes by getting involved in school activities. How have things been for you since we last talked?
+
+User: Hi! Yes, I've started to enjoy participating in school activities. It feels nice to interact with others, although I still struggle to balance my studies and social life.
+
+Consultant: It’s wonderful to hear that you’re enjoying those interactions! Finding that balance can certainly be challenging. What do you feel when you think about your studies and social life together?
+
+User: I feel a bit overwhelmed, actually. I want to be social and enjoy my time, but then I worry about falling behind in school again.
+
+Consultant: That’s completely understandable. It sounds like you’re caught between wanting to enjoy social connections and the pressure of your studies. Let’s explore what specific worries come to mind when you think about your classes.
+
+User: I keep worrying about those four classes I failed last semester. I feel like if I don’t study hard, I'll fail again and disappoint my family.
+
+Consultant: It’s tough to carry that weight. Disappointment is a powerful feeling. Can you recall any thoughts or beliefs you have when you’re studying that might be contributing to this sense of pressure?
+
+User: I often think things like "I’ll never catch up" or "I’m not smart enough to pass." Those thoughts make me feel anxious and I just freeze.
+
+Consultant: Those thoughts can be heavy to manage, and it’s natural to feel anxious when facing such pressure. Let’s try to identify if there are any cognitive distortions—like all-or-nothing thinking—within those beliefs. What do you think?
+
+User: It sounds like it could be true. I feel like if I don’t do perfectly, I’m failing completely.
+
+Consultant: That’s a common way to think, and it can really intensify feelings of inadequacy. Could we explore some evidence for and against your belief that you have to be perfect in your studies to avoid failure?
+
+User: I suppose I’ve passed some exams before… and I’ve also learned a lot from my failures, even if it didn’t feel good.
+
+Consultant: Absolutely! It’s great that you recognize the value in your past experiences and learning opportunities. What would it mean for you to accept that progress rather than perfection is what matters?
+
+User: That would probably ease some of the pressure. I just need to remind myself that it's okay to stumble as long as I keep going.
+
+Consultant: Exactly! It’s about progress, and every step forward counts. Now, about your social life—what strategies can we discuss to help you find time to enjoy those activities while still caring for your studies?
+
+User: Maybe I could set specific times for studying and times for activities. That way, I could reassure myself that I won’t fall behind.
+
+Consultant: That sounds like a sensible approach! Why don’t we create a schedule together that allows you to dedicate specific hours for both studying and socializing? 
+
+User: Yes, I’d love that! I just need to make sure I stick to it.
+
+Consultant: Commitment to that schedule will be key, and we can also think of some strategies to help keep you accountable. What activities have you been enjoying the most lately?
+
+User: I really liked the group project in my design class. Working together felt productive and fun.
+
+Consultant: That sounds fantastic! Collaborating with others can be a great motivator. Let’s set a goal to incorporate more group activities. How does that sound?
+
+User: Sounds good! I think having that motivation can help with my studies too.
+
+Consultant: Definitely! Engaging in collaborative activities can boost your morale while studying. How about also setting small, achievable study goals to work alongside your social plans?
+
+User: That makes sense! I could make a list of tasks I want to complete each week. 
+
+Consultant: Absolutely! Keeping a list can help you stay organized and give a sense of accomplishment as you check things off. How do you feel about developing that list together?
+
+User: I would appreciate that. It would help me see exactly what I need to do.
+
+Consultant: Great! We can start by discussing subjects or topics you find more challenging. Having clarity on what needs your attention will help in prioritizing.
+
+User: I have a hard time with my math class. I really struggle with understanding the concepts.
+
+Consultant: Acknowledging that is a solid start. Let's consider whether there are resources, like study groups or tutoring, that could support you in math while allowing you time to socialize.
+
+User: I haven’t thought of joining a study group for math. That could help a lot!
+
+Consultant: Joining a study group can not only enhance your understanding but also provide social support. It's a wonderful way to blend studying and connecting with peers. 
+
+User: I feel better just thinking about these options. Thank you!
+
+Consultant: I’m glad to hear that! Just remember, balancing your commitments takes time, and it's okay to adjust your plan as you go. 
+
+User: Absolutely, I’ll keep that in mind.
+
+Consultant: Before we wrap up, let’s summarize what we’ve discussed today. You’re on a path to balancing studies with social endeavors, focusing on progress over perfection, and using support resources.
+
+User: Yes, I feel like I have a clear plan now!
+
+Consultant: That’s great! As we finish today’s session, remind yourself of what you’ve learned and be kind to yourself through this journey. 
+
+User: I will. Thank you for your guidance! 
+
+Consultant: You’re welcome, Tong! Keep on your journey, and remember, I’m here if you need more support. I wish you the best for the upcoming weeks!
+###################
+Consultant: Hello, I'm really glad to see you again! Today, I’d like to explore how you’ve been feeling since our last session and celebrate the achievements you've made. How are you feeling right now?
+
+User: Hi! I feel quite satisfied actually. I managed to improve my exam results a lot this time, which makes me feel accomplished. But, I still have some worries about what to do next.
+
+Consultant: That’s wonderful to hear! It sounds like you’ve made significant progress, which is something to be proud of. What are your thoughts regarding your future steps? What uncertainties are you experiencing?
+
+User: I'm not entirely sure about my career direction. Part of me wants to continue my studies, but another part is still unsure if this path is really what I want. I still feel a bit lost at times.
+
+Consultant: It’s completely understandable to feel uncertain about your future, especially after having made progress. Let’s take a moment to recognize the success you’ve achieved so far. What are some specific strategies or skills you’ve learned that you think have contributed to your recent improvements?
+
+User: I’ve learned to manage my time better and prioritize my studies over distractions like games and social media. Plus, I’ve started to set small goals, which help me stay on track.
+
+Consultant: Those are excellent strategies! Time management and goal setting are powerful tools. How do you feel about continuing to use these strategies moving forward? Do you think they can help you face any upcoming uncertainties?
+
+User: I think they can definitely help, but sometimes I doubt if I can stick to them long-term, especially when things get tough.
+
+Consultant: Doubt is a natural feeling, especially when changes are on the horizon. Let’s work together to strengthen your confidence. Can you think of any past situations where you faced challenges but successfully managed to overcome them?
+
+User: Yes, there were times before when I didn’t think I could improve my grades or focus better, but I did. I just had to be consistent and remind myself of my goals.
+
+Consultant: That’s a great insight! It sounds like reminding yourself of your goals plays a crucial role in your success. What if we develop a few affirmations or reminders you can use when doubt creeps in? How does that sound?
+
+User: That sounds helpful. I think having something positive to tell myself would be great when I'm feeling uncertain.
+
+Consultant: Perfect! Let’s brainstorm some affirmations together. For example, “I am capable of achieving my goals” or “I have the skills to overcome challenges.” What resonates with you or feels meaningful?
+
+User: I like “I am capable of achieving my goals.” It feels empowering and reminds me that I can succeed.
+
+Consultant: I’m glad that resonates with you! Creating a system of reminders using affirmations can be an empowering way to build resilience. Now, let’s also consider potential scenarios that could cause stress in your future. What are some changes or challenges you might foresee?
+
+User: I think transitioning to more advanced classes or possibly looking for internships could be challenging. I worry that my past habits might creep back if I don't keep myself motivated.
+
+Consultant: Anticipating those challenges is a great first step. Let’s explore some ways to prepare for these scenarios. If you were to face difficulties with motivation, what strategies could you implement to maintain your commitment to your goals?
+
+User: I could set up a study group with friends or seek accountability from my instructors. That way, I wouldn’t feel alone in trying to stay focused.
+
+Consultant: Those are fantastic ideas! Engaging with peers and seeking support can create a sense of community and accountability, which is essential. As we wrap up today, let’s take a moment to reflect on your progress and the steps forward. How do you feel about the path you’re embarking on?
+
+User: I feel more positive and a bit more confident about the future. Even though there are still worries, I think I have the tools to handle them.
+
+Consultant: That’s a significant shift! It’s wonderful to see you feeling more optimistic and confident. Remember, it’s all about taking it one step at a time. Do you feel ready to use the strategies we discussed as you navigate the coming months?
+
+User: Yes, I’m ready to give them a try. I feel motivated to keep moving forward!
+
+Consultant: That’s great to hear! Remember, it's natural to have ups and downs. You can always revisit these strategies and affirmations whenever you need a boost. Thank you for sharing your journey with me today, and I’m here to support you as you continue this path. 
+
+User: Thank you! I really appreciate your support and guidance. 
+
+Consultant: You're very welcome! Let's keep this momentum going. I believe you have the ability to achieve your goals. If you ever feel uncertain again, don’t hesitate to reach out. Take care!
+###################
+Consultant: Hello, Tong! I’m glad to see you here today. How are you feeling about your upcoming internship opportunity? 
+
+User: Hi there! I'm feeling a mix of excitement and a bit of anxiety, to be honest. I'm really looking forward to the experience, but I can't shake off the worry that I might not be ready for it. 
+
+Consultant: It sounds like this internship is something you're really looking forward to, but the uncertainty is causing you some anxiety. What specifically worries you about being ready for it? 
+
+User: Well, I'm worried that my study habits aren't good enough and that I might struggle to keep up with my tasks. I haven't been so disciplined, and last semester wasn’t great for me. 
+
+Consultant: That makes sense. You want to be prepared, especially after experiencing some challenges with your studies. Let's talk about those study habits a bit more. What do you feel makes it difficult for you to focus or stay disciplined right now? 
+
+User: I find it hard to resist distractions, especially my phone. Even during class, I tend to play with it instead of paying attention. It feels like the urge is just too strong to ignore.
+
+Consultant: It sounds like those distractions make it challenging for you to concentrate. How do you feel when you notice yourself getting distracted instead of focusing on what you're supposed to be doing? 
+
+User: I feel guilty afterward, like I’m wasting my time. It's frustrating because I want to do well, but I can't seem to make it happen. 
+
+Consultant: That’s a tough position to be in, Tong. It’s understandable to feel frustrated. Let's explore this feeling of guilt a bit. What do you think this guilt tells you about what you want to achieve? 
+
+User: I suppose it shows that I care about my studies and my future. I really do want to succeed and make the most of this internship opportunity. 
+
+Consultant: It sounds like you have a strong desire to succeed, which is a great starting point. What do you envision as a ideal study habit or routine that would make you feel more prepared for your internship? 
+
+User: I guess I need to set specific times to study and limit my phone usage during those times. Maybe even create a schedule to keep me accountable. 
+
+Consultant: That’s a practical approach! Creating a schedule can help provide structure. How would you feel about trying out this schedule before the internship starts? 
+
+User: I think I could try it. It might help to have a plan in place so I don’t feel so lost. 
+
+Consultant: Absolutely. Having a plan can certainly ease some of the uncertainty. When do you think you could start implementing this study schedule? 
+
+User: Maybe I can start this weekend. I don’t have classes then, so it might be a good time to set everything up.
+
+Consultant: That sounds like a solid plan! Setting aside time to design your schedule will make it feel achievable. What are some specific subjects or skills you want to focus on during this time? 
+
+User: I want to improve my understanding of the core concepts in my field, especially those that might be relevant to the internship. 
+
+Consultant: Focusing on the relevant core concepts is a wise choice. How do you plan to review those concepts? Will you use textbooks, online resources, or perhaps join study groups? 
+
+User: I think a mix of things would work well. I can read from my textbooks, find online resources, and maybe reach out to classmates for study sessions. 
+
+Consultant: A balanced approach can keep things engaging. It might also help you feel more connected to your peers. How do you think reaching out to classmates could benefit you? 
+
+User: I think it would be nice to have support and share different perspectives. Plus, it adds some accountability, knowing others are studying too. 
+
+Consultant: That’s a great insight! Having support can really make a difference. While you’re implementing these new study habits, what emotions do you hope to cultivate? 
+
+User: I'd like to feel more confident and less anxious about my studies and the internship. 
+
+Consultant: Feeling more confident and less anxious is a wonderful goal. What actions can you take to cultivate that confidence as you prepare? 
+
+User: I guess celebrating small victories would help. Like if I stick to my study plan or grasp a tough concept. 
+
+Consultant: Celebrating those small victories can be very empowering! How do you plan to acknowledge those achievements? 
+
+User: Maybe I could treat myself to something nice or share my progress with a friend when I complete certain goals. 
+
+Consultant: That sounds like a fun way to reward yourself! Besides these small celebrations, do you think there are any strategies you could use to manage any anxiety that arises as the internship approaches? 
+
+User: I might try mindfulness techniques or just take a few moments to breathe when I start feeling anxious again. 
+
+Consultant: Mindfulness and breathing exercises can be very effective in managing anxiety. Have you ever tried any of them before? 
+
+User: Not really, but I’ve heard about them. I think I could give it a shot, especially when things get overwhelming. 
+
+Consultant: That sounds like a good idea! Incorporating those techniques whenever you feel overwhelmed could be really beneficial. As we wrap up today, what do you feel you’ve gained from our conversation? 
+
+User: I feel more hopeful and have some practical steps to take. I’m looking forward to trying out the study schedule and reaching out to classmates. 
+
+Consultant: I’m really glad to hear that! You've laid down some great plans, and it's wonderful to see your enthusiasm for moving forward. Remember, you have the strength to manage both your studies and your new internship. 
+
+User: Thank you! I appreciate your help today. 
+
+Consultant: You’re very welcome, Tong! I believe in you and your abilities. Don’t hesitate to reach out if you need further support. Good luck with your preparations, and take care!
+###################

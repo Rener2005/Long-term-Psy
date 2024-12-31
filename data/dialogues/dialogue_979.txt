@@ -1,0 +1,388 @@
+Consultant: Hello, Xiaochao! I'm glad you could make it to our session today. How are you feeling right now? 
+
+User: Hi. I guess I'm feeling pretty down. I got criticized by my teacher in class for messing up my homework, and it's really stuck with me. I just feel like I can't do anything right, so I thought I might as well not even submit my work anymore.
+
+Consultant: I can hear that you're feeling really low after that experience. It's understandable to feel disheartened after being criticized, especially in front of others. You mentioned not wanting to submit your work anymore. Can you tell me more about what led you to that decision?
+
+User: Well, I just felt embarrassed. It's like everyone is looking at me, thinking I'm a failure. I feel like I'm the only one struggling, and it makes me want to give up.
+
+Consultant: It sounds like that moment was really overwhelming for you. When you think about not wanting to submit work, does that affect how you see yourself? 
+
+User: Yeah, it does. I think of myself as this "bad kid" who can't get anything right. It's like I don’t belong.
+
+Consultant: I appreciate you sharing that with me, Xiaochao. It’s tough to feel like you don’t fit in, especially when you're under scrutiny. Let’s take a step back—what do you think caused you to label yourself as a “bad kid”? 
+
+User: I guess it’s because I kept getting low grades. No matter how hard I try, I can’t seem to improve. My dad is always on my case about my grades too.
+
+Consultant: It sounds like there’s a lot of pressure coming from your dad, and it might be influencing how you see yourself. Can we explore what specific thoughts go through your mind when you receive these low grades?
+
+User: I just feel like a failure. I think my dad is disappointed in me, and I think my classmates see me the same way.
+
+Consultant: That sounds really painful. When you think about your dad’s disappointment or how your classmates perceive you, what emotions come up for you? 
+
+User: I feel ashamed and angry. I don’t want to be this way, but I don’t know how to change it.
+
+Consultant: It’s completely valid to feel those emotions. A lot of people struggle with feelings of shame and anger when facing challenges. If you think about those feelings, do you notice any thoughts that come up repeatedly? 
+
+User: Sometimes I think that no matter what I do, it’s never going to be good enough. I feel like it’s pointless to even try. 
+
+Consultant: That sounds very discouraging. Let’s challenge that thought together. What is the evidence that supports or contradicts the idea that you will never be good enough? 
+
+User: Well, I guess there are times when I do well in basketball. My coach even said I improved.
+
+Consultant: That’s a great point, Xiaochao! It sounds like you do have evidence of success in basketball. How might it change your perspective if you allowed yourself to acknowledge those achievements alongside your schoolwork? 
+
+User: I suppose it would feel better, but I’m not sure it would change how I see my grades.
+
+Consultant: It’s a start! Recognizing your successes in one area can help foster a more balanced view of yourself. Let’s think about what small steps you could take to improve your schoolwork. What comes to mind? 
+
+User: Maybe I could ask a classmate for help with my assignments. But I feel embarrassed to ask.
+
+Consultant: It’s normal to feel hesitant, especially when you’re already feeling insecure. However, reaching out for help could be a positive step. What would you say to a friend if they were in your position and feeling like you do?
+
+User: I would probably tell them it’s okay to ask for help. 
+
+Consultant: Exactly! You’d encourage a friend, and you deserve that same kindness. How about we set a small goal for you? Perhaps you can reach out to one classmate this week? 
+
+User: I could try that, I think. I’ll aim to ask at least one person for help.
+
+Consultant: That sounds like a wonderful goal, Xiaochao! It’s brave of you to take that step. How about we reflect on how you feel after trying that approach next time we meet? 
+
+User: Okay! I think that would be good. I’ll try to focus on those positives.
+
+Consultant: Great! I look forward to hearing about it. As we wrap up today’s session, what’s one key takeaway you have for yourself? 
+
+User: Maybe that I can find small successes and not see myself only as the "bad kid."
+
+Consultant: That’s a powerful realization, Xiaochao! Focusing on successes is a great way to shift your mindset. Remember, you’ve got the potential to grow and change. I’m here to support you, and if you ever feel overwhelmed, don’t hesitate to reach out. 
+
+User: Thank you! That makes me feel a bit better.
+
+Consultant: I’m glad to hear that. Remember, every step counts, and I believe you’re on the right path. Looking forward to our next meeting! 
+
+User: Me too! See you next time!
+###################
+Consultant: Hello, Xiao Chao! I'm glad to see you today. How have you been feeling since our last session?
+
+User: Hi. I've been... okay, I guess. I felt good about my performance in basketball class recently. Some classmates praised me, which was nice. But I'm still struggling with my studies. My dad is often disappointed in me, and that really affects me.
+
+Consultant: It sounds like you've had a positive experience with basketball, which is great! However, I hear that your dad's feelings and your studies are weighing on you. Can we talk a bit more about how these thoughts and feelings interact?
+
+User: Sure. I feel like I'm doing well in sports, but when it comes to my studies, I just feel like I can't get anything right. My dad keeps reminding me of my grades, and it makes me feel like I'm failing at everything.
+
+Consultant: I can understand how that would be frustrating for you. It seems like there's a strong contrast between your success in sports and your struggles in school. What thoughts go through your mind when you think about your studies and your dad's criticisms?
+
+User: I often think that I'm just not smart enough. Sometimes I feel like I'll never catch up to my classmates, and it makes me anxious to even try.
+
+Consultant: Those thoughts sound tough to carry around. It's common to feel overwhelmed when you're comparing yourself to others. What if we took a moment to challenge those thoughts? Can you think of any evidence that suggests you might be capable in your studies, just like you are in basketball?
+
+User: Well, I used to be better in math, but I think I've lost my touch. Sometimes, I do manage to get good grades, but those moments feel so rare.
+
+Consultant: It's promising to hear that you've had successes in math before! Those moments aren't as rare as they may feel, right? Let's focus on those times when you felt capable. What do you think contributed to those successes?
+
+User: I guess when I put in more effort and asked for help, it worked out better. But I don’t always do that.
+
+Consultant: That's a valuable insight, Xiao Chao. It seems like reaching out for help made a difference in your past experiences. Do you think you could incorporate that strategy again, maybe in a specific subject where you're feeling stuck?
+
+User: Maybe... I could ask a classmate for help with a project. That might work.
+
+Consultant: Absolutely! Asking a classmate for help is a great start. In addition to that, how might you feel about setting a small goal for this week around your studies and interactions with classmates?
+
+User: I could try to work with someone on my next assignment. That sounds manageable.
+
+Consultant: That sounds like an excellent plan! Working with someone can help you feel more connected and supported. How confident do you feel about reaching out to a classmate?
+
+User: I'm a bit nervous, but I really want to improve. I guess I can try.
+
+Consultant: It’s completely normal to feel nervous about this. Remember, small steps can lead to significant change. What do you think you could say to a classmate when you reach out?
+
+User: Maybe I could just say, "Hey, do you want to work together on this project?" That sounds simple enough.
+
+Consultant: That sounds perfect, Xiao Chao! A direct and friendly approach is often the best way. After this week, let’s check in on how that went and how it made you feel. 
+
+User: Yeah, definitely. I just hope I don’t mess it up.
+
+Consultant: It’s okay to worry about that, but remember that trying is what matters most. You’re giving yourself a chance to connect and learn. How do you think you'll feel if you take this step?
+
+User: If it goes well, maybe I’ll feel more confident. But if it doesn’t, I don’t want to feel like a failure.
+
+Consultant: It’s understandable to fear failure. What if we reframe that thought? Instead of focusing on the outcome, you could focus on the effort itself—making the effort to connect is already a success, don’t you think?
+
+User: Yeah, I see what you mean. Just trying is a step forward.
+
+Consultant: Exactly! And even if it doesn't go as planned, you’ll still have learned something valuable. What else can you do this week to support your confidence while working on your studies?
+
+User: Maybe I can also set aside some time every day to study a little, not just before assignments are due.
+
+Consultant: That’s a fantastic idea! Establishing a routine can really help with feeling prepared and reducing anxiety. How would you like to plan this study time?
+
+User: I think I can set aside half an hour every day after school to start with.
+
+Consultant: That sounds manageable. Having a structured approach can make things feel less overwhelming. How are you feeling about these steps you’re planning?
+
+User: I’m feeling a bit more hopeful. I like having a plan to follow.
+
+Consultant: I’m glad to hear that! Having a plan can boost your motivation and confidence. We can check in on your progress next time. Before we end today, do you have any last thoughts or questions?
+
+User: No, I think I’m good. I just need to remember to take it step by step.
+
+Consultant: That's a great takeaway! Remember, step by step, and you're already moving forward. I look forward to hearing about your experiences next time. Take care, Xiao Chao!
+
+User: Thank you! See you next time!
+###################
+Consultant: Hello, Xiao Chao! I'm glad you're here today. I understand you've been dealing with some challenges related to studying with your classmates. Can you tell me more about what you've been experiencing lately?
+
+User: Hi. Yeah, I've been feeling really unsure about working with my classmates. Recently, I tried to team up with someone after class to complete our assignment, but we ended up arguing instead. It makes me question my ability to cooperate with others.
+
+Consultant: It sounds like that argument left you feeling quite frustrated and uncertain about your collaborative skills. Can you share what specifically you felt during that argument? What thoughts were going through your mind?
+
+User: I felt really anxious. I thought maybe my ideas weren’t good enough, and I didn’t know how to express them without it turning into a fight. I just wanted to work together, but instead, I ended up feeling like I failed.
+
+Consultant: It's understandable to feel anxious when there's a conflict in communication. It seems like you were worried about your ideas being rejected. Have you noticed how that affects your confidence when trying to express yourself to others?
+
+User: Yes, I think it makes me more hesitant to share my thoughts with people. I keep worrying that they will think I'm dumb or not worth listening to.
+
+Consultant: I can see how that hesitation creates a barrier for you. Let’s explore these thoughts a bit more—what evidence do you have that would support the idea that your thoughts are not worth listening to?
+
+User: I guess I don’t really have any solid evidence. It’s just how I feel after my dad and teachers criticize my work. It sticks with me.
+
+Consultant: It's tough to hear criticism, especially from those we look up to. But it’s also important to remember that criticism does not define your value in a group. Can you think of any times when someone appreciated your input or ideas, even just once?
+
+User: Well, once a friend complimented my basketball skills. He said I played really well. That felt good.
+
+Consultant: That’s a great example! It shows that you do have skills and qualities that others can appreciate. How could you remind yourself of this when you’re collaborating with classmates in the future?
+
+User: Maybe I could keep telling myself that I have something valuable to offer, like my basketball skills, when I’m in those situations. 
+
+Consultant: That sounds like a constructive approach! We can also practice how to express your ideas in a way that invites collaboration rather than conflict. Would you be open to role-playing a scenario where you can articulate your thoughts to a classmate?
+
+User: Sure, I’d like to try that. I think it will help me practice.
+
+Consultant: Great! Let’s imagine you’re working on an assignment with a classmate who is opposing your ideas. How would you start the conversation to express your thoughts while keeping it cooperative?
+
+User: I might say something like, “I see what you’re saying, but I think my approach could also work. Can we explore both ideas together?”
+
+Consultant: That’s a wonderful start! It shows that you acknowledge their input while also expressing your viewpoint. How does saying that feel to you?
+
+User: It feels more comfortable than just pushing my idea or getting defensive. I like that it’s about working together.
+
+Consultant: I’m glad to hear that! It reinforces that collaboration is about sharing and valuing each other’s perspectives. If a disagreement arises again, what will you remind yourself to do?
+
+User: I’ll try to stay calm and remember that it’s okay to share my side. I can also listen to the other person better.
+
+Consultant: Exactly! Listening is a big part of effective communication. Let’s also think of some activities or strategies that you can engage in to build these skills further. Are there any group activities you might want to join at school that could help?
+
+User: I’ve been thinking about joining a study group. Maybe that can help me practice being with others.
+
+Consultant: That's an excellent idea! Joining a study group will provide you with the opportunity to practice communicating in a supportive environment. How do you feel about taking this step?
+
+User: I feel a bit excited and nervous. But I think it could really help me.
+
+Consultant: It’s completely normal to feel both excited and nervous about new experiences. As you step into this study group, remember to focus on the progress rather than perfection. What’s one takeaway from our conversation today that you want to focus on when you join that group?
+
+User: I want to remember to express my ideas confidently and listen to others, knowing that it’s a collaborative effort.
+
+Consultant: That’s a fantastic takeaway! You’re building a toolkit that will not only help you during assignments but also enrich your relationships with classmates. As we wrap up today, how do you feel about the strategies we’ve discussed?
+
+User: I feel more confident about trying to express myself and work as a team. I still worry about sticking to it, though.
+
+Consultant: It’s great to hear you’re feeling more confident. Remember, change takes time and dedication. What steps can you take to reinforce these new habits as you move forward?
+
+User: I guess I could set small goals for myself, like speaking up at least once in the group each time.
+
+Consultant: That’s a fantastic plan! Small goals can lead to significant progress over time. I'm proud of the work you've done today, Xiao Chao, and I hope you stay motivated. If you ever need to revisit these strategies or discuss new challenges, know that I’m here to support you.
+
+User: Thank you! I appreciate your help. I’ll try to keep these things in mind.
+
+Consultant: You’re very welcome! I believe in your ability to make these changes, and I look forward to hearing about your progress in our next session. Take care, and see you next time!
+###################
+Consultant: Hello, Xiaochao! I'm really glad to see you today. It sounds like you're trying to make some positive changes in your studies. How have you been feeling about your new study plan since we last spoke?
+
+User: Hi! I've been feeling a bit better, actually. I think having a plan helps, but I'm still worried that I might not stick to it. My dad keeps reminding me, but sometimes it just feels overwhelming.
+
+Consultant: It's great to hear that you're finding some improvements with your study plan! It's normal to feel a bit overwhelmed when you're trying to make changes. Can you share with me what specific parts of the plan feel overwhelming right now?
+
+User: Well, like, I have to manage my time better, and there are so many subjects. Sometimes I just want to play basketball instead, but I feel guilty doing that.
+
+Consultant: I see. It sounds like you're torn between your studies and your passion for basketball. Balancing the two can be tricky. Let's explore this a bit—how do you think playing basketball fits into your study plan? 
+
+User: I think playing helps me relax and clear my head. But my dad believes I should focus on studying all the time, so I'm not sure if it’s okay to take breaks for basketball.
+
+Consultant: It's really important to have breaks, especially when you're feeling stressed. Physical activity like basketball can actually help improve focus and reduce anxiety. What if we think about how to incorporate that into your study routine in a way that feels right for you?
+
+User: That could work, maybe if I could schedule some time for basketball after studying. But I worry that I'll procrastinate and not study enough.
+
+Consultant: It sounds like you're concerned about losing your focus if you allow yourself to enjoy basketball. How about we look at this—what evidence do you have that taking breaks would lead to procrastination instead of helping you?
+
+User: I guess I don’t really have proof. It just feels like if I start playing, I might not stop. 
+
+Consultant: That makes sense, and it's a common worry. Would it help if we set some specific times for studying and for basketball, almost like a reward system? This way, you'd have a clear structure that allows time for both?
+
+User: Yeah, like if I finish a study session, I could reward myself with some basketball time. That makes it sound more doable.
+
+Consultant: Exactly! Setting up a reward system can be very effective. How do you feel about creating small, achievable study goals and scheduling your basketball time afterward? 
+
+User: I think that could help a lot! If I felt I accomplished something, maybe I wouldn’t feel as guilty about playing.
+
+Consultant: That's a great mindset, Xiaochao! By achieving your study goals, you can enjoy basketball with a sense of accomplishment. Let's also talk about how you'll keep track of your progress. How do you plan to monitor your study goals?
+
+User: I could keep a chart or something to mark what I accomplish each day. I think that would make me feel good to see my progress.
+
+Consultant: That’s a fantastic idea! Visual progress can be very motivating. You could also use it to reflect on what study techniques are working best for you. How does that sound?
+
+User: It sounds good! I’m excited to see my improvements. 
+
+Consultant: I'm excited for you too! Now, let's discuss how we can ensure your communication with your dad is supportive. Have you thought about sharing your study progress and basketball plans with him?
+
+User: I haven’t really talked to him about it yet. I’m not sure how he would react.
+
+Consultant: It can be a bit nerve-wracking, I understand. Perhaps you could frame it positively—sharing how you're balancing your studies and basketball in a way that makes you feel productive. What do you think?
+
+User: That sounds okay. I think if I explain how basketball helps me and that I’m working hard, he might understand.
+
+Consultant: That’s a great approach! Communication is key to building a supportive environment. Remember, approaching the conversation with confidence in your new strategy can make a difference. 
+
+User: I’ll try that. I feel like I can talk to him about it now.
+
+Consultant: I’m glad to hear that! As we wrap up, let’s reflect on what you’ve learned today. What new skills or strategies do you feel you can use moving forward?
+
+User: I learned that I can balance studying with breaks for basketball and keep track of my progress too. 
+
+Consultant: That's perfect! It sounds like you've made some significant strides today. If you find that you’re encountering challenges, remember you can adjust your plan as needed. You’re really building a strong foundation here.
+
+User: Thank you! I feel a lot more motivated now.
+
+Consultant: You’re very welcome, Xiaochao! Remember, it's all about progress, not perfection. I'm looking forward to hearing how everything goes next time we meet. If you ever need support, don’t hesitate to reach out. 
+
+User: I will! Thanks again for your help!
+
+Consultant: Of course! Take care, and enjoy your basketball and studies!
+###################
+Consultant: Hello, Xiao Chao! I'm really glad to see you today. You mentioned that you've experienced some success recently in basketball. Can you tell me more about how that made you feel?
+
+User: Hi! Yes, it felt amazing to win the basketball match. Everyone was cheering for us, and I finally felt like I did something right for once. It was nice to be recognized by my teammates and teachers.
+
+Consultant: That sounds wonderful! Winning and getting recognition definitely can boost your self-esteem. How do you think this success in basketball changes the way you see yourself?
+
+User: I guess I feel a bit more confident now. I've always struggled in school, and it feels like I'm better at basketball than academics. But winning made me realize I can achieve something.
+
+Consultant: It's great to hear that winning the match has helped you build confidence. You mentioned earlier that school is a struggle for you. How do you feel about your academic abilities compared to your basketball skills?
+
+User: Honestly, I often feel like I’m just not good at school. My grades are low, and I get a lot of criticism from my dad and teachers. It makes me feel like I fail in everything except basketball.
+
+Consultant: I can understand how disheartening that must be for you. It seems like your experience in basketball is a positive contrast to the challenges you face in school. Have you thought about ways to apply that sense of achievement and confidence from basketball to your studies?
+
+User: I've thought about it, but I don't know how to start. It feels so different—like basketball is just fun, while school is full of pressure.
+
+Consultant: That's a valid point. The pressure in school can be overwhelming compared to the enjoyment in sports. Let’s explore that further. What small steps could you take to make studying feel more rewarding or enjoyable like basketball?
+
+User: Maybe I could set little goals like I do in practice. Like, if I complete a chapter, I could reward myself with some basketball time.
+
+Consultant: That sounds like a great strategy! Setting small goals can lead to progress and also create a sense of achievement. How do you think achieving those small goals might impact your motivation to study?
+
+User: I think it would help. If I can celebrate small wins, it might make studying feel less daunting. I just hope I can keep it up.
+
+Consultant: It’s okay to feel uncertain, but starting with small, manageable goals is a strong approach. Remember, celebrating those achievements is essential. How do you feel about your relationship with your dad after your basketball success?
+
+User: It feels a bit better. He seemed proud of me for winning. But sometimes, I worry that if my grades don’t improve soon, he’ll be disappointed again.
+
+Consultant: It’s a positive sign that your success in basketball has brought some pride to your father. It’s natural to feel anxious about his expectations. How could you communicate to him what this basketball success means to you?
+
+User: Maybe I could tell him that winning made me feel good about myself and that I’m trying in school too. But I just worry it won't change anything.
+
+Consultant: It takes courage to share your feelings openly, and I believe expressing your achievements can foster understanding. Would it help to also talk to him about the pressure you feel regarding school?
+
+User: I think I’d be scared to tell him that. What if he thinks I’m making excuses?
+
+Consultant: It’s understandable to have that fear. Maybe you could discuss how you feel during a calm moment, emphasizing that both school and basketball are important to you. Would that feel more comfortable?
+
+User: That might work. If I frame it as me trying my best in both, maybe he’ll understand. 
+
+Consultant: That’s a thoughtful approach! Framing it in that way shows your effort and dedication. How do you think you’ll feel after having that conversation with him?
+
+User: I think it would relieve some pressure. It’s just hard to be completely open.
+
+Consultant: It’s perfectly normal to feel that way. Openness can take practice. Perhaps you could prepare what you want to say beforehand or even write it down. Is there anything else you’d like to discuss today?
+
+User: I think I need to work on being more assertive and expressing how I feel without fearing judgment. It just makes me nervous.
+
+Consultant: Practicing assertiveness is a valuable skill, and it’s great that you recognize that. We could explore some ways to develop this skill in our future sessions. For today, let’s focus on how to carry the confidence from basketball into other areas of your life. What are your thoughts on that?
+
+User: That makes sense. If I can be more confident in basketball, maybe I can bring that confidence to school.
+
+Consultant: Absolutely! We can devise strategies to help you use that confidence effectively in different aspects of your life. Before we wrap up, let’s reflect on what steps you feel ready to take moving forward.
+
+User: I’ll try to set small study goals and maybe talk to my dad about how I’m balancing both school and basketball.
+
+Consultant: Those sound like solid steps! Remember, it's about progress, not perfection. You’ve shown you can succeed in basketball, and that capability is there in other areas too. How do you feel now compared to when our session started?
+
+User: I feel a bit more hopeful! I think I can work on these things and maintain that confidence.
+
+Consultant: I'm glad to hear that, Xiao Chao! It’s a step forward in not only recognizing your achievements but also continuing to foster good communication with your dad. Let’s continue building on this in our future sessions. 
+
+User: Thanks! I’m looking forward to it.
+
+Consultant: You’re welcome! I’m here to support you. Take care, and I’ll see you next time!
+###################
+Consultant: Hello, Xiaochao! I'm really glad to see you today. It sounds like you've had some positive changes in your family relationship recently. How are you feeling about everything?
+
+User: Hi. Yes, it feels good that my dad and I finally talked openly. I think we both understand each other better now. I really hope we can keep this connection strong.
+
+Consultant: That’s wonderful to hear! Building a strong connection with your dad is so important. What specific things do you feel have improved in your relationship after that conversation?
+
+User: I think my dad is more supportive about my interests now. He even told me it's okay to balance basketball with studying. It made me feel less pressured.
+
+Consultant: It sounds like that support from your dad really helps ease some of the pressure you felt. How do you think you can maintain this supportive dynamic moving forward?
+
+User: I guess we could keep talking about things more openly. Maybe I should also try to share my study plans and how I want to spend time on basketball.
+
+Consultant: That's a great idea! Open communication can really help sustain that connection. How do you think sharing your study plans with your dad will feel for you?
+
+User: It might be a little scary at first, but I think it also feels liberating to just be honest about what I'm trying to do.
+
+Consultant: Feeling a bit nervous is completely normal, especially when sharing your plans. How can you prepare yourself for that conversation to feel more comfortable?
+
+User: Maybe I could write down what I want to say beforehand. It might help me stay on track and express myself better.
+
+Consultant: That sounds like a solid plan! Writing things down can help you clarify your thoughts. What would be the main points you’d like to share about your balance between studying and basketball?
+
+User: I want to tell him how much I love playing basketball and how it helps me relax. But I also want to show him I'm still committed to improving my studies.
+
+Consultant: Balancing both interests is key. If your dad understands how important basketball is for your well-being, it might help him support your goals even more. How can you explain that to him?
+
+User: I could say that basketball keeps me motivated and helps me focus better when I study, so they actually help each other.
+
+Consultant: That’s a very insightful connection! Emphasizing how each part supports the other can help your dad see the bigger picture. Is there a specific goal you’d like to achieve in the near future regarding your studies or basketball?
+
+User: I really want to improve my grades this semester, but I also want to join a local basketball team. Balancing both seems tough though.
+
+Consultant: Setting those goals is fantastic! It can be tough to balance, but having a clear vision can make it easier to manage your time. How do you plan to allocate time for both studying and basketball?
+
+User: I think I could set specific study times and reward myself with basketball practice after I complete my study goals.
+
+Consultant: That’s a clever approach! Rewarding yourself with something you enjoy can motivate you to stay on track. What kind of schedule do you think could work best for you?
+
+User: Maybe I could study for a couple of hours after school and then have basketball practice in the evening. It gives me something to look forward to.
+
+Consultant: That sounds like a balanced schedule! How do you feel about sharing this plan with your dad to see what he thinks?
+
+User: I think he’d be supportive of it, especially since I'm trying to find a way to improve both my studies and basketball.
+
+Consultant: That’s great! His support will be valuable. You’ve made significant progress already. What steps do you think you need to take to ensure you stick to this new plan?
+
+User: I need to stay focused on my study times. Maybe I could use reminders on my phone to help me stay on track.
+
+Consultant: Setting reminders can be a practical way to keep yourself accountable. Besides that, how will you track your progress in both academics and basketball?
+
+User: I could keep a journal where I note my study achievements and basketball practice. It’ll help me see how far I’m going with both.
+
+Consultant: A journal sounds like a wonderful idea! It can really help you recognize your achievements. As we wrap up, what’s one thing you want to keep in mind as you work towards these goals?
+
+User: I want to remember that both my studies and basketball are important, and it’s okay to ask for help whenever I need it.
+
+Consultant: That’s a powerful takeaway, Xiaochao. Remembering that balance and seeking support whenever you feel overwhelmed will guide you well. I’m glad we could discuss this today. How do you feel wrapping up our session?
+
+User: I feel good! I have a clearer plan now and I’m excited to talk to my dad.
+
+Consultant: I’m happy to hear that! You have a solid path ahead. Keep nurturing your relationship with your dad and pursuing your interests. If you need more support in the future, I'm here for you. Good luck, Xiaochao!
+###################

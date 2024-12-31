@@ -1,0 +1,358 @@
+Consultant: Hello J! It's great to see you today. I understand you've been feeling a bit uncertain about your abilities and experiencing some ups and downs lately. Can you share more about what’s been on your mind?
+
+User: Hi! Yes, I’ve been feeling really stressed about my studies. After the summer training, I encountered some complex programming tasks that frightened me, and I didn’t do well in the exam. It just made me doubt myself even more.
+
+Consultant: That sounds tough, J. It’s completely understandable to feel overwhelmed when facing challenging subjects, especially when your performance doesn't meet your expectations. How did you feel when you were preparing for your exam?
+
+User: I felt really anxious while studying. I kept thinking I wasn't going to do well again, which made it even harder for me to concentrate. I ended up second-guessing myself a lot.
+
+Consultant: It seems like those thoughts about not doing well were quite powerful for you. Can you recall some of the specific thoughts that crossed your mind during that time? What emotions did these thoughts evoke?
+
+User: I remember thinking things like, “I’ll never get this right” or “Everyone else must be better than me.” Those thoughts made me feel ashamed and really low.
+
+Consultant: Those thoughts sound quite negative, and it’s not surprising they led to feelings of shame and discouragement. Do you think those thoughts may be a bit extreme or not entirely based on reality? 
+
+User: Yes, I suppose they are. I don’t actually know if others are better, it’s just what my mind tells me when I’m anxious.
+
+Consultant: Recognizing that these thoughts may not be accurate is a significant first step! Let’s work together to challenge this thinking. If a friend came to you with similar thoughts, what would you say to help them see things differently?
+
+User: I would probably tell them that everyone has their strengths and weaknesses, and that struggling doesn’t mean they are failing overall.
+
+Consultant: Exactly! You’ve pointed out a crucial perspective. Now, let’s consider applying that same advice to yourself. Could there be aspects of your strengths that you might be overlooking?
+
+User: Maybe. I can grasp concepts when I study, and I generally do well in subjects that I enjoy. I just feel so lost right now.
+
+Consultant: It’s wonderful to hear that you recognize your strengths in some subjects! Perhaps we can focus on those areas where you excel and build your confidence from there. What activities or subjects do you enjoy that could help lift your spirits?
+
+User: I love working on projects related to engineering design. It’s actually quite exciting for me to see concepts come to life.
+
+Consultant: That's fantastic! Engaging in projects you’re passionate about could be a great way to build your confidence. How about we set a small task for you related to engineering design to work on this week?
+
+User: That sounds good! I think working on a small project might help me feel better and get my mind off the stress.
+
+Consultant: Great! Let’s outline a small project that you can complete within the week. How about a design that you can showcase later? This way, you’ll see that you can create something meaningful, which could also foster your sense of accomplishment.
+
+User: Yes, I like that idea! It would be nice to have something tangible to show for my efforts.
+
+Consultant: Fantastic! And remember, it’s not just about the outcome but also the process. If you feel anxious while working on it, we can find ways to manage that anxiety together. What might that look like for you?
+
+User: Maybe I could take breaks during my work or set a timer to focus on it for a short amount of time. That might help.
+
+Consultant: That’s an excellent strategy! Taking breaks and working in shorter bursts can often alleviate the pressure. As you work on your project this week, pay attention to any negative thoughts that come up and remind yourself of your capabilities.
+
+User: I’ll try to do that. It feels a bit challenging, but I want to work on it.
+
+Consultant: It’s perfectly okay to feel challenged! Change takes time, and every small step is progress. Remember to be kind to yourself during this process. How do you feel about what we’ve discussed today?
+
+User: I feel a little lighter. I think focusing on something I enjoy might help me feel more confident. It was good to talk about it.
+
+Consultant: I’m glad to hear that, J! It’s important to express these feelings. As we move forward, we’ll continue to identify and challenge those self-doubting thoughts while strengthening your positive self-perception. 
+
+User: Yes, I really want that. I hope I can keep pushing through and manage my emotions better.
+
+Consultant: Absolutely! We’ll work on strategies for managing those emotions and building resilience. For now, let’s check in next time about how the project went and how you felt while working on it. 
+
+User: Sure, I’m looking forward to it! Thank you for your help today.
+
+Consultant: You’re very welcome, J. Remember, you’re making progress, and that’s what matters. I’ll see you next time!
+###################
+Consultant: Hello, J! I'm really glad to see you today. How have you been since our last session?
+
+User: Hi. I've been feeling a bit overwhelmed. My driving lessons have been tough lately, and I keep second-guessing myself. I’m really afraid that I won’t be able to learn properly or succeed.
+
+Consultant: It sounds like you're feeling a lot of pressure and self-doubt regarding your driving lessons. Can you tell me more about what specifically is making you feel overwhelmed?
+
+User: Well, the weather has been bad, and my lessons are all over the place. I feel tired and just can’t seem to focus. It makes me question whether I’m actually good at this.
+
+Consultant: I see. So the unpredictable weather and lesson scheduling are heightening your fatigue and stressing you out. It’s understandable to feel uncertain about your abilities under those circumstances. What kind of thoughts go through your mind during these lessons?
+
+User: I often think things like, “I’ll never get this,” or “What if I fail the test and disappoint everyone?” Those thoughts just keep running in my head.
+
+Consultant: Those thoughts sound quite heavy and negative. It’s important to recognize how they are affecting your feelings and confidence. How do these thoughts make you feel during your lessons?
+
+User: They make me anxious and really frustrated. I just want to feel more confident and capable, but those thoughts seem to take over.
+
+Consultant: That’s completely understandable, J. Let’s take a moment to explore those thoughts a bit more. Can you think of any evidence that supports these feelings? Or perhaps any evidence that contradicts them?
+
+User: I mean, I’ve learned a few things already, and I can drive short distances without much help. But I keep focusing on my mistakes instead of what I’ve done well.
+
+Consultant: It’s great that you can already recognize some of your achievements! Focusing on mistakes can create a negative cycle. What if you tried to highlight a couple of your successes each time you finish a lesson? 
+
+User: That sounds like a good idea. I usually only think about what went wrong.
+
+Consultant: Shifting that focus is a powerful step. Let’s think about ways you can remind yourself of your successes after each lesson. Perhaps jotting them down in a notebook could help?
+
+User: I could try that. It might help me see that I'm improving, even if it's just a little bit.
+
+Consultant: Absolutely! Tracking your progress can be rewarding. Now, let's discuss some techniques for managing the anxiety and frustration that come with your lessons. Have you ever practiced deep breathing or mindfulness exercises?
+
+User: I’ve heard about mindfulness but never really tried it. I usually just feel overwhelmed and don’t know how to calm myself down.
+
+Consultant: Mindfulness can be a great way to bring awareness to your thoughts and feelings, while deep breathing helps regulate your emotions. Would you be open to trying a short breathing exercise together?
+
+User: Sure, I’d like to try that.
+
+Consultant: Great! Let’s take a few deep breaths together. Inhale slowly through your nose, hold for a moment, and then exhale through your mouth. Let’s repeat that a few times. How did that feel for you?
+
+User: It was calming, actually. I felt a bit more centered, which is nice.
+
+Consultant: That’s wonderful to hear! Practicing this whenever you feel anxious can help ground you. It’s also a way to remind yourself that you can take control of your reactions. How do you feel about incorporating this into your driving lessons?
+
+User: I think I could definitely try using it before and maybe even during my lessons if I get too anxious.
+
+Consultant: Yes, that’s an excellent strategy! Now, let's talk about creating a learning and resting schedule to help manage your workload and stress. How do you currently balance your practice sessions and breaks?
+
+User: I mostly just squeeze in lessons whenever I can, and I don’t take many breaks. I feel like I have to keep pushing myself.
+
+Consultant: It sounds like a more structured approach could be beneficial. What if we set specific times for lessons, as well as short breaks afterward? This could help refresh your mind.
+
+User: That might help! I see that I’m not giving myself enough time to recover. 
+
+Consultant: Exactly! Taking breaks is crucial for maintaining focus and motivation. So let's draft a schedule together. When do you think you'd like to practice driving?
+
+User: Maybe two or three times a week? I could also plan some downtime in between.
+
+Consultant: That sounds reasonable! Also, consider ending each session with a few minutes of reflection on what went well. How does that sound in terms of improving your confidence?
+
+User: It sounds really helpful. I like the idea of recognizing my progress after each lesson.
+
+Consultant: I'm glad to hear that! Let’s recap the strategies we discussed today: focusing on your successes, practicing breathing exercises, and structuring your learning schedule with breaks. Do you feel ready to implement these when you continue your driving lessons?
+
+User: Yes, I think I can do that. I feel more hopeful about improving now.
+
+Consultant: That’s fantastic to hear, J! Remember, it’s all about progress at your own pace. You’re building your confidence step by step. Is there anything else you’d like to cover before we finish today?
+
+User: Not really, I think we covered a lot. I appreciate your help!
+
+Consultant: You’re very welcome! It's been great working with you. Remember to take things one day at a time, and I look forward to hearing about your progress in our next session. Have a wonderful week!
+
+User: Thank you! I will see you next time!
+###################
+Consultant: Hello J! It's great to see you again. I'm glad you organized a study group and received positive feedback from your peers. How are you feeling about everything today?
+
+User: Hi! I feel a bit more confident after the study group, but I still have moments of uncertainty about my skills and future. It’s like I’m stuck between feeling accomplished and doubting myself at times.
+
+Consultant: It’s completely normal to feel that way. You’ve experienced a boost in your confidence, but the uncertainty can still linger. Let’s dive deeper into this. Can you share more about what specifically makes you doubt your abilities?
+
+User: Well, even though I got good feedback from my classmates, I still struggle with some technical topics in my coursework. Sometimes, I feel like I'm not as smart as my peers.
+
+Consultant: That sounds challenging, especially when you compare yourself to others. What thoughts go through your mind when you're faced with these technical difficulties? 
+
+User: I often think, “Why can’t I grasp this as quickly as they do?” It makes me feel inadequate and like I might fail in my future career.
+
+Consultant: Those thoughts can be quite heavy to carry. How do those feelings of inadequacy impact your motivation to study or participate in your classes?
+
+User: They certainly make it harder for me to focus. Sometimes, I catch myself avoiding studying because I'm afraid I won’t understand anything. It's frustrating.
+
+Consultant: I can understand how that frustration can lead to avoidance. It sounds like there’s a cycle of negative thinking and behavior. What do you think would help you break that cycle?
+
+User: Maybe I could remind myself of the positive feedback I received? But sometimes it feels like that isn't enough.
+
+Consultant: That's a good insight—reminding yourself of the positives is important. Let’s explore this further. Can you think of a specific moment when you did well that you can reflect on to counter those doubts?
+
+User: There was that time I explained a concept to a classmate and they said I made it clear for them. That felt really good!
+
+Consultant: That’s a fantastic example! You played a role in helping someone else understand. How does this achievement affect your view of your capabilities?
+
+User: It makes me feel a little better about my understanding. It’s like I can explain things, which gives me some confidence.
+
+Consultant: That’s a crucial realization! You have the ability to help others understand, which indicates that you do have a solid grasp of the material. What if we created a list of similar accomplishments and positive feedback to remind you of your strengths?
+
+User: That sounds like a great idea! I think having a visual reminder would really help.
+
+Consultant: Excellent! Let’s set that up. You can also practice positive self-talk when you face challenges. For instance, when those doubts arise, replace them with reminders of your past successes. Would you be willing to try that?
+
+User: Yes, I think that could help me stay motivated. I just need to consciously remind myself!
+
+Consultant: That's the spirit! Also, when you're faced with a tough topic, try asking yourself, “What can I learn from this?” rather than focusing on the struggle. This shift can help change your perspective.
+
+User: I hadn’t thought of it that way! Focusing on learning rather than just the outcome could relieve some pressure.
+
+Consultant: Absolutely! I believe this can enhance your confidence even further. Can you think of any specific areas or skills in which you feel particularly strong or excited?
+
+User: I enjoy problem-solving. I actually found programming aspects quite fun when we worked on our project.
+
+Consultant: That's wonderful! Problem-solving is a valuable skill, especially in engineering. How can you incorporate more of that enjoyment into your studies?
+
+User: Maybe I could join a coding club or work on personal projects that challenge me. It could help me stay engaged and build confidence.
+
+Consultant: That sounds like a fantastic plan! Getting involved in activities that align with your interests can really boost your confidence and help you discover your strengths. When do you think you might start exploring those opportunities?
+
+User: I could look for clubs this weekend. It would be nice to connect with others who share similar interests too.
+
+Consultant: I love that enthusiasm! Connecting with like-minded peers can make learning a lot more enjoyable. Remember to keep a record of your feelings and achievements as you go through this process. 
+
+User: Yes, I will! I'm actually feeling more optimistic about everything now.
+
+Consultant: That is wonderful to hear, J! Progress takes time, but you’re making significant strides. How do you feel about moving forward with these strategies we discussed?
+
+User: I feel ready to try them out! I just want to keep building my confidence.
+
+Consultant: That’s the spirit! You’re on the right track. I believe you have so much potential, and I’m excited to see you embrace it. As we wrap up today’s session, what’s one thing you’d like to remember as you move forward?
+
+User: To focus on my achievements and keep pushing myself. 
+
+Consultant: That's a powerful takeaway! Each step you take is part of your growth. I’m here for you whenever you need support. Remember to celebrate your progress and don’t hesitate to reach out. 
+
+User: Thank you so much! I really appreciate your help today.
+
+Consultant: You're welcome, J! I’m proud of your commitment to yourself. Have a wonderful week, and I look forward to hearing about your experiences next time.
+###################
+Consultant: Hello J! I'm really glad to see you today. How have you been feeling since our last session?
+
+User: Hi! I've actually been feeling a bit more confident lately. I participated in the debate competition and made it to the finals, which was exciting!
+
+Consultant: That's fantastic news, J! It's great to hear that you've been feeling more confident. How did that experience influence your feelings about your abilities in other areas?
+
+User: It made me realize that I can actually do well when I push myself. But sometimes, I still doubt my abilities in my studies. I want to be sure I can tackle both academic and non-academic challenges.
+
+Consultant: It's completely normal to feel that way, especially when trying new things. Let's explore this a bit more. What specific academic challenges are causing you to doubt yourself?
+
+User: Well, I'm worried about understanding some of the complex topics in my engineering courses. I feel like others grasp it better than I do.
+
+Consultant: I hear your concern about your understanding of complex topics. What if we take a moment to reflect on times when you have successfully tackled difficult subjects or challenges before? Can you think of any?
+
+User: There have definitely been moments where I struggled at first but eventually got it, especially in my physics class last semester. I remember spending extra time on it and eventually feeling proud of my progress.
+
+Consultant: That's a great example! You showed perseverance and dedication, and it paid off. How can we use that experience to help you approach your current studies with more confidence?
+
+User: I guess I could remind myself that it's okay not to get everything immediately. I can give myself time and maybe seek help when I need it.
+
+Consultant: Exactly, J! Acknowledging that learning takes time is vital. Let's focus on what strengths you can leverage in your studies. What skills do you think you bring to the table that help you succeed in your academic journey?
+
+User: I believe I have good problem-solving skills and I'm quite determined. When I set my mind on something, I work hard at it.
+
+Consultant: Those are incredible strengths! Being determined and having problem-solving skills can really help you navigate challenges. How do you think you can apply these skills more actively in your studies?
+
+User: Perhaps I can set small goals for myself when studying, breaking down the material into more manageable parts. That way, I can tackle each section bit by bit without feeling overwhelmed.
+
+Consultant: That sounds like a solid plan! Setting small goals can really help build your confidence. Are there specific subjects or topics you'd like to start with for this approach?
+
+User: I think I'll start with my calculus course. The concepts are a bit tricky for me right now, but I feel like breaking it down could really help.
+
+Consultant: Perfect choice! Focusing on calculus with smaller goals can really help. Additionally, let’s consider how you can celebrate your achievements, no matter how small. How can you reward yourself after completing these study goals?
+
+User: I could treat myself to a nice evening out with friends or maybe just enjoy a favorite snack at home after a study session.
+
+Consultant: I love those ideas! Rewarding yourself can enhance your motivation and create a positive association with your studying. How will you feel about sharing your progress with me in our next session?
+
+User: I think I’d feel good about that. I want to see how I progress and hopefully share some successes!
+
+Consultant: That sounds promising! Sharing your successes will reinforce your achievements and help build your confidence. Remember, every small step counts. Is there anything else you would like to discuss today?
+
+User: I think that covers most of it. I feel more motivated to try out these strategies after our chat!
+
+Consultant: I’m glad to hear that, J! As we wrap up today, let’s summarize what we’ve discussed. You plan to set small learning goals in calculus, use your problem-solving skills, and reward yourself for your progress. How does that sound?
+
+User: That sounds really good! I feel excited about applying these techniques.
+
+Consultant: I'm thrilled for you! You've made great strides today. Remember, you have the strength and determination to face these challenges. In our next session, we can review how things are going and refine your strategies if needed. 
+
+User: Thank you so much! I really appreciate your guidance and support. I’m looking forward to our next session.
+
+Consultant: You’re very welcome, J! I'm proud of your progress. Have a wonderful time applying your new strategies, and I look forward to hearing about your successes in our next meeting. Take care!
+###################
+Consultant: Hello, J! I'm really glad to see you again today. How have you been feeling since our last session?
+
+User: Hi! I've been feeling pretty good, actually. I'm still riding the high from my presentation. It really boosted my confidence, and I’m starting to see that I can excel in both academic and non-academic activities.
+
+Consultant: That's wonderful to hear! It sounds like the positive feedback you received has had a significant impact on your self-esteem. What aspects of that experience do you think boosted your confidence the most?
+
+User: I think it was the recognition from both my teachers and classmates. I realized that my speaking and organizing skills are better than I thought. It made me feel proud, like I can actually succeed in what I set my mind to.
+
+Consultant: It’s amazing how external validation can help us recognize our own strengths. Given that you’re feeling this newfound confidence, what are some areas or activities you would like to explore further to build on this momentum?
+
+User: I’m thinking about getting more involved in student organizations or maybe even taking on a leadership role. I want to challenge myself more and see what I can do outside of my studies.
+
+Consultant: That sounds like a fantastic plan, J! Engaging in student organizations can provide valuable opportunities for growth. How do you feel about stepping into a leadership role? Are there any particular challenges you anticipate?
+
+User: I think it might be a bit intimidating at first, especially managing people and leading projects. But I also believe it will help me develop my skills further. It's just that fear of not being good enough that sometimes creeps in.
+
+Consultant: It's perfectly normal to feel intimidated by new challenges. Remember, you have already proven to yourself that you can succeed in public speaking and organizing. Would it help to think about how you can apply those skills in a leadership context?
+
+User: Yes, that would definitely help. I suppose I just need to remind myself that I have the capability and experience from my presentation that I can draw from.
+
+Consultant: Exactly! Recognizing that you already possess skills that can be transferred to new situations is key. What strategies might you use to remind yourself of your capabilities when those feelings of doubt start creeping in?
+
+User: I could keep feedback from my presentation close by, maybe even write down what I did well and refer to it when I start to doubt myself.
+
+Consultant: That’s a great idea! Keeping tangible reminders of your achievements can boost your confidence in challenging times. Are there any specific activities you would like to try in these student organizations to help with your leadership skills?
+
+User: I think starting with organizing small events could be a good way to ease into a leadership role. It feels manageable, and I can build from there.
+
+Consultant: That sounds like a very reasonable approach! Organizing smaller events will allow you to gradually take on more responsibility. How do you envision your involvement evolving if all goes well?
+
+User: Ideally, I would love to be in a position where I could lead a larger project or even mentor others. I want to help others find their strengths too.
+
+Consultant: That’s a wonderful aspiration, J! Mentoring others can also reinforce your confidence and highlight your skills. How might you prepare yourself to take on that supportive role when the time comes?
+
+User: I could focus on developing my own understanding of team dynamics and leadership principles. Maybe even look for workshops or resources that could help me grow in that area.
+
+Consultant: Excellent! Investing in your own growth will definitely pay off in the long run. As we wrap up today, could you summarize what the key takeaways are for you moving forward?
+
+User: I’m taking away that I can build on my public speaking and organizing skills to take on leadership roles. I also want to keep reminders of my successes to counter any doubts. Ultimately, I’m excited to explore new challenges and help others along the way.
+
+Consultant: That’s a fantastic summary, J! You’ve clearly outlined your strengths and how you plan to leverage them. Keep building that confidence, and remember that growth comes from stepping outside your comfort zone. I believe in you!
+
+User: Thank you so much! I really appreciate your support. I feel more motivated now to tackle these challenges!
+
+Consultant: You're very welcome! It's been great working with you. Remember, I’m here to help if you ever need support in the future. Good luck on your journey, and I look forward to hearing about your progress next time!
+
+User: Thanks! I can't wait to share my experiences with you. See you next time!
+###################
+Consultant: Hello, J! It's great to see you again. How have you been feeling since our last session?
+
+User: Hi! I’ve been feeling really good, actually. I’m excited about joining the research group! It feels like a great opportunity for me, but I also have this nagging worry about whether I can handle it.
+
+Consultant: I'm glad to hear you're feeling good overall. It sounds like you're proud of your achievements, which is wonderful. Let’s explore that worry a bit. What specific thoughts come to mind when you think about handling the responsibilities in the research group?
+
+User: I keep thinking that I might not be good enough or that I could mess up. I want to contribute, but I'm scared I'll let everyone down.
+
+Consultant: It's completely normal to have those kinds of thoughts when stepping into a new role. Can you recall any specific instances when you've felt uncertain about your abilities before? How did you cope then?
+
+User: Yes, during my exams I felt the same way. I worried I wouldn’t do well, but I ended up performing better than I expected. I guess I managed the stress by studying hard and focusing on my preparation.
+
+Consultant: That’s a great example of how you’ve successfully handled pressure in the past. It seems that preparation plays a key role in your success. How can you apply that same strategy to your upcoming research responsibilities?
+
+User: I suppose I could set a study schedule for the research tasks, just like I did for my exams. That way, I can gradually build my knowledge and confidence.
+
+Consultant: That sounds like a solid plan, J. Preparing a schedule can help you feel more in control. What aren't you sure about when thinking about this schedule? Is there any element that makes you feel anxious?
+
+User: I worry that I might not keep up with the pace of the research or that I won't understand things quickly enough.
+
+Consultant: It’s understandable to feel that way. However, let's challenge that thought. What evidence do you have that suggests you won't keep up or understand the material? Have you managed to learn new concepts in the past?
+
+User: Well, I’ve learned quite a few new things in my classes and projects. I did manage to understand complex topics before, so I guess there is some evidence that I can do it.
+
+Consultant: Exactly! You have successfully learned challenging material before. How might you remind yourself of these past successes when those negative thoughts appear again?
+
+User: I think I could compile a list of my achievements and the skills I've gained. Seeing it in writing might help me keep perspective.
+
+Consultant: That's a brilliant idea, J! Keeping a list will serve as a reminder of your capabilities. As for the tasks in the research group, what specific steps can you take to gradually familiarize yourself with them?
+
+User: I could start by reaching out to my advisor for some guidance and clarifying the expectations. Then I could break down the tasks into smaller, manageable parts.
+
+Consultant: That sounds proactive! Reaching out for support shows your determination to succeed. How do you feel about asking for help when needed? Does that make you anxious?
+
+User: Sometimes it does. I worry that it will make me seem less capable. But I also know it's okay to ask for help, especially when learning something new.
+
+Consultant: Recognizing that it’s okay to seek assistance is a crucial part of growth. Everyone needs help at times, and it can foster collaboration and learning. What steps can you take to become more comfortable with asking for help?
+
+User: I think I can practice framing my questions positively. Instead of thinking, "I don’t know anything," I could say, "I want to learn how to do this better."
+
+Consultant: That’s a fantastic shift in perspective! Reframing your mindset is very powerful. It can help you feel more confident when reaching out. What else can you do to build your confidence regarding the new challenges you might face?
+
+User: I could try to remind myself of my strengths and how I overcame past challenges. Maybe even reflect on my exam successes to boost my confidence.
+
+Consultant: Absolutely! Reflecting on your strengths and past achievements can remind you of your resilience. As we wrap up our session today, what would be the most important takeaway for you to implement as you step into this research role?
+
+User: I believe it will be to prepare well and seek help when I need it, while also reminding myself of my capabilities. I feel like I have a clearer plan now.
+
+Consultant: That’s a great conclusion, J! You have the tools to face these new challenges positively. Remember, it's a journey of learning. What you're feeling is normal, and you’re on the right path. If any doubts arise, remember our conversation. You’ve got this!
+
+User: Thank you! I really appreciate your support. I feel much more confident about everything now.
+
+Consultant: You're very welcome, J! It’s been wonderful to see your progress. Don’t hesitate to reach out if you need more guidance in the future. Take care and best of luck with your research!
+
+User: I will! Thanks again!
+###################

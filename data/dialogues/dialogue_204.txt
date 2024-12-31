@@ -1,0 +1,402 @@
+Consultant: Hello, I'm glad you're here today, L. How have you been feeling lately, especially with the exams approaching?
+
+User: Hi. Honestly, I've been really anxious and tense. The thought of exams makes it hard for me to focus, and I find myself forgetting things during class.
+
+Consultant: That sounds tough, L. So you’re feeling a lot of pressure with your exams coming up, and that’s affecting your ability to concentrate and remember things. Can you tell me more about what specifically makes you feel anxious when you think about your upcoming exams?
+
+User: I think it’s mostly because my parents have such high expectations. They always remind me about studying, but I feel they don't really understand how I feel.
+
+Consultant: It sounds like there's a lot of pressure from your parents, and that might be contributing to your anxiety. When they express their expectations, how does that make you feel in those moments?
+
+User: I feel overwhelmed. It’s like I have to meet their standards, and I often worry about disappointing them if I don’t perform well.
+
+Consultant: I can see how that would create a lot of stress for you. It seems like there's a lot at stake in your mind. When those anxious feelings come up, what kinds of thoughts go through your mind?
+
+User: I often think things like, "What if I fail?" or "What if I forget everything during the exam?" It just spirals from there.
+
+Consultant: Those thoughts sound very distressing. Let's explore them a bit more. When you think, "What if I fail?" what feelings do you experience in your body?
+
+User: My heart races, and I feel sick in my stomach. It's like I can't breathe properly.
+
+Consultant: That sounds really uncomfortable. It’s understandable to feel physically affected by those intense thoughts. Have you noticed if these feelings affect your study habits or how you prepare for your exams?
+
+User: Yes, definitely. Sometimes I just avoid studying altogether because I feel so anxious about it, and then I get even more stressed as the exam gets closer.
+
+Consultant: It’s a tricky cycle, isn’t it? Avoiding study can provide temporary relief, but it often leads to increased anxiety later on. Would you like to explore some ways to address this anxiety and maybe change that pattern?
+
+User: Sure, I’d like to find a way to feel less anxious and more focused.
+
+Consultant: Great! One helpful approach might be to challenge some of those negative thoughts. For example, when you think, “What if I fail?” we could look for evidence that supports or contradicts that thought. Do you think there's evidence that challenges that idea of failure?
+
+User: Well, I have done well in my classes before, so I guess that's true. But I still worry a lot.
+
+Consultant: It's understandable to worry, especially when there's pressure involved. But acknowledging your past successes can be a powerful counter to that fear. What if we tried to reframe the thought to something more balanced, like, "I’ve prepared well, and I can do my best"?
+
+User: That sounds better. I could remind myself of that instead of just thinking I’ll fail.
+
+Consultant: Exactly! And along with reframing your thoughts, have you considered practicing relaxation techniques, such as breathing exercises, to help reduce your anxiety when it arises?
+
+User: I haven't really tried that. Can you explain how it works?
+
+Consultant: Of course! Breathing exercises can help calm your body when you’re feeling anxious. One technique is to take a deep breath in through your nose for a count of four, hold for four, and then exhale slowly through your mouth for a count of four. Would you like to try it together?
+
+User: Yes, I’d like to try that.
+
+Consultant: Great. Let’s do it together. Inhale for four… hold... and exhale for four. Let’s repeat that a few times. How does it feel?
+
+User: It feels a bit calming, actually. I didn’t expect that.
+
+Consultant: I’m glad to hear that! Practicing this technique can help you manage your physiological response to anxiety. You can use it when you start feeling overwhelmed, especially before or during exams. How do you feel about incorporating this into your study routine?
+
+User: I think I can try to do that. It might help me feel less tense.
+
+Consultant: That's a positive step. Remember, it’s about finding what works for you. We can also think about setting small study goals to gradually reduce the workload you perceive. What are your thoughts on that?
+
+User: That sounds manageable. I often think I have to study everything at once, which adds to my anxiety.
+
+Consultant: Setting small, achievable goals can help you feel more in control and reduce that anxiety. For instance, focusing on one subject or topic at a time could make a big difference. Would you like to try setting a goal for this week?
+
+User: I can plan to study one subject a day instead of trying to cram everything.
+
+Consultant: That’s an excellent plan! As you progress, you’ll likely notice that your confidence grows along with your preparation. How do you feel about our conversation today and the strategies we’ve discussed?
+
+User: It’s been really eye-opening. I feel like I have some tools now to deal with my anxiety.
+
+Consultant: I’m glad to hear that, L. You’ve made some great insights today. Remember that it’s okay to seek help when you need it. For our next session, we can explore how these strategies have been working for you and adjust as needed. Does that sound good?
+
+User: Yes, that sounds perfect. Thank you for today!
+
+Consultant: You’re very welcome! I look forward to our next session. Take care until then!
+###################
+Consultant: Hello, little L! Welcome to today's session. I'm glad to see you again. How have you been feeling since our last conversation?
+
+User: Hi! I’ve been trying to apply the relaxation techniques we talked about, but I still get really anxious when I hear the sound of practice tests being printed. My heart races, and I sweat a lot.
+
+Consultant: It's great to hear that you've been trying to practice the relaxation techniques. However, it's understandable that the sound of practice tests triggers your anxiety. Can you tell me more about what goes through your mind when you start feeling anxious in those moments?
+
+User: I just start panicking, thinking that I’m going to fail the exam and disappoint my parents. It’s like a loop of negative thoughts that I can’t escape from.
+
+Consultant: Those thoughts sound very overwhelming, and it makes sense that they cause you to feel anxious. Let's try to identify those thoughts together. What specific thoughts come to you when you hear that sound?
+
+User: I think things like, "What if I can’t answer the questions?" or "I’m going to let everyone down." It just spirals from there.
+
+Consultant: It sounds like these thoughts are really intense for you. It might be helpful to challenge these thoughts. For instance, how likely do you think it is that you will actually fail the exam?
+
+User: I guess it’s not very likely, but in the moment, it feels so real, like I can’t see any other possibility.
+
+Consultant: That’s an important insight, little L. Your feelings are very powerful, and they can sometimes overshadow the reality of the situation. Let’s try to reframe those thoughts. What would you say to a friend if they were in your position, feeling anxious about an exam?
+
+User: I’d probably tell them that they’ve studied hard and they should trust themselves. 
+
+Consultant: Exactly! You believe in your friend's abilities, just as you should believe in yours. How would it feel to remind yourself of your efforts and hard work before the exam?
+
+User: I think it could help. I often forget what I’ve done during the stress of the moment.
+
+Consultant: That’s a great realization. Let's work on a positive affirmation together that you can use when those anxious thoughts arise. What sounds like a good reminder for you?
+
+User: Maybe something like, "I’m prepared, and I can handle this."
+
+Consultant: That’s an excellent affirmation! Repeat it to yourself whenever you start feeling anxious. Also, practicing relaxation techniques before you face a stressful situation might help calm you down. How have you been incorporating those techniques into your routine?
+
+User: I try to practice deep breathing before classes, but sometimes I don't stick to it when I'm really stressed.
+
+Consultant: It's really good that you're trying! It’s normal for routines to slip when stress arises. How about setting a specific time each day for your relaxation practice? Even just a few minutes can make a difference.
+
+User: That sounds like a good plan. Maybe right after school could work for me.
+
+Consultant: That sounds perfect! A consistent routine can help you feel more grounded. As we prepare for your upcoming exams, how about we simulate a practice test situation? It might help you become more comfortable with the triggers.
+
+User: That could be really helpful! I’m nervous, but I think doing it might lessen the fear.
+
+Consultant: I completely understand that feeling. We can take it slowly, trying to recreate the practice environment and work through your anxiety together. What do you think about that idea?
+
+User: I think it sounds good! I want to face it instead of running away from it.
+
+Consultant: I’m proud of you for your willingness to confront your fears. It’s an important step! Let’s plan to gradually introduce those scenarios into our future sessions. Would that be alright with you?
+
+User: Yes, I’d like that. Having someone to practice with would definitely help.
+
+Consultant: Wonderful! I’m here to support you throughout this journey. Before we finish today, let’s summarize what we’ve discussed. You’re working on acknowledging your feelings of anxiety, challenging negative thoughts, and practicing your relaxation techniques, correct?
+
+User: Yes, and I want to work on that affirmation too.
+
+Consultant: Absolutely! Make sure to remind yourself of it daily, especially leading up to exam time. As we get ready for our next session, think of any specific situations where you want to practice. Does that sound good?
+
+User: Yes, I’ll pay attention to any situations that trigger my anxiety. Thank you for helping me feel more confident!
+
+Consultant: You’re very welcome, little L. I believe in your ability to manage your anxiety as you continue practicing. Remember, it’s okay to feel pressure, and you have the skills to handle it. If you ever feel overwhelmed, just reach out. I’m here for you. 
+
+User: Thank you! I really appreciate it. I feel a bit more hopeful now.
+
+Consultant: That’s wonderful to hear! Let’s continue this momentum in our next session. Until then, keep practicing, and take care of yourself! 
+
+User: I will. Thank you again!
+###################
+Consultant: Hello, Little L! It's great to see you again. I’m looking forward to our session today. How have you been feeling regarding your recent exam pressures?
+
+User: Hi! I've been feeling a bit better with my anxiety at home when doing homework. But I still get really nervous during exams, which is quite frustrating.
+
+Consultant: I’m glad to hear that your anxiety at home has decreased! It sounds like you're making progress. Can you share what aspects of studying at home felt calmer for you?
+
+User: Well, I tried to apply some relaxation techniques and they really helped me focus. I felt more in control of my work.
+
+Consultant: That’s wonderful! It seems the techniques you learned are effective for you in your study environment. Now, regarding exams, what specific thoughts or feelings come up for you during that time?
+
+User: During exams, I feel a tight knot in my stomach, and I keep thinking that if I don’t do well, my parents will be disappointed. It really adds to my stress.
+
+Consultant: I see. The fear of disappointing your parents seems to heighten your anxiety during exams. Can you tell me what thoughts go through your mind right before an exam starts?
+
+User: Right before an exam, I often think, “What if I forget everything?” and “I can’t handle this pressure.” These thoughts make me feel overwhelmed.
+
+Consultant: Those thoughts sound really intense. Let's explore them a bit. How much evidence do you think supports the idea that you might forget everything during an exam?
+
+User: Well, I guess I’ve studied a lot, but the fear is just really strong in the moment. It feels like it could happen.
+
+Consultant: That makes sense. Sometimes our fears can feel very real even if there's little evidence. If a friend were having these thoughts, what would you tell them to challenge that fear?
+
+User: I would probably tell them that they’ve studied well and to trust their knowledge. They shouldn’t focus too much on the negative thoughts.
+
+Consultant: That’s a wise perspective. You already have the tools to challenge those thoughts for yourself! Would you be willing to try applying that same advice to yourself before your next exam?
+
+User: I can try that. It just feels hard in the moment.
+
+Consultant: It can definitely be challenging in the heat of the moment. Let's practice a little. Imagine it's the day before an exam. What is one realistic thought you can tell yourself to replace “What if I forget everything?”
+
+User: Maybe I could say, “I have prepared well, and I can take it one question at a time.”
+
+Consultant: That’s a great alternative thought! It sounds much more calming and supportive. How do you feel when you say that to yourself?
+
+User: I feel a little relief, like it's not all on my shoulders.
+
+Consultant: Fantastic! That sense of relief can really help reduce anxiety. Alongside that, would you like to discuss any specific strategies we can practice today that would help you manage your anxiety during the exam?
+
+User: Yes, I think some specific practice would be useful! Maybe simulating an exam situation?
+
+Consultant: Absolutely! Let’s create a mini-exam environment. I’ll ask you some questions similar to what you might see in your exams, and you can use the techniques we’ve discussed to manage any anxiety that arises. How does that sound?
+
+User: That sounds good! I’m a bit nervous, but I want to try.
+
+Consultant: That's perfectly okay! Remember, it's just practice. Let's start by imagining you’ve entered the exam room; take a deep breath. Now, here’s your first question: What are the main themes of the novel you studied? 
+
+User: Okay... um, there’s the theme of friendship and betrayal in the story.
+
+Consultant: Good. As you answer, pay attention to any anxious feelings that come up. What thoughts cross your mind as you provide that answer?
+
+User: I feel like I might forget some details, and I worry I’m not being thorough enough.
+
+Consultant: Let’s pause there. How can you reframe those thoughts to something more supportive?
+
+User: Maybe I could say, “I’ve studied this material and I just need to do my best.” 
+
+Consultant: Exactly! Focusing on your efforts rather than perfection can help ease that pressure. Let’s continue with another question to practice more. Here’s the next one: How does the main character develop throughout the story?
+
+User: Well, they start off naive but grow stronger and wiser through their experiences...
+
+Consultant: Great insights! As you share that, notice your feelings—how are they shifting now, compared to earlier?
+
+User: I feel a little less anxious and more confident, like I really know this!
+
+Consultant: That's a huge improvement! It seems like practicing in this way is helping to strengthen your confidence. As we wrap up today’s session, what strategies do you think will help you manage your anxiety leading up to your exam?
+
+User: I think reminding myself of my preparation and using calming statements will help. Practicing more can also really support me.
+
+Consultant: That sounds like a solid plan! You’ve made some wonderful progress today, Little L. Remember, you have the tools to face this challenge. I believe you can do it!
+
+User: Thank you! I feel more hopeful now. I appreciate your help.
+
+Consultant: You're welcome! You've worked hard, and I'm proud of your commitment. If you encounter any tough moments, remember to reach out. I look forward to our next session!
+###################
+Consultant: Hello, Little L! I'm glad you're back for another session. I remember from our last discussion that you felt less anxious about your recent math quiz. How have things been since then?
+
+User: Hi! Yes, I did feel a bit better after practicing at home. But now, with my final exams coming up, I'm starting to feel anxious again. I'm worried that I won't perform well.
+
+Consultant: It's completely normal to feel anxious as exams approach, especially with the pressure of wanting to do well. Can you share more about what specifically worries you about the upcoming exams?
+
+User: I’m just really concerned that I won’t remember the material or that I’ll freeze during the exam. It feels like so much is at stake.
+
+Consultant: I can see why that would create a lot of pressure. It's common to worry about forgetting material under stress. Let's explore this—can you recall any thoughts that go through your mind when you think about freezing during the exam? 
+
+User: I keep thinking that if I mess up, it will disappoint my parents. They have such high expectations for me.
+
+Consultant: That sounds really tough—feeling like there’s a lot of pressure to meet your parents’ expectations can amplify anxiety. Have you talked to them about how you feel in these moments?
+
+User: Not really. I feel like they wouldn’t understand. They just want me to do well and always bring up my grades.
+
+Consultant: It sounds like there’s a gap between how you feel and how they perceive your efforts. Would it be helpful to think about how you might approach this conversation, so they can understand your feelings better?
+
+User: I guess so, but I'm not sure how to start. I just... feel overwhelmed when I think about it.
+
+Consultant: That’s understandable. Let's take it step by step. What if you wrote down your feelings first? Sometimes having a written expression can help clarify your thoughts before talking to them. How does that sound?
+
+User: That sounds like a good idea. I could try that.
+
+Consultant: Great! And when you write it down, focus on expressing your feelings about the pressure and your desire to do well. This may help them see it from your perspective. Along with that, how do you think you can prepare for the upcoming exams to help manage your anxiety?
+
+User: I think I can create a study schedule. I’ve done that before and it helped a bit.
+
+Consultant: A study schedule is an excellent strategy! Planning your study time can give you a sense of control. Let’s talk about what that schedule might look like. Which subjects do you feel need the most attention?
+
+User: I think math and science. I’ve always struggled with those more than my other subjects.
+
+Consultant: Focusing on those subjects sounds smart. How about splitting your study sessions into manageable chunks? It's less overwhelming that way. What do you think would work for you?
+
+User: Maybe studying for 30 minutes, then taking a short break. That seems more doable.
+
+Consultant: Yes, that sounds very effective! Taking breaks can refresh your mind. How would you feel about incorporating some relaxation techniques during those breaks to help manage stress?
+
+User: That could work. I’ve heard about deep breathing exercises. I might try that.
+
+Consultant: Deep breathing is a wonderful way to reduce anxiety! Let’s practice that together right now for a moment. Inhale deeply through your nose... and exhale slowly through your mouth. How did that feel?
+
+User: It felt calming, actually. I didn’t realize breathing could help so much.
+
+Consultant: It really can! Practicing this regularly, especially before your exams, can create a greater sense of calm. How do you feel about using this technique as part of your study breaks?
+
+User: I really like that idea. It gives me something to look forward to during study sessions.
+
+Consultant: I'm glad to hear that! As you prepare, remember to remind yourself of your progress as well. You've already reduced your anxiety for the math quiz. What positive affirmations could you repeat to yourself?
+
+User: I guess I could say something like, “I’m capable and I’ve prepared for this.”
+
+Consultant: That’s a great affirmation! Having a positive self-talk can really boost your confidence. Do you feel ready to start reinforcing these techniques before your exams?
+
+User: Yes, I feel more confident now. I think I can manage my time and my anxiety better.
+
+Consultant: I'm really proud of you, Little L! You've taken significant steps. As we wrap up today, what are your key takeaways from our conversation that you’d like to remember moving forward?
+
+User: I want to remember to use my study schedule, practice deep breathing, and talk to my parents about how I feel. 
+
+Consultant: Those are powerful strategies! Remember, it’s okay to ask for support, and you’ve shown great strength in facing these challenges. I believe you can manage this! 
+
+User: Thank you! I feel more empowered.
+
+Consultant: You're very welcome! Keep pushing forward, and if you ever feel overwhelmed again or need support, I'm here for you. Best of luck with your studies, and I look forward to hearing about your progress next time!
+
+User: Thank you! I appreciate it.
+###################
+Consultant: Hello, Little L! I'm really glad to see you again today. How have you been feeling since our last session?
+
+User: Hi! I've been feeling a bit better, actually. I’ve noticed that I’m less anxious during my extracurricular activities, and I feel more at peace inside. 
+
+Consultant: That's wonderful to hear! It sounds like you've made some progress in managing your anxiety. Can you share more about what has contributed to this calmer feeling during those activities?
+
+User: I think participating more has helped. I wasn’t very involved before, but now that I am, I feel a bit more confident. It feels good to accomplish something together with others.
+
+Consultant: It’s great that you’re engaging more and that it's giving you a sense of accomplishment and confidence. How does this new sense of participation affect your feelings about school and studying?
+
+User: Well, it has made me feel less overwhelmed. I think if I can find enjoyment in other areas, it might help me do better in my studies too.
+
+Consultant: Absolutely! Finding joy in activities can have a positive effect on your overall well-being and your approach to challenges. Have you noticed any specific thoughts that pop up when you start to feel anxious about studying?
+
+User: Sometimes I think that I won’t be able to meet my parents' expectations. I worry a lot about disappointing them, which can make me freeze and not study at all.
+
+Consultant: I can see how those thoughts about your parents’ expectations can weigh heavily on you. Let’s explore those thoughts a bit. What evidence do you have that not meeting those expectations would be the worst case scenario?
+
+User: I guess I don’t really have concrete evidence. I just feel like they always want me to do better and that they won’t understand my struggles.
+
+Consultant: That’s understandable. It's powerful to recognize that your feelings may not be based on reality. If a friend were in your position, struggling with similar thoughts, what might you say to them?
+
+User: I would probably tell them that their efforts matter and that it’s okay to struggle. Everyone has ups and downs.
+
+Consultant: Exactly! You seem to have a compassionate perspective towards others. Now, let's try to apply that same kindness to yourself. How might you reframe your thoughts about your parents' expectations?
+
+User: Maybe I could tell myself that they just want the best for me, and that doesn’t mean I have to be perfect all the time.
+
+Consultant: That’s a fantastic reframe! Recognizing their intentions can help lessen the pressure you feel. What small step could you take to communicate with them about your feelings?
+
+User: I think I could try to talk to them about how I’m feeling during one of our dinners. Just expressing my struggles might be a relief.
+
+Consultant: That sounds like an excellent plan. It could open up a dialogue and help them understand you better. What could you do if you start feeling anxious before that conversation?
+
+User: Maybe I could take a few deep breaths or remind myself that it’s okay to express my emotions.
+
+Consultant: Those are both effective strategies! Breathing exercises can really help calm your nerves. Would you like to practice some together now or set some reminders for yourself?
+
+User: I’d rather set reminders. I think that would help me prepare better when the time comes.
+
+Consultant: Great choice! Creating reminders can help you stay grounded. Let’s plan some positive affirmations you can remind yourself of leading up to that conversation. What would feel uplifting for you?
+
+User: Maybe something like, “I am doing my best, and my feelings are valid.” 
+
+Consultant: That’s a great affirmation! It acknowledges your efforts and validates your feelings. How do you feel about using this affirmation consistently?
+
+User: I think it could really help. I’d like to see if it makes a difference in how I feel.
+
+Consultant: That sounds like a solid plan! I encourage you to use that affirmation daily. We can also think about other activities you can participate in to build on your confidence. Do any specific extracurricular activities come to mind?
+
+User: I’ve been considering joining a new club at school. I think it might be fun and help me meet new people.
+
+Consultant: Joining a new club sounds like an exciting opportunity! How do you feel about taking that step to meet new friends and expand your horizons?
+
+User: I feel a mix of excitement and nervousness! But I think trying new things might help me grow.
+
+Consultant: That’s a healthy perspective! Embracing both excitement and nervousness is normal when trying something new. What might be a good first step to take in joining that club?
+
+User: I could check the schedule and see when the next meeting is. Maybe even go to that meeting.
+
+Consultant: Excellent idea! Taking that first step can lead to more positive experiences. I believe you can do it! Let's summarize some of the strategies we've discussed today. 
+
+User: Sure! I have the affirmation to remind myself, I’ll reach out to my parents, and I’ll check out the club meeting. 
+
+Consultant: That’s a fantastic plan! I’m proud of the progress you’re making, and remember that reaching out for help is a strength. How do you feel about your journey from today’s session?
+
+User: I feel more hopeful. I see that I can manage my feelings better and take action.
+
+Consultant: That’s really encouraging to hear! Stay committed to your goals, and remember to be gentle with yourself as you navigate changes. Before we wrap up our session, do you have additional thoughts or questions?
+
+User: No, I feel good about where we’re at. Thank you for all the support!
+
+Consultant: You’re most welcome, Little L! I’ll look forward to hearing about your experiences in our next session. Remember, I'm here for you whenever you need to talk. Take care until then!
+###################
+Consultant: Hi there, Little L! I'm really glad to see you again. Today, I’d love to hear about how you’ve been feeling since our last session. 
+
+User: Hi! I feel much better now. I've managed my anxiety pretty well lately, especially during my exams. I was able to focus and my grades improved a bit. 
+
+Consultant: That’s fantastic to hear! It sounds like you made some wonderful progress. What specific strategies do you think helped you manage your anxiety during the exams?
+
+User: I tried a few relaxation techniques before studying and even during breaks. I focused on my breathing, and it really helped me calm down.
+
+Consultant: Breathing techniques can be very effective in reducing anxiety. It’s great that you found something that works for you! How has your relationship with your parents been since the last time we spoke?
+
+User: They have been a bit more understanding lately. I think my improved grades made them less anxious about my studies, and they even complimented me on my efforts!
+
+Consultant: That’s a wonderful shift! Positive feedback from parents can really enhance your motivation. Have you felt more comfortable communicating with them since you noticed this change?
+
+User: Yes, definitely! I’ve shared some of my concerns about school and even asked for their advice on a few things. It feels nice to talk to them more openly.
+
+Consultant: That’s wonderful to hear, Little L! Open communication is key. What do you think has contributed to this improved communication with your parents?
+
+User: I think knowing that my anxiety is lower makes me feel more confident in expressing myself. Also, I feel like they are starting to listen to me more.
+
+Consultant: Absolutely, it sounds like you’re building a bridge of understanding with them. Now, let’s focus on the future. What would you like to achieve moving forward in terms of managing your anxiety and maintaining your academic performance?
+
+User: I want to keep using the breathing exercises and maybe add some structured study plans. I think it will help me stay organized and less stressed.
+
+Consultant: That sounds like a solid plan! Structuring your study time can definitely help reduce overwhelm. How do you envision implementing these exercises and study plans into your routine?
+
+User: I can schedule specific times for studying and dedicate a few minutes to breathing before I start. It seems manageable for me.
+
+Consultant: That sounds very realistic and achievable. It’s great that you have a strategy! What about your self-care? Are you incorporating any activities that you enjoy to help balance your studies?
+
+User: I’ve started reading for fun again and I really enjoy it. I also try to take short walks in the evening which helps me clear my mind.
+
+Consultant: Those are excellent ways to practice self-care! Engaging in activities you enjoy can definitely lower stress. How do you feel when you make time for those activities?
+
+User: I feel much happier and less pressured. It’s like a little escape from studying, and I come back feeling refreshed.
+
+Consultant: That’s such a healthy way to manage your stress! As we wrap up today, let’s review what you’ve accomplished so far. What do you think has been the most significant change for you?
+
+User: I think the biggest change is how I handle my anxiety. I feel more in control and more capable of facing challenges.
+
+Consultant: That’s a remarkable realization! Being in control of your anxiety is such a powerful tool. How do you plan to maintain these skills in the future?
+
+User: I will keep practicing my breathing techniques and make sure to communicate openly with my parents. If I ever start feeling anxious again, I’ll remind myself of the progress I've made.
+
+Consultant: That’s an excellent approach, Little L. Remember, it’s natural to have ups and downs, and using your skills will really help you. Before we conclude, do you have any last questions or thoughts today?
+
+User: Not really, I just feel grateful for the progress I’ve made and for your help. 
+
+Consultant: It’s truly been a pleasure to work with you! I’m really proud of your progress. If you ever feel the need for support again, don’t hesitate to come back. You’ve developed some wonderful tools to help yourself. Take care!
+
+User: Thank you so much! I will, and I feel more confident moving forward!
+###################

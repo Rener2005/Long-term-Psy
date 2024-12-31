@@ -1,0 +1,380 @@
+Consultant: Hello, Liu! I'm glad you could join me today. I know you've been having a tough time lately with your studies and feeling pressured. Can we start by discussing how you've been feeling about school recently?
+
+User: Hi. Yeah, I really don't like school right now. The new lessons are too fast, and I feel like I can't keep up. It just makes me frustrated.
+
+Consultant: I see. It sounds like you're feeling overwhelmed with the new pace of the lessons and it’s causing a lot of frustration for you. Can you tell me more about what specific aspects of school are bothering you the most?
+
+User: It's just everything! The homework feels impossible, and sometimes the teachers don’t explain things well. I wish I could just skip school every day.
+
+Consultant: It sounds like you feel unable to keep up with the homework and the explanations from your teachers aren’t helping you. That must be really tough. What do you think might happen if you keep feeling this way about school?
+
+User: I don't know. Maybe I'll just fail everything, and then my parents will be mad. They're already busy with work and the little baby. They don’t have time for me.
+
+Consultant: I can imagine that you fear not doing well in school and that might upset your parents, especially since they seem heavily involved with the new baby. How do you feel about the support you get from them with your schoolwork?
+
+User: I feel like I’m just on my own. My mom is always taking care of my little brother, and my dad comes home late and is tired. I don’t think they really understand what I’m going through.
+
+Consultant: It seems like you’re feeling quite alone in your struggles and that your parents aren’t aware of the pressures you’re facing. That can be really difficult. Can we explore how those feelings might connect to your attitudes towards school? What do you think about your recent attitude towards studying?
+
+User: I just don’t care about school anymore. It feels pointless to even try when I can’t keep up or when nobody seems to notice how hard it is for me.
+
+Consultant: It sounds like you’re feeling hopeless about school and believe that your efforts won’t make a difference. What would it look like for you to feel more engaged or motivated in your studies again?
+
+User: I guess I would feel more excited about learning instead of just being stressed about it all the time. But that feels really far away right now.
+
+Consultant: That’s understandable. It can seem distant, but let’s think together about some small steps we could take to help shift that feeling. Have there been any moments, even small ones, where you felt good about learning or succeeded at something in school?
+
+User: Sometimes, I like science class. But then, when the tests come, I just panic and forget everything.
+
+Consultant: It’s great to hear that you enjoy science! Maybe we could explore what specifically you like about that class so we can build on those positive feelings. What about science makes you feel good?
+
+User: I like doing experiments! They’re fun, and I get to learn things in a hands-on way. 
+
+Consultant: That’s wonderful! Experiments allow you to engage actively with the material. Maybe we can find ways to approach other subjects with the same excitement you feel for science. What do you think would help you approach your studies in a way that feels more enjoyable?
+
+User: I don’t really know. I just wish learning could always be like science class. 
+
+Consultant: It’s completely valid to want learning to be more enjoyable. How about we try to connect some of your other studies to things you love about science? Would it be okay if we brainstorm some ideas together?
+
+User: That could be fun, I guess. But I’m not sure if it’ll help.
+
+Consultant: It’s okay to be unsure! Exploring new ideas can feel a bit scary, but we can take it one step at a time. What subjects would you like to work on together first?
+
+User: Maybe math. But I find it really hard and confusing. 
+
+Consultant: Math can be tricky. Let’s try to break it down into smaller sections, just like an experiment. We can find ways to make it more engaging, just like you enjoy in your science class. Do you think that could work?
+
+User: I might try that. I just don’t want to feel dumb or fail again.
+
+Consultant: I understand. It's completely normal to feel that way when facing challenges. You’re not dumb for struggling—it happens to many people. Let’s focus on celebrating small wins together as you tackle math gradually. How does that sound?
+
+User: It sounds okay. I guess it might help if I can see some progress.
+
+Consultant: Exactly! Progress over perfection is key. Also, it might be helpful to talk to your parents about how you’re feeling. They care about you, even if they seem busy. How do you feel about starting a conversation with them?
+
+User: I’m nervous about that. What if they don’t understand?
+
+Consultant: That’s a valid concern. Consider expressing how you feel and what you need from them. Maybe start with something simple, like sharing how school has been stressful for you. Would you want to give that a try?
+
+User: I could try that. But what if they get mad at me for not trying hard enough?
+
+Consultant: It’s natural to worry about their reactions. Sharing your feelings can actually help them understand you better. Remember, this conversation could lead to more support for you. You're expressing your needs, which is a positive step. Are you willing to practice what you might say to them?
+
+User: Maybe. I can think about it. 
+
+Consultant: That’s an excellent start! Remember, it’s about opening up a dialogue. I'm proud of you for taking that step, and I’m here to support you through it. Before we wrap up, do you feel like we’ve made some progress today?
+
+User: Yeah, I guess so. I feel a little less alone talking about it, even if I still have my doubts.
+
+Consultant: It’s great to hear that! It’s understandable to have doubts, but recognizing your feelings and reaching out is a big step forward. I’m here for you, and we can continue to work together on this. How are you feeling about our session today?
+
+User: I feel okay. I think I can try to talk to my parents and work on my studies a bit. 
+
+Consultant: That’s fantastic! I believe you can do it. We’ll continue to build on these steps in our next session. Remember, it's okay to take things one step at a time. I'm looking forward to hearing how it goes!
+###################
+Consultant: Hello Liu! I'm glad you could make it today. How have you been feeling since our last session?
+
+User: Hi. I still feel a bit overwhelmed, especially after the argument with my parents about my homework. It seems like they don't really understand me at all.
+
+Consultant: I can sense that you're feeling a lack of understanding and support from your parents. It's tough to feel that way. Can you share a little more about what you felt during that argument?
+
+User: I just felt frustrated. I tried to explain why I didn't want to do my homework, but they kept saying I needed to take it seriously. It felt like they didn't care about how I feel.
+
+Consultant: It sounds like you felt unheard and maybe even invalidated in that moment. When you expressed your feelings, did you notice any specific thoughts that came to your mind?
+
+User: Yes, I thought that no matter how much I try to explain myself, they won't get it. It's like my efforts are useless.
+
+Consultant: Those thoughts can be really heavy to carry. Let’s try to break them down a little. What evidence do you have that your efforts are useless? Are there any times when you've experienced support or understanding from them?
+
+User: Well, sometimes they do listen to me, but it always feels overshadowed by the times they don’t. It's just hard to remember the good moments when I’m feeling this way.
+
+Consultant: I understand that. It's easy to focus on negative experiences when we're feeling down. Let's think about balancing those thoughts. If a friend were in your situation, what would you tell them about their experiences with their parents?
+
+User: I guess I would tell them to try and communicate better. But it's easier to say than to do, right?
+
+Consultant: You're absolutely right—it’s much easier said than done. Communication takes practice and patience. What do you think you could say to your parents to help express your needs better?
+
+User: Maybe I could tell them that I feel stressed and overwhelmed about everything, not just the homework.
+
+Consultant: That sounds like a great start. Sharing your feelings like that might help them understand your perspective. What kind of response do you hope to get from them when you share your feelings?
+
+User: I hope they would listen and maybe not get so mad right away. I just want them to know that I’m trying my best.
+
+Consultant: That’s a very reasonable hope. Setting the stage for a calmer discussion might help, too. How do you feel about finding a time to talk to them when everyone is relaxed?
+
+User: That sounds good, but I’m not sure how to bring it up without it turning into another argument.
+
+Consultant: It’s understandable to feel concerned about that. One way to approach it could be to use "I" statements—like "I feel stressed when..." This focuses on expressing your feelings rather than blaming. How do you feel about this approach?
+
+User: That makes sense. I think saying "I feel" might keep them from getting defensive.
+
+Consultant: Exactly! It helps keep the conversation centered on how you feel. Now, let’s also consider how you can manage your responsibilities to reduce that feeling of being overwhelmed. Have you thought about how you might organize your time better?
+
+User: I haven’t really. I usually just try to do everything last minute, which doesn’t work out.
+
+Consultant: Last-minute efforts can add a lot of pressure. What if we brainstormed a small schedule where you set aside specific times for homework and for family time? 
+
+User: That could help, but I’m worried I won’t stick to it.
+
+Consultant: It’s normal to have that worry. We could keep it flexible to start, so you can adjust as needed. Remember, it’s about progress, not perfection. How would you feel about trying a simple plan this week?
+
+User: I think I could give it a shot. It feels like it might help.
+
+Consultant: That’s a great attitude, Liu! Can you set a small goal for the week regarding your homework and family time? Just a couple of things to start.
+
+User: Maybe I can choose two specific days to focus more on my homework and then spend the evenings with my family.
+
+Consultant: Perfect! That sounds achievable. How do you feel about committing to that plan before we meet again?
+
+User: I feel okay about it. I think it could help with the stress.
+
+Consultant: I’m glad to hear that! Remember, it’s important to be kind to yourself as you try these new strategies. We can discuss how it went at our next session. 
+
+User: Yes, I want to see how it works out. 
+
+Consultant: Great! I fully support you in this process. Before we wrap up, is there anything else you want to share today?
+
+User: No, I think we covered a lot. Thanks for listening!
+
+Consultant: You’re welcome, Liu! I look forward to hearing how your week goes. Take care until our next session!
+###################
+Consultant: Hello Liu! I'm glad you're here today. I want to start by checking in with you about how you've been feeling lately. Can you share what's been on your mind?
+
+User: Hi. I've been really stressed out lately because I missed an important family gathering. I was late because of my schoolwork, and it made me feel really guilty.
+
+Consultant: It sounds like you've been under a lot of pressure with your schoolwork and family obligations. Missing the gathering must have been tough for you. Can you tell me more about how that made you feel?
+
+User: I felt really bad, like I let my family down. It makes me worry about juggling school and home responsibilities. Sometimes, I just don't want to study at all.
+
+Consultant: I can understand how that guilt could weigh on you, especially when balancing school and family. It’s natural to feel overwhelmed in these situations. What do you think you could do differently to manage your time better between studying and your family duties?
+
+User: I really don't know. Sometimes it's hard to get started on my homework, and I end up putting it off until the last minute. That makes everything worse.
+
+Consultant: It seems like procrastination is impacting your ability to get your work done and causing you more stress. What do you think might help you get started on your homework more easily?
+
+User: Maybe if I had a schedule or something to help me see what I need to do each day, I could manage it better. 
+
+Consultant: That sounds like a great idea! Having a schedule can definitely help you visualize your tasks and manage your time effectively. How would you feel about creating a simple timetable together for your homework and chores?
+
+User: I think that could be helpful. I need some structure to know what to focus on and when.
+
+Consultant: Fantastic! Let’s think about your daily routine. What time do you usually finish your chores and have some free time to study?
+
+User: I finish my chores around 5 p.m. But then I feel tired and don’t want to do my homework right away.
+
+Consultant: That’s understandable. After a long day, it can be hard to find the motivation to study. How about we think of a way to incorporate some breaks or fun activities into your schedule? This way, you can recharge before diving into your homework.
+
+User: That could work. If I had some time to relax after chores, maybe I could focus better later.
+
+Consultant: Yes, that sounds like a solid plan! We can build in some downtime after chores and then set aside specific blocks of time for your homework. How does that sound to you?
+
+User: That sounds good. I just have to make sure I stick to it.
+
+Consultant: Definitely! Committing to the schedule is important. Perhaps we can also include rewards for completing tasks, like extra time for a game or an activity you enjoy. Would that motivate you?
+
+User: Yes! That would be great! I like the idea of rewarding myself.
+
+Consultant: Perfect! So, let’s start by setting up a daily timetable. We can break your study time into smaller chunks and build in some relaxation and fun breaks. How much time do you think you’ll need for your homework each day?
+
+User: I think around one to two hours should be enough, depending on the assignments. 
+
+Consultant: Great! We can plan for one hour of study time, followed by a break. After the break, you can study again if needed. How many days a week do you think you should stick to this schedule?
+
+User: I think I should try it every weekday. Weekends are for family time mostly.
+
+Consultant: That makes sense. So, we’ll aim for a schedule from Monday to Friday. How about we write down your study time, like from 6 p.m. to 7 p.m., with a break at 7 p.m. Would that work for you? 
+
+User: Yes, I like that! It gives me some time after chores and before dinner.
+
+Consultant: Fantastic! Now that we have a basic schedule, what strategies can you implement if you ever feel the urge to procrastinate during your study time?
+
+User: I could set a timer to help me focus for just a few minutes, like 10 or 15, and then take short breaks.
+
+Consultant: That’s an excellent strategy! Using a timer to focus in short bursts can really help maintain your motivation. How do you feel about trying that approach?
+
+User: I think I can manage that. It sounds easier to handle than studying for a long time.
+
+Consultant: Exactly! It's about finding what works best for you and making studying feel more manageable. As we wrap up today, how do you feel about this plan and the changes we discussed?
+
+User: I feel much better. Having a plan makes me less anxious, and I really think it can help me stay on track.
+
+Consultant: I'm glad to hear that you feel more at ease! Remember, it’s a process, and making small changes can lead to significant improvements. If you ever feel overwhelmed again, we can always revisit this together. 
+
+User: Thank you, I appreciate your help! I’m ready to start this new schedule.
+
+Consultant: You're welcome, Liu! I'm excited for you to start this journey. Keep in mind to be kind to yourself as you adjust to the new routine. I believe you will do great! If you need anything, just let me know.
+
+User: I will. Thanks again! See you next time! 
+
+Consultant: Take care, Liu! Looking forward to hearing about your progress in our next session.
+###################
+Consultant: Hello, Liu! I'm really glad you're here today. I know last time we talked about your experience during the group project at school. How have you been feeling since then?
+
+User: Hi! I’ve been feeling a bit better. The group project was fun, and I liked working with my classmates. It gave me a little hope about school.
+
+Consultant: That’s wonderful to hear! It sounds like participating in the project helped you see the positive side of teamwork. Can you tell me more about what you enjoyed during that experience?
+
+User: I liked that we all shared ideas and helped each other. It felt good to be part of a team. I usually feel lonely when I do homework, but this time it was different.
+
+Consultant: That’s a significant realization, Liu! Feeling connected to others can really make a difference. What do you think made this teamwork feel better than your usual study experiences?
+
+User: Maybe because I wasn't alone. Everyone was working together and cheering each other on. It made me want to try harder.
+
+Consultant: It sounds like the support and encouragement from your classmates motivated you. How do you think you can apply this feeling to your other schoolwork or subjects?
+
+User: I guess if I ask my friends to study together more often, it might help. I might be more willing to do my homework if I’m not doing it alone.
+
+Consultant: That’s a great idea! Collaborating with friends can make studying more enjoyable. Are there any specific subjects or assignments you feel ready to tackle with your friends?
+
+User: I think I can handle math. I usually find it hard, but maybe if I study with a friend, it’ll be more fun.
+
+Consultant: Absolutely! Working through challenging subjects with a friend can make them feel less overwhelming. What do you think could be a fun way to approach your math studies together?
+
+User: Maybe we could quiz each other or do some practice problems together. I think it would be less boring than just sitting there by myself.
+
+Consultant: That sounds like an engaging approach! Setting up a fun study session with quizzes can definitely make math more exciting. How do you feel about the idea of doing this regularly with your friends?
+
+User: I feel pretty good about it! It might make me look forward to studying instead of dreading it.
+
+Consultant: That’s an encouraging mindset! The fact that you're feeling positive about studying is a step in the right direction. Now, let's think about how we can build on this excitement. What are some ways you can remind yourself to keep this positive attitude toward your studies?
+
+User: I could set a timer and reward myself with something I like after studying, like playing games or watching a show. 
+
+Consultant: That's a fantastic strategy! Pairing your study times with rewards can help maintain your motivation. What type of reward are you most excited about?
+
+User: I really like playing video games, so I could plan to play after I finish my homework.
+
+Consultant: Great choice! Combining fun with your responsibilities can be very effective. As you start this new approach, how will you keep track of your progress?
+
+User: Maybe I can keep a chart or something to check off what I’ve done each day. Seeing the completion might motivate me more.
+
+Consultant: I love that idea! A visual reminder of your achievements can be very motivating. How does that sound to you as a way to help you stay on track?
+
+User: That sounds good! It will be like a game, trying to fill up the chart every day.
+
+Consultant: Exactly! Treating it like a game can add an element of fun. As you start these new habits and find support in your friends and family, how do you think that will impact your feelings towards school in general?
+
+User: I think I will feel less stressed and might even enjoy going to school again. It feels nice to think about it positively.
+
+Consultant: That’s a wonderful outlook, Liu! It sounds like you’re forming a more positive relationship with school. What will you do if challenges arise or you feel like giving up?
+
+User: I could talk to my friends or even my parents about it. They might help me figure things out or cheer me up.
+
+Consultant: That’s a great plan! Remember, reaching out for support is a strength. As we conclude this session, what are you taking away from our discussion today?
+
+User: I feel excited about studying with friends and trying out the chart idea. I think I can create better habits now.
+
+Consultant: I'm really proud of your motivation and efforts, Liu! Identify the strategies that work for you, and remember you can always return to this supportive space if you need help in the future. Keep up the great work!
+###################
+Consultant: Hello, Liu! I'm glad to see you in today's session. How have you been feeling since participating in the learning club at school?
+
+User: Hi! I've been feeling really excited. The support from my classmates and their positive attitude have motivated me to study more. But sometimes, I still doubt if I can keep up with them.
+
+Consultant: It's great to hear that you've enjoyed the positive atmosphere in the club! Those feelings of excitement and doubt are completely normal. Can you tell me more about what specifically makes you doubt your ability to keep up?
+
+User: Well, I worry I won't be able to understand everything. Sometimes in class, I feel lost, and I fear I won't be able to catch up with my friends.
+
+Consultant: I understand that feeling. It sounds like when you struggle with understanding in class, it triggers thoughts of not being good enough compared to your friends. Can you think of a recent moment when you felt this way?
+
+User: Yes, during math class last week, I didn't understand how to solve a problem. I felt embarrassed, and I thought maybe I'm just not smart enough to be in the club.
+
+Consultant: That sounds frustrating. It's important to remember that everyone struggles with difficult topics, and it's okay to ask for help. What thoughts went through your mind when you realized you didn't understand the math problem?
+
+User: I kept thinking that I should have been able to figure it out. I thought everyone else was smarter, and I felt like a failure.
+
+Consultant: Those thoughts can be really heavy to carry. Let's explore them a bit. How much evidence do you have that you’re a failure? Are there instances where you succeeded or learned something new?
+
+User: Well, I did manage to help a friend with a history project recently, and I felt good about it. I guess I just don’t see that as being smart.
+
+Consultant: Helping a friend is certainly a sign of understanding and sharing knowledge! What if you viewed your strengths in different subjects as equally important? How would that change your thoughts about your ability in math?
+
+User: I suppose I could look at it that way. I could also say that I’m still learning math, and it's okay to not know everything yet.
+
+Consultant: Exactly! Learning is a process, and everyone has their unique strengths. We can build on that. How can you remind yourself of this when you start feeling doubts next time?
+
+User: Maybe I could write down the things I’m good at and look at them when I doubt myself.
+
+Consultant: That sounds like a great idea! Keeping a list of your achievements can definitely help shift your perspective. What do you think your next steps will be in the learning club, given these insights?
+
+User: I think I’ll try to participate more and not be afraid to ask questions. I also want to start helping others as a way to reinforce my learning.
+
+Consultant: That’s a wonderful approach! Engaging with others can really enhance your understanding of the material. How do you feel about sharing your experiences with your parents to get their support as well?
+
+User: I think they would be proud of me for trying. I haven’t shared much with them, but I can tell them about my club and how I want to do better in my studies.
+
+Consultant: Sharing your progress with your parents could be very encouraging, and their support might further boost your confidence. How does that make you feel, thinking about their reaction?
+
+User: It makes me feel excited! I really hope they’ll be proud of me and maybe even encourage me to keep going.
+
+Consultant: That’s a beautiful feeling! Holding onto that excitement can motivate you even further. Are there any specific goals you’d like to set for your participation in the club or your studies for the coming weeks?
+
+User: I want to set a goal to help at least one classmate each week with their studies and also ask at least two questions in each class.
+
+Consultant: Those are excellent goals! Helping others not only reinforces your learning but also builds a supportive community. How will you track this progress?
+
+User: I could keep a small journal and jot down who I helped and the questions I asked each week.
+
+Consultant: Keeping a journal is a fantastic idea! It will help you reflect on your achievements. Remember, every step you take counts, no matter how small. As we wrap up today, how do you feel about your journey so far?
+
+User: I feel much better! I have a clearer plan and some strategies to manage my thoughts. I’m excited to see how it goes!
+
+Consultant: I’m glad to hear that! It's wonderful to see your progress and your positive mindset. As you continue on this path, remember you can always return for support. Keep believing in yourself, Liu!
+
+User: Thank you! I really appreciate your help today. I feel more confident about everything ahead.
+
+Consultant: You're very welcome! You've done great work today, and I look forward to hearing about your experiences next time. Take care!
+###################
+Consultant: Hello, Liu! I'm glad to see you again for our session. How have you been feeling since we last talked?
+
+User: Hi! I’ve been feeling a bit more confident, especially after sharing my group project experience with my family. They praised me, and it felt nice!
+
+Consultant: That's wonderful to hear! It sounds like their support really boosted your confidence. Can you tell me more about how that experience made you feel?
+
+User: I felt proud of myself, and it made me believe that I can do well in my studies. It's like I realized that I have the ability to accomplish things.
+
+Consultant: It’s fantastic that you’re recognizing your abilities! This newfound belief in yourself is key to helping you maintain a positive attitude towards your studies. Since we're looking to keep this momentum going, what strategies do you think could help you stay on track with your learning?
+
+User: I think I could try to set small goals for myself, like completing a certain amount of homework each day. Sometimes I just feel too overwhelmed to start.
+
+Consultant: Setting small, achievable goals is a great idea! This can help you avoid feeling overwhelmed. Can you think of a specific goal you might want to start with?
+
+User: Maybe I can aim to finish one assignment each evening after dinner. That would give me something to focus on without too much pressure.
+
+Consultant: That sounds perfectly reasonable! How do you think you might feel after accomplishing that goal each day?
+
+User: I think I would feel more accomplished and less anxious about falling behind. It would be nice to have a routine.
+
+Consultant: Establishing a routine can definitely help reduce anxiety. In addition to setting goals, what other support could you use from your family or friends to keep you motivated?
+
+User: My parents are really supportive, but I think it would also be good to ask my friends if we can study together sometimes. It’s more fun that way.
+
+Consultant: Studying with friends can make learning more enjoyable and keep you accountable. Do you want to discuss how you might approach this with them?
+
+User: Yeah, maybe I could suggest we meet up once a week to go over our assignments together. I think they would like that.
+
+Consultant: That sounds like a great plan! Moving forward, what will you do to ensure you don't lose sight of your goals and continue to build on this confidence?
+
+User: I’ll keep reminding myself of what I can achieve and check in with my family and friends about my progress. I’ll also celebrate the little wins.
+
+Consultant: Celebrating your achievements, no matter how small, is a powerful way to reinforce your motivation. Since we’ve been discussing how far you’ve come, what do you think has been the most significant change for you?
+
+User: I think realizing that I can handle my studies better and that my family believes in me has been the biggest change. It makes me want to try harder.
+
+Consultant: That's a significant recognition! Acknowledging your growth and the supportive environment around you is crucial. As we summarize today’s session, what strategies seem most helpful for you to maintain this positive trajectory?
+
+User: Setting small goals, studying with friends, and checking in with my family regularly. These all sound helpful!
+
+Consultant: I agree! These strategies can help keep you motivated and maintain your confidence. How do you feel about your progress and the tools we've discussed today?
+
+User: I feel really good! I’m excited to put these ideas into action.
+
+Consultant: I'm glad to hear that! It’s important to carry this excitement forward. As we wrap up, how do you think you can continue to apply what you've learned throughout our sessions in the future?
+
+User: I think I can use these strategies whenever I feel overwhelmed. I want to keep reminding myself of the progress I've made.
+
+Consultant: Absolutely! Reflecting on your progress will be key to preventing feelings of overwhelm. It has been a pleasure to support you through this process, Liu. Remember, if you need any assistance in the future, I’m here for you. 
+
+User: Thank you! I really appreciate your help. I feel more prepared now.
+
+Consultant: You’re very welcome! I believe in your ability to continue progressing. Take care, and I look forward to hearing about your successes next time!
+###################

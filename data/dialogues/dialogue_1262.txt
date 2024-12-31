@@ -1,0 +1,420 @@
+Consultant: Hello, I'm glad to see you today. How have you been feeling since our last session?
+
+User: Hi. Honestly, it's been tough. I've had more sleepless nights and feel really anxious about my studies and living here. Plus, I'm worried about the cold weather making everything worse.
+
+Consultant: I hear you. It sounds like the cold and your sleepless nights are contributing to your anxiety, especially with your studies. Can you share more about what specifically makes you anxious about living here and the cold?
+
+User: I mean, in my home country, I never had to deal with such cold. It makes me feel vulnerable, and then I start doubting everything about my studies and whether I made the right choice coming here. It feels like I can't trust this environment.
+
+Consultant: That feeling of mistrust makes a lot of sense given the challenges you've been facing. It’s understandable that the cold, on top of everything, would heighten those feelings. When you're feeling anxious, what kinds of thoughts come to your mind?
+
+User: I often think that I'm not capable enough to succeed here and that everyone else is doing better than I am. Sometimes, I even feel like I've been tricked into coming here and that I'm just wasting my time.
+
+Consultant: Those thoughts sound quite heavy and negative. It's like you're really struggling with feelings of inadequacy and betrayal. Have you noticed how these thoughts impact your mood or daily activities?
+
+User: Yes, they make me more withdrawn. I don't feel like socializing or even studying. I just end up sitting around, feeling sorry for myself, and that creates a cycle of negative thoughts.
+
+Consultant: It’s tough to break out of that cycle. Let's take a moment to consider: what evidence do you have that supports these negative thoughts? And is there any counter-evidence that might challenge them?
+
+User: Well, I guess I don't have solid evidence. I mean, there are times when I perform well or receive positive feedback, but those times feel overshadowed by my fears.
+
+Consultant: It's common to focus more on negative experiences than positive ones, especially when we're feeling low. If a friend were in your position, what advice would you give them regarding those negative thoughts?
+
+User: I would probably tell them to look for the positives and remember their achievements. But I find it so hard to take my own advice.
+
+Consultant: I understand that it can feel different when it's about yourself. Let's try reframing those thoughts together. Instead of thinking you're failing, what if we acknowledged that feeling overwhelmed is natural, especially in a new environment? Would that change how you view your situation?
+
+User: That might help a bit. I mean, it’s okay to struggle, right? I guess I should be more patient with myself.
+
+Consultant: Exactly. Patience is key. You’re navigating a lot of changes, and it’s okay to have ups and downs. How about we explore some behavioral strategies that could help you cope with those feelings of anxiety and mistrust when they come up?
+
+User: Sure. I think I need that. What do you suggest?
+
+Consultant: One approach could be to create a routine that includes small, enjoyable activities that can help lift your mood. What’s something you used to enjoy doing that might help you feel better?
+
+User: I used to love painting, but I haven't done it since I got here. Maybe I should try to get back into it.
+
+Consultant: That sounds like a wonderful idea! Painting could be a great way to express yourself and alleviate some stress. How about setting a little time each day or week to dedicate to painting?
+
+User: I can definitely try that. It feels good just thinking about it.
+
+Consultant: Great! Additionally, let’s talk about facing the cold. Instead of avoiding it, what if we plan ways to engage with it—like dressing in layers or finding cozy indoor spaces to study?
+
+User: That could be a good idea. Maybe if I prepare better for the cold, it won't feel so daunting.
+
+Consultant: Absolutely! Taking proactive steps towards the cold can help reduce its power over you. Also, how can we keep you connected with positive thoughts or affirmations during these tougher times?
+
+User: Maybe I could write some affirmations and stick them around my room to remind me of my strengths.
+
+Consultant: That’s an excellent strategy! Visual reminders can be quite powerful. Let’s think about some affirmations together. What’s a strength of yours you’d like to affirm?
+
+User: I know I’m resilient. I came all the way here and I’m still trying, despite everything.
+
+Consultant: That’s a wonderful affirmation! You are indeed resilient. Keeping that in mind can help reinforce your self-worth when you’re feeling low. How does that make you feel thinking about your resilience?
+
+User: It feels a bit empowering. I haven't thought about it that way in a while.
+
+Consultant: I’m glad to hear that! Empowerment can come from recognizing your strengths. Now, let’s also discuss how to handle future uncertainties. What might you say to yourself when you encounter doubts or anxiety?
+
+User: I guess I could remind myself that it's okay to feel uncertain and that I can take it one step at a time.
+
+Consultant: That’s a compassionate approach. Focusing on one step at a time can really help lessen the burden of those overwhelming thoughts. How do you feel about using that as a mantra for yourself?
+
+User: I like that idea. I’ll try to keep that in mind moving forward.
+
+Consultant: That’s the spirit! As we wrap up today, let’s take a moment to summarize what we’ve discussed and the strategies you plan to implement. What stands out to you as the most helpful takeaway?
+
+User: I think focusing on my resilience and engaging in activities I enjoy, like painting, are the key points I’ll remember.
+
+Consultant: That’s fantastic! Remember, it’s okay to seek support when needed. If those feelings come back, you have the tools and affirmations to help navigate through them. And you can always return for more sessions if you feel you need it.
+
+User: Thank you, I appreciate all your help. I feel a bit more hopeful.
+
+Consultant: You're very welcome! Remember, it's all about progress, not perfection. Take care of yourself, and I'll see you next time.
+###################
+Consultant: Hello H! I’m glad to see you again. How have you been feeling since our last session?
+
+User: Hi. I’ve been really struggling lately with insomnia and anxiety. The feeling of distrust towards the education system in Japan has only gotten worse, and I feel emotionally drained and lacking motivation.
+
+Consultant: I'm sorry to hear that you’re feeling this way. It sounds like you’re in a tough spot right now. Let’s explore what specifically has been troubling you regarding the education system. Can you tell me more about that?
+
+User: Well, recently I felt discriminated against concerning my tuition issues. I’ve been hesitant to communicate with the administration because I feel like they won't take me seriously.
+
+Consultant: It’s understandable to feel that way, especially if you’ve had negative experiences. Refusing to communicate with the administration can reinforce those feelings of distrust. What do you think would happen if you did reach out to them?
+
+User: I think they would just dismiss my concerns. I'm worried they won’t understand my situation. 
+
+Consultant: It sounds like you’re feeling pretty anxious about opening that door. What thoughts are coming to your mind when you think about reaching out to them? 
+
+User: Mostly, I think they’d ridicule my concerns. It’s like I can already hear them making excuses and not taking my opinion seriously. 
+
+Consultant: Those thoughts sound quite heavy and negative. What emotions do you experience when these thoughts come up?
+
+User: I feel frustrated and hopeless. It's like I can't shake off this feeling that I'm fighting against a system that's set up to treat me unfairly.
+
+Consultant: That frustration is completely valid. You seem to be carrying a lot of emotional weight. Let's try identifying some of the specific beliefs behind those thoughts. For instance, is there any evidence to support the idea that they won't take your concerns seriously?
+
+User: In my past interactions, they didn’t seem empathetic. I also saw other students getting scolded for complaining.
+
+Consultant: It's understandable that past experiences might shape your expectations. However, can you think of any times when a staff member did address someone’s concerns positively?
+
+User: I heard of one student getting their issue resolved after they persisted. But that just seems like an exception rather than the norm.
+
+Consultant: It sounds like you feel that this is a high-risk situation for you, focusing on the possibility of negative outcomes. What would you say to a friend who was in your position, feeling the same distrust and fear? 
+
+User: I’d probably tell them to be brave and reach out, that maybe it could be different for them. 
+
+Consultant: That’s a healthy perspective! It seems like despite your feelings of distrust, you still recognize the importance of trying. If you were to reframe your situation, how might you talk to yourself differently to encourage action?
+
+User: I suppose I could tell myself that this is a chance to express my concerns and potentially find a solution, rather than expecting the worst.
+
+Consultant: Absolutely! Shifting from a focus on the worst-case scenario to recognizing the possibility of resolution can empower you. What small step could you take to move towards that conversation with the administration?
+
+User: Maybe I could write down my concerns first to clarify my thoughts. 
+
+Consultant: That’s a great first step! Writing down your thoughts can help you feel more prepared and less anxious. How about setting a time to do that? 
+
+User: I could try to set aside some time this weekend to write it out, but I’m still anxious about actually sending it.
+
+Consultant: It’s completely normal to feel anxious about sending it. Remember, you can take it one step at a time. How about drafting it this weekend, then giving yourself some time before making the decision to send it? 
+
+User: That sounds like a manageable plan. 
+
+Consultant: Excellent! We are making progress. Alongside addressing this matter, how have your sleeping patterns been affected by these feelings?
+
+User: I’m still facing insomnia. I can’t stop my mind from racing with thoughts about my issues.
+
+Consultant: It sounds like your worries are impacting your rest, which can often create a cycle that gets harder to break. Have you tried any techniques to calm your thoughts before sleeping? 
+
+User: I’ve tried some relaxation techniques but nothing seems to work fully. 
+
+Consultant: It can take time to find what works best for you. Perhaps we could explore some new techniques together that can help manage those racing thoughts before bed? 
+
+User: Yes, I’d be interested in that. 
+
+Consultant: Great. One technique is to practice mindfulness or meditation. It helps center your thoughts. Would you be willing to try a brief practice with me now to see how it feels?
+
+User: Sure, I can try that. 
+
+Consultant: Let's take a moment together. Close your eyes, take a deep breath in through your nose... hold it for a moment... and slowly exhale through your mouth. Focus on your breath and allow any racing thoughts to drift away.
+
+User: I'm feeling a bit more relaxed, actually. 
+
+Consultant: That’s wonderful to hear! Incorporating brief mindfulness sessions like this before bed could help you settle your mind. How do you feel about practicing this regularly?
+
+User: I think I can commit to that, especially if it helps with my anxiety and sleep issues.
+
+Consultant: I’m glad you're open to it. Consistency can lead to meaningful changes over time. As we continue, remember to acknowledge your progress in facing these challenges. 
+
+User: It’s hard to see the progress, but I’ll try to be more forgiving of myself. 
+
+Consultant: That’s an important realization, H. Being kind to ourselves is crucial in this journey. Before our session ends, let’s review what we’ve discussed today and any key takeaways that can guide you moving forward.
+
+User: I should write my concerns to the administration, draft it this weekend, and practice mindfulness for my sleep. 
+
+Consultant: Exactly! Those are positive steps. How are you feeling about this plan and our session today?
+
+User: I feel a bit more hopeful and less alone in this. Thank you for helping me see things differently.
+
+Consultant: You're very welcome! I'm glad to hear that. Remember, it’s a process, and you’re taking the right steps. If you need support, I’m here for you anytime.
+
+User: I appreciate that. I’ll see you next time! 
+
+Consultant: Looking forward to it, H! Take care until then.
+###################
+Consultant: Hello H! I'm glad you're here for our session today. How have you been feeling lately, especially regarding your concentration in class and your gambling habits?
+
+User: Hi. Honestly, I’ve been struggling a lot. I find it really hard to focus during lectures, and I’ve been using gambling as a way to cope with the stress. It feels awful afterward, but I just can’t seem to stop.
+
+Consultant: It sounds like you’re dealing with a lot of pressure and frustration. You mentioned that after gambling, you experience feelings of guilt. Let's explore this a bit—what thoughts go through your mind when you think about your gambling behavior?
+
+User: I keep thinking I’m letting myself down and that I’m wasting my time. I know it’s not a solution, but in the moment, it feels like the only way to escape. Then I feel even worse afterward.
+
+Consultant: I can see how that creates a cycle of stress and regret for you. You mentioned feeling like it’s the only way to escape. When you're in class and struggling to focus, what kind of thoughts do you have about your ability to study?
+
+User: I often think that I'm just not good enough or that I won't succeed like my peers. It feels overwhelming, and my mind just drifts off.
+
+Consultant: Those thoughts can be really heavy, H. Let's take a moment to challenge that feeling of not being good enough. Can you think of any evidence that contradicts that belief about your abilities?
+
+User: Well, I did manage to get into this graduate program, and I have had successes in the past. But when I’m in a tough spot, all those achievements just fade away from my mind.
+
+Consultant: It's understandable to forget those successes in stressful times. What if we try to notice those successful moments and remind ourselves of them when you're feeling overwhelmed? How might that change your perspective?
+
+User: I think that could help. It's just hard to remember those good moments when everything feels so heavy.
+
+Consultant: It’s definitely challenging, but recognizing those moments can be a great step towards shifting your mindset. Additionally, could we explore some healthier ways you could cope with the stress instead of turning to gambling?
+
+User: I guess I could try exercising or picking up a hobby, but I still feel so drained that it’s hard to find the motivation.
+
+Consultant: That’s completely valid. When you’re feeling tired, it can be tough to engage in new activities. Maybe we could start small, like setting aside just a few minutes for a short walk or a quick breathing exercise. What do you think?
+
+User: A short walk sound doable. I might also try meditation when I get a moment. 
+
+Consultant: That sounds like a great plan! Taking small steps can make a big difference over time. Now, as we discuss your study habits, have you noticed any specific times when your concentration is better or worse?
+
+User: I tend to focus better in the morning, but as the day goes on, it feels like I lose steam, especially with everything else happening on my mind.
+
+Consultant: It's good to know when you feel more focused. Have you considered structuring your study schedule around those peak times to maximize your concentration?
+
+User: I haven’t really thought about that! Maybe I should try to do more complex subjects in the morning.
+
+Consultant: That sounds like a practical approach! Starting with more challenging material when your mind is fresh can help you maintain that focus. Also, how do you feel about incorporating breaks during your study sessions?
+
+User: I think breaks could help! I usually just push through until I’m completely burnt out.
+
+Consultant: Breaks are essential for maintaining your focus and energy! How about we set a timer for a study session followed by a short break? This might help keep you from feeling burnt out.
+
+User: That sounds reasonable. I’ll give it a shot, but I might feel guilty for taking breaks at first.
+
+Consultant: It’s normal to feel that way, but remember, breaks can actually enhance your productivity. You deserve that time to recharge. Would it help to remind yourself that even short breaks can support your learning goals?
+
+User: Yes, I’ll try to remember that! I need to be more forgiving of myself.
+
+Consultant: That’s a fantastic mindset to adopt! Forgiving ourselves is key in this journey. As we wrap up today, what do you think is your biggest takeaway from our session so far?
+
+User: I guess recognizing my accomplishments and being kinder to myself sounds like a good starting point. And testing out that study schedule!
+
+Consultant: Absolutely! It’s all about building habits that reinforce your worth and help you feel more in control. Before we finish, do you feel more equipped to address your stressors and work on your study habits?
+
+User: I do! I’m still anxious about it, but this gives me a clearer path forward.
+
+Consultant: It’s perfectly natural to feel some anxiety about change. Just remember that progress takes time. I’m looking forward to hearing how your week goes. If you need anything, don’t hesitate to reach out. 
+
+User: Will do! Thanks for your support. I appreciate it.
+
+Consultant: You're very welcome, H! Take care, and see you next time!
+###################
+Consultant: Hello H! I'm glad to see you again today. How have you been feeling since our last session?
+
+User: Hi! Honestly, I've been feeling quite isolated. I attended a few social events, but I still struggle to connect with my classmates. It makes me feel anxious about engaging with others.
+
+Consultant: I'm sorry to hear that you're feeling this way. It sounds like social interactions have been challenging for you. Can you tell me more about these events and what specifically made you feel isolated?
+
+User: Well, at a recent gathering, I tried to join in, but it felt like everyone knew each other so well. I found it hard to contribute to the conversations, and I ended up just standing there, feeling out of place.
+
+Consultant: It’s understandable to feel that way when surrounded by familiar faces. What kind of thoughts went through your mind during that moment? How did it affect your emotions?
+
+User: I kept thinking that I wasn't interesting enough to join in, which made me feel even more anxious. I just stood in the corner, wishing I could be more social.
+
+Consultant: It sounds like those thoughts really amplified your anxiety. Let's explore those feelings. Do you notice any patterns in how you perceive these situations, perhaps leading you to feel more anxious than necessary?
+
+User: Yes, I often assume that everyone is judging me. I think they must see me as awkward or boring. 
+
+Consultant: That’s a common thought that many people experience. It's important to question those assumptions. Do you think there's evidence that supports these beliefs? Or could there be alternative perspectives?
+
+User: I guess I don’t really know what they think of me. I just feel that way in the moment.
+
+Consultant: It's great that you're recognizing that. Let’s consider how you might approach social situations differently. If a friend felt the way you do, how would you advise them?
+
+User: I would probably tell them that they shouldn’t overthink things, and that people are usually not as critical as we fear.
+
+Consultant: Exactly! You already have a helpful perspective that you could apply to yourself. What if we created some small, manageable goals for you to practice engaging more confidently in social situations?
+
+User: That sounds good. But I’m not sure where to start.
+
+Consultant: Let's start with something simple. How about aiming to say hello to someone new in your next class or joining a small study group? 
+
+User: I think I could try saying hello. The study group still seems a bit daunting, but saying hi feels feasible.
+
+Consultant: That’s a fantastic first step! Saying hello can open up opportunities for more conversations. Let’s plan it out. How do you feel about trying that in the coming week?
+
+User: I feel a bit nervous but also excited. It seems manageable enough.
+
+Consultant: That's the spirit! A bit of nervousness is completely normal. Remember, the goal is just to connect, not to impress. Would you like to think of some conversation starters you can use?
+
+User: Sure! Maybe comment on the lecture or ask if they want to study together.
+
+Consultant: Those are excellent options! It will feel more natural if you relate to the context. If you find making small talk difficult, we can create some prompts together. 
+
+User: Yeah, that would help a lot. 
+
+Consultant: Great! We can focus on building a few more specific conversation starters. What else might you want to say or ask based on common interests you might share with classmates?
+
+User: I could ask what they think of the class or their favorite Japanese food—I love food, and that might spark something!
+
+Consultant: Food is a wonderful topic! People often enjoy sharing their experiences. This might give you a chance to bond over something enjoyable. I like that idea! 
+
+User: Thanks! I’m feeling more optimistic. 
+
+Consultant: I’m glad to hear that! Another important aspect is to reflect on these interactions afterward to see what went well. It can also help identify what areas you might want to focus on next.
+
+User: Like keeping a journal of my experiences?
+
+Consultant: Exactly! That can help reinforce positive experiences and track your progress. It would also allow you to challenge any negative thoughts that arise. 
+
+User: I’ll definitely try that. 
+
+Consultant: Wonderful! It’s all about taking small, consistent steps toward your goals. When we meet next, we can discuss how these interactions went and what you've learned from them. 
+
+User: Sounds good! I think I can do this.
+
+Consultant: I believe in you, H! Remember that it’s a journey, and every step counts. Before we wrap up, how are you feeling about our session today?
+
+User: I feel relieved and more motivated. Thanks for your guidance!
+
+Consultant: You’re very welcome! I’m really pleased to hear that. Remember, you're not alone in this, and I’m here to support you. Looking forward to hearing about your progress in our next session! 
+
+User: Me too! See you next time!
+
+Consultant: Take care, H! I’ll see you soon.
+###################
+Consultant: Hello! I’m glad to see you today, H. I understand that you've been feeling quite good lately, especially with your experiences in Japan. Can you share a bit more about how you’ve been feeling since we last spoke?
+
+User: Hi! Yes, I've felt really light and happy. Participating in the cultural exchange activities has been quite refreshing! I feel like I’m starting to understand and appreciate the local culture better.
+
+Consultant: That sounds wonderful! It’s great to hear that you're feeling positive and are engaging with the culture. Can you tell me what specific experiences or activities have contributed most to this feeling?
+
+User: I attended a traditional tea ceremony and it was quite enlightening. I loved how serene and mindful the whole process was. It helped me relax.
+
+Consultant: It seems like the tea ceremony really made a positive impression on you, promoting relaxation and mindfulness. How do you think these practices might influence your daily life going forward?
+
+User: I think incorporating more mindfulness into my daily routine would help reduce my stress. Right now, I feel a little unsure about how to make that happen.
+
+Consultant: That’s a valuable insight. Mindfulness can indeed be beneficial. Would you like to explore some practical ways to incorporate mindfulness into your daily routine?
+
+User: Yes, I’d like that. I’ve heard about meditation, but I’m not sure how to start.
+
+Consultant: Meditation is a great way to practice mindfulness. Starting with just a few minutes a day can be very effective. Would you be open to trying a guided meditation or using an app for beginners?
+
+User: I could try using an app! That sounds doable. I’d just need to find one that’s beginner-friendly.
+
+Consultant: Absolutely, there are many great apps available. I recommend looking for one with guided sessions. Alongside meditation, are there any other activities you would like to explore that could enhance your cultural engagement?
+
+User: I’m also interested in learning traditional Japanese calligraphy. I've heard it can be very calming and artistic.
+
+Consultant: That’s a fantastic idea! Calligraphy not only helps with creativity but can also be a great mindful activity. Have you looked into any local classes or workshops?
+
+User: Not yet, but I will definitely check that out! I think the combination of calligraphy and meditation could be really enriching.
+
+Consultant: It sounds like you're starting to form a wonderful plan for yourself, combining two enriching experiences. Reflecting on your emotional state, how do you think engaging more with these activities will influence your overall happiness and adjustment to life in Japan?
+
+User: I think it will make me feel more rooted here. As I connect more with the culture, I hope my anxiety will decrease and my confidence will grow.
+
+Consultant: That's a healthy outlook! Feeling more rooted can significantly impact your overall sense of well-being. How about we set some specific goals for these activities over the coming weeks?
+
+User: I would like to set a goal of practicing meditation at least three times a week and to enroll in a calligraphy workshop by the end of the month.
+
+Consultant: Those are excellent and achievable goals. How about we review your progress in our next session? It would be great to see how you're adapting to these new experiences.
+
+User: Yes, that sounds good. I think having that accountability will help me stay on track.
+
+Consultant: Great! And as you embark on this journey, remember to be kind to yourself and allow for moments of adjustment. How are you currently feeling about these plans?
+
+User: I'm feeling excited! Just thinking about these activities is making me happy.
+
+Consultant: I’m so glad to hear that! Excitement is a wonderful feeling that can help propel you forward. As we prepare to end today’s session, is there anything else you'd like to discuss or any concerns you have?
+
+User: No, I think we’ve covered everything I wanted to talk about. I feel good about the goals we’ve set.
+
+Consultant: That’s wonderful to hear! I believe you’re on a positive path, and I'm looking forward to hearing about your experiences in our next session. Remember, it’s all about progress at your own pace.
+
+User: Thank you! I appreciate your support. It feels good to have a plan.
+
+Consultant: You’re very welcome, H. Keep focusing on these steps, and don’t hesitate to reach out if you need anything in between sessions. Take care, and enjoy your cultural exploration!
+
+User: Thanks! I will. See you next time!
+###################
+Consultant: Hello H! It's great to see you again. How have you been feeling since our last session?
+
+User: Hi! I’ve been feeling quite good actually. After completing the cultural experience program, my emotions have really improved. I feel more confident about my studies and social life, and I have some positive plans for the future.
+
+Consultant: That’s wonderful to hear, H! It sounds like you’ve made significant progress. Can you share more about these positive plans you have? What are you looking forward to?
+
+User: I’m considering joining some student organizations to enhance my social life and to help with networking. I believe this could improve my overall experience here in Japan.
+
+Consultant: Joining student organizations sounds like a fantastic way to connect with others and gain new experiences. How do you think participating in these activities will impact your studies and your daily life?
+
+User: I think it will help me balance academics with social life. I’ve always struggled to find that balance, and I believe being engaged in social activities can motivate me to stay on top of my studies.
+
+Consultant: It makes sense that a balanced lifestyle would motivate you academically. What steps do you think you could take to ensure that you maintain this balance while pursuing these social opportunities?
+
+User: I guess I could create a schedule that allocates time for both studying and social events. That way, I won't overwhelm myself with either responsibility.
+
+Consultant: That sounds like a reasonable plan. Having a schedule can help you manage your time effectively. Are there specific events or organizations you’ve already looked into that excite you?
+
+User: Yes, there’s a cultural club that organizes various activities. I think it would be a great way to meet people and learn more about Japanese culture.
+
+Consultant: The cultural club sounds like a perfect fit for you! Engaging in such activities can enrich your experience. Have you thought about how you would feel if you were to step out of your comfort zone and participate in something new?
+
+User: Honestly, I’m a bit anxious about it. I fear I might not fit in or connect with others. That’s something I need to overcome.
+
+Consultant: Acknowledging that anxiety is a strong first step. It's natural to feel anxious about fitting in. Can you remember a time when you overcame similar feelings and successfully connected with others?
+
+User: Yes, during my undergraduate studies, I joined a language exchange group. At first, I was nervous, but soon I made friends and found it enjoyable.
+
+Consultant: That’s a great example! What do you think helped you make those connections despite your initial anxiety?
+
+User: I think once I started talking to people and realizing we all have our hesitations, it made me feel more relaxed. It was comforting to see others were just as nervous.
+
+Consultant: That’s insightful, H. It reminds us that we’re not alone in our feelings. As you consider joining new activities, how can you remind yourself of that shared experience with others?
+
+User: I could try to focus on being open and genuine when I meet new people, remembering that they might be feeling the same way. 
+
+Consultant: Absolutely! That openness can create a welcoming environment. How do you plan to apply this understanding in your upcoming interactions?
+
+User: I guess I’ll take the initiative to introduce myself and ask questions, which can help break the ice and ease my nerves. 
+
+Consultant: That sounds like a solid approach! Taking the initiative to engage can lead to more meaningful connections. Do you have specific goals you want to achieve by joining these organizations?
+
+User: My main goal is to expand my social circle and improve my language skills. I want to feel more integrated into the community here.
+
+Consultant: Those are excellent goals, H. Expanding your social circle can offer valuable support and experiences. How do you plan to monitor your progress in achieving these goals?
+
+User: I could keep a journal to reflect on my experiences, write down my thoughts after each event, and evaluate if I’m feeling more connected.
+
+Consultant: Keeping a journal is a wonderful idea! It’ll provide you with insights and show your growth over time. How confident are you that you'll stick to this plan?
+
+User: I feel quite confident actually! Having this plan structured helps me stay focused and motivated.
+
+Consultant: I’m glad to hear that, H. It shows you've developed a positive mindset. As we prepare to wrap up, what would you consider your main takeaway from today’s discussion?
+
+User: I think my main takeaway is that I can create a balance between studies and social activities while being mindful of my feelings. It’s okay to feel anxious, but I can work through it.
+
+Consultant: That’s a fantastic takeaway! Recognizing that it's okay to feel anxious while having strategies to cope is key to your ongoing progress. Before we end our session, do you feel you have the tools you need to move forward confidently?
+
+User: Yes, I definitely do! I appreciate the support and guidance you've offered. I’m excited about what’s to come.
+
+Consultant: I’m happy to hear that, H! Remember, you’ve made remarkable progress, and I believe in your abilities to maintain this positive direction. If any challenges arise, don’t hesitate to reach out. Good luck, and I look forward to hearing about your experiences next time!
+
+User: Thank you! I’ll keep that in mind and I'm looking forward to our next session. Goodbye!
+###################

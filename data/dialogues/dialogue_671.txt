@@ -1,0 +1,400 @@
+Consultant: Hello, Wang! I'm glad to see you today. Before we begin, I want to understand how you've been feeling recently. Can you share with me what has been on your mind?
+
+User: Hi. I've been feeling quite low lately. I find life dull, and I struggle to motivate myself to do anything. I often think about dark things, and I worry about my future.
+
+Consultant: That sounds really tough. It’s understandable to feel overwhelmed with everything that's changing, especially entering university. What specific thoughts or worries have you been having about your future?
+
+User: I just feel like I'm not good enough. I worry that I won't fit in here, and the thought of failing makes me anxious. Plus, I'm having trouble sleeping, which only makes everything worse.
+
+Consultant: I hear you. It seems that your anxiety about fitting in and your concerns about success are really taking a toll on you, especially compounded by your sleep issues. Can you tell me a bit more about how this sleep difficulty impacts your daily life?
+
+User: Well, when I can't sleep, I feel even more exhausted and less motivated to engage in classes or meet people. It's a vicious cycle. I just want to feel normal again.
+
+Consultant: That sounds exhausting. It’s tough when lack of sleep affects your ability to engage with your studies and social life. Let’s explore your feelings towards these changes you’re experiencing. Have you noticed any patterns in your thoughts when you’re trying to sleep?
+
+User: I often replay my day in my head, worrying about how I interacted with others. I can’t stop overthinking whether I said the right things or if people like me.
+
+Consultant: It’s common to overthink interactions, especially in a new environment. Can you recall a specific thought that comes up when you're feeling this way? What does it tell you about yourself?
+
+User: Sometimes I think, "They probably think I'm weird," or "What if I embarrass myself in front of them?" It makes me want to avoid social situations altogether.
+
+Consultant: Those thoughts sound really intense and isolating. It’s understandable that they lead to avoidance. Let’s take a moment to consider the evidence behind those thoughts. What do you think would happen if you did face those social situations instead?
+
+User: I suppose I might realize that people are more accepting than I imagine. But it feels so scary to even think about it right now.
+
+Consultant: It’s completely natural to feel scared of the unknown. Can we try reframing that thought? If you had a friend who felt the same way, what would you tell her about facing those situations?
+
+User: I would probably tell her that everyone is insecure in new situations and it’s okay to not be perfect. But it’s hard to believe that for myself.
+
+Consultant: That’s a very compassionate perspective. It’s easy to be kinder to others than to ourselves. Let's practice that kindness towards yourself. What small step could you take to engage socially this week?
+
+User: Maybe I could try to join a club or attend a group study session. Even just saying hi to someone in class might help.
+
+Consultant: That sounds like a great plan! Taking those small steps can help break the cycle of avoidance. How do you feel about setting that as a goal for yourself this week?
+
+User: I feel a bit nervous, but also a little hopeful. I want to try, but I’m worried I won’t fit in.
+
+Consultant: Hopefulness is a good sign! It's okay to feel nervous; that just means you’re stepping out of your comfort zone. Remember, fitting in takes time and patience. What if you focused on enjoying the experience rather than on fitting in perfectly?
+
+User: I think that could help. I guess if I focus on the experience, it might be less overwhelming.
+
+Consultant: Exactly! Enjoying the process rather than the outcome can shift your perspective. Let's also explore ways to help you with your sleep issues. Have you tried any strategies to improve your sleep?
+
+User: Not really. I just get frustrated when I can't sleep, which only makes it worse.
+
+Consultant: That’s understandable. Stressing about sleep can create a cycle that makes it harder to rest. Would you be open to trying some mindfulness techniques or relaxation exercises before bed?
+
+User: I’ve heard of mindfulness, but I’m not sure how to start.
+
+Consultant: Mindfulness is simply about being present and aware without judgment. It can be as simple as focusing on your breath for a few minutes. I can guide you through a practice if you’d like.
+
+User: I’d appreciate that! It sounds helpful.
+
+Consultant: Great! Let's take a moment to practice together. You can sit or lie down comfortably, and I'll guide you through a brief exercise focused on your breathing. It might help you feel more relaxed later. Ready?
+
+User: Yes, let’s do it!
+
+Consultant: Wonderful! Close your eyes if you're comfortable. Take a deep breath in... and slowly breathe out. As you breathe in, feel your chest rise. As you breathe out, let go of any tension. Just focus on your breath...
+
+[Guided practice continues...]
+
+User: That was nice. I already feel a bit more at ease. I’ll definitely try this before sleeping.
+
+Consultant: I’m glad to hear that! Practice makes a difference, and incorporating this can help ease your mind. As we wrap up today, how do you feel about the steps we’ve discussed regarding social interactions and sleep?
+
+User: I feel somewhat relieved. I have a plan for trying to be social and something to aid my sleep. But I know it’ll be a process.
+
+Consultant: Absolutely, it’s a process, and it’s great that you’re taking these steps. Remember, it's perfectly okay to take your time navigating this change. You’re doing really well, Wang. What’s one takeaway you’ll hold on to until we meet again?
+
+User: I think I’ll remember to be kind to myself, like I would to a friend. And that it’s okay to take small steps.
+
+Consultant: That’s a fantastic takeaway! I believe in you, and I'm here to support you. I look forward to hearing about your experiences in our next session. Take care until then!
+###################
+Consultant: Hello, Wang! I'm glad you've come in for today's session. How have you been feeling recently, especially regarding your social interactions and studies?
+
+User: Hi. I've been trying to reach out to my classmates, but it hasn't gone as well as I hoped. I feel quite disappointed, and it's making me increasingly anxious about my studies.
+
+Consultant: It sounds like you've put in the effort to connect, and it hasn't met your expectations, which can feel really disheartening. Can you tell me more about what happened when you tried to interact with your classmates?
+
+User: I approached a few of them, but the conversations felt awkward, and I didn’t really connect with anyone. I keep thinking maybe I'm just not good at making friends, and that makes me feel worse about my studies too.
+
+Consultant: That makes sense. You're experiencing this sense of failure in your social attempts, which is then affecting how you view your academic performance. What specific thoughts do you have when you think about not being good at making friends?
+
+User: I feel like I'm too quiet and not interesting enough for people to want to talk to me. Sometimes I wonder if they see me as someone who just doesn't fit in.
+
+Consultant: It sounds like you're holding onto some pretty tough beliefs about yourself. Let’s explore this a bit. What evidence do you have that supports this idea that you're not interesting or don’t fit in?
+
+User: Well, when I compare myself to others, it seems like they can easily make jokes and connect. I just freeze up, and it feels like I’m on the outside looking in.
+
+Consultant: I can understand how that might feel isolating. But think about it—are there specific moments where you’ve connected with someone, even if just briefly? 
+
+User: I did share a laugh with a classmate about a project once. That felt nice, but it was just a moment, and it didn’t lead anywhere.
+
+Consultant: That’s an important moment to recognize! It shows that you have the ability to connect, even if it’s not consistent yet. What if we could build on that small success and try to create more opportunities like it?
+
+User: I’d like that, but I’m still worried about messing up again. 
+
+Consultant: It's completely understandable to feel that way. We all have moments when we doubt ourselves. How might you view those 'mess-ups' differently? Could they be seen as part of your learning process?
+
+User: I guess I could see them as practice rather than failures, but it’s hard to shift my mindset.
+
+Consultant: Changing how we view situations takes time, but it’s definitely possible. What alternate thoughts might you tell yourself during those moments of doubt, similar to how you might support a friend in the same position?
+
+User: I could remind myself that it’s okay to not be perfect, and that it's good that I'm trying to reach out, even if it feels uncomfortable.
+
+Consultant: Exactly! Recognizing that effort matters is a huge step. Moving forward, let’s also talk about setting small, achievable goals in your social interactions. What’s a simple step you could take this week to connect with someone? 
+
+User: Maybe I could try to start a conversation in class or ask someone to study together.
+
+Consultant: That sounds like a lovely goal! It's a straightforward way to create a connection. How would you feel about trying that out?
+
+User: I feel a bit nervous, but I think I can do it if I remind myself that it’s just a small step.
+
+Consultant: That’s the spirit! Nervousness is natural, but remember this is about building those connections over time. After you try this out, we can discuss your experience next session. 
+
+User: Sounds good! I'm just worried that I won’t feel any different afterward.
+
+Consultant: It’s okay to be concerned about that. If things don’t go as planned, that’s just more information for us. We can explore what went well and what you’d like to try differently next time.
+
+User: That makes sense. I appreciate that perspective. 
+
+Consultant: Of course! I’m here to help you through this process. Let’s also reflect a bit on your academic pressures. How are things going with your studies?
+
+User: I feel overwhelmed with my coursework, especially since I’m trying to juggle studying and socializing at the same time.
+
+Consultant: Balancing social and academic life can be tricky, especially when you’re feeling anxious. Have you tried any specific strategies to manage your time or your study load?
+
+User: Not really. I just sort of go with the flow, but it often feels chaotic.
+
+Consultant: A structured approach might help ease some of that chaos. Would you be open to creating a simple schedule together that outlines both study time and moments you want to practice socializing?
+
+User: Yes, I think having a plan could help me feel more organized.
+
+Consultant: Great! Let’s outline some dedicated study blocks and sprinkle in short social interactions during breaks. How does that sound?
+
+User: That sounds like a plan. I feel like having it mapped out could keep me accountable.
+
+Consultant: Absolutely! It's about taking control of your time and intentions. As we wrap up, reflect on what you've learned today about looking at your socializing efforts and academic pressures in a new light. 
+
+User: I feel hopeful about trying new approaches rather than just feeling defeated. 
+
+Consultant: That’s wonderful to hear, Wang! Remember that progress is about small steps. I’m looking forward to hearing how things go next time. You're building the skills to foster those connections, and that alone is a victory! 
+
+User: Thank you so much! I appreciate your support.
+
+Consultant: You’re very welcome. I’m proud of the effort you’re making. Let’s touch base on your experiences next session. Take care until then!
+###################
+Consultant: Hello, Wang! It's great to see you today. How have you been feeling since our last session?
+
+User: Hi. I've been feeling really frustrated. I'm still having a hard time fitting into group activities at university. I also can't shake off these negative thoughts about my appearance and abilities.
+
+Consultant: I see. It sounds like you're struggling with self-image and feeling out of place. Let's explore that a bit more. Can you tell me about a specific instance where you felt this way recently?
+
+User: Well, there was a group project where I felt like I wasn't contributing enough. I kept thinking everyone else was smarter than me, and that made me want to avoid participating altogether.
+
+Consultant: That must have been a tough experience for you. It sounds like those thoughts really affected your willingness to take part. What specific thoughts were going through your mind at that moment?
+
+User: I kept telling myself I wasn't good enough and that I would just embarrass myself if I spoke up. I felt like everyone would judge me harshly.
+
+Consultant: Those thoughts sound quite overwhelming. It's understandable to feel anxious when you’re thinking that way. Do you think these thoughts were based on any real evidence, or do they seem a bit extreme?
+
+User: I don’t know; maybe they’re extreme. I just feel so insecure about myself lately.
+
+Consultant: It's common to feel insecure, but let's try to challenge those thoughts a bit. If a friend were in your shoes, what would you say to reassure her?
+
+User: I’d probably tell her that everyone has strengths and weaknesses. She shouldn’t be too hard on herself.
+
+Consultant: Exactly! What if you applied that same kindness to yourself? Are there any strengths about yourself that you can recognize or appreciate?
+
+User: I guess I'm pretty good at organizing things, and I usually help others with their studies. But I still can’t see past my appearance, which holds me back.
+
+Consultant: It's great that you can acknowledge your strengths in organization and helping others. Let’s work on shifting the focus to those positive attributes. How about we create a plan that encourages you to participate in group activities a bit more, using your strengths?
+
+User: That sounds helpful. I just need to find a way to start.
+
+Consultant: How about starting with smaller, less intimidating group activities? For example, maybe you could contribute your organizational skills in a study group setting. How do you feel about that?
+
+User: That might work. I think managing the meeting could make me feel more in control. 
+
+Consultant: I love that idea! Let's set a specific goal for the next week. Could you aim to join one group study session and take charge of organizing it?
+
+User: Yes, I can do that. But what if I still feel nervous?
+
+Consultant: That's totally normal! If you start feeling nervous, remind yourself of your strengths. You could even practice some deep breathing or positive affirmations before the session to help calm those nerves.
+
+User: Those sound like good strategies. I want to work on reducing these negative thoughts about my looks as well.
+
+Consultant: That's important too. We can tackle this together. What if you start with a daily affirmation about your self-worth that doesn’t focus on looks? Something like, “I bring value through my actions and kindness”?
+
+User: I like that! I think it might help shift my focus.
+
+Consultant: Wonderful! Over time, these small changes can create a more positive self-image. Let's check in during our next session to see how that goes. 
+
+User: Sounds good! I feel a little more hopeful about it now.
+
+Consultant: I'm glad to hear that! Remember, progress may take time, but you're already taking important steps. Before we end, is there anything else you'd like to discuss?
+
+User: I think discussing my family dynamics would be helpful. Sometimes, they add to my stress.
+
+Consultant: Absolutely, let's explore that in our next session. Family relationships can impact our mental state. For now, focus on the small steps we've set today, and we can delve into the family aspect next time.
+
+User: Thank you! I appreciate your help. I'm feeling more optimistic.
+
+Consultant: You're doing great, Wang! Keep acknowledging your strengths, and remember, I'm here to support you. Looking forward to our next session!
+###################
+Consultant: Hello! I'm really glad to see you today. I know from our last session that you've experienced some joy through your music club, but the relationship with your father still troubles you. How are you feeling about everything lately?
+
+User: Hi. Yes, I've been feeling a bit low again, especially when I think about my relationship with my father. I feel like no matter what I do, I can't seem to get through to him.
+
+Consultant: That sounds really frustrating. It’s understandable to feel low when there's conflict in a significant relationship. Can you share a recent experience that made you feel this way?
+
+User: Well, the other day, I tried to talk to him about my music achievements, hoping it might help connect with him. But he just seemed uninterested and changed the subject. That made me feel really rejected.
+
+Consultant: It’s tough to open up and then feel dismissed like that. You were trying to share something important, and it sounds like it didn’t go the way you hoped. How did that experience make you feel overall about your relationship with him?
+
+User: It makes me feel hopeless, like my efforts are pointless. Sometimes I wonder if there's even a chance for us to have a better relationship.
+
+Consultant: That sense of hopelessness can be really heavy to carry. Let’s explore your thoughts about your relationship with your father a bit more. When you think about this situation, what kind of thoughts go through your mind?
+
+User: I often think that he just doesn’t care about me or my life. It’s like I’m invisible to him.
+
+Consultant: Feeling invisible can be incredibly painful, especially from someone so close to you. Can you recall a specific thought that pops up when you feel this way? 
+
+User: I sometimes tell myself, “I must not be worth his time.” 
+
+Consultant: That’s a powerful thought. It seems to be rooted in your experiences with him. But let’s challenge that negative belief—what evidence do you have that suggests you aren't worth his time?
+
+User: Well, I know he works a lot and has his own issues. Maybe he’s just not good at communicating but doesn’t mean he doesn’t care.
+
+Consultant: That's an important realization! It sounds like he might have trouble expressing his feelings rather than not caring about you. How would you feel about approaching him from that angle in your next conversation?
+
+User: I guess it could help. Maybe if I ask him how he feels about everything, it might break the ice.
+
+Consultant: That’s great! Initiating a conversation about his feelings could open the door for more understanding. How can you approach that in a way that feels comfortable for you?
+
+User: I could start by sharing how much I appreciate my music achievements and then ask him if there’s anything he wants to share about his own struggles.
+
+Consultant: That sounds like a thoughtful way to create dialogue! How do you think he might respond to that?
+
+User: I want to hope he would open up, but part of me fears he might just shut down again.
+
+Consultant: It’s natural to have concerns about his response, especially given your past experiences. If he does shut down, how might you reframe your thoughts to maintain a sense of hope?
+
+User: I guess I could remind myself that it’s not about me failing but about him learning to express himself better. 
+
+Consultant: That’s a healthy way to reframe it. Focusing on his challenges rather than your worth can lighten the emotional load. How does thinking this way affect your anxiety about the situation?
+
+User: It feels a bit more manageable. I suppose if I see it like that, I won't take his reactions as a reflection of my value.
+
+Consultant: Exactly! Recognizing that his behavior stems from his own struggles can empower you to keep trying. Let’s also discuss the positive feelings you get from your music activities. How can you use that joy to balance your feelings about your father?
+
+User: Maybe I can remind myself that I have my achievements and friendships in music, regardless of my family situation.
+
+Consultant: That’s a wonderful perspective! Focusing on your achievements can help strengthen your emotional resilience. How can you incorporate these joyful experiences into your routine moving forward?
+
+User: I think I will set aside more time for music and connect with my friends from the club. It helps immensely.
+
+Consultant: That sounds like a brilliant plan! Connecting with supportive friends and nurturing your passions will help you find balance. As we wrap up today, what do you feel is your biggest takeaway from our conversation?
+
+User: I think it’s about recognizing that my father's struggles aren’t my fault, and that I can still find joy in my life despite that.
+
+Consultant: That’s an important insight! I believe you're making progress in strengthening your resilience and opening up communication channels. What small step do you think you could take this week?
+
+User: I’ll try that conversation with my dad and also dedicate more time to my music.
+
+Consultant: That’s fantastic! Remember that every small step counts. I'm looking forward to hearing how it goes in our next session. Just know that you’re doing great work on these aspects of your life, and I'm here to support you. 
+
+User: Thanks! I feel a bit more hopeful now. See you next time!
+
+Consultant: You're welcome! I'm glad to hear that. Take care, and see you soon!
+###################
+Consultant: Hello, it's great to see you again, Wang. I'm glad you're here today. How have you been feeling since our last session?
+
+User: Hi. I've been feeling a bit better, but there are still moments of sadness. I did try to talk to my dad more, but it’s still a bit awkward. I want to keep improving our relationship.
+
+Consultant: It’s promising to hear that you’re taking steps to communicate with him. Can you tell me more about that conversation? How did it go?
+
+User: It was a little challenging. I tried to share my feelings, but I felt he wasn't really open. I think he needs time to process everything.
+
+Consultant: It's understandable that it might take time for him to open up. How did you feel during and after the conversation?
+
+User: During the talk, I felt anxious and unsure of myself, but afterward, I was somewhat relieved. I think it was good to at least attempt to connect.
+
+Consultant: Taking that step is certainly a positive move. You felt anxious at the start, but you experienced some relief afterward. That mix of emotions is completely normal. What do you think you might do next to further improve that communication?
+
+User: I guess I could try to bring up lighter topics instead of diving straight into serious stuff. Maybe that would help him feel more comfortable.
+
+Consultant: That sounds like a great strategy! Starting with lighter conversations can help ease the tension. What light topics do you think you could talk about?
+
+User: Maybe we could talk about hobbies or memories from when I was a kid. He used to enjoy sharing those stories.
+
+Consultant: That's a lovely idea! Sharing those memories can create a warm environment for both of you. How do you think focusing on those pleasant topics might change the dynamic of your conversations?
+
+User: I think it could help create a more relaxed atmosphere, and it might encourage him to share more with me.
+
+Consultant: Exactly! A relaxed atmosphere can lead to deeper connections. How about exploring what hobbies or activities interest you outside of your family conversations? What brings you joy?
+
+User: I really enjoy music. Playing the piano makes me feel good, but I haven’t done it much lately. 
+
+Consultant: Music can be a wonderful outlet for emotions. How do you feel when you play the piano? 
+
+User: It helps me escape from my worries, and it’s like therapy for me. I feel proud of myself when I play a piece well.
+
+Consultant: That’s fantastic to hear! It sounds like playing piano helps you express yourself. Would you be willing to set aside time each week to engage with your music?
+
+User: Yes, I think I’d like that. Maybe I could create a schedule to practice a few times a week.
+
+Consultant: Creating a practice schedule can be really beneficial! It can help you stay connected to that joy in music. What else do you enjoy besides playing the piano? 
+
+User: I’ve always enjoyed drawing too, but I don’t do it often anymore. 
+
+Consultant: Drawing can be another wonderful way to express yourself. How would it feel to incorporate some drawing into your routine as well?
+
+User: That could be nice! It would be another way to relax and maybe even combine it with music, like drawing while listening to my favorite songs.
+
+Consultant: That sounds like a wonderful blend of activities! Engaging in both could reinforce your emotional well-being. How do you feel about taking steps towards this plan?
+
+User: I feel excited about combining them! It makes me feel hopeful about finding joy again.
+
+Consultant: That’s a wonderful outlook! It's encouraging to see your excitement. Remember, it's important to recognize your efforts and celebrate your progress. 
+
+User: Thank you, I’ll try to remember that. 
+
+Consultant: As we wrap up today, let's reflect on your journey so far. What do you feel has changed in your perspective regarding your family and yourself?
+
+User: I feel a bit more confident about my ability to connect with my dad and express myself through music and drawing.
+
+Consultant: That’s a significant shift! It’s great to hear you feel more confident. What strategies or insights do you think you could apply if you face challenges in the future?
+
+User: I think I’ll remind myself about the progress I’ve made and keep trying to communicate with my dad.
+
+Consultant: That’s a healthy approach! Connecting with your progress can motivate you to continue. As we conclude, remember to take note of the positive changes and allow yourself grace during this process.
+
+User: I will. Thank you for your encouragement and support.
+
+Consultant: You’re very welcome! I'm proud of the steps you’re taking. If you ever feel the need for support again, you know where to find me. Stay positive!
+
+User: Thank you! I’ll definitely keep that in mind.
+###################
+Consultant: Hello, Wang! I’m really glad to see you today. How have you been since our last session?
+
+User: Hi! I’ve been feeling a little better, actually. I’ve had more conversations with my dad, and I joined a study club at school. But I still have moments where I feel down, especially at night when I try to sleep.
+
+Consultant: That’s great to hear about the improvements in your conversations with your dad and your involvement in new activities! Let’s talk more about those moments of feeling down. What kind of thoughts go through your mind when that happens?
+
+User: I often start thinking about everything I have to do and feel overwhelmed. Sometimes, I wonder if I’m really good enough to achieve my goals.
+
+Consultant: It sounds like those thoughts can be quite heavy for you. When you think about not being good enough, what feelings come up alongside that?
+
+User: I feel anxious and sometimes even sad. It makes it hard to focus on what I should be doing, like studying or participating in the club activities.
+
+Consultant: It makes sense that those thoughts could lead to anxiety and sadness. Have you noticed any specific situations that trigger those feelings for you?
+
+User: Yes, it usually happens during late-night study sessions or when I’m trying to fall asleep. I start to doubt my abilities, thinking about past failures.
+
+Consultant: It’s understandable to have those doubts, especially when you’re feeling tired. Let’s explore one of those past experiences that fuels your current feelings. Can you share a specific time that still bothers you?
+
+User: Well, there was a time in high school when I really wanted to do well in an exam, but I ended up failing it. Since then, I’ve been worried that I’ll fail again.
+
+Consultant: Thank you for sharing that experience. It sounds like that failure had a big impact on you and how you view your abilities now. How do you think this thought about failing again influences your current study sessions?
+
+User: It makes me really anxious. Sometimes, I find myself avoiding studying altogether because I fear I’ll just fail again. 
+
+Consultant: Avoiding studying because of fear is a common reaction. Let's try to challenge that thought. What evidence do you have that suggests you will fail in your future studies?
+
+User: I guess there isn't much evidence. I’ve done well in some of my classes lately, especially after joining the study club.
+
+Consultant: That’s a positive sign! It sounds like you're capable of succeeding. If a friend were in your position, what would you tell them about their abilities and the potential for future success?
+
+User: I would probably tell them not to be so hard on themselves and to remember all the good things they’ve accomplished.
+
+Consultant: Exactly! It’s important to be kind to yourself. What if you started applying that same advice to your own situation? How might that change your feelings about studying and your goals?
+
+User: I think it would help me feel less pressured. I might be more willing to study if I remember my achievements instead of just focusing on my fears.
+
+Consultant: That’s a great insight, Wang! Focusing on your strengths can truly help to counter those fearful thoughts. Let’s create a strategy for you to begin shifting your mindset. What small steps could you take to remind yourself of your achievements each day?
+
+User: Maybe I could keep a journal of my accomplishments, no matter how small, and read it when I feel down.
+
+Consultant: That sounds like an excellent idea! Journaling can help reinforce positive thinking. What else comes to your mind that might help you maintain this positive perspective?
+
+User: I could also reach out to my friends in the study club when I’m feeling anxious. They might remind me to stay positive.
+
+Consultant: Yes! Having a support system is invaluable. It can be really helpful to talk through your feelings with others who understand what you’re going through. As you reflect on all we’ve discussed, what do you feel is your biggest takeaway today?
+
+User: I think it’s about being kinder to myself and recognizing my achievements rather than just my fears.
+
+Consultant: Exactly! Recognizing your progress is vital for building confidence. As we wrap up our session, let's talk about how to maintain that kindness and reflection moving forward. What plans or goals do you want to set for yourself in the coming weeks?
+
+User: I want to keep up with my journal, continue my engagement with the study club, and also try to communicate more with my dad.
+
+Consultant: Those sound like wonderful goals. They are all about nurturing the positive changes you’ve made recently. Remember, I’m proud of the progress you’ve achieved so far. 
+
+User: Thank you! It means a lot to hear that from you.
+
+Consultant: You’re most welcome, Wang! Always remember that self-compassion and reflection are essential parts of your journey. If you ever need more support, don't hesitate to return. This is our last session for now, but I believe you can continue to manage your emotions and growth.
+
+User: I appreciate everything you've helped me with. I feel more hopeful about the future now. Thank you!
+
+Consultant: I’m glad to hear that! Take care of yourself, and I wish you all the best on your journey ahead. Goodbye for now!
+###################

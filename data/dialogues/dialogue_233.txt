@@ -1,0 +1,424 @@
+Consultant: Hello, Xiaohua! I'm glad you're here today. Before we start, can you share how you’ve been feeling lately, particularly with preparing for your college entrance exams?
+
+User: Hi! I’ve been really anxious. It feels like I’m drowning in study materials, and I’m constantly doubting my ability to keep up. It’s exhausting, and my sleep has been terrible.
+
+Consultant: That sounds really tough. It seems that the pressure from the exams is taking a toll on you. Can you tell me more about the thoughts that come to your mind when you feel this anxiety?
+
+User: I often think that if I don’t do well, my future will be ruined. I feel that everybody expects me to perform perfectly, and I’m terrified of letting them down.
+
+Consultant: I see. It sounds like you carry a lot of pressure from both yourself and others. How does that fear of not meeting expectations make you feel in the moment?
+
+User: It just makes me feel overwhelmed. I sometimes find it hard to even start studying because I fear I won’t do a good job anyway.
+
+Consultant: That’s completely understandable. It seems like your fear is leading to avoidance, which is making you feel even more anxious. Have you noticed these thoughts affecting your behavior or your study habits?
+
+User: Yes, definitely. I end up procrastinating a lot. I know I need to study, but I can’t seem to sit down and focus, which makes me feel guiltier.
+
+Consultant: It seems like this cycle of procrastination and guilt is adding to your anxiety. I’d like to explore your thoughts further. What specific thoughts go through your mind when you find yourself procrastinating?
+
+User: I think things like, "I’ll never be ready," or "Why bother, I’m just going to fail anyway." These thoughts make it so hard to start.
+
+Consultant: Those sound like very harsh thoughts. Let’s challenge them together. How much evidence do you have to support that you’ll fail? Have you ever succeeded despite feeling anxious before?
+
+User: I guess I’ve done well in some subjects in the past, but I just feel like this time is different. The stakes are much higher.
+
+Consultant: It’s natural to feel that way when the pressure is intense. But remember, your past successes do matter. What might a more balanced thought look like for you regarding your ability to succeed?
+
+User: Maybe a thought like, "I’ve prepared well before, and I can do it again." 
+
+Consultant: That sounds much more constructive! How do you feel when you say that to yourself compared to your earlier thoughts?
+
+User: I feel a little more hopeful, but I still doubt it sometimes.
+
+Consultant: That’s a great start. Acknowledging those doubts is crucial. What if we worked on some techniques to help you manage that anxiety, perhaps ways to calm yourself before studying?
+
+User: I would like that. I’ve heard about relaxation techniques but never really tried them.
+
+Consultant: That’s perfect! Let’s introduce some deep breathing exercises to help you relax. Would you like to practice one now together?
+
+User: Sure, I think that might help.
+
+Consultant: Great! Let’s take a deep breath in through your nose for a count of four, hold it for four, and then exhale slowly through your mouth for six. Ready? 
+
+User: Yes. *(practices breathing)*
+
+Consultant: How did that feel for you? 
+
+User: It felt good. I can see how it might help center me before studying.
+
+Consultant: Exactly! Incorporating these techniques into your routine can make a difference. Now, let's discuss your family dynamics. How are things with your parents lately?
+
+User: It’s really tense. They don’t understand the pressure I’m under, and we often argue about my study habits.
+
+Consultant: It sounds frustrating when your parents don’t see your perspective. What do you think would improve communication with them?
+
+User: I wish I could explain how I feel without them getting upset. 
+
+Consultant: Communication is key. Maybe expressing your feelings using “I” statements could help; for instance, saying “I feel overwhelmed” rather than “You don’t understand me.” What do you think?
+
+User: That makes sense. I’ll try that next time. 
+
+Consultant: That’s a great approach. It encourages understanding rather than defensiveness. Let’s summarize what we've covered today: we’ve identified your anxious thoughts, practiced relaxation techniques, and explored ways to improve communication with your parents.
+
+User: Yes, this has been really helpful. I feel a bit lighter just talking about it.
+
+Consultant: I'm glad to hear that! Remember, progress takes time. As we continue to work together, we can build on these strategies. Please reflect on our session today, and we can delve deeper into these topics in our next meeting.
+
+User: Thank you! I feel more hopeful about managing my stress.
+
+Consultant: You’re very welcome, Xiaohua. You're not alone in this. I look forward to our next session, where we can continue to work through these challenges together. Take care!
+###################
+Consultant: Hello, Xiaohua! I'm really glad you've come to this session. I know you've been feeling quite overwhelmed lately. Could you share with me how things have been going since we last spoke?
+
+User: Hi. Yeah, things have been pretty tough. I had a big argument with my parents about my future studies, and it just made everything worse. I feel exhausted and uncertain.
+
+Consultant: It sounds like you're feeling quite drained and unsure, especially after that argument with your parents. What specifically has been weighing on your mind regarding your family relationships?
+
+User: I just feel like there's a gap between us. They don't understand my feelings about studies. I wish I could communicate with them better, but it just leads to more conflicts.
+
+Consultant: I can see how frustrating that must be for you. Wanting to communicate better and feeling misunderstood can be really draining. What kind of things do you wish you could express to them that you feel you're not able to?
+
+User: I want to tell them that I'm stressed and need support. I don't want them to push me too hard, but whenever I try to explain, they just get angry.
+
+Consultant: That sounds really challenging. It seems like there’s a lot of pressure coming from both sides. How do you usually feel before and after these conversations with them?
+
+User: Before talking, I feel anxious and worried about what will happen. Afterward, I usually feel even more frustrated and tired, like I've failed to get my point across.
+
+Consultant: It’s understandable to feel that way. It seems like the conversations leave you even more emotionally drained. Could you share a specific memory of a recent conversation where you felt this way?
+
+User: I remember one evening when I tried to explain how stressed I was about the exams. They just kept insisting I focus and study more. I ended up shouting because I felt they weren't listening.
+
+Consultant: That sounds really difficult, Xiaohua. It's tough when you feel like your concerns are dismissed, leading to heightened emotions. When you were shouting, what thoughts were going through your mind at that moment?
+
+User: I thought they just don’t care about what I'm feeling. I felt like screaming to make them understand. It was like no matter how well I explained, they weren't hearing me.
+
+Consultant: It makes sense that you felt that way. Feeling unheard can be incredibly frustrating and can escalate emotions quickly. What do you think might happen if you tried a different approach to express your feelings?
+
+User: I honestly don’t know if it would help. I'm worried they won't take me seriously, and I might end up feeling the same way again.
+
+Consultant: That’s a valid concern. It can feel risky to try a different approach if past attempts haven’t gone well. What if we brainstormed together some ways you could express yourself, while keeping your feelings in mind?
+
+User: That could be helpful. I just want to be able to share my thoughts without it escalating into a fight.
+
+Consultant: Absolutely! One strategy might be to use "I" statements, such as “I feel stressed when…” This focuses on your experience rather than making them feel defensive. How does that resonate with you?
+
+User: I see what you mean. I usually end up saying “You are always...” which definitely sounds like I’m blaming them. 
+
+Consultant: Exactly. That's a great insight, Xiaohua. Shifting to "I" statements can help open communication. Can you think of a specific situation where you could use this method in a conversation with your parents?
+
+User: I guess next time I can say, “I feel really stressed about my studies and need some support.”
+
+Consultant: That sounds like a fantastic start! By expressing your feelings, it may help them understand your perspective better. How do you feel about trying this out in your next conversation?
+
+User: I feel a bit nervous, but also hopeful. I really want to make things better between us. 
+
+Consultant: It's completely normal to feel nervous about trying something new. Remember, it’s about sharing your feelings. We can even role-play how that conversation could go if you’d like!
+
+User: That might be a good idea. I could practice what to say before I try it out for real.
+
+Consultant: Great! Let's do a quick role-play. I’ll pretend to be your parent. You can start the conversation when you’re ready.
+
+User: Okay. *clears throat* "Mom, I feel really stressed about my studies and need some support." 
+
+Consultant: *As parent* “But you need to study harder! Everyone else is! Why aren’t you managing your time better?” 
+
+User: “I understand that, but I really feel overwhelmed right now, and it makes it hard for me to focus. I need your help.” 
+
+Consultant: That sounds much more constructive! How did it feel to say that?
+
+User: It felt better than I expected. It’s easier to express my feelings when I don’t blame them. 
+
+Consultant: Absolutely! You're doing great. Remember, it’s about sharing your feelings openly. How do you feel about discussing your interactions with your roommates now?
+
+User: Honestly, I haven't felt so comfortable with them either. I feel a barrier since the family issue is weighing on me.
+
+Consultant: That’s important to recognize. How do you think your feelings about home are affecting your interactions with your roommates?
+
+User: I guess I'm not as open with them. I don't feel I can trust them to understand me, so I’ve withdrawn a bit. 
+
+Consultant: It’s natural to withdraw when we're feeling down. What would help you feel more comfortable engaging with your roommates again?
+
+User: Maybe sharing some of my struggles could help. I’ve just been hesitant.
+
+Consultant: Opening up could strengthen those bonds. It might feel liberating to express what you’re experiencing. When you think about talking to them, what feelings come up for you?
+
+User: I'm nervous, but there's also a part of me that wants to connect. I just don't want to feel judged or misunderstood again.
+
+Consultant: Those feelings are valid. Remember that sharing can create a sense of trust. Perhaps starting with lighter topics before diving deeper could facilitate the conversation. 
+
+User: That sounds like a good strategy. I think that’ll ease the tension a bit.
+
+Consultant: Definitely! And remember, it’s a gradual process. You’re already showing great growth by being willing to try new approaches. How do you feel about our conversation today?
+
+User: I feel more empowered to approach my family and roommates. Thank you for guiding me through this.
+
+Consultant: You're very welcome! It’s inspiring to see your willingness to improve communication. Keep practicing these techniques, and remember that it’s okay to take small steps. I look forward to hearing how things go next time!
+
+User: Thank you! I’ll definitely try to put this into practice.
+###################
+Consultant: Hello, Xiaohua! I'm really glad you're here today. I know this has been a challenging time for you with the tensions with your roommate and your studies. How have you been feeling since we last talked?
+
+User: Hi. I guess I'm still feeling pretty anxious and overwhelmed. The situation with my roommate has just gotten worse. It's hard for me to concentrate on studying because I feel so isolated.
+
+Consultant: It sounds like the conflicts at home are really affecting your concentration and emotional well-being. What specific things have been happening with your roommate that's been bothering you the most?
+
+User: We keep arguing about small things, like cleaning and noise. I feel like she doesn't respect my space, and it just makes me more anxious.
+
+Consultant: I appreciate you sharing that. It’s understandable to feel anxious when you feel your space is being invaded. Have you had a chance to express how you’re feeling to her?
+
+User: Not really. I feel like I might make things worse if I bring it up. I don’t want to cause more conflict.
+
+Consultant: That’s a valid concern. It’s normal to worry about conflict, especially when tensions are high. Let’s think about this together. What do you think would happen if you shared your feelings with her in a calm way?
+
+User: I don’t know. She might just dismiss me or get defensive, which would make it worse.
+
+Consultant: That’s a possibility. But we could explore ways to communicate that might help you feel heard while reducing the likelihood of her getting defensive. Would you be open to trying a role-play exercise to practice this?
+
+User: Sure, I can try that. I guess it could help me feel more prepared.
+
+Consultant: Great! Let’s imagine you have a moment to talk to her. You could start by using “I” statements, like “I feel anxious when…” This way, you focus on your feelings without blaming her. Do you want to give it a try?
+
+User: Okay, I can say something like, “I feel anxious when it’s noisy because I need to study.” 
+
+Consultant: Exactly! That’s a good start. How do you feel about saying that to her?
+
+User: I think it sounds okay, but I still feel nervous about her reaction.
+
+Consultant: That’s completely natural. It’s okay to feel nervous. Consider how you can remain calm, no matter what her response might be. Would you want to practice some calming techniques before you talk to her?
+
+User: Yes, that might help. What do you suggest?
+
+Consultant: One technique is deep breathing. Let’s practice it together. Breathe in deeply through your nose for four seconds, hold it for four seconds, and then slowly breathe out through your mouth for four seconds. Let’s do this a few times together.
+
+User: Alright, I’ll try that. *practices breathing*
+
+Consultant: How do you feel after that breathing exercise?
+
+User: It actually feels a bit calming. I feel slightly more in control now.
+
+Consultant: That's wonderful to hear! Just remember that these techniques can help you manage your emotions when things feel overwhelming. After practicing your “I” statements and calming down, when do you think you might want to have that conversation with your roommate?
+
+User: Maybe this weekend. I think I’ll be able to approach it better then.
+
+Consultant: That sounds like a good plan. And if things don’t go as you hope, don’t be too hard on yourself. Each step you take is progress. What other strategies do you think might help you in dealing with this situation?
+
+User: I guess keeping myself busy with studying or hobbies could help distract me from the tension.
+
+Consultant: Absolutely! Engaging in activities that you enjoy can definitely help reduce stress. Is there a specific hobby or activity you want to initiate this week to keep your mind off things?
+
+User: I enjoy painting. I might spend some time on that to relax.
+
+Consultant: Painting sounds like a fantastic way to express yourself and relieve stress. How about setting aside specific time for that this week?
+
+User: Yes, I can block out some time on my calendar. 
+
+Consultant: Perfect! Let’s also think about how you’d like to reflect on these experiences in our next session. Keeping a journal could help you keep track of how you feel after talking to your roommate and when you engage in painting. Would you be willing to give that a try?
+
+User: It sounds helpful. I’ll start journaling my thoughts and feelings about the situation.
+
+Consultant: That’s a great step forward. Next time we meet, we can discuss how everything went with your roommate, your painting experience, and any new coping strategies you’ve discovered. How does that sound?
+
+User: That sounds good! I feel more motivated to handle things now.
+
+Consultant: I’m so glad to hear that! Remember, it’s all about taking small steps. You’ve already taken some important steps today. I'm looking forward to hearing about your progress next time. 
+
+User: Thank you! I really appreciate your support.
+
+Consultant: You’re most welcome, Xiaohua! You’re doing great, and I'm here whenever you need me. Good luck with everything, and take care until we meet again!
+###################
+Consultant: Hello, Xiaohua! I'm glad to see you today. How have you been feeling since our last session?
+
+User: Hi! I've been feeling a little better actually. I’ve been trying to manage my emotions better, especially with the exam pressure, but there are still times I feel overwhelmed.
+
+Consultant: It's great to hear that you’re feeling a bit better! Dealing with exam pressure can be really challenging. Can you tell me more about those overwhelming moments? What tends to trigger those feelings?
+
+User: Well, when I start studying and look at the amount of material I need to cover, I just feel this wave of anxiety. It’s like I can’t breathe and I can't focus at all.
+
+Consultant: That sounds really tough, Xiaohua. It’s understandable to feel anxious when faced with such a big task. Let’s explore those feelings together. What thoughts go through your mind when you start feeling overwhelmed?
+
+User: I often think that I won’t be able to finish everything on time and that I might fail the exam. That thought makes everything worse.
+
+Consultant: It sounds like that thought of not finishing and failing really intensifies your anxiety. Let’s take a moment to challenge that thought. What evidence do you have that you will fail if you don't finish everything?
+
+User: Well, I guess I don’t know for sure. I just always think about the worst-case scenario.
+
+Consultant: It’s normal to think about worst-case scenarios, but it can be helpful to try and look at the situation from a different angle. If a friend were in your position, what would you tell them?
+
+User: I would probably say that it’s okay to take breaks and that academic success isn’t just about finishing everything perfectly.
+
+Consultant: Exactly! It sounds like you have some very supportive ideas that you can apply to yourself. Could you try reminding yourself of that during your study sessions? 
+
+User: Yes, I think I can do that. I need to remember that it’s okay to not be perfect.
+
+Consultant: That’s a wonderful insight, Xiaohua. Now, let’s discuss how you can implement breaks during your study sessions. How about setting up a study schedule that includes short breaks?
+
+User: That sounds good! I think if I have set times to take a break, it will help me feel less stressed.
+
+Consultant: Great! Let’s outline a simple schedule together. How long do you think you can concentrate before you take a break?
+
+User: I can probably study for about 25-30 minutes before I need a break.
+
+Consultant: Perfect! The 25-minute study and 5-minute break method works for many people. How does that sound?
+
+User: I love that idea! It seems manageable.
+
+Consultant: Wonderful! Would you also agree to take a longer break after every two cycles of 25 minutes?
+
+User: Sure, that makes sense. A longer break should help me recharge.
+
+Consultant: Excellent! Remember to use your longer breaks to do something you enjoy. This could be a few minutes of listening to music or just taking a walk. How does that sound to you?
+
+User: That sounds nice! I think it would really help me clear my mind.
+
+Consultant: I’m glad to hear that. Now, let’s talk about those moments when you feel overwhelmed. We can also try some relaxation techniques. Have you ever practiced deep breathing techniques?
+
+User: I haven’t really tried deep breathing, but I've heard it's helpful.
+
+Consultant: It really can be! Let’s practice it together right now. Take a deep breath in through your nose for four counts, hold it for four counts, and breathe out slowly through your mouth for six counts. Shall we give it a try?
+
+User: Okay, let’s do it together. 
+
+Consultant: Alright, let’s go! Inhale… 1, 2, 3, 4… hold it… 1, 2, 3, 4… now exhale… 1, 2, 3, 4, 5, 6… How do you feel after that?
+
+User: I feel a bit more relaxed. I think I should remember to do this before I start studying.
+
+Consultant: That’s a great idea! Incorporating deep breathing can really help set a calm tone for studying. Remember to be patient with yourself as you practice this.
+
+User: I will. I’m actually starting to feel more confident about managing my emotions.
+
+Consultant: That’s wonderful to hear, Xiaohua! As we wrap up today, let’s reflect on the progress you’ve made. What have you learned about yourself in handling these overwhelming feelings?
+
+User: I’ve learned that I can manage my emotions better by being aware of my thoughts and not being too hard on myself.
+
+Consultant: That’s a huge breakthrough! And what strategies do you think you can use to maintain this progress going forward?
+
+User: I can keep using the study schedule and deep breathing exercises. I want to focus on communication with my parents too, as I think that will help me feel more supported.
+
+Consultant: That’s a fantastic plan! Remember, communication is key to strengthening those relationships. If you find yourself struggling with anything, feel free to reach out. 
+
+User: Thank you! This session has helped a lot. I feel more prepared to face my study challenges and improve my family relationships.
+
+Consultant: I’m really glad to hear that, Xiaohua. You’ve worked hard today, and I believe you’ll continue to make progress. Remember, it’s a journey, and I’m here to support you. See you next time!
+
+User: See you! Thank you for everything!
+###################
+Consultant: Hello, Xiaohua! I'm glad to see you again. How have you been feeling since our last session?
+
+User: Hi! I feel pretty good overall. My communication with my parents has improved a lot, and that makes me really happy. 
+
+Consultant: That's wonderful to hear! It sounds like making progress in your relationship with your parents has positively impacted your overall mood. What specific changes have you noticed in your communication with them?
+
+User: We’re not arguing as much as we used to. I've been trying to express my thoughts more clearly, and they seem more receptive when I talk about my feelings.
+
+Consultant: It’s great that you’re expressing your thoughts more clearly. Effective communication can really help in resolving conflicts and building better relationships. Can you share an example of a recent conversation that went well?
+
+User: Sure! Just the other day, I talked to my mom about the pressure I feel about studying for exams. Instead of getting defensive, she listened and even offered support.
+
+Consultant: That’s a significant step! It sounds like you created a safe space for your mom to listen. How did that feel for you, to have her support?
+
+User: It felt really comforting. I didn’t expect her to react that way, and it made me feel less alone in dealing with my stress.
+
+Consultant: Feeling seen and supported is so important, especially during stressful times. As you continue this positive trajectory with your family, are there specific areas you want to improve further in your communication?
+
+User: I think I’d like to talk about my academic stress a bit more. Sometimes, I feel they don’t fully understand how hard it is to prepare for college entrance exams.
+
+Consultant: That’s an important topic. Understanding each other’s perspectives can strengthen your conversations. We can explore ways to express your academic challenges clearly. How do you currently convey your feelings about your schoolwork?
+
+User: I usually mention how stressed I feel, but I think I could give more context on why, like sharing my study schedule or showing them the workload.
+
+Consultant: Providing context is a great idea! It allows them to see what you're experiencing and increases their empathy. Would you like to practice how you might explain your situation to them?
+
+User: Yes, that would be helpful.
+
+Consultant: Let’s start with grounding words. You could say something like, “Mom, I want to share how studying for my exams feels for me. Recently, I've been struggling to balance everything." How does that sound to you?
+
+User: That actually sounds effective. It’s direct but also opens the door for a deeper conversation.
+
+Consultant: Exactly! By starting the conversation in this way, you invite mutual understanding. After you share this, consider asking them if they have any similar experiences, which can lead to a more relatable discussion. How does that sound to you?
+
+User: I like that idea! It could make them feel more connected to what I’m going through.
+
+Consultant: Definitely! It builds a bridge between your experiences and theirs. Do you think you can try this approach in your next conversation?
+
+User: Yes! I feel prepared to talk about it now, which is a relief. 
+
+Consultant: That’s fantastic to hear! You’ve made great strides. As we wrap up today, let’s reflect on the tools we discussed. How do you feel about the communication strategies we talked about?
+
+User: I feel more confident now. I think I can apply them not just with my parents but also in other relationships.
+
+Consultant: That’s a great realization! You’re developing valuable skills that will benefit you in many aspects of your life. Remember, it’s okay to take it one step at a time. What’s one key takeaway you’d like to remember from our session today?
+
+User: I’d like to remember that providing context and asking for their experiences can really foster understanding.
+
+Consultant: Excellent takeaway! As you continue to apply these strategies, it’s likely you’ll see more positive interactions. Before we end, what steps do you plan to take to maintain the improvements you've made?
+
+User: I think I’ll keep having open discussions with my family and continue to focus on expressing my feelings clearly.
+
+Consultant: That sounds like a solid plan, Xiaohua. I believe in your ability to navigate these conversations. It’s been a pleasure working with you. If challenges arise in the future, I’m here to help. 
+
+User: Thank you! I really appreciate your support. 
+
+Consultant: You’re very welcome! Take care, and until next time, remember to embrace the progress you’ve made. Goodbye for now!
+
+User: Goodbye!
+###################
+Consultant: Hello, Xiaohua! I'm glad to see you today. How have you been feeling since our last session? 
+
+User: Hi! I've been feeling really good actually. I noticed that I'm becoming more confident in handling my studies and even my relationships with my parents have improved a bit.
+
+Consultant: That's wonderful to hear! It sounds like you've made some significant strides in your confidence and handling of relationships. Can you tell me more about what specific changes you’ve noticed?
+
+User: Well, for one, I’m more organized with my study schedule. I used to procrastinate a lot and feel overwhelmed, but now I feel like I have a grip on things. With my parents, I’ve also started to communicate more about how I feel, which has lessened the tension between us.
+
+Consultant: Those are great improvements, Xiaohua! Organizing your study schedule and improving communication with your parents are significant steps. What do you think helped you make these changes?
+
+User: I think the techniques we discussed, like setting small goals and taking breaks, really helped. I feel less overwhelmed when I know I can manage my time better. I also tried to express my feelings without being defensive.
+
+Consultant: It sounds like you’ve really embraced those strategies! It’s great to see how you are using them in your daily life. How do you feel about continuing to integrate these techniques as you move forward?
+
+User: I feel excited about it! I want to keep growing and not fall back into old habits. I sometimes worry that stress might come back, especially with exams approaching again.
+
+Consultant: It's completely normal to feel that way, especially with the upcoming exams. Let’s talk about how we can reinforce what you've learned to help you manage any stress that may arise. What strategies could you put into place for your study sessions leading up to the exams?
+
+User: I think I’ll stick to a consistent study schedule and maybe incorporate some relaxation techniques before I start studying to ease the tension. Also, I should probably talk to my friends more if I start feeling stressed.
+
+Consultant: Those sound like excellent strategies! Consistency and relaxation can really help in managing stress. How about we also brainstorm a couple of relaxation techniques you could use? 
+
+User: Sure! I’ve heard of deep breathing and short meditation. I might try those before I sit down to study.
+
+Consultant: Deep breathing and meditation are great tools. They can help you calm your mind and reset your focus. Do you feel prepared to start implementing these techniques?
+
+User: Yes, I feel ready! I’ll give them a shot. Also, I think it would help if I set reminders on my phone to keep me accountable.
+
+Consultant: Setting reminders is a smart move! It adds another layer of support to help you stay on track. Is there anything else you'd like to reflect on today about your progress?
+
+User: I’ve been thinking about my future, too. I want to handle stress better so I can enjoy life more, especially after exams. 
+
+Consultant: That's a healthy mindset to have! Looking at the future positively can really motivate you. What are some specific ways you envision enjoying life more after exams?
+
+User: I’d like to spend more time with my friends and engage in hobbies I love. I miss feeling relaxed and joyful.
+
+Consultant: Those sound like wonderful plans! Engaging in activities you enjoy is essential for maintaining balance. We can also create a plan for how to ease back into life post-exams. How does that sound?
+
+User: That sounds great! I definitely want to go back to drawing and reading more books.
+
+Consultant: Those are lovely activities that can bring joy and a sense of accomplishment. Let’s consider scheduling time for those hobbies as part of your post-exam relaxation plan. 
+
+User: Yes, I would love that! Scheduling time for my hobbies would definitely help me feel like I’m taking care of myself.
+
+Consultant: Absolutely! Self-care is essential. As we draw this session to a close, let’s summarize what you’ve learned and how you plan to implement these strategies moving forward. 
+
+User: I've learned to organize my study time, communicate openly with my parents, and incorporate relaxation techniques. I feel more confident about using these skills, especially with exams coming up. 
+
+Consultant: Exactly, Xiaohua! You’ve recognized your strengths and identified concrete steps to support yourself moving forward. Remember, you can always reach out for additional guidance if you need it. 
+
+User: Thank you! This session really helped me feel more prepared and optimistic.
+
+Consultant: I'm really glad to hear that! You've made amazing progress, and I'm confident you will continue to grow. Today is our last session, but please remember to utilize the techniques you've learned. 
+
+User: Thank you so much for all your help! I feel ready to take on the future.
+
+Consultant: It’s been a pleasure to work with you, Xiaohua. Keep believing in yourself and your skills. If you ever need support in the future, you are always welcome to come back. Good luck with everything! 
+
+User: Thank you! I really appreciate it. Goodbye!
+###################

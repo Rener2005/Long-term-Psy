@@ -1,0 +1,408 @@
+Consultant: Hello there! I'm really glad you're here today. I know that you've been feeling some challenges with your studies lately. Can you tell me more about how you've been feeling?
+
+User: Hi! Yeah, I've been struggling with school. I just feel so uninterested in my classes, especially history. It feels like no matter how hard I try, I can't keep up. My parents have high expectations for me, and I feel a lot of pressure from that.
+
+Consultant: It sounds like you're experiencing a lot of pressure and it's affecting your motivation to study. I can imagine how tough that must be for you. What do you think has contributed to your feelings toward studying, especially after coming back to in-person classes?
+
+User: I guess it started when we had online classes. I wasn't really paying attention during that time, and now I feel really lost. No matter what I do, I just can't remember things the way I used to.
+
+Consultant: That makes a lot of sense. It can be really disorienting to shift back to in-person learning after having less engagement online. When you mention feeling lost, what specific thoughts come to your mind about your ability to catch up?
+
+User: I often think that I'll never be able to understand everything. Sometimes I feel like I’m not smart enough, and it makes me want to give up altogether.
+
+Consultant: That’s a challenging thought to carry. It seems like you might be doubting your abilities. If you were to take a step back, what evidence do you have to support that thought? Are there times when you have felt successful in your studies?
+
+User: I mean, there have been times I did well on tests and assignments, but those moments feel far away now. I mostly remember the failures lately.
+
+Consultant: It sounds like you're focusing on those recent difficulties, which can easily overshadow your past successes. What if we tried to identify some of those successful moments? How did you achieve them, and what skills did you use?
+
+User: Well, I did work hard for history tests last year and got good grades. I think it was because I studied a lot and created summaries of what I learned.
+
+Consultant: That’s a great insight! You have a strategy that worked for you before. What if we explored how you could apply that same approach now? Perhaps by breaking things down into manageable summaries again?
+
+User: I think that might help. But every time I think about starting, I feel so overwhelmed and don’t know where to begin.
+
+Consultant: It's understandable to feel overwhelmed, especially with so much on your plate. Let's try to take it step by step. What if we set a small, specific goal for your studying this week? Something that feels achievable to you?
+
+User: Maybe I could start by reviewing just one chapter of my history book and making notes on that.
+
+Consultant: That sounds like a very reasonable first step. How do you feel about setting that as your goal for this week? 
+
+User: I feel okay about it! Just one chapter feels easier to tackle than thinking about everything at once.
+
+Consultant: I'm glad to hear that! Remember, progress often comes in small steps. How do you think you might reward yourself for achieving that goal this week?
+
+User: I could let myself play a video game for a bit afterward if I finish it.
+
+Consultant: That sounds like a fun reward! It’s important to acknowledge your effort. As we continue, how do you envision handling the pressure you feel from your parents regarding your studies?
+
+User: I’m not entirely sure. I guess I worry about letting them down, and that just adds to my anxiety.
+
+Consultant: It’s perfectly normal to feel anxious about parental expectations. What if we think about ways to communicate with them about what you need and how you’re feeling?
+
+User: Yeah, maybe I could talk to them about how I’m struggling and ask for their support instead of just pressure.
+
+Consultant: That sounds like an excellent plan! Expressing your feelings might help them understand better and offer the support you need. How do you feel about approaching that conversation?
+
+User: I guess it could relieve some of the pressure. I worry they might not understand, but I’ll give it a try.
+
+Consultant: It's natural to have concerns about how they will react, but opening that dialogue can be a positive step. You’re not alone in this. Keep in mind that their intentions stem from care and concern for your wellbeing. 
+
+User: That makes sense, I really appreciate that perspective. I think I can handle this.
+
+Consultant: That’s a fantastic mindset to have! Remember, you are working towards improving your situation step by step. As we wrap up today, what is one key takeaway you will bring with you from our conversation?
+
+User: I think it’s important to reset my approach with manageable goals and to communicate more openly with my parents about what I’m feeling. 
+
+Consultant: Absolutely! That’s a powerful takeaway. As you continue this journey, remember to be kind to yourself, and don’t hesitate to reach out when you need support. I'm confident you'll find your way. Looking forward to our next session! 
+
+User: Thank you so much! I look forward to it too!
+###################
+Consultant: Hello! I’m glad you’re here for this session. It sounds like you’ve been experiencing some pressure lately. Can you share how you’ve been feeling about your studies and your parents’ expectations?
+
+User: Hi. Yes, I’ve been feeling quite overwhelmed. I still have a strong interest in history, but my parents are insisting on me joining a tutoring class, and it's really stressing me out. I feel like I can’t meet their expectations.
+
+Consultant: It sounds like there’s a conflict between your interest in history and the pressure you feel from your parents. Let’s explore that further—what do you think would happen if you didn’t join the tutoring class they want?
+
+User: I think they would be really disappointed in me. They have high hopes for my future, and I feel like I’m letting them down by not wanting to go.
+
+Consultant: It’s understandable to feel that way, especially with their hopes resting on you. But let’s take a moment to consider your own feelings—what would it mean to you to take control of your own learning process?
+
+User: It would feel freeing, I guess. I don’t want to just follow their path; I want to learn at my own pace. But sometimes I doubt if that’s even possible.
+
+Consultant: That’s a very insightful realization. The doubt you’re feeling is completely normal. What do you think is holding you back from trying different study methods that might work better for you?
+
+User: I think I’m afraid of failing. If I try something different and it doesn’t work, it would feel like I’m failing not just myself but my parents too.
+
+Consultant: That’s a valid concern. Let’s consider this: if you were to reframe the idea of trying different methods as an experiment rather than a fail-or-succeed scenario, how might that change your perspective?
+
+User: That could be less intimidating. Thinking of it as an experiment sounds better, but I still worry about what my parents would say if they knew I was changing my approach.
+
+Consultant: It makes sense to be concerned about their reactions. Maybe we can explore ways to communicate your feelings and thoughts about your learning strategy with them. Would that be helpful for you?
+
+User: Yes, it might help. I haven’t really talked to them about how I feel. I usually just go along with whatever they say.
+
+Consultant: Opening that line of communication could really help reduce some of the pressure you’re feeling. What do you think you would want to express to them about your learning style or methods?
+
+User: I want to tell them that I enjoy history and that I want to learn in a way that suits me. Maybe if they understood that, it wouldn’t feel so restrictive.
+
+Consultant: That’s a great starting point! Expressing your passion for history and your desire for a personalized approach can foster a healthier dialogue. What if we practice how you might frame that conversation with them?
+
+User: Okay, I think I can start by saying how much I love history and how I feel better when I learn at my own pace. That way, they might see it’s not about slacking off.
+
+Consultant: Exactly! Framing it in that way shows your enthusiasm and commitment. How do you feel about addressing their concerns while affirming your own learning preferences?
+
+User: I feel a bit more confident thinking about it. I might need to approach this gradually, though. I’m not sure how they’ll respond.
+
+Consultant: Taking it slowly sounds wise. Perhaps you can share a small part of your experience at first, and then gauge their reactions. It’s all about building trust in that communication. What else might make you feel more prepared for this discussion?
+
+User: Maybe writing down my thoughts beforehand could help. I can think through what I really want to say without getting caught up in the moment.
+
+Consultant: That’s a practical strategy! Writing can clarify your thoughts and help you feel more assured when you share them. Let’s also think about your feelings towards your current study strategy. How do you feel about what you're doing right now in history?
+
+User: Honestly, I feel a bit lost. I don’t know if I’m studying effectively, and I worry that I’m falling behind, which doesn’t help my mood.
+
+Consultant: It’s tough to feel lost when you’re already facing pressure. Reflecting on what works well for you can help when developing new strategies. What techniques have you tried so far in studying history?
+
+User: I mainly rely on textbooks and sometimes watch documentaries, but it feels like a lot to absorb, and sometimes I forget what I learned.
+
+Consultant: It seems like you’re on the right track with different sources. What if we explore techniques that can reinforce what you’ve learned, perhaps involving a more interactive approach?
+
+User: That could be interesting. Maybe discussing the topics with classmates or even teaching someone else what I learned could help solidify my understanding.
+
+Consultant: Teaching others is a fantastic method! It reinforces your knowledge and boosts your confidence. Would you be inspired to set up a study group or a buddy system to discuss history together?
+
+User: That sounds like a great idea! It would also let me see how others approach things, and I could learn from their insights too.
+
+Consultant: Absolutely! Different perspectives can be very enriching. As we work towards these changes, remember that it’s okay to feel uncertain. With practice, you can find a rhythm that works for you. How can we continue to support your journey today?
+
+User: I think exploring ways to talk to my parents is the main thing for now, along with some ideas for study techniques. I’m feeling a bit more hopeful about it.
+
+Consultant: That’s wonderful to hear! We can focus on those two areas. To wrap up our session today, let’s summarize—you're looking to communicate openly with your parents while also experimenting with different study techniques to better align with your interests in history. What feels like a good next step for you?
+
+User: I’ll write down my thoughts before the talk with my parents and try to set up a study group for history. I feel like I can at least approach these challenges now.
+
+Consultant: That sounds like a solid plan! Remember, communication takes time, and it’s okay to take small steps. You've made some important insights today. I believe that with these strategies, you can reduce the pressure and enhance your learning. If you need more support, I'm here for you. Thank you for sharing today!
+
+User: Thank you! I really appreciate this conversation. I feel much better about tackling these issues now.
+###################
+Consultant: Hello! I'm glad you're here for this session. How have you been feeling lately, especially regarding your studies?
+
+User: Hi. I've been really struggling with my history class. I felt so defeated after my mid-term exam, and now I just can't seem to motivate myself to study.
+
+Consultant: I see. It sounds like that exam really hit your confidence hard. Can you tell me more about what you felt during and after the exam?
+
+User: During the exam, I felt so anxious. I kept thinking that I was going to fail, and after I got the results, I just felt crushed. It makes me doubt if I can improve at all.
+
+Consultant: That’s completely understandable. Experiencing anxiety during exams can really impact your performance. It sounds like you're feeling pretty stuck right now. What thoughts do you have about your ability to improve in history?
+
+User: I honestly think that I just don’t have what it takes. Other students seem to get it, but I feel like I'm falling behind.
+
+Consultant: It sounds like you're really comparing yourself to others, which can be quite discouraging. Let's explore those thoughts a bit. When you say you don't have what it takes, what evidence do you have for that belief?
+
+User: Well, I’ve failed this time, and I think that’s proof I'm not good at history. 
+
+Consultant: I hear you. It’s tough when a setback feels like a confirmation of a negative belief. However, can we consider that one test doesn’t define your ability? Are there times when you felt you succeeded or understood the material?
+
+User: There have been times when I did well on quizzes or assignments, but they feel so far away from the mid-term failure. 
+
+Consultant: Those successes are important! They could indicate that you are capable of understanding the material. What if we looked at those positive experiences to rebuild your confidence going forward?
+
+User: That could be helpful, I guess. But I worry about facing history class again after this.
+
+Consultant: It makes sense to be worried. Facing your fears can be really challenging, especially after a setback. What if we talked about ways to ease that fear and build a positive approach towards your studies? 
+
+User: I think that would be good. I just need to figure out how to study effectively for history.
+
+Consultant: Let’s focus on that! What study methods have you tried in the past, and how did they work for you?
+
+User: I've tried just reading the textbook and taking notes, but it seems boring and it's hard to stay focused. 
+
+Consultant: It’s understandable that reading alone can feel tedious. Have you tried using any interactive methods, like flashcards or group study sessions? 
+
+User: No, I haven't. That could be more engaging. 
+
+Consultant: Great! Engaging with the material in different ways can really help keep your motivation up. Would you feel comfortable trying group study sessions or even teaching someone else a part of the material?
+
+User: Teaching sounds interesting. I think explaining things to someone might help me understand better too.
+
+Consultant: Absolutely! Teaching is a wonderful way to reinforce your learning. Along with that, let’s think about setting achievable goals for your study sessions. How would you feel about breaking your study time into smaller, focused chunks?
+
+User: That sounds manageable. Maybe I could study in 30-minute increments.
+
+Consultant: That’s a fantastic plan! Short sessions can help maintain your focus and reduce the feeling of being overwhelmed. How do you feel about creating a study schedule that incorporates these methods?
+
+User: I feel a bit more hopeful about it now. A schedule could help keep me on track. 
+
+Consultant: I’m glad to hear that! Let’s create a simple outline for your study plan. What days can you dedicate to studying history this week?
+
+User: I can try to study on Mondays, Wednesdays, and Fridays after school. 
+
+Consultant: Perfect! That gives you a structured plan to work with. Remember, it’s okay to adjust as needed. How would you feel about checking in with me about your progress next week?
+
+User: That would be great! I think having someone to share my progress with will keep me accountable. 
+
+Consultant: That’s the spirit! Holding yourself accountable can make a big difference. Just one last thing—what strategies can you use to calm your nerves before a study session or an exam?
+
+User: I could try some deep breathing or just take a short walk to clear my mind.
+
+Consultant: Those are excellent strategies! Deep breathing and walking can really help reduce anxiety and improve focus. Remember, taking care of your mental space is just as important as studying.
+
+User: Thanks, I feel like I have a plan now. It doesn’t seem as daunting.
+
+Consultant: I’m really happy to hear that! It sounds like you’re moving towards a more positive mindset about your studies. As we wrap up, how confident are you feeling about implementing the plan we discussed?
+
+User: Much more confident, actually. I’m ready to give it a try.
+
+Consultant: That’s wonderful! It’s been great to see you open up to these new strategies. Remember, I’m here for support, and I look forward to hearing about your progress next time. If you ever feel off track, don’t hesitate to reach out!
+
+User: I will. Thank you so much for your help today!
+
+Consultant: You’re very welcome! I'm excited to see how you develop your study skills and regain your confidence. Take care, and see you next session!
+###################
+Consultant: Hello! I'm glad to see you today. How have you been feeling since our last session?
+
+User: Hi! I've actually been feeling a bit better. I've been trying to engage more in class and it feels nice to have the support of my teachers.
+
+Consultant: That’s wonderful to hear! It sounds like the support has made a positive impact on your experience. Can you tell me more about what specifically has helped you feel more engaged in class?
+
+User: Well, I think it’s mainly the understanding I got from my counselor. It really helped me feel that I'm not alone in this.
+
+Consultant: It's great that you have someone who understands you and provides support. Feeling connected can be a powerful motivator. As we continue today, what other areas do you feel you would like to work on regarding your studies or engagement?
+
+User: I guess I want to keep this positive momentum going. Sometimes, though, I still have these moments where I doubt myself and feel overwhelmed.
+
+Consultant: It's completely normal to have moments of doubt, especially with so much going on. Let's explore this a bit. Can you recall a specific moment recently when you felt overwhelmed? What thoughts were going through your mind?
+
+User: There was a time during a history lesson when I felt like I wasn't keeping up. I thought, “What if I fail this subject?” That thought made me really anxious.
+
+Consultant: That sounds quite stressful. It seems that thought brought a lot of pressure. How did that feeling of anxiety affect your ability to participate in class at that moment?
+
+User: I sort of withdrew a bit. I didn’t ask questions like I usually would, and I just sat quietly, hoping the lesson would end quickly.
+
+Consultant: I understand. That can happen when anxiety kicks in. Now, thinking back on that moment, how much evidence do you think supports that thought of failure? Is there possibly an alternative way to view your performance in history?
+
+User: I guess it’s also true that I've had some good moments in class too. My teacher has praised my contributions before, but I focus too much on the bad feelings.
+
+Consultant: It sounds like you're recognizing a pattern there! That’s a strong insight. What if you tried to balance those anxious thoughts with the positive feedback you’ve received? How might that change how you feel during classes?
+
+User: I think it would help me feel more confident. If I remind myself of the good comments, I could be less anxious overall.
+
+Consultant: Absolutely! Acknowledging both the positive and negative can help create a more balanced perspective. Let’s practice that. When you notice anxiety creeping in, remind yourself of a specific instance where you did well. What’s one example that comes to mind?
+
+User: I remember one time I answered a question that surprised even me. The teacher said it was insightful, and my classmates seemed impressed too.
+
+Consultant: That’s a fantastic example to hold onto! It shows that you are capable and can contribute in meaningful ways. Going forward, how can you remind yourself of that experience when those anxious thoughts arise?
+
+User: Maybe I could write it down and keep it in my notebook, so I can look at it whenever I feel anxious.
+
+Consultant: That sounds like a great strategy! Having a visual reminder can help reinforce your positive experiences. How do you feel about setting some small goals for your engagement in class?
+
+User: Setting goals sounds good! I think starting with participating at least once in every class would be a good target.
+
+Consultant: That’s a practical and attainable goal! Participating once in every class can help build your confidence gradually. How do you think you’ll feel after achieving that goal over some time?
+
+User: I hope it makes me feel proud of myself. If I can see progress, I’ll be more motivated.
+
+Consultant: Exactly! Celebrating small achievements is a key part of building long-term motivation. Looking ahead, do you have any thoughts about what interests you might want to explore further related to your studies?
+
+User: I actually enjoy writing a lot, especially storytelling. Maybe I could look into incorporating that into my history assignments.
+
+Consultant: That’s an exciting idea! Combining your interests in storytelling with your studies can create a more enjoyable learning experience. How about sketching out a few ideas for how you might do that in your next assignment?
+
+User: Yes, I think I could try writing a narrative from a historical figure's perspective. That could be really fun!
+
+Consultant: That sounds like a fantastic project! It will not only make the assignment more interesting for you but may also help you engage deeper with the material. As we conclude our session, can you summarize some of the key takeaways you’d like to focus on moving forward?
+
+User: I want to remind myself of my positive experiences, participate regularly in class, and explore storytelling in my assignments.
+
+Consultant: Those are excellent goals! You’ve made significant progress, and I’m proud of you for being proactive about your learning. Remember, you can always revisit this progress to motivate yourself. If you ever feel overwhelmed, don’t hesitate to reach out again. 
+
+User: Thank you! I appreciate your help, and I feel more confident about moving forward now. 
+
+Consultant: You’re very welcome! It’s been a pleasure working with you. Keep nurturing that positive attitude, and I look forward to hearing about your continued success next time.
+###################
+Consultant: Hello! I'm so glad you're here today. To start off, how have you been feeling with your studies and the progress you’ve made recently?
+
+User: Hi! I've actually been feeling pretty good about my history class. My grades have improved a lot since using the recommended resources. I feel proud of how I performed in the debate too.
+
+Consultant: That's wonderful to hear! It sounds like you’re really recognizing your achievements, which is so important. What do you think contributed the most to your improvement in history?
+
+User: I think the resources and support from my teachers made a big difference. It felt great to finally understand the material better.
+
+Consultant: It’s great that you’ve been able to tap into those resources effectively. How does that newfound understanding shape your confidence in your studies?
+
+User: It boosts my confidence a lot. I feel like I can actually keep up with the material, but sometimes I worry if I can maintain it.
+
+Consultant: It’s completely normal to have those worries, especially after seeing such positive changes. Let’s focus on maintaining that confidence. What would you say helps you keep up that momentum?
+
+User: I guess having a study plan really helps. When I follow it, I feel more organized and less overwhelmed.
+
+Consultant: Excellent! A study plan can provide structure, which often reduces stress. As you think about your interests, are there any other areas you would like to explore beyond history?
+
+User: I’m not sure. I did well in my history class, but I haven’t really thought about other subjects that could be interesting.
+
+Consultant: That’s understandable. Exploring different subjects can sometimes reveal hidden interests. Would you be open to trying out some new activities or subjects that may connect to your strengths in history?
+
+User: Yeah, I’m willing to try. I think it could be fun.
+
+Consultant: That’s a great attitude! Trying new things can indeed be fun and rewarding. What’s one subject or activity that you've been curious about but haven’t explored yet?
+
+User: I’ve always been interested in literature, but I haven’t taken a class in it yet.
+
+Consultant: Literature can be a wonderful way to enhance your understanding of history, too. It can provide deeper insights into the context of historical events. How do you feel about considering a literature class this coming semester?
+
+User: That sounds interesting! I think connecting those two could really spark my interest even more.
+
+Consultant: Absolutely! Connecting your interests can lead to a more fulfilling learning experience. What steps do you think you could take to explore literature more seriously?
+
+User: Maybe I could read a book or two on my own to see if I like it. I could ask my teachers for recommendations.
+
+Consultant: That sounds like a fantastic strategy! Reading on your own can give you a sense of what you enjoy. If you find some books that resonate with you, would you feel inspired to pursue it further?
+
+User: Yes, I think if I find a book I really like, I’d be more motivated to take a class.
+
+Consultant: Perfect! Motivation often starts with that initial spark of interest. When you think about your progress in history and a potential interest in literature, how do you feel about the future of your academic journey?
+
+User: I feel hopeful! It’s nice to think I could enjoy other subjects too, and not just history. I want to keep this momentum going.
+
+Consultant: That’s a wonderful outlook! It’s about building confidence and exploring new areas. Let’s reflect on your progress: what do you feel has been your greatest achievement in this journey so far?
+
+User: I think overcoming my disinterest in history and actually enjoying studying it has been my greatest achievement. 
+
+Consultant: That’s a tremendous achievement! Acknowledging that shift in your mindset is key. How can you maintain this positive change moving forward?
+
+User: I suppose staying organized and keeping an open mind towards other subjects will help. Maybe I’ll set goals for myself in literature too.
+
+Consultant: Setting goals is a great approach! As you think about these goals, what would a successful experience in literature look like for you?
+
+User: I guess it would be about understanding the books I read and maybe discussing them with others. It would feel awesome to connect with something new.
+
+Consultant: That sounds like a fulfilling goal! Connecting with others through literature can enhance your experience even further. Imagine if you found a literature group to discuss your readings—how does that idea sit with you?
+
+User: That would be really exciting! I like the thought of sharing ideas and perspectives with others.
+
+Consultant: Sharing ideas often leads to deeper understanding and enjoyment. As we wrap up our session, how do you feel about the progress you've made today and the potential paths you’re considering?
+
+User: I feel optimistic! Today’s session reminded me that I can keep exploring and growing. I’m excited to dive into literature and see where it leads me.
+
+Consultant: I'm glad to hear that! You've made some fantastic connections today. Remember to celebrate your achievements and remain open to new experiences. I'm here if you need support in the future. Best of luck on your journey!
+
+User: Thank you! I appreciate your support and guidance. I'll definitely keep exploring!
+###################
+Consultant: Hello! I'm really glad to see you again today. How have you been feeling since our last session?
+
+User: Hi! I've been feeling quite good, actually. After participating in the Model UN event, I realized I really enjoy taking on challenges and engaging in academic activities.
+
+Consultant: That's wonderful to hear! It sounds like the experience had a positive impact on you. What key feelings or thoughts did participating in the Model UN evoke for you?
+
+User: I felt proud and confident. It was great to receive recognition from my teachers and peers. I think I can handle more challenging tasks now.
+
+Consultant: That's a significant insight! Confidence is so important, especially in your studies. How do you think you can build on this confidence in your future academic work?
+
+User: I believe I can take on more responsibilities, maybe join other clubs or participate in competitions. It might help me stay engaged and motivated.
+
+Consultant: That sounds like an excellent plan! Engaging with different activities can certainly enrich your learning experience. Have you thought about specific clubs or activities that interest you?
+
+User: Yes, I'm considering joining the debate club or the science club. I think I could learn a lot from those experiences.
+
+Consultant: Both are great choices! They can help enhance your critical thinking skills and open up new areas for you to explore. How do you feel about balancing these activities with your current studies?
+
+User: I feel a bit nervous about managing my time, but I'm excited to try. I think having a structure might help me stay on track.
+
+Consultant: It's completely natural to feel a bit anxious about time management, especially with new commitments. We can develop a time management strategy to help ease that concern. How does that sound?
+
+User: That sounds good! I want some structure to make sure I can handle everything.
+
+Consultant: Great! Let's think about what your typical week looks like now. What are some of your current commitments that we need to factor in?
+
+User: I have classes, some homework, and I also spend time with friends. I want to make sure I don’t lose that balance.
+
+Consultant: Maintaining balance is crucial for your well-being. Let's outline your commitments and see how we can create a schedule that allows time for both study and leisure. Would you like to start with your class schedule?
+
+User: Sure! I have classes every morning and some in the afternoon, plus a few study periods scattered throughout the week.
+
+Consultant: Excellent. How about we first block out those class times, and then we can see when you have free periods for studying and potential activities?
+
+User: That sounds like a good idea. I can also list my homework assignments to see how much time they'll take.
+
+Consultant: Perfect! Listing your homework will give us a clearer picture of how much time you can allocate to other activities. Once we have that, we can prioritize your commitments together.
+
+User: I already feel more organized thinking about it this way. I definitely want to find time for the debate club if I join.
+
+Consultant: I'm glad to hear that! It's all about creating a plan that feels manageable. Once you have your school and homework time laid out, we can work in some time for the debate club. 
+
+User: Yes, I’ll do that. I’ve also been thinking about setting aside time for self-care, like reading or just relaxing.
+
+Consultant: That's an excellent addition! Self-care is key to maintaining your energy and focus. How much time do you think you’d want to dedicate to self-care each week?
+
+User: Maybe a couple of hours on weekends? I really enjoy reading, and it helps me unwind.
+
+Consultant: That sounds wonderful! Setting aside dedicated time for reading can be a wonderful way to recharge. Now that we have a rough idea of your schedule, how do you feel about your upcoming activities and studies?
+
+User: I feel more positive about it. I like having a plan to follow. It makes everything seem less overwhelming.
+
+Consultant: That's the spirit! Having a plan can really ease feelings of being overwhelmed. As you follow through, make sure to adjust the plan if needed. Flexibility is important too. 
+
+User: I agree. I’ll make adjustments if I notice things are not working out as I hoped.
+
+Consultant: Absolutely, and I'm here to support you throughout this process. Before we wrap up, let's summarize your main commitments and goals. 
+
+User: Okay! I’m going to focus on my classes, manage my homework, and look into joining either the debate club or science club, while also prioritizing self-care.
+
+Consultant: That’s a fantastic summary! You've accomplished a lot, and I'm proud of you for taking these steps. How do you feel about your progress today?
+
+User: I feel really accomplished! It's nice to have a clear path forward.
+
+Consultant: I'm thrilled to hear that! You've made great progress, and I believe you have the skills to continue thriving. Remember, I'm just a session away if you need any support in the future.
+
+User: Thank you! I appreciate your help. I feel ready to tackle my studies and new activities!
+
+Consultant: You're very welcome! I'm glad to be part of your journey. This is our last session for now, and I wish you all the best. Remember, you have the tools to succeed, so trust yourself. 
+
+User: Thanks! I’ll keep that in mind and hope to keep making progress.
+
+Consultant: Take care, and don’t hesitate to reach out if you need assistance in the future. Goodbye for now!
+
+User: Goodbye!
+###################

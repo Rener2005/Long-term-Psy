@@ -3,6 +3,7 @@ import os
 import RespondSolver as rs
 from openai import OpenAI
 import json
+import GenMemories
 
 client = OpenAI(
     api_key="sk-3D1QcNEVz3EwxCmZyRUABm3VvmK4bxnVTNq3sst09Of8KPxZ",
@@ -22,7 +23,7 @@ def create_prompt(path):
 
 def gen_dialogue(client, prompt):
     response = client.chat.completions.create(
-        model="gpt-4o",
+        model="gpt-4o-mini",
         messages=[
             {"role": "user", "content":prompt}
         ],
@@ -30,13 +31,17 @@ def gen_dialogue(client, prompt):
     )
     return response.choices[0].message.content.strip()
 
-for index in range(2, 3):
+txt_path = os.path.join(project_directory, 'data/dialogues')
+for index in range(1400, 1500):
     
     long_str = ""
+    diaName = f'dialogue_{index}.txt'
+    myDiaPath = os.path.join(txt_path, diaName)
     fileName = f"consultations_{index}.json"
     filePath = os.path.join(cards_path, fileName)
-    with open(filePath, 'r', encoding='utf-8') as file:
-        all_Data = json.load(file)
+    try:
+        with open(filePath, 'r', encoding='utf-8') as file:
+            all_Data = json.load(file)
         sessions = all_Data["consultations"]
         roll = len(sessions)
         for i, consultation in enumerate(sessions):
@@ -61,13 +66,24 @@ for index in range(2, 3):
             promptTemplate = promptTemplate.replace("@用户背景", s3)
 
             #@咨询计划
-            s4 = f"咨询目标:{strategy['plan']}\n近期事件:{strategy['goal']}"
+            s4 = f"咨询计划:{strategy['plan']}\n咨询目标:{strategy['goal']}"
 
             promptTemplate = promptTemplate.replace("@咨询计划", s4)
-
+            #@对话历史
+            s5 = long_str
+            #promptTemplate = promptTemplate.replace("@对话历史", s5)
+            #print(promptTemplate)
             long_str += gen_dialogue(client=client, prompt=promptTemplate)
             long_str += "\n###################\n"
-            print("\n################\n")
 
-    with open("./out.txt", 'w', encoding='utf-8') as file:
+            
+        print(f"合成进度:{index}")
+        with open(myDiaPath, 'w', encoding='utf-8') as file:
             file.write(long_str)
+
+    except FileNotFoundError:
+        print(f"文件 {filePath} 未找到，跳过该轮循环。")
+        continue  
+            
+
+    

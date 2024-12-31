@@ -1,0 +1,362 @@
+Consultant: Hello, Xiao Q! I'm glad to see you today. I understand this is our first session together. How have you been feeling since our last conversation?
+
+User: Hi. Honestly, I've been pretty anxious. With school starting and my friends studying so late, I feel like I'm not doing enough. My sleepless nights are getting worse, which just adds to my frustration.
+
+Consultant: I see. It sounds like you're feeling a lot of pressure to keep up with your friends, and that's affecting your sleep and overall mood. Can you tell me more about what specifically worries you when you compare yourself to them?
+
+User: Well, it just feels like they're working so hard, and I'm not doing enough. I think about how if I don't study as much, I might fall behind, and that thought just keeps me awake at night.
+
+Consultant: That sounds really tough. You're feeling that pressure to perform and it's leading to a cycle of anxiety and sleeplessness. It’s understandable to worry about keeping up, but we should also explore what those thoughts are doing to you emotionally. What thoughts go through your mind when you're lying in bed unable to sleep?
+
+User: I keep thinking things like, "What if I fail? What if I'm not good enough?" It spirals into a big mess of self-doubt.
+
+Consultant: Those thoughts seem quite heavy and it's no wonder they are affecting your sleep. Let's break this down a bit. When you think "What if I fail?" what feeling arises for you?
+
+User: It makes me feel really scared and hopeless. Like no matter how much I study, it won't be enough.
+
+Consultant: That fear of failure can be overwhelming. It's important to acknowledge those feelings. Now, can you recall a time when those thoughts were challenged, perhaps a time when you felt successful despite doubts?
+
+User: I remember a time last year when I was worried about a big exam. I studied hard, and even though I was anxious, I ended up doing well. But it feels different now; the stakes seem higher.
+
+Consultant: That’s a great example of overcoming that anxiety. It seems that while the pressure is higher now, the feelings of self-doubt might be clouding your ability to see your prior successes. What evidence do you have that suggests you might fail this time?
+
+User: I guess I don't have any hard evidence... I just assume that if I don't keep up with my friends, I will fall behind.
+
+Consultant: It sounds like you're making assumptions based on fear rather than facts. Let's try to reframe that thought. How might a friend in your situation view their own progress? What would you suggest to them if they were doubting themselves?
+
+User: I would probably tell them that everyone has their own pace and that they should focus on their own progress, not just compare themselves to others.
+
+Consultant: That’s a wise perspective! Why not apply that advice to yourself? You’ve acknowledged that each person has their own pace. How could you incorporate that belief into your daily routine to help ease your worries?
+
+User: I suppose I could focus on my own study plan rather than worrying about what others are doing. Maybe I could set my own goals.
+
+Consultant: Setting your own goals sounds like an excellent idea. It's about creating a path that feels right for you. What specific goal would you like to set for your studying this week?
+
+User: I want to study at least an hour every day, focusing on understanding the material instead of just memorizing it.
+
+Consultant: That sounds like a constructive and achievable goal! And remember to give yourself some grace. If you find you don’t meet that goal one day, that's okay. What might you say to yourself in that situation?
+
+User: I guess I could remind myself that I’m doing my best and that it’s okay to have off days.
+
+Consultant: Absolutely! Acknowledging your efforts is key. Let's also explore how you can create a better bedtime routine to tackle your sleep issues. What have you tried so far to help with your sleep?
+
+User: I've tried going to bed earlier, but my mind is always racing.
+
+Consultant: It’s common for racing thoughts to interfere with sleep. Have you considered activities that may help calm your mind, such as reading, listening to calming music, or practicing relaxation techniques before bed?
+
+User: I haven’t really tried those. I usually just lie there hoping to fall asleep.
+
+Consultant: That’s understandable. We can create a calming pre-sleep routine that includes some relaxation techniques. How does the idea of winding down with a book or some music sound to you?
+
+User: That could be nice! I think having something to help me relax would be a good change.
+
+Consultant: Great! It’s about creating a safe space for your mind to ease into rest. Lastly, as our session is coming to a close, let's reflect on your thoughts about today. What are some key takeaways for you?
+
+User: I think I realized that my self-doubt is tied to my comparison with others, and that I have my own pace. Plus, I need to work on managing my nighttime routine better.
+
+Consultant: Those are valuable insights, Xiao Q! Recognizing the link between doubt and comparison is a significant step. Remember, it’s okay to take things one step at a time. How do you feel about our discussion today?
+
+User: I feel a bit lighter, actually. It helps to talk about these things.
+
+Consultant: I’m glad to hear that! Remember, you’re not alone in this journey. If you have more to explore or need support, I’m here for you. Until next time, take care!
+
+User: Thank you! I appreciate it. See you next time!
+###################
+Consultant: Hello, Q! I'm glad you're here today. How have you been feeling since our last session?
+
+User: Hi. I feel even more anxious, to be honest. With mock exams approaching, it feels like everyone is studying really hard, and I'm not sure if I'm doing enough. I’m also having trouble sleeping.
+
+Consultant: It sounds like the pressure from your peers is weighing on you, adding to your anxiety and affecting your sleep. Let’s talk about your feelings a bit more—what specifically makes you feel like you’re not doing enough compared to your classmates?
+
+User: I see my friends studying late at night and working really hard, and I worry that if I don’t keep up, I’ll fall behind. It just makes me feel inadequate.
+
+Consultant: I understand. It’s tough when you’re surrounded by what seems like high levels of effort from others. You mentioned feeling inadequate; could you share what thoughts cross your mind during these moments?
+
+User: I keep thinking, “What if they are all going to do better than me?” Sometimes I even feel like I’m not cut out for this.
+
+Consultant: Those thoughts can be quite distressing. Let’s explore this a bit deeper—how much evidence do you have that suggests your friends will perform better than you? Is there a chance that these thoughts might be exaggerated?
+
+User: I guess I don’t really have any solid evidence. It’s more of a feeling. But seeing them study makes me feel like I should be doing more.
+
+Consultant: It’s important to recognize that those feelings can distort your perception. What if we tried to reframe that thought? If a friend came to you with similar concerns about their efforts, what advice would you give them?
+
+User: I would probably tell them that they are doing great and to focus on their own pace and not compare themselves to others.
+
+Consultant: Exactly! If you can offer that reassurance to a friend, perhaps you can also offer it to yourself. What would change for you if you approached your studies from your own pace rather than comparing yourself to others?
+
+User: I would probably feel more at ease and more focused on my study plan. 
+
+Consultant: That sounds promising, Q. Let’s think of some practical steps you can take to create a study plan that works for you without the pressure of comparison. How do you feel about setting specific, manageable goals for your study sessions?
+
+User: That sounds good. I think having clear goals would help me stay focused.
+
+Consultant: Great! Let’s start by identifying what you want to achieve in your study sessions. How about we set a few goals together? What subjects or areas would you like to focus on?
+
+User: I want to focus on math and physics, as I feel those are where I struggle the most. 
+
+Consultant: Excellent choice. Setting specific goals for both subjects could help. How about aiming for a certain number of problems or concepts to work through each day? What feels achievable for you?
+
+User: Maybe 20 math problems and reviewing a couple of physics concepts each day could work for me.
+
+Consultant: That sounds very manageable! And remember to allow yourself breaks. It’s just as important to rest and recharge. How about we discuss some strategies that might help you maintain a good balance between study and rest?
+
+User: I guess I could try to schedule short breaks during my study sessions, maybe every hour.
+
+Consultant: That’s a fantastic approach! Breaks can help you stay refreshed. Now, what will you do during those breaks to recharge?
+
+User: I think I could go for a quick walk or listen to some music. That usually helps me relax.
+
+Consultant: Those sound like wonderful ideas! It's key to engage in activities that help clear your mind. As we move forward, how do you feel about the connection we’ve made between your study approach and your feelings of inadequacy?
+
+User: I feel like I’ve got a better understanding now. It makes sense that I need to focus more on my own progress instead of comparing myself to others.
+
+Consultant: I’m glad to hear that! It’s important to recognize your own efforts and progress. As we discuss strategies to cope with anxiety, how can you remind yourself of your achievements regularly?
+
+User: Maybe I could keep a journal and write down what I accomplish each day, no matter how small.
+
+Consultant: That’s a wonderful idea! Journaling can serve as a great reminder of your progress. When creating that space, how do you think it might influence your feelings about your own abilities and sleep?
+
+User: I think it could really boost my confidence and help me see that I am making progress, which might also help me sleep better at night.
+
+Consultant: Yes! Recognizing your daily efforts and achievements can indeed foster self-confidence. Before we wrap up today’s session, what is one key takeaway you’ll carry with you as you prepare for your studies and cope with anxiety?
+
+User: I’ll remember to focus on my own study pace, set achievable goals, and give myself credit for what I accomplish. 
+
+Consultant: That’s a fantastic takeaway! Just be kind to yourself, and remember, it’s okay to seek balance as you work towards your goals. If you ever feel overwhelmed, you can come back to these strategies we discussed today. I’m here for you. 
+
+User: Thank you so much! I feel a bit relieved after our conversation.
+
+Consultant: You’re very welcome, Q! I’m glad to hear that. I look forward to hearing about your progress in our next session. Take care!
+###################
+Consultant: Hello, Xiao Q! I'm really glad you're here for our session today. How have you been feeling lately with all the pressures from school?
+
+User: Hi! I've been feeling pretty overwhelmed. With the adjustment to this year's courses, I feel like I'm hitting a wall in some subjects. It's making me question my abilities and it's been hard to sleep well.
+
+Consultant: I understand. It sounds like you're experiencing a lot of stress and self-doubt regarding your academic performance. Let's talk more about this wall you're hitting. What specific challenges are you facing in your studies?
+
+User: Well, in subjects like math and physics, despite working hard, my grades just aren’t improving. I keep thinking that maybe I'm not as smart as I thought I was, which feels really discouraging. 
+
+Consultant: It's completely normal to have these feelings, especially when facing challenges. Let's dive deeper—when you think about not being as smart, what specific thoughts come to your mind? How does that make you feel?
+
+User: I start feeling anxious and frustrated. I think about how others are doing better than I am and it just makes me doubt myself even more. 
+
+Consultant: That sounds really tough, and I appreciate you sharing your feelings. It seems like you're comparing yourself to others, which can lead to negative thoughts. Can you recall any specific instance where this comparison impacted your mood or motivation?
+
+User: Yeah, just last week in group study, I noticed how quickly my classmates understood the material. I felt lost and started to think I must be falling behind, which made me want to avoid participating.
+
+Consultant: It’s understandable to feel that way in those situations. It seems like this experience reinforced your doubts about your abilities. Let’s challenge that thought together—what evidence do you have that you are falling behind compared to your classmates?
+
+User: I guess my grades aren’t where I want them to be, but I've always been able to study hard and catch up eventually. It's just frustrating now.
+
+Consultant: It sounds like you’ve been resilient in the past. Perhaps there’s a different way to view your current situation. If a friend of yours was feeling the same way, how would you encourage them to see things differently?
+
+User: I would probably tell them that they’ve always overcome challenges and that it’s okay to ask for help and take breaks. 
+
+Consultant: That’s a great perspective! You’re right; reaching out for help and allowing yourself to take breaks is important. Let’s think about how you can apply that to your own situation. What small steps could you take to address the studying issues you’re facing?
+
+User: Maybe I could ask my teachers for some extra help or even form a study group to work through the material with my friends. 
+
+Consultant: Those sound like fantastic strategies! Collaborating with others can often make learning easier. Also, how are you managing your time with all the studying and activities you’re involved in? 
+
+User: Well, I’ve been really busy with classwork and my role in the student committee. Sometimes I feel like I’m just juggling everything without a clear plan.
+
+Consultant: It makes sense that you’d feel overwhelmed with so many responsibilities. What do you think about trying to create a more structured study schedule? It could help you balance your academic work and other activities more effectively.
+
+User: That could work! I think having a clearer plan might help me feel less scattered and more focused on what needs to be done.
+
+Consultant: Absolutely! A structured schedule could really reduce your stress. Also, you mentioned earlier that sleep has been a problem for you. What do you think is affecting your sleep quality right now?
+
+User: I think my mind won't shut off because I'm worried about my studies. I keep replaying the day and worrying about what I could have done better.
+
+Consultant: That sounds exhausting. Let's explore some techniques to help improve your sleep. Have you tried any relaxation exercises or bedtime routines that might ease your mind before bed?
+
+User: Not really. I usually just try to go to bed early, but I end up lying there thinking.
+
+Consultant: Creating a calming bedtime routine could help signal to your brain that it’s time to wind down. Would you be open to trying things like reading a book or practicing deep breathing before sleep? 
+
+User: Yeah, that sounds good. I think I could try some breathing exercises to relax before bed.
+
+Consultant: That’s a great start! Let’s set a goal to try that this week. Also, we could check in on both your academic challenges and your sleep at our next session. How does that sound?
+
+User: That sounds good. I feel a bit more hopeful thinking about trying these changes.
+
+Consultant: I'm glad to hear that, Xiao Q! Remember, it’s about progress, not perfection. We'll work through this together. For now, let’s summarize what we talked about today and set some goals for next time.
+
+User: Okay! I want to try asking for help, setting a study schedule, and practicing relaxation techniques before sleep.
+
+Consultant: Those are all excellent goals! You're taking proactive steps to manage your stress and improve your situation. I'm looking forward to hearing about your experiences next time. Remember, you’re not alone in this. If you ever need support, don’t hesitate to reach out.
+
+User: Thank you so much! I really appreciate your help.
+
+Consultant: You’re very welcome! Take care of yourself, and I’ll see you next time.
+###################
+Consultant: Hi there, welcome to today’s session. I'm glad to see you. Can we start by discussing how you've been feeling lately, especially with balancing your studies and extracurricular activities?
+
+User: Hi! Thanks. I've been feeling really overwhelmed. With all the responsibilities from organizing activities and keeping up with my classes, I often find it hard to manage my time. I just want to do well in everything, but it seems like I'm falling short.
+
+Consultant: I hear you, it sounds like you feel a lot of pressure to succeed in both your activities and studies. Can you tell me more about what specific thoughts come to mind when you feel you’re not managing well?
+
+User: Well, I often think that if I don’t perform perfectly, I’ll let everyone down. It feels like I have to be the best in everything, or else I'm failing.
+
+Consultant: That’s a heavy burden to carry. It sounds like the pressure to excel can sometimes feel overwhelming. When you have those thoughts, how does it affect your emotions or even your ability to sleep?
+
+User: I get super anxious, which makes it hard to focus on anything. And when I try to sleep, my mind just races with all the things I feel I need to do. Sometimes it feels like my head won’t shut off.
+
+Consultant: It sounds really challenging to have those racing thoughts, especially when you’re trying to rest. Let’s explore that further. When you find yourself unable to sleep, what kind of thoughts do you think are most prominent?
+
+User: I keep thinking about all the tasks I haven’t completed or what might happen if I don’t measure up. It just spirals out of control.
+
+Consultant: It seems like those thoughts create a cycle of anxiety that makes it difficult to manage your tasks and sleep. Would you be open to examining these thoughts more closely to see how accurate they really are?
+
+User: Sure, I’d like to understand it better, but I’m not sure how to start.
+
+Consultant: A good place to start is to question the evidence behind those thoughts. For instance, how likely is it that you would truly let everyone down if you didn’t achieve perfection in every aspect?
+
+User: I guess not very likely. People have told me I’m doing a great job, and I know they appreciate my efforts.
+
+Consultant: That's a very important realization! It seems that your perception of failing may not align with how others see your contributions. What would it look like if you allowed yourself to not be perfect all the time?
+
+User: It could mean I’m more at ease and maybe more focused too. I could actually enjoy the activities more than worrying about them.
+
+Consultant: Exactly! Encouraging that mindset could relieve a lot of stress. Let's consider some practical strategies to help you manage your time and responsibilities better. What do you think could help you prioritize tasks?
+
+User: I suppose making a list could help me see what’s really urgent versus what can wait. I haven't tried that yet.
+
+Consultant: That sounds like a great first step! By categorizing tasks, you can see where to focus your energy. Would you be comfortable trying that this week and checking in on how it feels?
+
+User: Yes, I’d like to try that. Hopefully, it will ease some of my pressure.
+
+Consultant: Great! Also, let's talk about your sleep. What relaxation techniques or routines have you tried to help you wind down at night?
+
+User: I haven’t really established any. I usually just lay there and hope to fall asleep eventually.
+
+Consultant: That’s understandable, but having a routine can be very helpful. We could explore some relaxation techniques like deep breathing or gentle stretches to integrate into your pre-sleep routine. How does that sound?
+
+User: That sounds good. I think I can manage that before bed.
+
+Consultant: Wonderful! Let’s plan to discuss how those techniques and the task categorization worked for you in our next session. Remember, it’s all about taking small steps toward improvement. 
+
+User: I appreciate that. I feel a bit more hopeful about managing everything now.
+
+Consultant: I'm glad to hear that! Before we wrap up, let's summarize what we've discussed today and what you’ll focus on until our next meeting.
+
+User: Sure! I will make a list of tasks and start a bedtime routine to help relax and sleep better. 
+
+Consultant: Perfect! It sounds like you’re making an actionable plan. Remember, it’s okay to ask for help or adjust your expectations as you go along. 
+
+User: Absolutely, thank you for reminding me. It's reassuring to know I can handle this.
+
+Consultant: You’re doing really well, and I'm looking forward to hearing about your progress. Just remember to be kind to yourself along this journey. 
+
+User: Thank you! I will keep that in mind.
+
+Consultant: Alright, let’s aim to meet again next week. Take care of yourself, and see you then!
+
+User: See you next week!
+###################
+Consultant: Hello, Xiao Q! I'm glad to see you today. How have you been feeling lately, especially after our last session?
+
+User: Hi! I've been feeling pretty good, actually. My confidence in my studies has really improved, and I’m managing my tasks better. But I still worry about maintaining my progress and balancing everything.
+
+Consultant: That’s great to hear that your confidence has gone up! It sounds like you’re making strides in managing your studies. What specific areas are you most concerned about in maintaining this progress?
+
+User: I guess I'm worried about my sleep quality and whether I can keep up with my schoolwork and still have a social life. Sometimes I feel like it’s all a bit overwhelming.
+
+Consultant: It’s completely natural to feel overwhelmed when you're trying to balance so much. Let’s explore your sleep quality first. How has your sleep been since we last talked about it?
+
+User: I have been sleeping better than before, but I still find it hard to unwind some nights, especially after studying for a long time.
+
+Consultant: It sounds like you're on the right path, but we might need some strategies to help you relax more effectively. Can you tell me about your current bedtime routine?
+
+User: Well, I usually study until late, and then I try to read a bit before going to sleep. Sometimes I feel too wired from studying, though.
+
+Consultant: That's a common experience. It might be helpful to create a more structured winding down period. What activities do you enjoy that could help you relax before bed?
+
+User: I like listening to music and maybe some light reading, but I often skip them because I feel I should be studying more.
+
+Consultant: Balancing study and relaxation is important for your overall well-being. How would you feel about setting a specific time for those relaxing activities? 
+
+User: That sounds good, but I’m worried about falling behind on my studies.
+
+Consultant: I understand that concern. Would you be willing to test a smaller amount of time for relaxation first and see how it impacts both your sleep and study? 
+
+User: Yeah, I could try that. Maybe I could set aside 15 to 20 minutes for music after I study.
+
+Consultant: That sounds like a great plan! Keeping it short can help you unwind without feeling like you're sacrificing study time. How do you think you might feel after integrating that into your routine?
+
+User: I think it might help me feel less stressed and more balanced. 
+
+Consultant: That's a positive mindset! Let’s also think about your social life. How have you been balancing studies with your social activities lately?
+
+User: I’ve been hanging out with friends more, which is nice, but sometimes I get anxious about missing out on study time.
+
+Consultant: It’s wonderful that you’re spending time with friends. Social support is vital! What if you established a schedule that includes both study and social time? How would that work for you?
+
+User: I suppose I could plan social activities on weekends, so I know I have time to study during the week.
+
+Consultant: That sounds like a very reasonable approach! Planning ahead can reduce that anxiety. Have you thought about how you’ll prioritize your tasks to fit everything in?
+
+User: I usually make a to-do list, but sometimes it feels like there’s too much on it.
+
+Consultant: To-do lists can be helpful, but it might be beneficial to prioritize tasks. Perhaps you could identify the top three things you want to accomplish each day. How would that feel?
+
+User: That seems manageable. I like the idea of focusing on just a few important things each day.
+
+Consultant: Excellent! It allows you to focus your energy effectively. Remember to give yourself grace if things don't go exactly as planned. How does that resonate with you?
+
+User: I think that's a good reminder. I can be really hard on myself sometimes.
+
+Consultant: Self-compassion is key to maintaining balance. When you notice those hard feelings, try to reframe them. What might you tell a friend in your situation?
+
+User: I’d probably tell them it’s okay to have off days, and that they don’t need to be perfect.
+
+Consultant: Exactly! Use that same kindness for yourself. As we wrap up today, how do you feel about your progress and the strategies we discussed for balancing your sleep, studies, and social life?
+
+User: I feel more confident. I think I have a clearer plan now, and I can definitely try to incorporate those relaxation techniques.
+
+Consultant: That's fantastic to hear! You're making great strides, Xiao Q. Review your plan and remember to adjust as needed. I believe in your ability to maintain this positive momentum. If you need support, you know I'm here for you.
+
+User: Thanks! I appreciate your help. I feel much more equipped now. 
+
+Consultant: You’re very welcome! I look forward to hearing all about your progress in our next session. Until then, take care and enjoy the balance you create!
+###################
+Consultant: Hello, Xiao Q! It's great to see you again. How have you been since our last session? 
+
+User: Hi! I've been feeling pretty good, actually. I've managed to find a better balance between my studies and personal life, and it feels nice. But I still have some concerns about the upcoming exam season.
+
+Consultant: That's wonderful to hear that you've found some balance! It's completely normal to feel some anxiety as exams approach. Can you share what specifically worries you about the upcoming exams?
+
+User: I guess I'm worried about not performing as well as I did in previous exams. I have this pressure to maintain my grades, and sometimes I feel like I'm going to let myself down if I don't meet those expectations.
+
+Consultant: It sounds like there's a lot of pressure you're feeling, both from yourself and perhaps from others as well. Let’s explore that a bit—what specifically do you think would happen if you didn't meet those expectations?
+
+User: I feel like I would disappoint my teachers and my parents, and that would really upset me. It’s like I’ve set a high standard for myself, and anything less feels like I’m failing.
+
+Consultant: It’s understandable to want to meet those standards—after all, you’ve worked hard to achieve them. However, it can be quite heavy to carry that pressure. Can you think of times when you didn't meet your own expectations? How did you handle those situations?
+
+User: I think back to last semester when I didn't get an A on one of my subjects. I was really upset at first, but then I realized that it wasn't the end of the world. My teachers helped me see where I could improve, and I ended up learning a lot more.
+
+Consultant: That's a valuable realization! It seems like even when things don't go perfectly, it can lead to growth and learning. How do you think you could apply that perspective to the upcoming exams?
+
+User: I guess I could remind myself that it's okay to make mistakes and that they can lead to improvement. I should focus on my effort rather than just the grades.
+
+Consultant: Absolutely! Shifting your focus from just the outcome to also valuing the effort you put in can be really empowering. What can you do to prepare yourself mentally in the lead-up to the exams?
+
+User: Maybe I could plan a study schedule and stick to it without stressing too much about the results. And I should also keep doing the activities that help me relax, like playing basketball.
+
+Consultant: That sounds like a great strategy! Balancing study time with activities you enjoy will help keep your stress levels down. How do you feel about making that your plan moving forward?
+
+User: I feel good about it! It gives me a sense of control over the situation rather than just worrying.
+
+Consultant: That’s an excellent mindset. As we wrap up today, let’s summarize your progress. You’ve found balance in your life, recognized that it’s okay to have setbacks, and created a plan to manage exam stress. How do you feel about this journey so far?
+
+User: I’m feeling proud of how far I’ve come. I know I still have challenges ahead, but I feel more prepared than before.
+
+Consultant: I'm really glad to hear that! Remember, it’s all about the journey and what you learn along the way. And if things ever feel overwhelming in the future, you know I’m here to help you. 
+
+User: Thank you! I appreciate your support. I’ll definitely reach out if I need to talk again.
+
+Consultant: You’re very welcome, Xiao Q! Take care of yourself, enjoy your studies, and keep up the great work. This will be our last session for now, but know that you’ve built some strong skills to handle what’s ahead. Good luck, and do come back if you need any guidance in the future!
+
+User: Thanks again! I will. Goodbye!
+###################

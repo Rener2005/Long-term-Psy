@@ -1,0 +1,406 @@
+Consultant: Hello, Liang. I'm glad to see you here today. I'd like to start by understanding how you've been feeling lately. What's been on your mind?
+
+User: Hi. I’ve been feeling really down and anxious. I just can't shake this feeling of loneliness and frustration. School is tough, and I don’t seem to connect with my classmates. 
+
+Consultant: It sounds like you’re feeling quite overwhelmed and isolated. Can you tell me more about what specifically has been bothering you at school and how it's affecting you?
+
+User: Well, my exam results have been disappointing. I expected better, especially since I put in a lot of effort. Now, I'm worried about my future and whether I can get into a good university.
+
+Consultant: That’s understandable—exam results can be a significant source of stress. It seems like you're putting a lot of pressure on yourself to succeed. How does that pressure make you feel on a daily basis?
+
+User: I feel anxious most of the time. I get easily distracted while studying and can't focus at all. It's frustrating because I want to do well, but it feels impossible.
+
+Consultant: That must be really tough for you, especially since you care about your studies. Let's explore that feeling of anxiety—you mentioned feeling easily distracted. What thoughts run through your mind when you try to study?
+
+User: I keep thinking that I’m not good enough, and that everyone else is doing better than me. Sometimes I think about how disappointing it would be if I don't get into a good university. 
+
+Consultant: It sounds like you're dealing with some very intense negative thoughts. When you think about not being good enough or disappointing others, how does that impact your emotions in those moments?
+
+User: It makes me more anxious and sad. I just feel really hopeless and start to withdraw from trying, thinking, "What's the point?"
+
+Consultant: I hear you. It seems like those thoughts are creating a cycle of hopelessness for you. If we look at them more closely, do you think they might be overly critical or perhaps not fully accurate?
+
+User: I guess so. I just feel that way when I compare myself to others. Maybe I shouldn't be so hard on myself, but it’s hard to change that mindset.
+
+Consultant: It’s totally understandable to struggle with that. If a friend were experiencing similar thoughts, how do you think you would advise them to approach it?
+
+User: I think I would tell them not to compare themselves to others and to focus on their own progress. 
+
+Consultant: That’s a great insight! You already have some compassionate advice for others. Let’s try to apply that to yourself. What might it look like for you to focus on your own progress instead of comparing with your classmates?
+
+User: I guess I can set smaller goals for my study sessions and celebrate when I meet them, rather than just focusing on the grades.
+
+Consultant: That sounds like a positive plan! Setting smaller, achievable goals can really help reduce anxiety. What would be your first small goal moving forward?
+
+User: Maybe I could aim to study for just 30 minutes without getting distracted and then take a short break.
+
+Consultant: That’s a fantastic start, Liang! Breaking it down like that can help you feel more accomplished and less overwhelmed. How do you feel about trying this approach?
+
+User: I feel a bit hopeful. It sounds manageable, at least!
+
+Consultant: That’s great to hear! Hope is a powerful step forward. Alongside this, how do you think you might start to gradually engage with your classmates more?
+
+User: I'm not sure. I find it hard to initiate conversations, but maybe I could try to join a study group or ask someone about homework next time.
+
+Consultant: Joining a study group sounds like a wonderful idea! It allows for interaction and can help build connections. What thoughts come up for you when you consider approaching a classmate?
+
+User: I feel nervous but also excited. It's just that fear of rejection that stops me most of the time.
+
+Consultant: It’s perfectly normal to feel nervous about reaching out. Could we work together to challenge that fear? What evidence do you have that a classmate might reject you?
+
+User: I don’t have solid evidence, actually. It’s just that I sometimes feel like they’re not interested in talking to me.
+
+Consultant: That’s an important realization! Often, our fears can create assumptions without basis. What if you approached a classmate and they responded positively instead?
+
+User: That would be nice! I guess I need to remember that not everyone is dismissive. 
+
+Consultant: Absolutely, and approaching someone with an open mind can lead to unexpected connections. Let’s review what we’ve discussed today. You’ve recognized some negative thought patterns, set manageable study goals, and are considering ways to engage with your classmates more. How do you feel about these strategies?
+
+User: I feel more prepared. It's reassuring to have a plan, and I think I can try to apply it.
+
+Consultant: I’m proud of you, Liang. Remember, these changes take time, and it's okay to take it one step at a time. What will you take away from today's conversation for your next steps?
+
+User: I will focus on my own progress, establish small study goals, and maybe reach out to a classmate.
+
+Consultant: Sounds like a solid plan! I believe you have the potential to manage this. As we wrap up, is there anything else you'd like to discuss or any other concerns on your mind?
+
+User: No, this was really helpful. I appreciate your support.
+
+Consultant: I’m glad to hear that! Remember, it’s okay to seek support and take proactive steps towards change. If you ever want to talk again or need further guidance, I’m here for you. Good luck with your goals, Liang!
+
+User: Thank you! I will definitely keep that in mind.
+###################
+Consultant: Hello! I'm really glad you decided to come back for another session. I remember last time we discussed your feelings of loneliness and anxiety regarding your relationships with your classmates. How have you been feeling since then?
+
+User: Hi. I've been feeling pretty overwhelmed, to be honest. The situation with my classmates hasn’t improved, and I feel even more isolated now. I can't shake off this heavy feeling, like I’m failing everywhere, especially with my studies.
+
+Consultant: It sounds like you're experiencing a lot of pressure both academically and socially. That must feel quite heavy on you. Can you tell me more about what specifically has been bothering you with your classmates? 
+
+User: Well, I had this argument with one of my classmates recently. I felt really hurt, and it just seems like they don’t understand me. It makes me feel even more alone, and then I worry that I won’t be able to study effectively because I can’t focus.
+
+Consultant: I hear you. Conflicts with classmates can definitely add to your feelings of loneliness and distract you from studying. Let’s take a moment to explore the thoughts you had during that argument. What kind of thoughts were coming to your mind at that time?
+
+User: I just kept thinking that no one likes me, and that I’ll always be alone. I also felt like I was such a failure for not handling it better. 
+
+Consultant: Those feelings sound very heavy indeed. It seems like there’s a lot of self-criticism there. When you think “no one likes me” or “I’m a failure,” what emotions do you notice in your body?
+
+User: I feel really tight in my chest, and sometimes I get a lump in my throat like I want to cry. It’s frustrating because I really want to be better at socializing. 
+
+Consultant: That tightness and lump in your throat are important signals from your body, indicating how stressed you feel. Let's take a look at those thoughts you mentioned. Do you think it's possible that these beliefs might not capture the full reality of the situation?
+
+User: I guess so. But it feels so real to me, like a personal truth. 
+
+Consultant: It’s understandable to feel that way, especially when you’re experiencing emotional pain. But let's challenge those thoughts a bit. Can you think of any evidence that contradicts the idea that “no one likes you”? Have there been any moments, however small, where you felt connected to someone?
+
+User: Sometimes my classmates do joke around with me or include me in group projects. I guess that’s something, but I often feel like I'm just an outsider trying to fit in.
+
+Consultant: Those moments you mentioned are significant! It sounds like there are instances where your classmates do engage with you positively. Perhaps it could help to remind yourself of these positive interactions to balance those heavier thoughts. How would you feel about keeping track of those moments when they happen?
+
+User: I can try that. Writing them down might help me remember that not everything is bad. 
+
+Consultant: That sounds like a great idea! Documenting those positive interactions can be a powerful way to counteract the negativity. Alongside that, let’s explore some alternates thoughts you might use instead of “no one likes me.” What’s a more balanced thought that you could tell yourself when you start feeling lonely?
+
+User: Maybe something like, “Some people appreciate me and I’m working on connecting more with them"? 
+
+Consultant: That’s a very constructive thought! It recognizes your effort to connect and acknowledges some positive relationships. How do you think you could remind yourself of this thought when you’re feeling low?
+
+User: I could write it down and put it somewhere I’ll see it, like on my desk or my notebook. 
+
+Consultant: That’s a fantastic strategy! Having a visual reminder can help reinforce those healthier thoughts. Let's also consider some practical steps. Are there any social activities or interactions you could engage in to practice connecting with others in a less pressured environment?
+
+User: I could try joining a study group. I think that might help me feel less isolated while also helping with my studies. 
+
+Consultant: Joining a study group sounds like an excellent step! It not only allows you to meet people but also gives you a shared purpose, which might ease some of the pressure. How do you feel about taking that step?
+
+User: I’m nervous but also a bit excited. I hope it will help me feel less alone. 
+
+Consultant: It’s completely normal to feel nervous about new social situations. Remember that everyone else in the group is likely dealing with their own anxieties as well. Focusing on supporting each other academically can help ease your fears. 
+
+User: Right. I guess if we’re all working together, it might be easier to connect. 
+
+Consultant: Exactly! And as you engage in these new interactions, think about those positive thoughts we discussed. Remind yourself that you are worthy of connection. If things feel overwhelming, we can practice some coping strategies together. 
+
+User: That would be helpful, yeah. I want to be able to keep my emotions in check when I feel anxious.
+
+Consultant: Absolutely! We can definitely work on some skills to help you manage those feelings when they arise. As you approach this group study, let’s think about setting small, achievable goals. For instance, aiming to contribute at least once during your study session. 
+
+User: That sounds doable. I think if I can manage that, I’ll feel more confident next time.
+
+Consultant: That’s a perfect approach! Taking small steps will build your confidence over time. Let’s also reflect on how you want to feel after engaging with your classmates. What’s the ideal outcome for you?
+
+User: I hope to feel more accepted and maybe even make some friends. But honestly, it feels hard to believe that could happen. 
+
+Consultant: I understand that feeling. It can be difficult to envision positive outcomes when you’re in a tough spot. Remember, building connections takes time, and it’s okay to go at your own pace. With each effort, you're paving the way towards improved relationships. 
+
+User: You're right. I do want to try and put myself out there more. 
+
+Consultant: That's a wonderful mindset! Each step is part of your journey, and you’re already showing great determination. As we continue our sessions, we’ll keep focusing on strategies that empower you to engage in social situations while managing your academic pressure. 
+
+User: Thank you. I appreciate your support. I feel like I have a plan now.
+
+Consultant: You’re very welcome! It’s great to hear that you feel more equipped. Let's reconvene next time to discuss your progress and any new experiences. Don't hesitate to reach out in the meantime if you need support. 
+
+User: I will. Thank you for everything! 
+
+Consultant: I'm glad to be here for you. Take care, and I look forward to hearing about your experiences next session!
+###################
+Consultant: Hello, Liang! I’m glad you could make it to today’s session. How have you been feeling lately about your studies and everything else?
+
+User: Hi. Honestly, I've been feeling pretty low. I keep getting distracted when I try to study, and it makes me feel really frustrated. I’m worried about not meeting my expectations for school.
+
+Consultant: I completely understand. It sounds like you’re under a lot of pressure to succeed, especially with your goal being such a high one. Can you share a bit more about what’s been going through your mind when you get distracted during study time?
+
+User: I often think that I’m not working hard enough or that I’ll never be able to get into a top university. I just feel stuck and disappointed in myself.
+
+Consultant: It's tough to feel stuck and to have those expectations weighing heavily on you. Do you notice those thoughts affecting your mood in other ways, or is it mainly during study times?
+
+User: Mostly during study times, but it also makes me feel sad and anxious throughout the day. It's like a constant worry in my mind.
+
+Consultant: That feeling of constant worry can be overwhelming. Let’s explore that a bit—when you're at your desk and those distracting thoughts come in, what particular thoughts do you have?
+
+User: I keep thinking that everyone else is doing better than me, and I worry that I'm wasting my time, so I should be studying harder, but then I just can't focus at all.
+
+Consultant: It's understandable to feel that way, especially with the pressure of your goals. Let’s examine that thought that everyone else is doing better. How accurate do you think that belief is? Are there times when you do well or make progress?
+
+User: I guess there are times when I do understand things. It’s just that those moments feel rare compared to how much I struggle.
+
+Consultant: That’s a good observation. It's important to recognize those moments of success, even if they feel fleeting. How might you remind yourself of your achievements when you’re feeling overwhelmed?
+
+User: I haven’t thought about reminding myself of those good moments. That might help, I guess. 
+
+Consultant: Absolutely! Noticing your progress can serve as a positive anchor when you're feeling low. Let’s work on identifying specific moments you felt successful in your studies recently. Can you think of a time in the past week when you felt good about your learning?
+
+User: I did manage to finish a chapter last week, and I understood most of it.  
+
+Consultant: That’s a great example! Can you recall the feelings you had during and after completing that chapter?
+
+User: I felt accomplished and relieved that I actually managed to understand it.
+
+Consultant: Fantastic! Holding on to that sense of accomplishment can really help reduce those negative feelings of doubt. Now, let's look at your study habits. Have you considered developing a more structured study plan to make those study sessions feel more manageable?
+
+User: I’ve thought about it, but I don't really know how to create one that works for me.
+
+Consultant: No problem, Liang. We can work on that together. A structured plan often includes specific study times, tasks to complete, and breaks. What would feel manageable for you in terms of daily study time?
+
+User: Maybe two hours after school, but I often struggle to start.
+
+Consultant: Two hours seems like a fair starting point. To help you kick off those sessions, we might want to include a short activity to transition into studying—like a quick 5-minute review of what you need to cover. How does that sound?
+
+User: That might help. I often just sit down without preparing and then feel lost.
+
+Consultant: Preparation can definitely set the tone for an effective study session. Along with that, let's incorporate breaks where you can step away and relax your mind—perhaps a 10-minute break after each 25 minutes of study? 
+
+User: That sounds reasonable. I like the idea of having breaks, as it might make it easier to start.
+
+Consultant: Great! Setting up a study plan with short bursts of focused work followed by designated breaks could really enhance your concentration. How do you feel about putting this plan into action?
+
+User: I feel a bit hopeful. It feels more structured rather than chaotic.
+
+Consultant: That’s an excellent mindset to have! Remember, it’s about progress, not perfection. We can always evaluate how well this structure serves you in our next session. Before we wrap up, what are your thoughts on how you'd hold yourself accountable for this new routine?
+
+User: Maybe I could keep a journal to track my study sessions and how I felt after each one. 
+
+Consultant: A journal sounds like a productive idea! It’ll help you recognize those successes and adjust your plan as needed. How does it feel to have a plan in place and a way to measure your progress?
+
+User: It feels good, actually. I think tracking my progress can motivate me whenever I feel down.
+
+Consultant: Exactly! Keeping track of both your achievements and challenges will help you develop a growth mindset. As we begin to end this session, what do you think your biggest takeaway has been today?
+
+User: I think it's that I can focus on my successes and have a structured plan to help me manage my time better.
+
+Consultant: That’s a valuable insight, Liang! It's been wonderful collaborating with you today. What would you say your expectations are for our next session together?
+
+User: I hope to share how the new study plan went and hopefully feel more progress.
+
+Consultant: I look forward to hearing about your experiences! Remember, it’s about progress, and I believe you’re on the right path. If anything comes up before our next session, feel free to reach out. Take care!
+
+User: Thank you! I appreciate your help today.
+###################
+Consultant: Hello, Liang! I'm glad to see you here today. How are you feeling at the moment?
+
+User: Hi. I’m feeling a bit better compared to before, but I still have this underlying tension. I'm excited that I've had some progress in class discussions, but I get nervous thinking about social interactions.
+
+Consultant: It's great to hear that you're feeling a bit more stable and that you've made progress in your class discussions. That’s a positive step forward! Tell me more about what you've been feeling when you think about social interactions.
+
+User: I sometimes feel anxious and worry about saying the wrong thing or being judged. Even though I got some praise recently, I still doubt whether I can replicate that success in other social settings.
+
+Consultant: It’s completely normal to feel anxious about social situations, especially when you have high expectations for yourself. Let's explore that anxiety a bit. Can you tell me what specific thoughts come to your mind when you're facing a social situation?
+
+User: I often think that everyone is watching me and that they'll criticize me if I say something silly. It makes me want to withdraw from conversations.
+
+Consultant: It sounds like those thoughts create a lot of pressure for you, leading to a desire to avoid these interactions. Now, can we challenge those thoughts together? What evidence do you have that people are critically judging every word you say?
+
+User: I guess I don’t have solid evidence. It’s more of a fear in my head. I know my friends are supportive, but I still can’t shake off that feeling of being judged.
+
+Consultant: That's a crucial realization, Liang! A lot of times, our fears don't align with reality. If a friend were in your position, what would you tell them about their concerns?
+
+User: I would probably say that they shouldn't be too hard on themselves and that friends usually want to support each other.
+
+Consultant: Exactly! So, what if you treated yourself with that same kindness? Can you think of a social situation where you could test this and see how it feels to lower that pressure?
+
+User: I guess I could try joining a club or group activity at school. It feels scary, but maybe it would help.
+
+Consultant: That’s a fantastic idea! Participating in a group activity can help you practice those social skills in a supportive environment. How about we come up with a plan for you to approach this?
+
+User: I could start by attending a meeting first just to observe. If I feel comfortable, maybe I can introduce myself or share something small.
+
+Consultant: That sounds like a smart step! Observing first allows you to ease into it without overwhelming yourself. How do you think it will feel to share something, even if it’s small?
+
+User: I think it might make me feel more connected to others, even if I'm nervous at first. 
+
+Consultant: That’s a positive mindset! Remember, every small step counts. What could you say to yourself to remind you of this connection if you start feeling anxious during the meeting?
+
+User: I could say that it’s okay to be nervous and that others might feel the same way. We’re all just trying to connect.
+
+Consultant: That's a great affirmation! Acknowledging that it's a shared experience can lighten the pressure. How do you feel about trying this approach in your next group activity?
+
+User: I'm feeling more hopeful. I want to give it a try and see how it goes.
+
+Consultant: Wonderful! As you prepare for this, let’s also practice how you might introduce yourself or engage with others. What would you want to say to start a conversation?
+
+User: Maybe I could say something like, “Hi, I’m Liang. I’m interested in this group because… ” and then add why I joined.
+
+Consultant: That’s a solid introduction! You’re sharing a bit about yourself, which can help others relate to you. How do you feel about trying this out with a friend first?
+
+User: That might help to build my confidence. I could ask a friend to role-play with me.
+
+Consultant: Excellent strategy! Role-playing can really help prepare you. Let’s also think about how you’ll handle it if the conversation doesn’t go as planned. What’s a possible comforting thought?
+
+User: I guess I could think, “It’s just one conversation, and I can always try again next time.”
+
+Consultant: Perfect! Remember, it’s all part of the learning process. You’re developing your skills and taking meaningful steps. How are you feeling about our session today?
+
+User: I’m feeling much more positive and motivated. I appreciate our discussion; it has helped me see things differently.
+
+Consultant: I’m glad to hear that! As we wrap up, what achievements do you feel proud of today, and what will your next steps be moving forward?
+
+User: I’m proud that I’m recognizing my fears and planning to face them. My next step is to attend that club meeting and practice my introduction.
+
+Consultant: That’s a fantastic plan, Liang! I believe in your ability to grow and improve this skill. Remember to be kind to yourself throughout this process. If you need support, I’m here for you. 
+
+User: Thank you! I feel more equipped to handle this now. I look forward to sharing my experience next time!
+
+Consultant: Absolutely! I’m looking forward to hearing about your progress. Take care, Liang, and see you next time!
+###################
+Consultant: Hello, Liang! I'm really glad to see you today. It's great to hear that you’ve started showing interest in group activities. How have you been feeling about your participation lately?
+
+User: Hi! I actually feel quite excited about it. I was nervous at first, but I think I can enjoy organizing and being part of these activities. However, I still feel a bit anxious about my ability to do it well.
+
+Consultant: It's completely normal to feel a mix of excitement and anxiety when trying something new. It sounds like you’re really motivated to improve your involvement in these activities. What aspects of organizing do you find most challenging or anxiety-inducing?
+
+User: I guess I'm worried about how others will perceive me. What if they don't take me seriously or think I'm not good enough to lead? 
+
+Consultant: Those feelings of doubt are common, especially in new roles.  You mentioned wanting to be taken seriously—what would that look like for you? How would you feel if your peers viewed you as a capable leader?
+
+User: I think I'd feel more confident and valued. Right now, I feel like I don't quite fit in, even when I participate.
+
+Consultant: It’s understandable to feel that way, especially in a group setting. Let's explore this further—what specific situations or thoughts make you feel like you don't fit in or are not valued?
+
+User: When I speak up during discussions, I often feel like others aren't really listening or engaging with what I say. It makes me hesitant to share more.
+
+Consultant: That must feel frustrating. It's tough when we sense that our contributions aren’t appreciated. Can you recall any moments when someone did engage with what you shared, even if it was just a small acknowledgment?
+
+User: Actually, there was a moment when one of my classmates praised an idea I suggested for an activity. It made me feel really good, but it was short-lived, and I quickly returned to doubting myself.
+
+Consultant: Those positive moments are important to hold onto. You contributed something valuable, and it had an impact. When you find yourself doubting your capabilities, could you remind yourself of that encouraging feedback? 
+
+User: I guess I could try that. It just seems hard to remember in the moment.
+
+Consultant: It can definitely be challenging. Would it be helpful to create a small reminder note for yourself? You could write down that moment, along with other positive feedback you receive, to refer to when you’re feeling uncertain.
+
+User: That sounds like a good idea! I could keep it in my study area or even on my phone.
+
+Consultant: Exactly! Keeping it somewhere accessible can serve as a boost when you need it. As you prepare for your next organizing activity, what specific plans or steps do you want to implement to enhance your confidence and engagement?
+
+User: I think I'd like to set a clear agenda for the next meeting and maybe even assign roles to others. If I can structure it better, I might feel more in control.
+
+Consultant: That sounds like a solid plan! Structuring the meeting and distributing responsibilities could help you feel more organized. How do you think that might change the group dynamics?
+
+User: I hope it’ll encourage everyone to participate more actively. If they have roles, they might feel more invested in the activity. 
+
+Consultant: That's a great insight! When people have clear roles, it often fosters more involvement. What steps can you take to ensure everyone feels included and valued in their roles?
+
+User: I could make sure to check in with them individually about their ideas and reassure them that their contributions matter.
+
+Consultant: That’s a wonderful approach! Individual check-ins can build rapport and encourage open communication. As you think about implementing this, can you visualize how that might feel for you and the group?
+
+User: I can imagine it being more collaborative and supportive. It would make me feel more connected, too.
+
+Consultant: Absolutely! Feeling that connection can enhance your confidence as a leader. As you move forward, it will also be valuable to reflect on how these interactions go. Can you think of any ways to celebrate the group's successes during your activities?
+
+User: Maybe we could share highlights at the end of each meeting. It could be like a positive feedback session.
+
+Consultant: That sounds like an excellent idea! Highlighting successes can elevate the group's morale and your leadership experience. As we near the end of our session, how do you feel about the progress you’ve made in our discussions?
+
+User: I feel like I have a clearer idea of how to approach my role in the group and a plan to combat my self-doubt.
+
+Consultant: That’s great to hear! You’ve come up with practical strategies to enhance your confidence and improve group dynamics. Moving forward, how will you maintain this newfound confidence and the positive steps you've taken?
+
+User: I plan to keep using the reminder note and focus on the positives from each activity. And I'll try to engage with my peers more.
+
+Consultant: That sounds like a promising approach! Remember, change takes time and practice. Keep reflecting on your experiences, and be kind to yourself as you navigate this journey. It's been a pleasure to support you today, Liang. 
+
+User: Thank you! I appreciate all the support. I feel more optimistic about my participation now.
+
+Consultant: I'm really glad to hear that! You've done a wonderful job today. Remember, you’re capable of great things. If you ever feel overwhelmed again, don’t hesitate to reach out. Best of luck with your upcoming activities!
+
+User: Thanks! I will definitely keep that in mind. See you next time!
+###################
+Consultant: Hello, Liang! I'm really glad to see you again today. How have you been feeling since our last session?
+
+User: Hi! I've been feeling a bit better, actually. My relationship with my parents has improved, and I've been more open about sharing my experiences at school. But I still find myself struggling sometimes.
+
+Consultant: That's great to hear about your relationship with your parents! It sounds like the conversations have made a positive impact. Can you share a bit more about what struggles you're experiencing currently?
+
+User: Well, even though I feel more confident in talking to my parents, I still feel anxious when I think about my exams and my goals. I want to do well, but I'm still pretty easily distracted when I study.
+
+Consultant: I can see how that might be frustrating for you. Balancing confidence at home with anxiety about your goals can be challenging. What specific thoughts do you have when you find yourself feeling distracted while studying?
+
+User: I often think that I have to get everything perfect, or else I won't get into a top university. When I don’t meet that expectation, I feel really defeated.
+
+Consultant: It's understandable to feel that way, especially with such high expectations. It sounds like you might be putting a lot of pressure on yourself. What would happen if you didn’t achieve that perfect outcome? 
+
+User: I guess I feel like I would let myself and my family down. It’s hard to imagine disappointing them.
+
+Consultant: That’s a heavy burden to carry. It sounds like you're worried about your family's expectations as well as your own. Can we explore what evidence you have to support that belief, that not meeting those expectations means letting everyone down?
+
+User: I'm not sure. I just feel like they've always wanted me to excel, especially since I’m in a science class. They always talk about how important these exams are.
+
+Consultant: It can definitely feel overwhelming when those external expectations are high. But let’s think about this: how do you think your parents would react if you did your best, regardless of the exam results? 
+
+User: I think they would appreciate the effort, but I still worry it won’t be enough.
+
+Consultant: It's worth considering that they might prioritize your well-being and effort over perfection. How could shifting your focus from perfection to effort change your study approach or your feelings about studying?
+
+User: If I focused more on just doing my best rather than fixing everything perfectly, I think I might feel less stressed. But it's hard to change that mindset. 
+
+Consultant: It can definitely be a challenge to shift that mindset, but it's a valuable goal! Perhaps we can come up with some strategies together that help you to gradually make that shift. What do you think would be a small step you could take to prioritize effort rather than perfection in your studies?
+
+User: Maybe I can try setting smaller, manageable goals for each study session instead of aiming for perfection in everything I do.
+
+Consultant: That sounds like a fantastic plan, Liang! Setting smaller goals can help create a sense of accomplishment without the pressure of perfection. How do you feel about creating a specific goal for your next study session?
+
+User: I can try to focus on completing one subject at a time instead of trying to tackle everything in one go. 
+
+Consultant: Excellent idea! Narrowing your focus like that can help reduce distractions and overwhelm. What other support could you use to maintain this approach and ensure you feel good about your study time?
+
+User: I think having regular check-ins with my parents about how I’m feeling could help. That way, I won’t feel like I’m carrying everything alone.
+
+Consultant: That sounds like a great strategy! Open communication can help you feel supported and less isolated. How do you plan to initiate those check-ins with them?
+
+User: I can let them know how my study sessions are going and share my feelings about the pressure I'm feeling. 
+
+Consultant: Perfect! Being open with them can help foster understanding. As we wrap up today’s session, let’s take a moment to reflect on your progress. What do you feel has been your greatest achievement since we started our sessions together?
+
+User: I think the biggest achievement has been my improved relationship with my parents and being able to express my feelings more openly.
+
+Consultant: That’s a significant milestone, Liang! It shows how much you’ve grown. As we move forward, remember to carry that openness into your studies, and don’t hesitate to reach out if you need support. 
+
+User: Thank you! I’ll definitely keep that in mind. I feel a lot more hopeful talking about all this.
+
+Consultant: I'm glad to hear that! Remember, it's all about making progress in small steps. If you encounter challenges, just reflect on what we've discussed today. You've got this!
+
+User: Thank you so much for your help! I'll try my best.
+
+Consultant: You're very welcome! I believe in you and your ability to keep moving forward. This wraps up our session today, and if you need anything in the future, don't hesitate to reach out. Take care!
+###################

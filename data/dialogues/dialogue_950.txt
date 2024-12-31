@@ -1,0 +1,366 @@
+Consultant: Hello, Lao Qin! I'm glad you're here for our session today. How have you been feeling since our last conversation?
+
+User: Hello. I’ve been feeling quite frustrated. The rehabilitation seems to be moving slowly, and I worry that I might not recover fully. I feel like I’m just becoming a burden to my family.
+
+Consultant: I can see how that would be really challenging for you. It's completely understandable to feel frustrated when things aren't progressing as you had hoped. Can you tell me a bit more about your thoughts when you feel this way?
+
+User: I keep thinking that if I don’t recover soon, I will never be able to take care of myself. That thought just makes everything worse.
+
+Consultant: That sounds really tough. It seems like you're feeling a lot of pressure due to those thoughts about your recovery. What emotions come up when you have those thoughts?
+
+User: I feel anxious and really down. I just can't shake off the feeling that I’m letting everyone down.
+
+Consultant: It’s clear that these thoughts are weighing heavily on you. When you think, “I’m letting everyone down,” how does that affect your mood or your actions throughout the day?
+
+User: It makes me want to give up. I don’t feel motivated to do the exercises or even talk to my family sometimes.
+
+Consultant: That sounds frustrating. It’s tough when negative thoughts disrupt your motivation. Let’s explore this thought a bit more. Do you think there's any evidence that supports the idea that you’re letting your family down?
+
+User: Not really, but that’s how I feel. They care about me, and I should be able to recover quicker.
+
+Consultant: It’s great that you recognize your family’s support. It seems like your feelings might be influencing how you perceive the situation. What if instead of focusing on the speed of your recovery, you focused on the small improvements you’re making? How would that change your perspective?
+
+User: I guess if I look at small improvements, I might feel better. But it's hard to see those sometimes.
+
+Consultant: Absolutely, it can be difficult to notice small progress, especially during tough times. Let’s try to identify one small thing you’ve achieved in your rehabilitation recently. Can you recall something positive?
+
+User: Well, I can feed myself without help now. That’s a start, I suppose.
+
+Consultant: That’s an important achievement, Lao Qin! Every little step counts. How does recognizing this progress affect your feelings about your rehabilitation?
+
+User: I suppose it makes me feel a little hopeful, but I still worry a lot.
+
+Consultant: It’s understandable to feel worried, especially when facing challenges. What if we could challenge the thought that your recovery should happen quickly? How might that change your outlook?
+
+User: I guess if I accepted that recovery takes time, it could relieve some pressure. 
+
+Consultant: Exactly! Recovery is often a gradual process. If a friend were in your shoes, what would you advise them to help them feel better about their situation?
+
+User: I would tell them to focus on what they can do, not what they can't.
+
+Consultant: That's a wonderful piece of advice! It reflects some positive cognitive reframing. How can you apply that thinking to your own situation moving forward?
+
+User: I could try to remind myself about the things I can do and not dwell on what I can’t.
+
+Consultant: Yes! That’s an excellent strategy. Would you be open to keeping a journal where you write down your daily achievements, no matter how small they are?
+
+User: That sounds like a good idea. It might help me stay positive.
+
+Consultant: I think it will! Also, when you start feeling those overwhelming thoughts, having that reminder could help you snap back to the positive aspects of your journey. How do you feel about testing this for a week?
+
+User: I’ll give it a try. I hope it helps.
+
+Consultant: I'm really hopeful for you. Remember, it’s about progress, not perfection. Is there anything else you’d like to explore today?
+
+User: I think that's what I needed to talk about. 
+
+Consultant: That’s great to hear. As we wrap up today, let’s reflect a little. What do you feel is your main takeaway from this session?
+
+User: I think focusing on small achievements can help me feel less worried about not recovering quickly.
+
+Consultant: That’s a powerful realization! Recognizing your progress is key. Moving forward, you have this valuable insight to guide you. And remember, it’s normal to have concerns, but focusing on small wins can shift your perspective. 
+
+User: Thank you. I appreciate your help today.
+
+Consultant: You’re very welcome, Lao Qin! I’m glad we could talk. I look forward to hearing about your small victories in our next session. Take care until then!
+###################
+Consultant: Hello, Lao Qin! I’m glad you're here today. I understand you've been going through a challenging time during your recovery. Can you share with me how you’ve been feeling lately?
+
+User: Hi. Lately, I feel quite frustrated about my recovery progress. Sometimes, I wonder if I’m ever going to feel completely normal again, and it really gets to me.
+
+Consultant: It's completely understandable to feel frustrated, especially when dealing with recovery. It sounded like you're feeling a bit uncertain about your future health. Can you tell me more about what specific thoughts cross your mind when you think about your recovery?
+
+User: I keep thinking that I should be getting better much faster. When I see others recovering quickly, I start to feel like I’m not doing enough, and that makes me anxious.
+
+Consultant: It sounds like you’re comparing your progress to others. This can lead to feeling inadequate. What kind of feelings do these thoughts stir up for you?
+
+User: I feel restless and irritable. Sometimes I even believe that my slow recovery reflects my value as a person, which makes me feel worse.
+
+Consultant: It's tough when we tie our self-worth to our recovery progress. Let’s explore those thoughts. Do you think there’s any evidence that your value as a person is connected to how quickly you recover?
+
+User: I guess not. My family still loves and supports me, regardless of how fast I heal. But I can’t shake off that feeling.
+
+Consultant: It’s great that you recognize your family's support. What alternative thoughts could you remind yourself of when those negative feelings surface?
+
+User: Maybe I could remind myself that recovery takes time and that I’m doing my best. Everyone's journey is different.
+
+Consultant: That’s an excellent perspective! Focusing on your individual journey can help reduce the pressure. How about we set small achievable goals in your recovery process? What would you like to achieve in the coming weeks?
+
+User: I think I would like to try and improve my walking ability, even if it’s just a little bit at a time.
+
+Consultant: That sounds like a positive and realistic goal! Setting small milestones can give you a sense of accomplishment. How would you like to track your progress towards this goal?
+
+User: I could keep a journal of my daily exercises and note improvements, no matter how small.
+
+Consultant: Writing it down is a great idea. It will also help you see that progress over time, even if it feels slow. How do you feel about sharing this progress with your family?
+
+User: I think it would be nice to share with them. It might help me feel less alone in this journey.
+
+Consultant: Absolutely! Family can offer valuable support, and sharing your experiences could strengthen those bonds. How do you think they would react if you shared your goals with them?
+
+User: I believe they would be supportive and maybe even help me stay motivated. I just worry about burdening them with my feelings.
+
+Consultant: It’s understandable to feel that way, but sharing can lead to deeper connections. Perhaps you could frame it as asking for encouragement rather than adding to their burden. What do you think about that?
+
+User: That sounds doable. I’ll try to approach it from a positive angle.
+
+Consultant: That’s a wonderful mindset. Keeping communication open can help alleviate feelings of isolation. As you work on these small goals and share with your family, how do you anticipate this will impact your overall mood?
+
+User: I think it might make me feel more connected and less overwhelmed. I hope it’ll reduce some of my anxiety.
+
+Consultant: That’s a hopeful outlook! Engaging with your loved ones while working on your recovery could foster a sense of belonging and support. We can check in on your feelings about this during our next session. How are you feeling about the plans we've discussed today?
+
+User: I feel a bit lighter talking about this. I’m motivated to set those small goals and to share with my family. Thank you!
+
+Consultant: I’m glad to hear that! Remember, every small step counts. For our next session, we can reflect on your experiences and adjust your goals as needed. How about we say goodbye for now, and I look forward to hearing about your progress?
+
+User: Yes, I look forward to it too. Thank you for your help!
+
+Consultant: You're very welcome! Take care, Lao Qin, and see you next time!
+###################
+Consultant: Hello, Lao Qing! I'm glad to see you today. How have you been feeling since our last session?
+
+User: Hello. I've been trying to focus more on my recovery, but I feel an overwhelming sense of guilt for having my family take care of me all the time. It's hard to shake off, and it's making me feel quite down.
+
+Consultant: I see. Guilt can really weigh heavily on you, especially when you're relying on your family. What are some specific thoughts that come to your mind when you feel guilty about their support?
+
+User: I often think about how much they have to sacrifice for me. It's like I’m a burden to them, and I feel bad that they have to adjust their lives because of me.
+
+Consultant: That sounds really challenging. It’s natural to feel like you’re burdening others, but let’s explore this further. Can you recall a specific incident recently where you felt this way?
+
+User: Just yesterday, my son had to cancel his plans to stay home and help me with my exercises. I could see his frustration, and it made me feel awful.
+
+Consultant: It's understandable that seeing your son frustrated would make you feel guilty. Can I ask how this made you feel emotionally at that moment?
+
+User: I felt sad and helpless. I just wanted to improve my condition but felt like I was holding him back.
+
+Consultant: I appreciate you sharing that with me, Lao Qing. Let’s take a moment to think about this: If a friend were in your situation and felt guilty about relying on their family, what advice would you give them?
+
+User: I would probably tell them that family takes care of each other, and sometimes it's okay to rely on them, especially during tough times.
+
+Consultant: That's a compassionate perspective. It’s important to remember that your recovery journey is difficult, and accepting help from loved ones is a part of healing. How do you feel about expressing this perspective to your family?
+
+User: I think I haven't really shared my feelings with them. Maybe they don't see me as a burden. I just keep thinking about my condition.
+
+Consultant: That's an insightful realization. Open communication could really help in alleviating some of this guilt. Would you be open to trying an exercise where we role-play how you might express your feelings to your family?
+
+User: That sounds like a good idea. I need to find a way to communicate my thoughts.
+
+Consultant: Great! For this role-play, let’s imagine you’re talking to your son. You could start by thanking him for his support. How would you begin that conversation?
+
+User: I would say something like, “Thank you so much for being here for me. I know it’s not easy, and I appreciate it.”
+
+Consultant: That’s a wonderful start! Now, how about expressing your feelings of guilt in a way that invites an open discussion?
+
+User: I guess I could say, “I feel guilty at times for making you adjust your life. I don't want to be a burden.”
+
+Consultant: That’s a very honest way to express yourself. If he responds by reassuring you that it’s okay to ask for help, how might that make you feel?
+
+User: I think it would relieve some of the pressure. It would be nice to know they want to help.
+
+Consultant: Exactly! Keeping that line of communication open can help strengthen your relationship and reduce your feelings of guilt. How do you feel about taking this step with your family in the upcoming days?
+
+User: I feel a bit nervous, but I think I can do it. It’s worth a try.
+
+Consultant: It’s completely normal to feel nervous. Remember, it’s a process, and sharing your feelings is an important step towards reducing that guilt. What do you think your next steps should be, after this conversation?
+
+User: I think I need to find ways to engage with them more without feeling guilty, maybe even participating in discussions about their daily lives.
+
+Consultant: That’s a fantastic idea! Engaging with them can help foster connection and lessen the focus on your recovery. How do you envision your family responding to that?
+
+User: I hope they would appreciate me wanting to be involved and share more about their lives.
+
+Consultant: I believe they would! Being involved can also remind you that you’re still an important part of the family, regardless of your current situation. How do you feel about your recovery process as we discuss these ways to connect more?
+
+User: I feel more hopeful. Thinking about these conversations makes me realize I can still contribute and be present.
+
+Consultant: That’s wonderful to hear! You've acknowledged your feelings and also recognized your ongoing role in your family. How confident do you feel about maintaining these conversations in the future?
+
+User: I feel a bit more confident now. I think I can keep working on this with them.
+
+Consultant: That’s a great mindset to have! Remember, this is a journey, and taking small steps can lead to significant changes over time. Shall we set some small goals for the next week to help keep you progressing?
+
+User: Yes, I think that would be helpful.
+
+Consultant: How about aiming to have at least one open conversation with a family member this week? You can take your time to express your feelings, and we can discuss it in our next session. Would that work for you?
+
+User: Yes, I can do that. I’ll plan to talk to my son.
+
+Consultant: Perfect! I look forward to hearing how that goes. Remember, it’s about progress, not perfection. You’re doing great work, and every step counts. 
+
+User: Thank you. I really appreciate your support.
+
+Consultant: You're very welcome, Lao Qing. It’s always a pleasure to work with you. Let’s continue building on this progress in our next session!
+###################
+Consultant: Hello! I'm glad you could join me today, Lao Qin. How have you been feeling lately, especially with your recovery and family interactions?
+
+User: Hello. I've been feeling a bit better lately, actually. I started to talk more with my family about my recovery, and it feels good to have their support. But sometimes I still feel quite low and agitated.
+
+Consultant: It sounds like you've taken some positive steps in communicating with your family, which is great to hear. However, it’s understandable to still feel low at times. Can you tell me more about what’s been triggering those feelings of agitation?
+
+User: I think it’s mostly about how sluggish I feel with my movements. I want to get back to my normal routine, and waiting feels frustrating. Sometimes, I just feel like I'm a burden to my family.
+
+Consultant: I can see how that would be frustrating for you, wanting to feel more active and not wanting to be a burden on your family. It's important to remember that your family is there to support you, and your recovery takes time. Have you been able to share these feelings with them?
+
+User: I've mentioned it a little, but I worry they might think I’m being negative. I don’t want to bring them down.
+
+Consultant: It’s completely natural to worry about how others perceive you, but sharing your honest feelings, even if they seem negative, can actually strengthen those family bonds. How do you think they would respond if you were open about your frustrations?
+
+User: I think they would listen and want to support me more. They’ve been really good at encouraging me in my recovery.
+
+Consultant: That’s wonderful to hear! It sounds like they care deeply for your well-being. Perhaps we can explore ways for you to express those feelings more openly. What would feel like a comfortable way for you to start that conversation with them?
+
+User: Maybe I could just bring it up at dinner. It feels more relaxed then, and I could talk to them about my feelings.
+
+Consultant: That sounds like a nice approach! Creating a relaxed atmosphere can definitely help. How about preparing a few specific points you’d like to mention about what you’re experiencing? This might make it easier for you to share.
+
+User: Yes, that could help. I could talk about my progress and how I feel about the recovery process, including my frustrations about my limitations.
+
+Consultant: That’s an excellent idea, Lao Qin. By focusing on both your progress and your feelings, you can help them understand your journey better. Since you mentioned feeling frustrated, what do you think you can do to manage your emotions when these feelings arise?
+
+User: I guess I could try some breathing exercises or maybe distract myself with some of my old hobbies, like gardening, if I can manage.
+
+Consultant: Those sound like wonderful strategies! Breathing exercises can help bring you a sense of calm, and engaging in hobbies like gardening can provide both a distraction and a sense of achievement. Have you had a chance to do any of those activities recently?
+
+User: I tried a little gardening last week, and it felt nice to get my hands in the soil again. But sometimes my body just doesn't cooperate.
+
+Consultant: It's great that you’re trying gardening! It’s perfectly normal to have days when your body doesn't feel as willing. On those tougher days, what alternatives might you consider that still allow you to engage with your interests?
+
+User: I think I could just sit outside and enjoy the fresh air, or maybe look at gardening books. It might still give me that connection to it.
+
+Consultant: That’s a fantastic idea! Enjoying the fresh air and connecting with your interests can be very fulfilling, even if it’s not physically demanding. Remember, every small step you take is a part of your recovery journey. How do you feel about finding ways to celebrate those small victories?
+
+User: I like that idea. It seems like I could acknowledge the little things instead of focusing on what I can't do yet.
+
+Consultant: Exactly! Taking the time to appreciate those small victories can greatly improve your mood and motivation. As we move forward, what are some small goals you would like to set for your recovery and family interactions?
+
+User: I’d like to aim for spending at least a little time gardening each week and having a good talk with family during dinner at least once a week.
+
+Consultant: Those are wonderful goals! They seem manageable and allow for continued communication with your family while also engaging in something you enjoy. How will you keep track of these goals?
+
+User: I could write them down on a calendar and mark when I do them. It might remind me of what I want to accomplish.
+
+Consultant: That sounds like a great idea! Keeping a calendar can help you stay focused and also provides a visual reminder of your progress. After a few weeks, we can review how it’s going together. How does that sound for our next session?
+
+User: It sounds good. I'm hopeful it’ll help me stay motivated.
+
+Consultant: I’m glad to hear that! Maintaining this hope is crucial in your journey. Before we wrap up today, is there anything else on your mind that you’d like to discuss?
+
+User: No, I think I’ve said a lot today. I just feel more encouraged to take these steps now.
+
+Consultant: That’s fantastic to hear, Lao Qin! I appreciate you sharing with me today. Remember, it's all about the progress you make, no matter how small. I look forward to hearing about your steps in our next session!
+
+User: Thank you! I’m looking forward to it as well.
+###################
+Consultant: Hello, Lao Qin! I'm glad to see you today. How have you been feeling lately, especially after participating in that community event?
+
+User: Hello! I've been feeling a bit better since the community activity. Engaging with others made me realize that I can still contribute. However, I still feel quite frustrated at times, especially with my current limitations.
+
+Consultant: It's great to hear that the community event had a positive impact on you! You recognized your value in social interactions, which is a significant step forward. Can you share more about how that experience felt for you?
+
+User: Yes, during the activity, I felt included and appreciated. It reminded me that even at my age and with my condition, I can still connect with people. But I sometimes worry that I might not be able to keep this up.
+
+Consultant: It's understandable to have those worries, especially given your situation. It sounds like you want to maintain that connection and perhaps explore more social opportunities. What do you think could help you engage further in your community?
+
+User: Maybe I could participate in more activities, but I often feel tired or anxious about meeting new people.
+
+Consultant: That’s a common feeling, especially after a big event. We can explore small steps you could take to gradually get more involved. Can you think of any specific activities in the community that interest you, even a little bit?
+
+User: There's a gardening club that I heard about. I enjoy gardening and it could be a nice way to meet people.
+
+Consultant: The gardening club sounds like a wonderful opportunity! It combines something you enjoy with social interaction, which could help ease any anxiety you feel. What do you think about trying to attend one of their meetings?
+
+User: I think I might like that, but I'm still concerned that I won't be able to keep up with the others.
+
+Consultant: It's natural to have those concerns, but remember, you’re there to enjoy yourself. It might help to focus on what you can contribute rather than what you believe you might lack. How do you think you could remind yourself to have a more positive outlook in that setting?
+
+User: Maybe I could think about the skills I have, like my experience in gardening, instead of comparing myself to others.
+
+Consultant: Exactly! Focusing on your strengths can really empower you. You have much to offer, and others will likely appreciate your insights. How does that perspective feel when you think about attending the club?
+
+User: It feels a bit reassuring. I just need to remember that everyone is there to enjoy gardening, not to judge.
+
+Consultant: Yes, that's a healthy mindset! Building that social confidence can strengthen your well-being. Let’s also talk about how you can manage any anxiety that comes up before attending. What usually helps you feel calmer before social interactions?
+
+User: I sometimes try to breathe deeply or think about positive experiences, but it doesn’t always work.
+
+Consultant: Breathing techniques can be very effective! We could also explore creating a small routine for yourself before these interactions. For example, you could take a few minutes to reflect on what you like about gardening and your past successes. How does that sound?
+
+User: That sounds good. It might help me get into a better mindset.
+
+Consultant: Great! Consistency is key. You might even write down a few positive things about your gardening experiences to refer to. How do you feel about creating that little reminder for yourself?
+
+User: I could definitely do that. It seems simple yet helpful.
+
+Consultant: I believe it will be beneficial! Additionally, have you thought about sharing your aspirations about the gardening club with your family? Their support could also help you feel more at ease.
+
+User: I haven't mentioned it yet, but I think I will. They would likely encourage me.
+
+Consultant: Absolutely! They probably would love to hear about your plans. It’s lovely to have that support. As we wrap up our session today, what would you say is the main takeaway from our conversation?
+
+User: I feel encouraged to explore the gardening club and focus on my strengths. I’ll talk to my family about it as well.
+
+Consultant: That sounds like a solid plan, Lao Qin! I’m really proud of you for taking this step. Remember to take it at your own pace, and don’t hesitate to reach out if you need additional support. Do you have any final thoughts or questions before we finish?
+
+User: No questions, just a sense of hope for the future. Thank you!
+
+Consultant: You’re very welcome! It’s been a pleasure discussing this with you. I look forward to hearing about your experiences next time. Take care!
+###################
+Consultant: Hello, Lao Qin! I'm really glad to see you today. How have you been feeling since our last session?
+
+User: Hello. I've been doing okay, actually. My recent check-up showed good results, and I feel a bit more hopeful about my recovery. But I still have some moments when I feel a bit low or irritated.
+
+Consultant: It's great to hear that your check-up went well and that you're feeling hopeful! It’s normal to have ups and downs during recovery. Can you tell me more about those moments when you feel low or irritated? What typically triggers those feelings?
+
+User: Well, sometimes I just get tired of being dependent on others. My son takes care of me, and while I'm grateful, there are times I wish I could do more things on my own without relying on him.
+
+Consultant: That makes a lot of sense, Lao Qin. Feeling dependent can be really frustrating, especially for someone like you who has been independent for so long. It’s important to acknowledge those feelings. How do you usually cope with those moments of irritation?
+
+User: I try to distract myself by watching TV or thinking about my garden, but sometimes it doesn’t help much, and I end up feeling even more restless.
+
+Consultant: Distraction can be a good method, but it seems like it may not be enough to fully address how you're feeling. More than just avoiding those feelings, what do you think might help you when you're feeling restless?
+
+User: I suppose talking about it helps a bit, but I don’t want to burden anyone. I mostly keep it to myself.
+
+Consultant: It's perfectly okay to share your feelings. It doesn't burden others; rather, it often brings people closer together. Could finding a way to express your feelings more regularly be something we explore in our session today?
+
+User: I think that could be helpful. I just worry about worrying others too much.
+
+Consultant: That concern is understandable, but sharing your thoughts can also provide reassurance to your loved ones. They would likely want to know how you're doing. Can you recall a recent situation where you felt this way, and maybe we could explore how you could express those feelings?
+
+User: Just a few days ago, I felt really irritable during lunch. I wanted to eat by myself, but my son was there, and I didn’t want to upset him. So, I just kept quiet.
+
+Consultant: It sounds like that was a difficult moment for you. You had a need for some space but felt like you had to keep it to yourself to avoid upsetting your son. In that situation, what do you think could have been a better way to handle it that wouldn't have made you feel so irritated?
+
+User: Maybe I could have told him I needed some quiet time for lunch rather than pushing him away entirely.
+
+Consultant: That's a good insight, Lao Qin. Communicating your needs is essential, and it sounds like a more honest conversation might relieve some of that irritation. What do you think would help you feel more comfortable expressing that need to him?
+
+User: I guess I could practice saying it out loud first, just to get used to it. 
+
+Consultant: That sounds like an excellent plan! Practicing can help you feel more confident when talking to your son. How about we come up with a few phrases together that you could use to express your needs? 
+
+User: Sure, that sounds good. Maybe something simple like, "I need a bit of quiet right now" could work.
+
+Consultant: That's a great start! "I need a bit of quiet right now" is direct and expresses your need clearly. I think your son would understand. How about considering a follow-up to that—maybe something like, "Can we have lunch together later?" This way, you also show that you still want to spend time with him.
+
+User: Yes, that sounds nice! I like the idea of combining having quiet time with still being together later.
+
+Consultant: Excellent! Balancing your needs while maintaining your connection with your son is essential. Moving forward, it might also be worthwhile to reflect on situations that make you feel proud of your recovery journey. Can you think of any instances where you’ve achieved something that made you feel good?
+
+User: Yes! I’ve been able to walk around the yard a little bit without much help. That felt rewarding. 
+
+Consultant: Wonderful! That’s a significant achievement, Lao Qin. Celebrating those moments of progress is essential and contributes to maintaining your motivation. How can you incorporate recognizing those achievements into your daily routine?
+
+User: Maybe I could keep a journal of small successes. That would help remind me of my progress.
+
+Consultant: Journaling sounds like a fantastic idea! It will allow you to reflect on your journey and reinforce your accomplishments. As we wrap up our session, let’s focus on how you can continue to develop your communication skills and celebrate your successes. 
+
+User: That sounds good. I feel more hopeful about how to handle my feelings now.
+
+Consultant: I’m glad to hear that! Remember, it’s all about taking small steps. I believe in your ability to navigate this journey. You’ve made great strides already! When we meet again, we can explore how those strategies worked for you. 
+
+User: Yes, I’m looking forward to it. Thank you for your help today!
+
+Consultant: You’re very welcome, Lao Qin! I’m here to support you. Take care until next time, and remember to practice those phrases. You’ve got this!
+###################

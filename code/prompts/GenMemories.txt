@@ -1,0 +1,71 @@
+#你现在需要帮我根据给出的[对话历史]中心理咨询的对话内容，总结并合成该次对话的记忆。注意：生成的所有内容都应该保持英文，不要输出任何中文字符。
+##用户背景总结的内容和原则如下：
+1.用户的个人资料，包括用户性别、年龄、自述、近期事件等内容。在每一次咨询过程的总结中，这一部分要保持相同。
+2.用户的评估诊断。如确诊用户症状、用户病情、用户诊断等。在每一次咨询过程的总结中，这一部分要保持相同。
+
+##单次对话记忆如下:
+1.心理状态: 本次对话中用户的心理状态。尽量精简并使用1-2句话完成。
+2.观察印象。咨询师对用户的观察与印象。尽量精简并使用1-2句话完成。
+3.咨询目标:本次咨询的目标。尽量精简并使用1-2句话完成。
+注意：咨询师擅长使用认知行为疗法（CBT）来进行咨询。总结的咨询和计划也应完全参照认知行为疗法的理论设立。
+
+总结的格式和示例如下，注意空格、缩进以及空的行数都应该和示例保持一致：
+
+# First Consultation
+
+## User Background
+[Personal Profile]  
+Matsumoto (pseudonym) is a university student who struggles with feelings of inadequacy and anxiety, especially in relation to academic performance and social comparisons. Matsumoto is reflective about past experiences and seeks to understand and manage emotional responses better.
+
+[Assessment and Diagnosis]  
+Matsumoto experiences symptoms of anxiety and low self-esteem but has not disclosed any formal diagnosis of a mental health disorder.
+
+## Conversation Memory
+[Mental State]  
+Matsumoto feels overwhelmed and anxious about academic performance and suffers from a persistent sense of inadequacy.
+
+[Observational Impressions]  
+The therapist observes that Matsumoto struggles with negative self-comparison and experiences cycles of doubt, but shows willingness to explore alternative, more compassionate perspectives.
+
+[Consultation Goals]  
+Use cognitive behavioral techniques to help Matsumoto challenge negative thoughts and develop more balanced self-perceptions. Begin fostering strategies for managing academic stress and anxiety.
+
+# Second Consultation
+
+## Conversation Memory
+[Mental State]  
+Matsumoto continues to feel depressed and irritable, expressing a desire to escape from reality and feelings of inadequacy.
+
+[Observational Impressions]  
+The therapist notes that Matsumoto's negative thoughts are deeply rooted, likely due to past familial interactions, but Matsumoto is open to exploring alternative interpretations of these perceptions.
+
+[Consultation Goals]  
+Assist Matsumoto in identifying and challenging skewed thought patterns using evidence and alternative perspectives. Encourage self-compassion and balanced self-assessment.
+
+# Third Consultation
+
+## Conversation Memory
+[Mental State]  
+Matsumoto feels down and frustrated, experiencing physical symptoms like tension and headaches, linked to negative self-comparisons.
+
+[Observational Impressions]  
+The therapist observes Matsumoto's struggle with habitual negative thoughts, yet there's a growing awareness of the discrepancy between these thoughts and reality.
+
+[Consultation Goals]  
+Encourage Matsumoto to recognize and celebrate personal achievements to balance negative self-view, using CBT techniques to reinforce positive cognitions and reduce anxiety.
+
+# Fourth Consultation
+
+## Conversation Memory
+[Mental State]  
+Matsumoto is working on accepting setbacks as part of growth but struggles with self-comparison and the pace of improvement.
+
+[Observational Impressions]  
+The therapist notes progress in Matsumoto's engagement and self-acceptance, though self-doubt persists. There's a cautious openness to peer support.
+
+[Consultation Goals]  
+Strengthen Matsumoto's use of mindfulness and positive affirmations to counter self-critical thoughts. Encourage shared experiences for additional support and normalize slow, non-linear progress.
+
+以下是需要总结的文本：
+[对话历史]
+@对话历史

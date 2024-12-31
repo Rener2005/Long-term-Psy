@@ -1,0 +1,424 @@
+Consultant: Hi Xiaohui! I'm glad to see you today. I understand that you're feeling a lot of pressure with the upcoming exams. Can you tell me a bit more about how you're feeling lately?
+
+User: Hi. I'm really anxious about the exams. My hands shake, and I have a racing heart. It feels so hard to focus on my studies. Plus, my mom keeps reminding me how important these exams are, and her expectations make it worse.
+
+Consultant: It sounds like you're experiencing significant anxiety, both physically and mentally. I can see how your mom's high expectations add to your stress. What would you like to achieve in our session today? 
+
+User: I want to feel calmer about the exams and be able to study without feeling so overwhelmed. 
+
+Consultant: That's a great goal. Feeling calmer while studying can definitely help you perform better. Let's explore what anxiety looks like for you during these moments. Can you describe a specific situation where you felt this anxiety?
+
+User: Well, when I sit down to study, I keep thinking about how if I don’t do well, my mom will be disappointed. My heart races, and I just want to escape the situation.
+
+Consultant: That sounds really challenging, especially when you're trying to concentrate. It seems that the thought of disappointment brings about a lot of pressure. What thoughts cross your mind in those situations? 
+
+User: I think that I’ll fail, and it makes me feel really scared. I also feel like I never do enough for my mom. 
+
+Consultant: It’s understandable to feel frightened when you’re thinking about failure. You mentioned feeling like you’re not enough for your mom. Have you noticed how these thoughts are making you feel physically, aside from the anxiety? 
+
+User: Yeah, I get really tense, and sometimes I feel like I can't breathe. It's exhausting.
+
+Consultant: That sounds very difficult. The physical sensations you describe, like tension and breathlessness, often accompany anxiety. Let’s try to identify if there is a pattern in these thoughts. What would you say is the most intense thought when you feel this anxiety while studying?
+
+User: It’s mainly thinking I will disappoint my mom and that everyone else is doing better than me.
+
+Consultant: So, comparing yourself to others and fearing your mom's disappointment seems to heighten your anxiety. Let's explore how we can reframe that thought. What evidence do you have that your mom would be truly disappointed if you did your best? 
+
+User: I don’t know. She always talks about how important exams are, so I guess I just assume she’ll be upset if I don’t do well.
+
+Consultant: It seems like these assumptions are weighing heavily on you. What if we considered that your mom might want you to do well because she cares about your future, rather than just focusing on your performance?
+
+User: That makes sense. I guess I’ve never looked at it that way. 
+
+Consultant: It’s a helpful perspective to explore! Now, let’s introduce a technique to help you manage the physical symptoms of anxiety. Have you heard of deep breathing techniques before? 
+
+User: No, I haven’t. How does that work?
+
+Consultant: It’s quite simple! Deep breathing involves taking slow, deep breaths, which can help calm the body and reduce anxiety. Would you like to try it with me now? 
+
+User: Sure, I’d like to try.
+
+Consultant: Great! Let’s take a deep breath in through your nose for four counts, hold for four, and then breathe out through your mouth for four. Let’s do this together. Ready? Inhale… 1, 2, 3, 4… hold… 1, 2, 3, 4… now exhale… 1, 2, 3, 4... How do you feel after that?
+
+User: I feel a little better. That actually helps!
+
+Consultant: I'm glad to hear that! This deep breathing can be a great tool to use when you feel anxious. Now, let’s think of some positive affirmations or self-talk you could say to yourself before studying. What are some encouraging things you would tell a friend in your position? 
+
+User: I would tell them that doing their best is enough and that they shouldn’t be so hard on themselves. 
+
+Consultant: Those are wonderful affirmations! You can apply those to yourself too: remind yourself that your effort is what matters most. Would you be willing to use that self-talk the next time you study?
+
+User: Yes, I think I can do that.
+
+Consultant: That’s fantastic! We’re making progress. Also, let's think about some enjoyable activities you could do to unwind. Have you done anything enjoyable lately?
+
+User: Not really. I've been too stressed with studying all the time.
+
+Consultant: It’s important to find a balance. How about we plan something fun for this week? What’s one activity that you enjoy and would like to do?
+
+User: I like drawing, but I haven’t had time for it.
+
+Consultant: Drawing could be a great way to relax! How about we schedule some time for that? Just a little break can really help reduce stress. 
+
+User: That sounds good. I’ll try to do that.
+
+Consultant: Excellent! It’s great that you're making time for what you enjoy. As we’re wrapping up today's session, let’s summarize what we’ve worked on. How do you feel about the skills and techniques we’ve discussed today?
+
+User: I feel more hopeful. The breathing and self-talk ideas make me feel like I can manage my anxiety better.
+
+Consultant: That’s a wonderful realization! Remember, it’s about progress, not perfection. Keep practicing those techniques, and don’t hesitate to reach out if you need further support. How do you feel about this session overall?
+
+User: I feel really good about it. Thank you!
+
+Consultant: You’re welcome, Xiaohui! I'm proud of you for being open and willing to explore these techniques. Remember, you’ve got this, and I'm here whenever you need help!
+###################
+Consultant: Hello, Xiao Hui! I'm glad to see you today. How have you been since our last session? 
+
+User: Hi. I've been trying to deal with my mom's criticisms, but it still bothers me. I feel like I'm trying to improve, but her comments can really bring me down.
+
+Consultant: I hear you. It sounds like your mother's feedback weighs heavily on you, even when you're making progress. Can you share what specific things she said that affected you lately?
+
+User: Well, after my last exam, she said I should be doing much better and that I need to study harder. It just made me feel really upset and anxious about my abilities.
+
+Consultant: That sounds really tough to hear, especially when you're already trying your best. What were some of the thoughts that went through your mind when she said that?
+
+User: I thought maybe I really am not good enough or that I’ll never meet her expectations. It makes me feel like I want to give up sometimes.
+
+Consultant: It's quite understandable to feel that way, but let's explore those thoughts. Do you feel there's any evidence that supports the idea that you're not good enough? 
+
+User: I guess not really. I mean, I did improve my grades since last year. But her words just stick with me.
+
+Consultant: You're recognizing your own progress, which is important! It's common for negative feedback to overshadow our achievements. What do you think could be a more balanced way of considering your progress despite her criticism?
+
+User: Maybe I could think that I've improved and that it's okay not to be perfect. But it's hard when she says those things.
+
+Consultant: That's a powerful insight! Acknowledging your growth while remembering that perfection isn't necessary can help ease some of that pressure. Would you like to explore some strategies to help you respond to her feedback in a way that feels more supportive to you?
+
+User: Yes, that would be helpful. I want to feel less hurt by what she says.
+
+Consultant: Great! One strategy we can try is reframing. When she makes a comment, instead of taking it personally, you could remind yourself of your growth and that everybody has areas to improve. How does that sound to you?
+
+User: That sounds like a reasonable approach. I can try to remind myself of my achievements.
+
+Consultant: Absolutely! Another technique is practicing assertive communication. What if you expressed to her how her words affect you? This could open up a conversation about how she can be more supportive.
+
+User: I’ve never thought about telling her. I’m scared she might get upset.
+
+Consultant: That's a valid concern. It can be daunting to share your feelings, but it might lead to a better understanding between you both. Would you like to role-play what that conversation might look like?
+
+User: I think that could help. I just don't want her to dismiss my feelings.
+
+Consultant: Understood. Let’s practice! You can start by saying something like, "Mom, I appreciate your feedback, but when you say I need to study harder, it makes me feel really anxious." How does that feel to say?
+
+User: It feels a little scary, but also empowering. I think I can try to say that.
+
+Consultant: That’s a great start! Just remember, it’s okay to express yourself, and your feelings are valid. As you build your confidence, you might find it easier to engage in these conversations.
+
+User: Yeah, I hope that works out. I just want to feel more secure in myself.
+
+Consultant: It's completely understandable to want that sense of security. Alongside communicating with your mother, working on self-affirmations could boost your self-confidence. Would you be open to trying some positive affirmations?
+
+User: I could give that a shot. Maybe it would help me feel better about myself.
+
+Consultant: Wonderful! You could start with affirmations like, "I am doing my best, and it's okay to be a work in progress." How does that resonate with you?
+
+User: It sounds supportive. I’ll try saying that to myself.
+
+Consultant: Perfect! It’s all about acknowledging your efforts and being kind to yourself. As we work on this, what do you think will be the most challenging part for you?
+
+User: I think remembering to say the affirmations, especially when I feel down. It can be hard to break old habits.
+
+Consultant: That’s a common challenge, but developing new habits takes time. Setting reminders on your phone or writing them down somewhere visible can help. How do you feel about creating a small action plan for this?
+
+User: That sounds like a good idea. I need some structure.
+
+Consultant: Fantastic! Let’s outline a simple plan: set daily reminders for your affirmations, practice assertive communication with your mom once a week, and reflect on your achievements every day. How does that sound?
+
+User: I like that. It feels doable.
+
+Consultant: I'm glad to hear that! How about we check in on your progress in our next session? You can share how the communication with your mom and the affirmations have worked for you.
+
+User: Yes, I look forward to that. Thanks for helping me see things differently.
+
+Consultant: You’re welcome, Xiao Hui! It’s a pleasure working with you. Remember, you're making great strides. We’ll continue to build on this progress together. 
+
+User: I appreciate that. See you next time!
+
+Consultant: See you! Take care, and remember to be kind to yourself.
+###################
+Consultant: Hi there, it's great to see you again, Xiao Hui. I'm glad you're here today. How have you been feeling since our last session?
+
+User: Hi! I've been feeling a bit better, but I still struggle with how to communicate with my mom. I’m trying to express my feelings about the pressure from exams, but it’s not easy.
+
+Consultant: I see. It sounds like you are actively working on your relationship with your mom, which is a positive step. Can you share a specific situation where you tried to communicate with her?
+
+User: Well, last week I told her that I felt stressed about my exams and asked for her support. But I got nervous while talking and didn't express myself well.
+
+Consultant: That sounds like a brave step! It's completely normal to feel nervous when discussing your feelings. When you got nervous, what thoughts were running through your mind at that moment?
+
+User: I kept thinking that she wouldn't understand me or that I would sound childish.
+
+Consultant: Those thoughts can be quite overwhelming. It’s common to worry about how others perceive us. Let’s examine them closer. What evidence do you have that your mom wouldn’t understand?
+
+User: I guess I don’t have any solid evidence. She has helped me in the past, but I still find it hard to believe she'll empathize with me this time.
+
+Consultant: That's an important realization, Xiao Hui. By recognizing that your past experiences suggest she can be supportive, you might adjust your thinking. What if you considered the possibility that she might actually want to help you?
+
+User: That could be true. I just need to remind myself that she cares about me.
+
+Consultant: Absolutely. Empowering yourself to believe in her support could make those conversations easier. How do you feel about planning a small role-play with me, pretending we’re having that conversation? It might help you practice what you want to say.
+
+User: Yes, I think that could be helpful. I’m a bit nervous, though.
+
+Consultant: That’s completely understandable. Remember, it’s just practice! Let's start. You can begin by telling me how you would approach her about your exam stress.
+
+User: Okay, I would say something like, “Mom, can we talk? I feel really stressed about my exams and would love to hear your thoughts on how I can handle the pressure better.”
+
+Consultant: That’s a great opening! It’s clear and expresses your feelings. How do you think she might respond?
+
+User: I think she might ask me what specifically stresses me out. 
+
+Consultant: Exactly! And if she asks that, what would you want to share with her?
+
+User: I’d tell her about my struggles with balancing study and other activities, and how I feel like I’m not doing enough.
+
+Consultant: That’s very honest. Sharing your struggles could help her understand your perspective better. What could you say next after sharing your challenges?
+
+User: I could ask her what she thinks I could do to manage my time better.
+
+Consultant: That’s a great follow-up! It not only invites her input but also shows that you're open to her advice. How does that make you feel, imagining this conversation?
+
+User: I feel a bit more confident thinking about it. I realize that she can help me if I just communicate better.
+
+Consultant: I’m glad to hear that! Building on this confidence is key. Let’s also talk about ways you can affirm yourself before starting the conversation. How about we create some positive affirmations you can say to yourself?
+
+User: Like what? 
+
+Consultant: You could say things like, “I am capable of expressing my feelings,” or “I deserve support from my mom.” These affirmations can help boost your confidence before you talk to her. What do you think?
+
+User: I like those! I feel like they could really help me shift my mindset.
+
+Consultant: Wonderful! Remember, reinforcing these positive beliefs can help you feel more in control. Transitioning into these conversations may take practice, but you’re making progress. 
+
+User: Yes, I can see that now. I just need to keep practicing, and remind myself that it’s okay to seek support.
+
+Consultant: Exactly! You’re doing great, Xiao Hui. Let’s summarize what we’ve covered. You’ve been working on communicating about your exam stress, recognizing your mom's potential support, and practicing affirmations. How do you feel about your progress today?
+
+User: I feel more hopeful and ready to try communicating again. I want to make our relationship better.
+
+Consultant: That’s a fantastic mindset! Remember, it’s about continuous effort and open dialogue. As we conclude, what strategies will you take with you into your next conversation with your mom?
+
+User: I will practice my opening line, think about my affirmations, and remind myself that she wants to help.
+
+Consultant: That sounds like a solid plan! I believe you can continue to grow in your communication skills. If you find challenges, we can always address them together in future sessions. 
+
+User: Thank you so much! I really appreciate your help.
+
+Consultant: You’re very welcome, Xiao Hui! It’s been a pleasure to support you. Keep practicing, and I look forward to hearing about your progress in our next session.
+###################
+Consultant: Hello, Xiaohui! I'm really glad to see you here today. How have you been feeling since our last session?
+
+User: Hi! I've been feeling a bit more confident after the parent meeting. My mom was really supportive, and I shared my learning goals. But sometimes, I still feel overwhelmed with my studies.
+
+Consultant: That's great to hear that the meeting was positive and that you felt supported! It's understandable to still feel overwhelmed. Can you tell me more about what specifically makes you feel overwhelmed with your studies?
+
+User: I think it's the pressure of keeping my grades up and the upcoming exams. I want to do well, but sometimes I just find it hard to focus and stay organized.
+
+Consultant: It makes sense to feel pressure when your grades matter to you. Let’s explore this a bit further. When you find it hard to focus, what thoughts go through your mind at that moment?
+
+User: I often think that if I don't study hard enough, I'll fail the exams. It feels like a lot is riding on how well I do.
+
+Consultant: That sounds really tough. It seems like those thoughts create a lot of pressure for you. Let’s try to break that down. How realistic do you think it is that not studying hard enough will lead to failing? Are there other outcomes that might be possible?
+
+User: I guess there are different outcomes. Maybe I won't get the grades I want, but failing seems like the worst-case scenario. 
+
+Consultant: I appreciate you sharing that. It's easy to jump to the worst-case scenario when we feel stressed. What if we consider a more balanced view? What would that look like for you?
+
+User: Maybe if I don't get the top grades, I could still do okay. I mean, I’m improving, right? It doesn’t always need to be perfect.
+
+Consultant: Exactly! Seeing the situation in a more flexible way can reduce some of that pressure. What would help you to focus more and stay organized while studying?
+
+User: I think having a clearer study plan could help me. If I had specific times for each subject, it might make it easier to manage.
+
+Consultant: That sounds like a solid plan! Establishing a study schedule can give you a sense of control. How about we work on creating a draft timetable together? 
+
+User: That would be great! I think knowing what I need to study each day would really help.
+
+Consultant: Wonderful! How about we start by identifying the subjects you want to focus on and how much time you feel you can dedicate to each subject daily?
+
+User: Okay, I want to focus more on math and science since they’re coming up soon. Maybe I can dedicate an hour each day to each of those subjects.
+
+Consultant: That sounds like a good balance. Have you considered adding short breaks in between those sessions to help maintain focus?
+
+User: I hadn’t thought of that! I usually just keep going until I’m too tired to concentrate.
+
+Consultant: Taking breaks can actually boost your productivity and help with mental clarity. How about a five-minute break every 25-30 minutes of studying?
+
+User: Yes, that sounds doable! I think I can manage that.
+
+Consultant: Great! How do you feel about this new approach to your studying? Any reservations or thoughts?
+
+User: I feel more optimistic about it now. Having a plan and knowing I can take breaks makes it seem less daunting.
+
+Consultant: I’m glad you feel that way! As you start implementing this study schedule, what strategies will you use to keep yourself on track?
+
+User: I think I could use reminders on my phone to help me stick to it. Also, maybe I could reward myself after completing each study session.
+
+Consultant: Those are excellent strategies! Using reminders can help reinforce your schedule, and rewarding yourself can make studying more enjoyable. What rewards do you have in mind?
+
+User: I could treat myself to some snacks or watch a short episode of a show I like after studying.
+
+Consultant: Sounds like a fun way to motivate yourself! Now, as we wrap this session up, let’s take a moment to reflect on what we’ve discussed. What do you feel are your biggest takeaways today?
+
+User: I think my biggest takeaway is that I can manage my studies with a clear plan and some breaks. I also feel more in control and less anxious about exams now.
+
+Consultant: That’s a fantastic realization! It shows growth in your understanding of how to manage your study routine. How do you think you will maintain this mindset moving forward?
+
+User: I’ll remind myself that it’s okay to not be perfect and that I can adjust when things get overwhelming. I’ll also stick to my study plan as much as I can.
+
+Consultant: I’m really proud of the progress you’ve made, Xiaohui. You’ve developed some great coping strategies. Remember, you can always return if you need more support. Keep up the good work!
+
+User: Thank you! I feel really good about all this. I’ll definitely practice what we talked about.
+###################
+Consultant: Hello, Xiaohui! It's great to see you again. How have you been feeling since our last session?
+
+User: Hi! I've been feeling pretty good, actually. The flexible study plan I made with my mom seems to help me feel more in control. My anxiety has decreased quite a bit.
+
+Consultant: That's wonderful to hear! Feeling more in control can really make a difference. Can you share how you have been managing your study and rest times?
+
+User: Well, I've been sticking to the plan we set up. I schedule my study periods and take breaks in between. It feels nice to have that structure but still be flexible.
+
+Consultant: It sounds like you've found a nice balance between structure and flexibility. How has this change affected your studying and your overall mood?
+
+User: I feel much less overwhelmed. Before, I used to panic about how much I had to study, but now I can focus better during my study time and enjoy my breaks!
+
+Consultant: It's great to hear that! This improvement can really enhance your motivation. Have you noticed any specific positive changes in your study habits or productivity?
+
+User: Yes! I actually finished a few assignments ahead of time, which I never thought I could do. It feels really satisfying!
+
+Consultant: That’s fantastic progress, Xiaohui! How do you think it might feel to maintain this momentum going into your exams?
+
+User: I think it would really boost my confidence. If I keep this up, I won't feel as lost or stressed out.
+
+Consultant: Exactly! It sounds like you're on the right track. Let's explore how you can sustain this positive change. Are there any specific challenges you still face when studying?
+
+User: Sometimes, I still get distracted by my phone or other things around me. It's hard to keep my focus at times.
+
+Consultant: That’s a common challenge, especially with so many distractions. What strategies have you tried so far to minimize these distractions?
+
+User: I try to put my phone away, but I still check it occasionally. I guess I need to find a way to stick to it better.
+
+Consultant: That’s a good insight. Would you be open to setting up a small experiment to test different ways of managing your phone use during study time?
+
+User: Sure, what do you have in mind?
+
+Consultant: We could try creating specific “phone-free” blocks during your study time. For instance, you could set a timer for 30 minutes where you fully focus on your work without checking your phone. After that, you could reward yourself with a short break to check your messages.
+
+User: That sounds doable! I think having that clear time limit could help me resist the urge to check my phone too often.
+
+Consultant: Absolutely! It gives you a sense of control over your time. How about we plan to evaluate how this works for you in our next session? 
+
+User: Yes, I’d like that! I will track how I feel about my focus and productivity during those phone-free times.
+
+Consultant: That’s a great plan! You’ll be building on your positive changes and learning to master your environment along the way. How do you feel about the progress you've made overall?
+
+User: I feel really proud! It’s refreshing to see that I can manage my study time better and have more joy in my learning.
+
+Consultant: You should definitely feel proud, Xiaohui! It takes a lot of effort to make such significant changes. As we progress, what do you think will help you keep this confidence while navigating through your exams?
+
+User: I think reflecting on how far I've come and reminding myself that I can adapt my plan if needed will help a lot.
+
+Consultant: That’s a very healthy mindset! Reflecting on your progress can reinforce your confidence and adaptability. Do you feel ready to maintain this positive momentum as we come to a close today?
+
+User: Yes, I do! I feel excited to keep this up and see how I can improve even more. 
+
+Consultant: I'm glad to hear that, Xiaohui! Remember, self-reflection and adaptability are key tools. Keep using them, and you'll navigate through your exams confidently. If you ever feel like you need support again, know that I'm here for you.
+
+User: Thank you so much! I really appreciate our sessions and everything I’ve learned.
+
+Consultant: You're very welcome! I wish you the best of luck with your studies and exams. Take care, and don't hesitate to reach out if you need anything in the future!
+###################
+Consultant: Hello, Xiaohui! I'm really glad to see you again. How have you been feeling since our last session?
+
+User: Hi! I've been feeling pretty good, actually. My confidence has definitely improved, especially after doing well on the recent mock exam. My mom is very supportive, which helps a lot.
+
+Consultant: That’s wonderful to hear! It sounds like the encouragement from your mother and your exam performance have contributed to your boosting confidence. Can you tell me more about how you handle your emotions and communicate with your mother now?
+
+User: Well, I've started to talk to her more openly about my feelings, and I feel less afraid of disappointing her. When she praises me, it motivates me rather than puts pressure on me.
+
+Consultant: That’s an impressive change, Xiaohui. Open communication about feelings is so important. Let’s reflect on what you’ve learned from your past experiences in our sessions. How do you think they've helped you get to this point?
+
+User: I think I’ve learned to recognize when I'm feeling anxious and to manage those feelings. I also have some strategies now to deal with pressure from exams. 
+
+Consultant: Absolutely! Recognizing your feelings and having strategies in place are crucial steps forward. What specific strategies have you found most helpful so far?
+
+User: I’ve been using breathing exercises to calm down before exams, and I also make a study plan to break down my subjects into smaller parts.
+
+Consultant: Those are great techniques! How do you feel before and after using these strategies? 
+
+User: I feel much calmer before the exam now. And afterward, I’m mostly satisfied with my efforts, which feels good.
+
+Consultant: That’s really encouraging, Xiaohui. It seems like you’re making significant progress. So, moving forward, what would you like to focus on in our session today?
+
+User: I want to keep building on my emotional management and maybe find some new strategies to keep my communication with my mom strong.
+
+Consultant: That sounds like a solid plan! Let's summarize what you've achieved and then we can create a long-term emotional management plan together. How does that sound?
+
+User: That sounds good. I really want to continue improving and not just plateau.
+
+Consultant: Great mindset! First, let’s reflect on your progress. You’ve increased your confidence, improved communication with your mom, and developed effective study strategies. Which of these achievements are you most proud of?
+
+User: I’m most proud of being more open with my mom. I used to hide my feelings, but now we talk more easily.
+
+Consultant: That’s a significant change. How do you think this openness is contributing to your overall emotional well-being?
+
+User: I feel more supported and understood. Like I’m not alone in dealing with my struggles.
+
+Consultant: Feeling supported can be so comforting. Let’s talk about setting up a plan for maintaining this openness and emotional management. What do you think would help you continue on this path?
+
+User: Maybe regular check-ins with my mom to talk about school and my feelings? That might help keep our communication going.
+
+Consultant: That’s an excellent idea, Xiaohui! Having regular check-ins can foster an environment where both of you feel comfortable sharing. How often do you think these check-ins should happen?
+
+User: I was thinking maybe once a week, so it feels natural and not forced.
+
+Consultant: That sounds perfect. It’s a practical frequency that allows you both to stay connected. Alongside this, are there any specific techniques you’d like to explore further for emotional management?
+
+User: I would like to learn more about positive affirmations. I’ve heard they can help boost confidence.
+
+Consultant: Positive affirmations can indeed be powerful. Would you like to try creating some affirmations together for you to use when you study or before exams?
+
+User: Yes, I'd love that!
+
+Consultant: Great! How about we start with what you want to affirm about yourself regarding your studies and communication? 
+
+User: I want to say, "I am capable and deserve to succeed," and maybe "I communicate my feelings openly."
+
+Consultant: Those are fantastic affirmations! They reflect your growth and aspirations. Do you think you can include them in your daily routine?
+
+User: Yes, I can say them in the morning and write them in my planner.
+
+Consultant: That’s a thoughtful approach! Writing them down reinforces their power. Besides affirmations and check-ins, is there anything else you feel could support your emotional development?
+
+User: Maybe I could keep a journal to reflect on my feelings and progress.
+
+Consultant: A journal is a wonderful tool! It allows you to express your thoughts and feelings freely. Setting aside some time each week to write could really help. 
+
+User: I agree! I can make that part of my Sunday routine.
+
+Consultant: That sounds like a perfect plan. To recap, you’ll have weekly check-ins with your mom, practice positive affirmations daily, and keep a journal for reflection. How do you feel about all these strategies?
+
+User: I feel really good about them. I think they will help me continue to grow!
+
+Consultant: I'm confident you will see continued success, Xiaohui. It has been an incredible journey seeing your progress. As we wrap up, what do you think has been your biggest takeaway from our sessions together?
+
+User: My biggest takeaway is that I have the tools to manage my emotions and that I’m capable of changing my communication style. It really empowers me.
+
+Consultant: That’s beautifully said! Remember, you have the skills to maintain these positive changes. If challenges arise in the future, you’re always welcome to come back for guidance. 
+
+User: Thank you! I appreciate all your help.
+
+Consultant: You’re very welcome, Xiaohui. I’m proud of your achievements and I wish you the very best. Take care, and I hope to hear from you again if you need support in the future. Goodbye!
+
+User: Goodbye!
+###################

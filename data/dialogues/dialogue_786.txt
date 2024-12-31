@@ -1,0 +1,392 @@
+Consultant: Hello! I'm glad you're here today. I understand that you have some concerns about the upcoming physical examination for your graduate school application. Can you tell me more about what you're feeling?
+
+User: Hi. Yes, I'm really anxious about the physical examination coming up. My heart races just thinking about it, especially during the heart rate check. I'm terrified I won't pass and will miss this opportunity.
+
+Consultant: I hear you. The thought of the examination is causing a lot of fear and anxiety, particularly regarding how your heart rate might be perceived. Let's dive a bit deeper. What do you think is making you feel so worried about the heart rate check?
+
+User: I suppose I worry that if my heart is racing, it’ll make me look weak or unfit. I don't want them to see me as someone who can't handle the pressure.
+
+Consultant: That sounds like a lot of pressure to put on yourself. It's understandable to feel concerned about how you may be perceived. Can you share what thoughts go through your mind when you are in situations that increase your heart rate?
+
+User: I often think that everyone will judge me. I start imagining all these worst-case scenarios, like not being accepted into the program because I didn’t pass.
+
+Consultant: Those thoughts you’re having can indeed amplify your anxiety. When you find yourself thinking about potential judgment or negative outcomes, how does that make you feel in that moment? 
+
+User: It makes me feel even more anxious and trapped. I start to panic, and then I feel unprepared.
+
+Consultant: It seems like those thoughts are creating a cycle of anxiety. Let's try to identify any cognitive distortions in those thoughts. For instance, are you possibly thinking in extremes—like viewing the situation as all or nothing?
+
+User: Yes, I do tend to think that way. It feels like if I don't pass, then I have completely failed.
+
+Consultant: Recognizing that extreme thinking is a great first step. What if we challenged that thought? What evidence do you have that not passing would mean total failure in your life?
+
+User: I guess it wouldn’t mean total failure, but it feels that way because it’s such an important opportunity for me.
+
+Consultant: Exactly. It is crucial, but it's also important to remember that there are other paths. If a friend were in your situation, how would you advise them to look at this examination?
+
+User: I’d probably tell them to focus on giving their best and not to worry too much about what others think. 
+
+Consultant: That’s a wise perspective. Let's practice applying that to your situation. How might you approach this examination if you adopted that friend’s mindset?
+
+User: I suppose I could remind myself that completing the test is just one step in my journey and that it doesn't define me completely.
+
+Consultant: That's an excellent realization! Now, let's think about some tangible steps to manage the anxiety when the day arrives. Have you thought about any methods to calm yourself physically?
+
+User: I've been trying to use deep breathing, but sometimes it feels hard to focus when I'm really anxious.
+
+Consultant: Deep breathing can be very effective, even if it’s challenging to practice. Would you be open to incorporating some visualization techniques along with your breathing? This may help create a calmer mindset before and during the examination.
+
+User: That might be helpful. What kind of visualization are you referring to?
+
+Consultant: Imagine a peaceful place where you feel safe and relaxed. As you breathe deeply, visualize yourself in that space, feeling calm. During the examination, you could recall this image to help ease your anxiety. Do you think you could practice this in the lead-up to the exam?
+
+User: Yes, I think I would be able to do that. It sounds like a good way to distract myself from the anxiety.
+
+Consultant: I’m glad you feel that way! Practicing that visualization can be powerful. Let's also brainstorm some positive affirmations you can use to counteract those anxious thoughts. What could you say to yourself to promote calmness and confidence?
+
+User: Maybe something like, "I am capable, and I will do my best" could work.
+
+Consultant: That’s a fantastic affirmation. Consistently repeating affirmations can help rewire your thought patterns over time. How do you feel about integrating that into your routine?
+
+User: I think I can manage to do that daily. It could help to shift my mindset.
+
+Consultant: Absolutely! Consistency is key. As we prepare for your exam, let's also think about coping strategies for when you notice anxiety creeping in. What activities do you find soothing or enjoyable?
+
+User: I like going for walks, listening to music, or even watching a show I enjoy.
+
+Consultant: Great! Incorporating those activities when you're feeling anxious, especially as the exam date approaches, can be invaluable. How do you plan to balance study time with those relaxing activities?
+
+User: I'll schedule breaks to do things I enjoy while still fitting in some study time. It helps to break the cycle of stress.
+
+Consultant: That’s an excellent plan! Balancing productivity with self-care will help reduce anxiety. As we wrap up our time today, let’s summarize what we’ve discussed so far. 
+
+User: Okay. Today we talked about recognizing negative thought patterns, practicing visualization and deep breathing, and creating a balance between studying and enjoying my downtime.
+
+Consultant: Spot on! I'm proud of the progress you’ve made today. As you approach your exam, remember these techniques and remind yourself of your strength. How do you feel about moving forward with these tools?
+
+User: I feel hopeful and a bit more in control now. Thank you for guiding me through this.
+
+Consultant: You’re very welcome! You've taken a significant step today. As we finish, I want to encourage you to implement these strategies. If you ever feel stuck or need support again, don’t hesitate to reach out. 
+
+User: I will. Thank you again for your support. I really appreciate it.
+
+Consultant: It’s my pleasure! Best of luck with your upcoming exam. Remember, you’re capable, and you’ve got this!
+###################
+Consultant: Hello! I'm glad you're here today for our session. How are you feeling about the upcoming physical exam?
+
+User: Hi. I’m feeling really stressed about it. It’s coming up soon, and I can't help but feel anxious, especially with my past heart issues. I hope to find ways to relax and calm myself.
+
+Consultant: It's completely understandable to feel stressed, especially with your history and the pressure of the exam approaching. Let’s talk about what specifically makes you feel anxious and what you hope to achieve through our sessions.
+
+User: I think it's the fear of my heart acting up again during the exam. I just want to be able to breathe and not think about it so much.
+
+Consultant: That’s a valid concern. Managing that anxiety is important. You mentioned you learned some relaxation techniques. Can you share what you found helpful so far?
+
+User: I learned about deep breathing, but I haven’t tried it under pressure yet. I'm worried it won't work when I really need it.
+
+Consultant: It's great that you've started exploring deep breathing. It’s common to feel uncertain about how effective techniques will be in stressful situations. Let's do a quick exercise together now—would you be willing to try the deep breathing technique here?
+
+User: Sure, I can try that. I guess it can't hurt!
+
+Consultant: Excellent! Let's take a deep breath in through your nose… hold it for a moment… and now breathe out slowly through your mouth. How did that feel for you?
+
+User: It felt nice to take a moment to focus on my breath. I guess I just need to remember to do that when I'm feeling anxious.
+
+Consultant: Absolutely! Remembering to focus on your breathing when you start to feel anxious is key. We can practice this more each time we meet. Do you have other techniques in mind or situations where you think you might struggle?
+
+User: I think when I’m actually at the exam, I might panic and forget everything I learned.
+
+Consultant: That’s a common worry. The way to counteract this is through practice and preparation. We can simulate the exam environment and practice your deep breathing and other relaxation techniques. How does that sound to you?
+
+User: That sounds good. I think practicing in a similar setting might help.
+
+Consultant: Great! Let's say you're sitting in the room waiting for your name to be called. Can you envision that scene? What feelings start to come up for you in that moment?
+
+User: I feel my heart racing just thinking about it. I worry it’ll get worse when I’m actually there.
+
+Consultant: That sensation of a racing heart is definitely something we want to address. Let’s work on reframing that thought. Instead of focusing on the fear, what evidence do you have that your heart will be problematic?
+
+User: Well, I survived the last exam without major issues... but I still remember feeling really panicked.
+
+Consultant: It’s helpful to acknowledge your previous experience. So, there’s evidence that you can manage, even if it was tough. How can we build on that experience to enhance your confidence for this upcoming exam?
+
+User: Maybe I can remind myself of that success. I guess it's just hard to think about it in the moment.
+
+Consultant: That’s a common challenge, but reinforcing positive memories can be very powerful. What if we create a short mantra or phrase you can repeat to yourself when you start feeling anxious, perhaps something like “I can handle this”? Would that be helpful?
+
+User: I like that idea! I can definitely use something simple to help ground me.
+
+Consultant: Wonderful! By using that mantra, you can redirect your focus when anxiety arises. Let’s also practice it together now. Take a moment to breathe deeply, and then repeat, “I can handle this.” How does it feel to say it?
+
+User: It feels empowering! I think I can remember that in the moment.
+
+Consultant: Excellent! It’s all about building that confidence. As we continue our sessions, we’ll focus on deepening these skills. How are you feeling about your ability to use these techniques by the time of your exam?
+
+User: I feel more hopeful. If I keep practicing, I think I can manage it better.
+
+Consultant: That’s a fantastic mindset! Before we wrap up today, let’s summarize some key steps you can take leading up to the exam. 
+
+User: Okay, I should practice deep breathing and use my mantra when I feel anxious. 
+
+Consultant: Exactly! You also mentioned wanting to reinforce positive memories. Keep a brief record of moments when you felt calm and collected. This can serve as a reminder.
+
+User: I will definitely do that! I feel like I have a plan now.
+
+Consultant: I’m glad to hear that! You've made great progress today. Remember, it's perfectly normal to have doubts, but you now have tools to help regain control. 
+
+User: Thank you! I feel more confident about things. I’m looking forward to practicing what we discussed.
+
+Consultant: You’re welcome! I'm looking forward to our next session where we can continue this work together. Remember, you’re already on the right track. Take care until then!
+
+User: Thank you! I will. See you next time!
+###################
+Consultant: Hi there! It's great to see you again. How have you been feeling since our last session, especially regarding the upcoming health check?
+
+User: Hi! I've been a bit better, I think. I've shared my concerns with some friends, and it did help reduce my anxiety a little. But I still feel unsure about the health check, particularly because of my heart issues in the past.
+
+Consultant: It's good to hear that talking to friends has helped a bit. Reducing anxiety can be a gradual process. What specifically worries you the most about the health check coming up?
+
+User: I’m mostly worried about the results. I keep thinking about my previous heart issues and whether they might come back. 
+
+Consultant: That’s understandable. It sounds like the memories of your past health concerns are creating a lot of uncertainty for you. Can you tell me what thoughts go through your mind when you think about the health check?
+
+User: I often think, “What if they find something wrong again?” It makes it really hard to focus on anything else.
+
+Consultant: So, that thought of potentially finding something wrong feels overwhelming. It’s important to acknowledge that this thought is driving a lot of your anxiety. Let's explore this thought a bit—how likely do you think it is that the results will reflect something serious, based on your current health?
+
+User: I guess I don’t have any symptoms right now. My friends even remind me that I'm generally healthy. But the thought just keeps nagging at me.
+
+Consultant: It's great that your friends are supportive and that you recognize you lack symptoms. That’s an important point. Let’s think about this together: what evidence do you have that suggests your past issues will resurface during this check-up?
+
+User: I really don't have any solid evidence. It's just this fear that pops up and convinces me. 
+
+Consultant: Fear can be very convincing, can't it? But it isn’t always based on facts. Let’s try a little exercise: if a friend were in your shoes, what thoughts would you want them to consider to challenge that nagging fear?
+
+User: I’d probably tell them to focus on what’s true—like the fact that they have no symptoms and to think positively about the check-up. 
+
+Consultant: That’s a really positive approach! You’re already identifying ways to challenge that fear. Now, how can you use that advice on yourself as you prepare for your health check?
+
+User: Maybe I should remind myself of my positive health status more often and not dwell on the what-ifs. 
+
+Consultant: Exactly! Repeating positive affirmations and focusing on facts can gradually shift your mindset. Perhaps we could also incorporate some relaxation techniques before the health check to help manage anxiety? What do you think?
+
+User: I think that would be helpful. I could use some techniques to stay calm before the check-up.
+
+Consultant: Great! We can practice some breathing techniques or even visualization strategies that help you picture a positive outcome. Would you feel comfortable trying some of these techniques here now?
+
+User: Yes, I would like that. 
+
+Consultant: Fantastic! Let’s start with some deep breathing. Inhale deeply through your nose for a count of four, hold for four, and exhale through your mouth for a count of six. Let’s do this together a few times.
+
+User: Okay, I’m ready. Inhale… hold… and exhale. 
+
+Consultant: Excellent! You’re doing really well. With each breath, imagine that you’re releasing tension and inviting calmness into your body. How are you feeling now?
+
+User: I feel a little more relaxed. This is nice.
+
+Consultant: That’s wonderful to hear! The goal is to carry this sense of calm with you leading up to your health check. As we get closer to the date, let’s keep reminding ourselves of those positive affirmations and techniques. How does that sound?
+
+User: That sounds good. I like the idea of practicing this leading up to the health check. 
+
+Consultant: I’m glad to hear that! Remember, you have the tools to manage your anxiety. Before we wrap up today, let’s summarize what we discussed. What would you say are the key takeaways for you?
+
+User: I think the key is to challenge those negative thoughts, focus on what I know to be true about my health, and use breathing exercises to calm myself down.
+
+Consultant: Exactly right! You’re building a solid foundation for managing your anxiety. As we conclude today’s session, let’s also think about any potential challenges you might face and how you can address them.
+
+User: I might have times where the worry kicks in again, but I’ll try to use the techniques we practiced.
+
+Consultant: That’s a great plan! You’re learning to handle those challenges. I’m looking forward to hearing about your progress in our next meeting. You’ve made significant strides today. 
+
+User: Thank you! I'm feeling more hopeful about everything now.
+
+Consultant: You're very welcome! Remember, it’s all about taking small steps. If you need anything between now and our next session, don’t hesitate to reach out. Take care, and see you soon!
+###################
+Consultant: Hello! I'm happy to see you again today. Last time we talked, you mentioned feeling more stable after gaining some medical knowledge. How have you been since then?
+
+User: Hi! Yes, I feel much better now. Learning about my heart rate and how to measure it myself has helped calm my fears about the upcoming physical exam. 
+
+Consultant: That's great to hear! It sounds like the information you've gained has been useful in reducing your anxiety. Can you tell me a bit more about how you've been feeling about the physical exam itself?
+
+User: I still have this underlying worry, but it's not as overwhelming as it used to be. I think knowing more about what to expect has made a difference. 
+
+Consultant: It’s understandable to still have some worries, especially with an important exam coming up. You’ve made significant progress! What aspects of the exam do you feel more confident about now?
+
+User: I feel more confident about understanding my heart rate and how it's monitored. I think I can handle that part, but I’m still nervous about how I'll feel during the actual exam.
+
+Consultant: It makes sense to be nervous about the experience itself. Let's focus on that feeling. What thoughts do you have when you think about how you'll feel during the exam?
+
+User: I keep imagining that I'll panic or that my heart rate will spike dramatically, making it all worse. 
+
+Consultant: Those thoughts can be quite distressing. It sounds like you’re concerned about the worst-case scenario. Can we explore how accurate those thoughts might be? What evidence do you have that supports or contradicts this fear?
+
+User: I know that my heart rate can be affected by anxiety, but I've also read that if I stay calm, my heart rate should remain stable. 
+
+Consultant: That's a valuable insight! It seems like you have some knowledge that contradicts those panic thoughts. If we consider the possibility that you might stay calm and your heart rate might be normal, how does that change how you feel?
+
+User: It makes me feel a bit relieved to think that I could actually handle it. I just have to remember to breathe and stay focused.
+
+Consultant: Exactly! Taking deep breaths and maintaining focus can really help. Can you think of any specific techniques or tasks we could practice to reinforce that calmness before the exam?
+
+User: Maybe I could practice deep breathing and simulate the exam situation a few times. It might help to get used to it.
+
+Consultant: Great idea! Simulating the experience could provide a sense of familiarity and control. How about we set a plan for this practice? We can schedule a few mock exams where you apply what you’ve learned about your heart rate.
+
+User: That sounds helpful. I think I could do that a couple of times before the exam. 
+
+Consultant: Perfect! When do you think you could start practicing? Setting specific times can help reinforce the habit.
+
+User: I could try one tomorrow and then again a couple of days later. 
+
+Consultant: Sounds like a solid plan! How do you feel about committing to practice these mock exams in the upcoming days?
+
+User: I feel good about it. It gives me something to focus on instead of just worrying. 
+
+Consultant: That’s the spirit! Focusing on actionable steps can help redirect that anxiety into something productive. Remember, it’s all about building that confidence as you practice. 
+
+User: Yes, I believe that. I also want to keep reminding myself that it’s just a test, and I’ll be fine regardless of the outcome.
+
+Consultant: That’s a healthy perspective! Keeping the exam in its proper context is crucial. What can you tell yourself when those anxious thoughts start to creep in?
+
+User: I can tell myself: “I prepared for this, and I know how to handle my heart rate.” 
+
+Consultant: That’s an excellent affirmation! It reinforces your preparation and capability. Let’s make sure you have that mantra ready for when you need it. 
+
+User: I will make a note of it. I think it will help a lot. 
+
+Consultant: I believe it will. And as you integrate these practices into your routine, also pay attention to any progress or positive feelings you notice. How do you think you’ll feel after completing your mock exams?
+
+User: Hopefully more confident! If I see that I can manage my heart rate in those situations, it should ease my worries. 
+
+Consultant: Absolutely. Building that confidence in a controlled setting will translate to the actual exam. You’re setting yourself up for success! 
+
+User: Thank you! I’m actually starting to feel excited about applying what I’ve learned. 
+
+Consultant: I’m excited for you too! It’s rewarding to see your mindset shift this way. Before we wrap up, is there anything else on your mind regarding the exam or our session today?
+
+User: No, I think we covered everything. I feel much more prepared now. 
+
+Consultant: That’s wonderful to hear! Remember, you’ve made a lot of progress and have a solid plan moving forward. Keep practicing those techniques, and trust yourself. 
+
+User: I will! Thank you so much for your help.
+
+Consultant: You're very welcome! I'm proud of you for taking these steps. This is our last session for now, but don’t hesitate to return if you need support in the future. Good luck! 
+
+User: Thanks! I really appreciate it.
+###################
+Consultant: Hello! I'm glad to see you here today. How have you been feeling since our last session?  
+
+User: Hi! I've been pretty encouraged lately. I did a mock physical examination and felt like I managed my anxiety pretty well, although my heart rate was still a bit fast.  
+
+Consultant: That sounds like a positive experience! It’s great to hear that you felt more in control during the mock exam. How does that increase your confidence for the upcoming official examination?  
+
+User: It definitely makes me feel more confident, knowing that I can handle the situation better. I hope to keep that feeling going for the real thing.  
+
+Consultant: Maintaining that confidence is important. What specific strategies do you think you could use to help manage your anxiety when the official examination comes?  
+
+User: I think practicing breathing exercises helped during the mock exam. I might do that again to calm myself before the real exam.  
+
+Consultant: Breathing exercises can be very effective. Can you tell me about your feelings right before you started the mock exam? What went through your mind?  
+
+User: I was definitely nervous, but I kept reminding myself that it was just practice and that I could control my anxiety. It helped me keep calm.  
+
+Consultant: That’s an excellent technique—reminding yourself that it’s practice can provide some perspective. Have you noticed any automatic thoughts that come up when you feel anxious?  
+
+User: Yeah, I sometimes think things like, “What if I fail?” or “What if my heart races and I can’t handle it?”  
+
+Consultant: Those thoughts can be quite challenging, and they can create additional anxiety. How might you challenge those thoughts? What alternative thoughts can you replace them with?  
+
+User: I could remind myself that it’s okay to be nervous and that I've done well in practice before. I can also think about the steps I can take if I feel anxious during the exam.  
+
+Consultant: Those are powerful alternative thoughts! Acknowledging that anxiety is normal and focusing on your coping strategies can make a big difference. Do you have specific coping steps in mind that you would like to practice?  
+
+User: Yes, I want to practice the breathing exercises and possibly visualize myself in the exam room, handling everything well.  
+
+Consultant: Visualization can be a great tool! Picture yourself entering the exam room, staying calm, and managing your heart rate with those breathing exercises. How does that visualization make you feel?  
+
+User: It actually makes me feel a bit more at ease. I can see myself doing well.  
+
+Consultant: That’s wonderful! Creating a positive mental image can help reinforce your confidence. Let’s also think about how you can review your achievements after the exam. How can you reflect on your experiences to maintain your newfound confidence?  
+
+User: I could write down what went well and remind myself of the steps I took to manage my anxiety. It would help to look back on it.  
+
+Consultant: That’s a great approach! Keeping a record of your successes can reinforce your self-efficacy. As we wrap up today, what are you most hopeful about regarding the upcoming examination?  
+
+User: I’m hopeful that I can handle it and that I’ll feel good about myself afterward, regardless of the outcome.  
+
+Consultant: That’s a positive outlook! I’m glad to hear that you are focusing on your effort rather than just the result. Remember, it’s the process that counts. How do you see yourself using these strategies during the actual exam?  
+
+User: I’ll definitely use the breathing techniques and my positive self-talk. I think they’ll really help to keep me calm and focused.  
+
+Consultant: Absolutely! You have a solid plan. As we conclude today, what do you feel is your biggest takeaway from this session?  
+
+User: I think my biggest takeaway is realizing that I can control my anxiety with specific techniques and that I'm more capable than I thought.  
+
+Consultant: That’s a significant realization! I’m proud of you for making this progress. As you continue preparing, keep reminding yourself of the control you have over your feelings and actions. If you need to talk again, I’m here for you.  
+
+User: Thank you! I appreciate your support and guidance.  
+
+Consultant: You’re very welcome! Take care, and I look forward to hearing about your success in the future.
+###################
+Consultant: Hello! I'm glad to see you again today. As we begin, I'd like to reflect on our past sessions. How have you been feeling since we last spoke?
+
+User: Hi! I've been feeling quite stable emotionally. I’m actually pretty excited about my upcoming graduate studies after successfully passing the health assessment. 
+
+Consultant: That’s wonderful to hear! It's great that you're feeling stable and looking forward to this new chapter. Can you share more about what aspects of your future studies excite you the most?
+
+User: I think I'm excited about diving deeper into my field of study and being able to engage with peers who share similar interests. It feels like an opportunity for growth.
+
+Consultant: It sounds like you're really looking forward to the community and the learning opportunities ahead of you. Reflecting on your experiences in our sessions, what do you think have been the most helpful strategies for managing your anxiety?
+
+User: I believe the strategies around reframing negative thoughts and focusing on my achievements have really helped. I feel like I have a better grip on my feelings now.
+
+Consultant: That's great to hear! Recognizing your achievements and reframing those thoughts can be quite powerful. What strategies do you think you'll continue to use as you move forward, particularly as you transition to graduate studies?
+
+User: I think I’ll keep reminding myself of the successes I’ve had. It’s easy to slip into worry, but recalling what I've achieved helps me stay grounded.
+
+Consultant: Absolutely! Remembering your successes can act as a strong anchor during challenging times. Are there any specific situations you worry about when transitioning to this new phase?
+
+User: Sometimes I worry about the health assessments in this new program. I’ve had some health issues in the past, and I hope they won’t resurface during my studies.
+
+Consultant: It’s completely understandable to have concerns about health, especially given your history. Let’s talk about those worries; how do they affect you when you think about the assessments?
+
+User: I feel a bit anxious whenever I think about them. It's like I start to doubt if I can handle the pressure again, even though I know I’ve done well recently.
+
+Consultant: That makes sense. Acknowledging those fears is important. When you feel that doubt creeping in, what thoughts often accompany it?
+
+User: I think I often tell myself that I should be perfect or that one mistake could derail everything I’ve worked for. 
+
+Consultant: Those thoughts sound quite heavy. It’s common to put pressure on ourselves to be perfect. Let’s challenge that a bit—what would you say to a friend who expressed similar feelings?
+
+User: I’d probably tell them that everyone makes mistakes and that it’s alright; it doesn’t define their whole journey.
+
+Consultant: Exactly! Offering kindness to others can often be easier than extending it to ourselves. How might you apply that same perspective to your own situation?
+
+User: I guess I could remind myself that it's okay to be human and that setbacks don’t mean failure. I’ve overcome challenges before.
+
+Consultant: Yes! That’s a powerful insight. Focusing on resilience can help cultivate a more compassionate inner dialogue. What new strategies could you incorporate from our discussions to further strengthen this mindset?
+
+User: I could create a list of my past achievements and remind myself of them regularly. It would be a quick reference to boost my confidence.
+
+Consultant: That’s an excellent idea! Keeping a visible reminder of your achievements can help reinforce your self-worth during stressful times. Would you like to explore any potential obstacles to using this strategy?
+
+User: I sometimes forget to look at it when I’m overwhelmed, but I think setting reminders might help.
+
+Consultant: Setting reminders sounds like a solid plan. Perhaps you can set small daily or weekly goals to check in with that list. How does that sound to you?
+
+User: That sounds doable! I like the idea of regular check-ins; it feels more manageable.
+
+Consultant: Fantastic! Regularly reaffirming your strengths can create a positive cycle. As we begin to wrap up, what do you feel has been your most significant takeaway from our sessions together?
+
+User: I would say the importance of self-compassion. Understanding that it’s okay to be imperfect really helps ease my anxiety.
+
+Consultant: That’s a profound realization! Self-compassion is a vital tool in managing anxiety and adapting to new challenges. As we conclude, let’s talk about how you plan to maintain this perspective going forward.
+
+User: I plan to keep practicing the strategies we discussed, like reframing thoughts and focusing on my achievements. I’ll also continue to seek support if I ever feel overwhelmed.
+
+Consultant: That sounds like a solid and proactive approach. Remember, you’ve built a strong foundation, and you can always reach out for support if needed. This is our last session for now, but I have full confidence in your ability to manage your journey. 
+
+User: Thank you! I appreciate all your help. I feel ready to face the challenges ahead.
+
+Consultant: You’re very welcome! It's been a pleasure working with you. Best of luck with your graduate studies, and remember, the door is always open if you need to return for support.
+###################

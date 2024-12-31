@@ -1,0 +1,374 @@
+Consultant: Hello, I'm glad you're here today. I want to check in on how you've been feeling lately. It sounds like you've been facing some challenges. Could you share what’s been on your mind?
+
+User: Hi! Yeah, I’ve been feeling really lost recently. All my classmates keep talking about finding jobs and "having connections," and it makes me feel like I’m falling behind. I can't sleep well at night, and I just feel drained during the day.
+
+Consultant: That sounds really tough. Feeling lost and overwhelmed by those discussions can definitely weigh on you. What do you think contributes most to your feelings of being behind or disconnected from your classmates?
+
+User: I think it’s just this pressure. I come from a family that can’t really provide me with any connections. Sometimes I feel like I don't even belong in this environment. 
+
+Consultant: I appreciate you sharing that with me. It’s understandable to feel that way given your background and the pressures around you. Has this sense of not belonging affected your social interactions lately?
+
+User: Yes, it has. I’ve started to pull away from social activities. I used to enjoy hanging out, but now I dread it. It feels like everyone is talking about their future, and I don’t even know where I’m headed. 
+
+Consultant: It's common to withdraw when we feel anxious or inadequate. Avoiding those interactions might provide temporary relief, but it can also make things feel lonelier. What would it look like for you to gradually engage with others again?
+
+User: I guess it would help if I could just feel a bit more confident in myself or my future. Maybe if I had a clearer plan, I’d feel less anxious about socializing.
+
+Consultant: That makes sense. Gaining clarity could definitely help you feel more confident. Let’s think about some small steps you could take to build that sense of direction. What goals or plans do you currently have for your studies or future?
+
+User: I’m really not sure. I’ve been focusing on just passing my classes lately, but I feel like I’m not doing enough. I don’t have any particular career in mind either.
+
+Consultant: It's okay to feel uncertain, especially with so much on your plate. Let’s explore your thoughts a bit more. What do you think about your current study habits? Are they helping you achieve the grades you desire?
+
+User: No, not really. I find it hard to concentrate and often feel exhausted. I’ve been sleep-deprived, which doesn’t help at all.
+
+Consultant: It sounds like your lack of sleep is contributing to your struggles with focus. Improving your sleep could positively impact your motivation and clarity. Have you considered any relaxation techniques or routines to help with your sleep?
+
+User: I haven’t really tried anything specific. I just lay in bed, staring at the ceiling. It’s so frustrating.
+
+Consultant: That frustration is completely valid. Sometimes creating a bedtime routine can help signal your body that it's time to wind down. Would you be open to trying some relaxation exercises or setting a nighttime routine to improve your sleep?
+
+User: I think I could try that. It can't hurt, right?
+
+Consultant: Exactly! Sometimes small changes can lead to significant improvements over time. What kind of activities do you think you might enjoy incorporating into your bedtime routine?
+
+User: Maybe reading or listening to calm music. I used to enjoy those things before my sleep issues started.
+
+Consultant: Both reading and listening to music can be great ways to relax. Let’s commit to setting aside time for one of them before bed. How does that sound?
+
+User: That sounds good! I’ll try to set aside about 20 minutes each night for that.
+
+Consultant: Excellent! Now, let’s address the feelings of uncertainty about your future. Can we identify any beliefs you have about your abilities and your path that might be holding you back right now?
+
+User: I often think I won’t be good enough for anything great. When I hear people talk about their parents' connections, I feel like I won't make it on my own. 
+
+Consultant: That belief can be quite limiting. Let's challenge that thought. Can you think of any evidence that would suggest you are capable of achieving your goals despite those feelings?
+
+User: I mean, I am passing my classes, and I do put in a lot of effort. I suppose that counts for something.
+
+Consultant: Absolutely! Your effort and ability to pass classes are significant indicators of your potential. What might happen if you started viewing your efforts more positively rather than focusing on the external comparisons with others?
+
+User: I might feel a bit more hopeful, I guess. I just need to remind myself that everyone has their own journey.
+
+Consultant: Yes, that’s a healthy perspective to adopt. Recognizing that everyone has different paths can help alleviate some pressure. As we wrap up today, what specific strategies will you commit to for moving forward?
+
+User: I will try to create a bedtime routine with some reading or music, and I’ll work on focusing on my effort in school rather than comparing myself to others.
+
+Consultant: That sounds like a fantastic plan! Remember, it's okay to feel uncertain; the key is to keep moving forward at your own pace. I’m looking forward to hearing about your progress in our next session. You’re doing great!
+
+User: Thank you! I appreciate your help and understanding. I feel a little more motivated now. 
+
+Consultant: I'm glad to hear that! Take care until we meet again. Remember, you're not alone in this.
+###################
+Consultant: Hello! I'm really glad to see you today. How have you been feeling since our last session?
+
+User: Hi. I’ve been feeling quite overwhelmed. The pressure from my studies is really weighing me down. I’ve been struggling to sleep at night, and during the day, I’m constantly tired. I feel like my efforts aren’t leading to the results I want.
+
+Consultant: I hear you. It sounds like you’re dealing with a lot of stress and frustration from your studies. Let’s take some time to talk about how this has been affecting you. Can you tell me more about what specific aspects of your studies are causing you the most anxiety right now?
+
+User: Sure. It's mainly the upcoming exams and the fact that my grades aren't as good as I expected. I often find myself comparing with my peers, and it just makes me feel more inadequate.
+
+Consultant: It’s really tough to feel that way, especially when you're comparing yourself to others. That can really amplify feelings of inadequacy. What thoughts come to your mind when you think about your grades compared to your peers?
+
+User: I think that no matter how hard I study, it’s just never enough. I often tell myself that I’m not smart enough, and maybe I don't belong here.
+
+Consultant: It sounds like you have some very harsh thoughts about your abilities. It’s understandable to feel pressured, especially in a competitive environment. But let’s dig a bit deeper. Can you think of any evidence that might contradict the idea that you’re not smart enough?
+
+User: Well, I have passed my courses so far, but it doesn’t feel like enough since I see others doing better.
+
+Consultant: That’s an important realization. You have succeeded in your studies, and passing is an achievement. It’s hard when the focus is on comparison, but it doesn’t take away from your successes. How do you think you might change that perspective when you start to feel inadequate?
+
+User: Maybe I need to remind myself that passing is an accomplishment in itself. Perhaps focusing on my progress rather than others’ results could help.
+
+Consultant: That sounds like a constructive approach! Focusing on your own journey can lessen the pressure. Can you recall a time when you felt proud of what you achieved academically?
+
+User: Yes, I had a project last semester that I worked really hard on and ended up getting good feedback from my professor. I felt really proud then.
+
+Consultant: That’s wonderful to hear! Achieving good feedback is a testament to your hard work and abilities. You can use that success as a reminder of what you’re capable of achieving. How can you integrate this mindset into your study routine moving forward?
+
+User: I could try to set smaller goals for myself rather than looking at the bigger picture all the time. That way I can celebrate small wins and build my confidence.
+
+Consultant: Exactly! Setting smaller, achievable goals can help you build momentum and feel a sense of accomplishment. What kind of small goals can you think of that would be relevant to your current study tasks?
+
+User: I could aim to study for two hours each day, and then reward myself with something small, like a short break or a snack.
+
+Consultant: That's a great plan! Structuring your study time like that is a positive way to create a routine. How do you feel about adding a bit of a social aspect to your study time, even if it's just connecting with a classmate?
+
+User: I think that could help. I’ve been avoiding socializing, but maybe if I study with someone, it could ease the pressure a bit.
+
+Consultant: That sounds like a wonderful idea! Studying with someone can provide support and make it less daunting. What thoughts come to mind when you think about reaching out to a classmate?
+
+User: I’m a bit nervous. I worry that they won’t want to study with me since I feel so out of place.
+
+Consultant: It’s perfectly normal to feel nervous about reaching out. But remember, many students feel the same way at times. You might be surprised by how open others are to collaborating. What could you say to initiate a study group?
+
+User: Maybe I could start by asking if they’d like to study together for the upcoming exam. I could mention that I think it might help both of us.
+
+Consultant: That sounds like a straightforward and friendly approach! It shows that you’re looking for a win-win situation. How would it feel for you if they agree to study with you?
+
+User: I think I’d feel more relaxed knowing I have someone to share the workload and anxiety with.
+
+Consultant: That's a lovely outlook. Sharing your experiences with others can help lighten the emotional load. Let’s talk about how you might handle any potential rejection or response that isn’t what you hope for.
+
+User: I guess I’d need to remind myself that it’s not a reflection of my worth. It’s just one person’s choice.
+
+Consultant: Absolutely! Their response does not define your value. It’s a tough lesson but an important one. How do you think you can prepare yourself emotionally for that possibility?
+
+User: I could remind myself of my achievements and that I’m taking steps to improve instead of dwelling on the negative.
+
+Consultant: That’s a solid strategy! Keeping a list of your achievements can serve as a great reminder during tougher moments. Before we wrap up today, if you could identify one key takeaway from our session, what would it be?
+
+User: I think the main takeaway is to focus on my journey rather than comparing myself to others. Setting smaller goals and reaching out for help can really make a difference.
+
+Consultant: That’s a powerful insight! I’m proud of you for recognizing that. So, moving forward, you’ll focus on smaller goals and seek social connections to help support your studies. Are you feeling more hopeful about implementing these changes?
+
+User: Yes, I do feel more hopeful! Thank you for guiding me through this today.
+
+Consultant: You’re very welcome! I’m glad to hear that. Just remember that change takes time, and it's perfectly fine to take small steps. I look forward to hearing about your progress in our next session. Take care!
+###################
+Consultant: Hello! I'm glad you're here for this session. I remember last time we discussed your feelings of anxiety and frustration about trying to reconnect socially. How have things been since then?
+
+User: Hi. Well, I tried attending a couple of group meetings, but I just felt out of place and ended up leaving early. It made me feel even worse about myself.
+
+Consultant: That sounds really discouraging. It’s completely understandable to feel frustrated when trying to connect but not having the experience you hoped for. What thoughts were going through your mind during those moments when you felt out of place?
+
+User: I kept thinking that I shouldn't have even gone. I felt like everyone was judging me and that I didn’t belong there at all.
+
+Consultant: Those thoughts can be quite overwhelming, and it's tough when you feel judged. Can you remember how those thoughts made you feel physically or emotionally in that moment?
+
+User: I felt really anxious, like my heart was pounding. It was hard to breathe, and I just wanted to escape.
+
+Consultant: It makes sense that those thoughts would lead to such strong physical reactions. Let's explore that anxiety a bit. What do you think might happen if you tried attending one of those meetings again?
+
+User: I’m afraid it would be the same, or even worse. I don't want to embarrass myself again.
+
+Consultant: That fear of embarrassment can be very powerful. I'm curious, though—what would you say to a friend who was worried about facing a similar situation?
+
+User: I guess I would tell them it’s okay to try again and that everyone makes mistakes. They should not let one bad experience stop them.
+
+Consultant: That's a compassionate way to support a friend. What if you tried to apply that same kind of understanding to yourself? What would change for you if you allowed yourself to view that past experience as just one step in a learning process?
+
+User: Hmm, that might help. I could see it as practice rather than a complete failure. Maybe I shouldn’t be so harsh on myself.
+
+Consultant: Absolutely! It’s all about progressing and learning. Would you be open to trying a small experiment for our next session, like setting a goal to try interacting in a social situation for a short time? We could discuss how you’d prepare mentally.
+
+User: Yes, I think that could work. It might be less scary if I have a plan.
+
+Consultant: Great! Let’s work together on a simple plan. What’s one small step you could take to prepare mentally for that situation?
+
+User: Maybe I could practice some conversation starters or think about how to manage my anxiety if it starts to creep in.
+
+Consultant: That’s an excellent idea! Practicing conversation starters can help ease you into interactions, and having strategies for managing anxiety will empower you. How can you start that practice this week?
+
+User: I can write down a few conversation starters and rehearse them in front of a mirror or even with a friend.
+
+Consultant: That sounds like a productive approach. How might you feel about using that practice as a way to get comfortable before your next social event?
+
+User: It sounds less intimidating when I think about it like that. I feel like preparing could really help.
+
+Consultant: Absolutely, preparation can make a big difference. As you practice, remember to be kind to yourself and focus on the effort rather than the outcome. How do you feel about approaching your next social gathering now?
+
+User: I feel slightly better about it. It’s nice to think that I’m making an effort instead of just avoiding it.
+
+Consultant: That’s a positive shift! Embracing this effort is a big step forward. What would it mean for you to keep showing up, even if it’s just for a little while at a time?
+
+User: It would mean I’m actually trying to change things. I don’t want to give up, and maybe I could eventually enjoy it.
+
+Consultant: Exactly! That persistence is important. Remember, every small step is progress. How can we celebrate those small successes as you continue on this journey?
+
+User: Maybe by acknowledging them when they happen? I can also share my progress with you.
+
+Consultant: That’s a wonderful strategy! Sharing your experiences will help us recognize your growth. What is one small success you’d like to focus on for our next session?
+
+User: I want to focus on actually attending the next gathering, even if it's just for a short time.
+
+Consultant: I love that goal! Attending, even briefly, is an achievement. How are you feeling about our session today?
+
+User: I feel encouraged. I like having a plan and support. 
+
+Consultant: I’m glad to hear that! Remember, you’re not alone in this. I’m excited to hear about your experiences next time. Let’s keep working together to build your confidence. 
+
+User: Thank you! I'm looking forward to it as well. 
+
+Consultant: You're very welcome! Take care until we meet again, and remember, you're doing great!
+###################
+Consultant: Hello! Welcome to today's session. I'm glad to see you again. Last time, we discussed your experience with participating in the interest group and how it brought you some joy. How have you been feeling about that since then?
+
+User: Hi. I've been feeling a bit better actually. I still have moments of anxiety, but I find myself looking forward to the group activities more now. It's a nice change.
+
+Consultant: That's wonderful to hear! It sounds like you're starting to embrace the positive aspects of participating in the group. Can you share what you enjoy most about these activities?
+
+User: I like the sense of community and how everyone is supportive. It's a relief to be around people who are friendly and encouraging.
+
+Consultant: That sense of belonging can be really powerful, especially during stressful times. You’ve mentioned that you're feeling some anxiety still, though. What specific thoughts or feelings arise when you think about continuing in these activities?
+
+User: Sometimes I worry whether I will fit in or if I’ll say the wrong thing and embarrass myself. It makes me hesitant to engage fully.
+
+Consultant: Those feelings are completely understandable. It’s common to worry about fitting in or making mistakes in group settings. What if we take a moment to explore the evidence for those worries? Can you think of any times when you felt accepted or connected with the group?
+
+User: Actually, during our last meeting, everyone was really welcoming. They encouraged me to share my thoughts, and it felt good. I guess it wasn't as bad as I feared.
+
+Consultant: That’s a great insight! It sounds like you had a positive experience that counters your worries. What do you think it would be like to focus on those encouraging moments rather than the fears next time you join them?
+
+User: It might help if I remember how supportive they were. I guess I just need to keep that in mind.
+
+Consultant: Absolutely! Keeping those positive experiences in your mind can help shift your perspective. How about setting a small goal for the next meeting? Perhaps something like sharing a thought or participating in a discussion. How does that sound?
+
+User: That sounds doable. I could try to contribute at least once next time.
+
+Consultant: That’s a fantastic goal! Small steps can lead to bigger changes. What do you think will help you feel more comfortable achieving that?
+
+User: I could remind myself that everyone else is just like me—trying to connect and share. Plus, I could prepare a little before I go, just to have some thoughts ready.
+
+Consultant: That’s a smart approach! Preparing can give you more confidence. Let’s also think about what other activities interest you. Are there any other groups or events you might want to explore to expand your experiences?
+
+User: I’ve thought about a volunteering group. It sounds nice to give back, and I think it would help me meet more people.
+
+Consultant: Volunteering is a wonderful idea! It can help you connect with others while also making a positive impact. Would you like to set a goal around exploring that option?
+
+User: Yes, I can look into a few volunteering opportunities this week. That seems manageable.
+
+Consultant: Perfect! Exploring new activities can open up even more avenues for connection. Remember, it’s about finding what feels right for you. How do you feel about the steps we’ve outlined today?
+
+User: I feel pretty good about it. It seems achievable and I’m excited to try again.
+
+Consultant: I’m really glad to hear that! It’s all about progress, not perfection. As we wrap up, let's reflect a bit. What do you think has been your biggest takeaway from today’s conversation?
+
+User: I think realizing that I’ve had good experiences really helps counter my fears. And I just need to keep trying.
+
+Consultant: That’s a significant realization! Recognizing the positive can bolster your confidence moving forward. As you continue to engage and try new things, you’ll cultivate even more of that self-efficacy. Before our next session, remember these steps, and if anything comes up, don’t hesitate to reach out.
+
+User: I will! Thank you for helping me through this. It’s nice to talk about these things.
+
+Consultant: You’re welcome! I'm here to support you. I believe in your ability to grow and thrive. Until next time, take care, and keep exploring those positive experiences!
+
+User: Thank you! I look forward to our next meeting.
+###################
+Consultant: Hello! It's great to see you today. I'm excited to explore how you've been feeling and your recent experiences. How can I assist you in our session?
+
+User: Hi. I've been feeling a mix of emotions recently. I had the opportunity to organize an event at school, and it felt really fulfilling. But now I find myself a bit lost about where to go from here, especially regarding my career.
+
+Consultant: It sounds like you've had a wonderful experience with organizing the event, and it's great to hear that it brought you some fulfillment! Let's delve into those feelings a bit deeper. Can you share more about what aspects of the event made you feel accomplished?
+
+User: I enjoyed the whole process of planning, coordinating, and seeing it all come together. It felt like I could make a real impact. But now, I just don’t know how to translate that experience into my future career.
+
+Consultant: That's a valuable insight. It seems you discovered a sense of self-efficacy through organizing the event. Now, let’s explore what specific skills you used during the organization that you can apply to your future career goals. What do you think those skills might be?
+
+User: I think I developed my leadership skills and also improved my communication with others. I felt like I managed to bring people together and keep everyone focused on the goals.
+
+Consultant: That's wonderful! Leadership and communication are crucial skills in many fields. Do you have any ideas about what career paths might allow you to use those strengths?
+
+User: I've thought about project management or event planning, but I'm not really sure if that's what I want to commit to.
+
+Consultant: It's perfectly normal to feel uncertain when considering career paths. Let’s think about this—what would be appealing for you in a job? Are there specific environments, tasks, or types of teams that excite you?
+
+User: I enjoy working with people and being in dynamic environments where I can problem-solve. But I also worry that I might not be good enough to succeed in such roles.
+
+Consultant: It’s completely understandable to have doubts, especially when thinking about new responsibilities. Let’s challenge that negative thought together. What evidence do you have that might support or dispute that concern about not being good enough?
+
+User: Well, I did manage to pull off that event successfully. People seemed happy, and I got a lot of positive feedback afterward.
+
+Consultant: That’s a significant piece of evidence to consider! You’ve demonstrated your capability by organizing the event successfully. Let’s explore ways to build your confidence further. What small steps could you take that align with your interest in project management or similar fields?
+
+User: I could maybe volunteer for more events or internships to gain more experience. That sounds manageable.
+
+Consultant: Absolutely! Volunteering and internships would be an excellent way to gain experience and clarify your career direction. What do you think would motivate you to seek out those opportunities?
+
+User: I think knowing it will help me build my skills and give me a better idea of what I want would keep me motivated.
+
+Consultant: That’s a great motivation! Setting specific goals for these opportunities can help as well. Let’s brainstorm a few achievable goals for you in the next few months.
+
+User: Perhaps I could aim to volunteer for at least one event each month and look into internships over the summer?
+
+Consultant: Those sound like realistic and achievable goals! How do you feel about setting that as a plan? And what might you do if you encounter challenges along the way?
+
+User: I might remind myself of the positive feedback I received and also try to stay connected with peers who can support me.
+
+Consultant: Exactly! Staying connected with supportive peers can make a huge difference. As we get close to wrapping up, can we reflect on the progress you've made today? What stands out to you as your biggest takeaway?
+
+User: I feel more organized regarding my career path now. I’ve learned that I can build on my strengths and take practical steps toward my goals.
+
+Consultant: That’s fantastic to hear! You’ve made significant progress in clarifying your career aspirations. As you move forward, what are some strategies you can use to maintain your motivation?
+
+User: I’ll remind myself of my accomplishments, stay engaged in supportive communities, and set small, achievable goals.
+
+Consultant: Those are excellent strategies! I believe you’re well on your way to exploring your potential and discovering your path. Remember, it’s a journey, and it's okay to take it step by step. If you ever find yourself needing assistance again, don't hesitate to reach out.
+
+User: Thank you! I really appreciate your help today. I feel hopeful about what's next.
+
+Consultant: You're very welcome! It’s been a pleasure working with you. Take care of yourself, and I look forward to hearing about your progress in the future. Goodbye for now!
+###################
+Consultant: Hello there! I'm really glad you joined me today. I remember we discussed your feelings about your career direction last time, and it sounds like you're starting to feel a bit more hopeful. How are you feeling now?
+
+User: Hi! Yes, I feel somewhat clearer about my career goals after attending that career planning seminar. But I still find myself a bit overwhelmed with all the possibilities. 
+
+Consultant: That's completely understandable. Career planning can feel quite overwhelming at times, especially with so many options. What specific thoughts or feelings come to mind when you think about your career options?
+
+User: I feel excited but also anxious because I want to make the right choice. I don't want to end up in a field I won't enjoy.
+
+Consultant: It’s great that you feel excitement about the possibilities! That anxiety you're feeling is normal too. Let's focus on what you really enjoy. Can you share what aspects of your studies or interests you find most fulfilling?
+
+User: I really enjoy working with people and solving problems. I've been thinking about roles in community services or maybe something in education.
+
+Consultant: Those are valuable interests! Working with people and problem-solving are great foundations for many career paths. It sounds like community services and education resonate with you. What attracts you to those fields specifically?
+
+User: I think it's the opportunity to make an impact. I want to help others and contribute positively to their lives, maybe even guide them in their own paths.
+
+Consultant: Making an impact is such a noble goal! It seems like you value helping others, which is a powerful motivator. Have you had any experiences, such as volunteering or internships, that align with these interests?
+
+User: I volunteered at a local youth center last summer, and I loved it. It was rewarding to see the kids learn and grow with my support. 
+
+Consultant: That sounds like a wonderful experience! It must have felt fulfilling to support those kids. How did that experience influence your thoughts about your future career?
+
+User: It definitely confirmed that I want to work with people, but I’m still unsure how to turn that into a specific job. 
+
+Consultant: Finding the right job that aligns with what you enjoy can take time. Would it help if we explored some potential career paths together that might match your goals in community services or education?
+
+User: Yes, I would appreciate that. I feel lost when I think about the next steps.
+
+Consultant: Let's break it down. First, we can research different roles in community services and education. For instance, have you looked into roles like a counselor, teacher, or community coordinator? 
+
+User: I haven’t looked too deeply into it. I know a bit about teaching, but I haven’t considered counseling or coordination roles.
+
+Consultant: Those roles can be very rewarding as well. Counseling can allow you to support individuals one-on-one, while community coordination can let you organize programs to benefit many people at once. Which of those roles sounds most appealing to you now?
+
+User: I think counseling sounds intriguing, but I'm worried it requires a lot of training and education. 
+
+Consultant: It does require additional training, which can feel daunting. However, pursuing something you're passionate about often makes the effort worthwhile. You might also find that during the process, your confidence and skills grow. What steps do you think you would need to take to pursue counseling?
+
+User: I’d probably need to research programs and see what qualifications I would need. But honestly, I’m a bit scared to take that first step.
+
+Consultant: Fear of starting something new is a common feeling. It might help to break it down into smaller, more manageable steps. Would it be helpful if you set a goal to spend some time researching counseling programs this week?
+
+User: That sounds manageable. I can try to look up information online.
+
+Consultant: Perfect! Setting a small, achievable goal can help build your confidence. Remember, taking one step at a time is totally okay. How do you feel about embarking on this research?
+
+User: I feel a bit more motivated now. Breaking it down makes it feel less overwhelming.
+
+Consultant: That’s fantastic to hear! Motivation can really help in navigating uncertainty. Along with your research, would you like to discuss any potential obstacles you might face and how to address them?
+
+User: I think my biggest concern is not finding a program that fits me or being uncertain about my decision. 
+
+Consultant: That’s a valid concern. It might be beneficial to create a list of criteria that are important to you in a counseling program. This could include aspects like location, flexibility, or course content. How does that sound?
+
+User: That makes sense. I tend to overthink, so having a list might help me focus.
+
+Consultant: Absolutely! Lists can help clarify your thoughts and make decisions feel less daunting. It can also help you feel more in control of the process. How confident do you feel about completing your list and doing the research?
+
+User: I feel more confident about it now. I think I'll give it a shot.
+
+Consultant: That’s great to hear! Remember, you’re taking meaningful steps towards your future. When would you like to check back with me about your progress on this?
+
+User: How about our next session? I can report on what I've found.
+
+Consultant: That sounds perfect! I look forward to hearing about your progress. Remember, each small step counts. You’re doing a great job in navigating this journey. 
+
+User: Thanks! I appreciate your support.
+
+Consultant: You’re very welcome! I’m proud of your progress. Take care until we speak again, and don’t hesitate to reach out if you need anything.
+
+User: I will. See you next time!
+
+Consultant: See you then!
+###################

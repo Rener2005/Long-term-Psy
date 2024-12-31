@@ -1,0 +1,406 @@
+Consultant: Hello! I'm glad to have you here today. How are you feeling as we start our session?
+
+User: Hi. I'm feeling quite frustrated lately because of my parents' constant focus on saving money. It's making me anxious about my own financial situation. 
+
+Consultant: I understand that you're feeling frustrated with your parents' perspective on finances and that it's causing you anxiety. Can you tell me more about how this focus on money has affected you personally?
+
+User: Well, it's like every time they talk about money, I feel this pressure. I worry that I won't have enough in the future, and it's really stressful.
+
+Consultant: It sounds like their conversations about money are making you feel a lot of pressure and worry. What specific thoughts go through your mind when they discuss financial matters?
+
+User: I often think about how I might struggle to make ends meet as I get older. I compare myself to my peers, and I feel like they are doing better financially.
+
+Consultant: Comparing yourself to others can be tough, especially regarding finances. It's understandable to feel anxious when you see your peers in a different situation. Do you think those comparisons affect the way you view your own financial future?
+
+User: Yes, they definitely do. I feel like I'm falling behind, and that just makes my anxiety worse. 
+
+Consultant: Feeling like you’re falling behind can create a cycle of anxiety. Can we try to identify some of the thoughts you're having during these moments of comparison? 
+
+User: One thought I have is that I won't be able to afford the things I want in life, like a nice place to live or even travel.
+
+Consultant: That's a valid concern. Let's explore that thought together. Can you think of any evidence that supports or contradicts this belief about not being able to afford those things?
+
+User: I guess there are times when I save money and feel a sense of accomplishment, but I still worry about the future. 
+
+Consultant: It sounds like you have had moments of success in saving money, which is great! Let’s consider how you can build on those successes to feel more secure about your financial future. What are some small steps you can take to manage your finances better?
+
+User: Maybe I could create a budget? I haven't done that yet.
+
+Consultant: Creating a budget is an excellent idea and a practical step you can take. It may help give you a clearer picture of your finances and reduce some of that anxiety. How do you feel about starting to make a budget?
+
+User: I think it could be helpful, but I'm unsure where to start. 
+
+Consultant: That’s completely normal! We can break it down together. What's the first expense that comes to mind when you think about budgeting?
+
+User: Probably my daily expenses, like food and transportation. 
+
+Consultant: Great! Tracking those daily expenses is a solid starting point. Once you have a clearer picture, you can plan accordingly. How do you think keeping track of those expenses would make you feel?
+
+User: Maybe it would make me feel more in control of my finances, which would be nice.
+
+Consultant: Feeling more in control can definitely help reduce anxiety. It’s about feeling empowered to make decisions based on your financial realities rather than worries. Would you like to talk about how to approach this conversation with your parents regarding money?
+
+User: Yes, that would be helpful. I find it hard to talk to them without feeling like they’ll dismiss my concerns.
+
+Consultant: I can see why you’d feel that way. Effective communication is vital. One approach could be to express your feelings directly and share how their conversations affect you. Would you feel comfortable trying that?
+
+User: I think I could try that, but I'm worried they might not understand my perspective.
+
+Consultant: It’s understandable to worry about their reaction. You could consider using “I” statements to express your feelings without sounding accusatory. For example, saying, “I feel anxious when we discuss finances” might help open a productive conversation.
+
+User: That makes sense. I think I can give that a try.
+
+Consultant: That’s a positive step! How do you feel about discussing these techniques with your parents after our session today?
+
+User: I feel a bit more confident about it. It seems less daunting now.
+
+Consultant: That’s great to hear! Remember, navigating these conversations can take time, and that’s okay. After you speak with them, we can discuss how it went in our next session. 
+
+User: Definitely, I’ll keep you posted!
+
+Consultant: I look forward to hearing about it. For now, let’s recap what we’ve discussed today and the strategies you can use moving forward.
+
+User: We talked about how to manage my anxiety around money, creating a budget, and how to communicate with my parents more effectively.
+
+Consultant: Exactly! You've made some great insights today. With some practice and patience, I believe you can improve both your financial understanding and communication with your family. How do you feel about what we've accomplished today?
+
+User: I feel more hopeful that I can manage this better. Thank you!
+
+Consultant: You're welcome! Remember, it’s a process, and each small step is important. If any challenges arise before our next session, don’t hesitate to reach out. 
+
+User: I appreciate that. I feel motivated to tackle these challenges head-on.
+
+Consultant: That's fantastic to hear! Keep that motivation as we work on these strategies. I'm looking forward to our next session. Take care!
+
+User: Thank you, I will!
+###################
+Consultant: Hello! I’m really glad you’re here today. I understand that you’ve been feeling frustrated with your attempts to discuss financial perspectives with your family. Can you tell me a bit more about how you've been feeling lately?
+
+User: Hi. Yes, I've been feeling quite frustrated. I really want to improve how my family thinks about finances, but I feel like they don’t take me seriously. It’s like we're talking past each other.
+
+Consultant: I can see how that would be disheartening for you. You’re trying to share something important, and it seems your family isn’t responding the way you hoped. Can you share a specific moment when you tried discussing this with them?
+
+User: Sure! The other day, I brought up budgeting ideas, thinking it might help them manage our restaurant better. But they just shrugged it off, saying things were fine as they are. It felt like they weren’t even listening.
+
+Consultant: That sounds really tough, especially since you were trying to contribute positively to your family’s situation. How did that make you feel when they dismissed your ideas?
+
+User: It made me feel dismissed and a bit powerless. I mean, I have ideas that could help, but it’s like they don’t trust my thoughts because I’m younger.
+
+Consultant: It’s completely understandable to feel that way. Wanting to be heard, especially when you believe your input could make a difference, is very important. What do you think is the main barrier that’s preventing effective communication between you and your family?
+
+User: Honestly, I think they might just be set in their ways. They’ve been running the restaurant for years and aren’t used to someone else suggesting changes.
+
+Consultant: That’s a valuable insight. When people are accustomed to doing things a certain way, it can be challenging for them to accept new ideas. Have you considered any strategies to help them be more open to your suggestions?
+
+User: Not really. I usually just bring it up and hope they’ll see my point. But maybe I should try something different.
+
+Consultant: That sounds like a good approach. Perhaps using different techniques to communicate could help them engage with your ideas more openly. Would you be interested in exploring some specific methods that could assist you?
+
+User: Yes, I’d love to learn some techniques! I really want to get them to understand my perspective.
+
+Consultant: Great! One effective method is to use “I” statements instead of “you” statements, as this can help express your feelings without sounding accusatory. For instance, instead of saying, “You need to start budgeting,” you might say, “I feel worried about our finances, and I believe budgeting could help us manage better.” How do you feel about trying that?
+
+User: That makes sense! It sounds less confrontational. I could definitely try that approach!
+
+Consultant: Absolutely! This way, you can express your concerns while also showing that you care about your family’s well-being. Are there any specific situations you can think of where you could apply this technique?
+
+User: I could use it the next time we sit down together to talk about the restaurant's finances. Maybe during a family dinner when the atmosphere is more relaxed.
+
+Consultant: That sounds like a perfect opportunity. Creating a comfortable environment can make a big difference in how your family receives your ideas. Additionally, you could also ask them questions to invite their thoughts. For instance, you could say, “What do you think about trying a budget to help with our expenses?” How does that sound to you?
+
+User: That sounds really good! Getting their input might help them feel more involved rather than feeling like I’m lecturing them.
+
+Consultant: Exactly! Involving them in the conversation can foster collaboration and understanding. If they feel part of the process, they may be more receptive to your ideas. Are there any concerns you have about this approach?
+
+User: I’m a bit nervous they might still react the same way, but I guess it’s worth a try.
+
+Consultant: It’s natural to feel anxious about potential outcomes. However, by changing your approach, you are also changing the dynamics of the conversation. Remember, it's a learning process, and every attempt helps you improve. Would you like to talk about how to handle potential negative reactions?
+
+User: Yes, that would be helpful! I don’t want to freeze up if they criticize me again.
+
+Consultant: A good plan is to think of some responses ahead of time. For example, if they dismiss your ideas, you could say, “I understand that you might not agree, but I am really passionate about finding ways to improve our situation.” This keeps the focus on your feelings and intentions rather than their reactions. What do you think of that?
+
+User: I like that! It keeps me calm and focused on the conversation without getting defensive.
+
+Consultant: Precisely! Maintaining your composure and focusing on your intention will help create a more productive dialogue. As we continue our sessions, we can practice these scenarios through role-plays to build your confidence. How does that sound?
+
+User: That sounds great! I think practicing would really help me feel more prepared.
+
+Consultant: Excellent! We'll work on that in our upcoming sessions. For today, reflecting on the insights we've discussed can also be beneficial. Looking back, what do you think is your biggest takeaway from our talk today?
+
+User: I think realizing that how I communicate matters a lot. Using “I” statements and being inviting in the conversation could make a big difference.
+
+Consultant: That's a significant realization! Effective communication is indeed crucial. As you practice these techniques and feel more comfortable expressing your thoughts, how do you envision your family responding over time?
+
+User: I hope they’ll become more open to my ideas and see that I truly care about our family's future.
+
+Consultant: That’s a hopeful vision! Feeling supported by your family can be immensely beneficial. By working on your communication skills, you’re not just improving your conversations but also building a stronger relationship with them. Before we finish today, do you have any specific goals for our next session?
+
+User: I’d like to practice the role-playing we've talked about. I want to be ready for those conversations.
+
+Consultant: Absolutely! We can set up some scenarios based on your real-life situations. Remember to take small steps and be patient with yourself. You’re making progress already. Let’s continue working towards your goals, and I look forward to hearing how your family discussions go!
+
+User: Thank you so much! I appreciate your help. I feel more hopeful about everything. 
+
+Consultant: You’re very welcome! I’m glad to hear that. Remember, it’s all about progress, and I’m here to support you every step of the way. Looking forward to our next session!
+###################
+Consultant: Hello, welcome to our session today! I'm glad you’re here. How have you been feeling since our last conversation?
+
+User: Hi! I’ve been feeling a little better, actually. Talking to my friends about my financial worries helped me feel less alone. But I still wish my family could understand me better.
+
+Consultant: It's great to hear that you found support among your friends—it can make a huge difference. Let’s explore your feelings a bit more. What do you feel when you think about your family's understanding of you?
+
+User: I feel a bit frustrated, I guess. I know they are busy with the restaurant, but sometimes I just want them to check in on me or ask how I’m doing.
+
+Consultant: That frustration is completely understandable. It sounds like you crave more connection and communication with them. Have you had a chance to express these feelings to your family?
+
+User: Not really. I keep hoping they'll notice on their own, but it hasn’t happened yet. I don’t want to seem overly demanding or make them feel guilty.
+
+Consultant: It’s completely valid to want that connection without feeling like a burden. Sometimes, being open about our needs can actually strengthen relationships. What do you think about trying to communicate your feelings to them in a gentle way?
+
+User: That makes sense. I guess I could try, but I worry about how they might react. 
+
+Consultant: That’s a common concern. Would it help if we looked at some possible outcomes of sharing your feelings with them? You can prepare for different reactions, which might lessen your anxiety.
+
+User: Yes, I think that would help. I can imagine them being surprised, but maybe they’d also be willing to listen.
+
+Consultant: That’s a positive perspective! What specific message do you want to share with them? Perhaps we can practice how you might approach it.
+
+User: I think I’d like to say that I appreciate their hard work, but I also need a bit more communication and support from them.
+
+Consultant: That sounds like a thoughtful way to approach it. Maybe you could also share how their support helps you feel more valued. Would it feel comfortable for you to ask for a specific time to talk with them?
+
+User: Yeah, that sounds good! I could suggest a dinner where we can all sit down and chat.
+
+Consultant: A dinner sounds like an excellent setting for an open conversation. What emotions do you anticipate feeling during that conversation?
+
+User: I might feel a bit anxious, but also hopeful. I really want them to understand where I’m coming from.
+
+Consultant: Hope is a wonderful feeling to hold onto. It’s okay to feel anxious; that’s a natural response when discussing important feelings. What strategies could you use to manage that anxiety before and during the conversation?
+
+User: Maybe I could practice some deep breathing beforehand, or even write down what I want to say so I don’t forget anything.
+
+Consultant: Those are fantastic strategies! Writing down your thoughts can help clarify them. When you breathe deeply, it can help calm your nerves. It’s important to prepare yourself. 
+
+User: I’ll definitely try that. I want to feel more confident going into it.
+
+Consultant: Absolutely! Confidence can greatly impact the way your family receives your message. How do you feel about adjusting your self-affirmation practice as well? Acknowledging your own value before the conversation might help you feel more grounded.
+
+User: That sounds like a good idea. I’ve been trying to remind myself of my strengths more often. 
+
+Consultant: That’s wonderful to hear! Recognizing your strengths can boost your self-esteem. What affirmations could you tell yourself leading up to this dinner?
+
+User: I could say things like, “I am worthy of support,” and “I have valuable thoughts and feelings.” 
+
+Consultant: Those are powerful affirmations! Repeating them to yourself can reinforce your self-worth. After the dinner, regardless of the outcome, it’s essential to reflect on your feelings. What do you think you’ll take away from that experience?
+
+User: I think just expressing myself will feel like a win, even if it doesn’t go perfectly.
+
+Consultant: That's a healthy perspective! Focusing on your willingness to communicate is a significant step. How can we ensure you continue nurturing this sense of self-worth and openness with your family moving forward?
+
+User: Perhaps I could set regular times to check in with them, so it becomes a habit.
+
+Consultant: That’s an excellent strategy! Regular check-ins allow for ongoing communication and help deepen your connection. How are you feeling about your progress today?
+
+User: I feel more optimistic. This session helped me see that it’s okay to express my needs.
+
+Consultant: I'm glad to hear that. Remember, communication is a two-way street, and your willingness to share your feelings is incredibly important. 
+
+User: Yes, I will keep that in mind. Thank you for your help today!
+
+Consultant: You’re very welcome! I'm proud of the progress you've made. Keep practicing those affirmations and communication strategies. I'm here if you ever need support again. 
+
+User: I will, thank you! I'm looking forward to our next session.
+
+Consultant: Me too! Take care, and until next time!
+###################
+Consultant: Hello, M! I'm glad you're here today. It sounds like you've been reflecting on self-acceptance and self-worth lately. Can you tell me more about your current feelings regarding self-value and development?
+
+User: Hi! Yes, I've been thinking a lot about self-acceptance. I attended a mental health lecture recently, and it changed the way I view myself. I realize that I have a lot to offer, but sometimes I still struggle to believe in my own value.
+
+Consultant: It's wonderful that you found the lecture impactful! It seems like you're gaining insights into your self-worth. What are some specific thoughts or feelings you have that make you question your value?
+
+User: Sometimes I compare myself to others, especially my classmates who seem to have it all together. I worry that I’m not as talented or successful as they are, especially in my language studies.
+
+Consultant: That’s a common struggle, M. Comparing ourselves to others can sometimes lead to negative thoughts. Can you share how those comparisons affect your emotions or actions in your studies and daily life?
+
+User: When I compare myself to them, I often feel discouraged and anxious. It makes me want to avoid studying because I fear I'll never be good enough, which just makes things worse.
+
+Consultant: I understand that feeling discouraged can create a cycle of avoidance. What if we examined those thoughts together and discussed how you might replace them with more supportive ones? What do you think?
+
+User: I’d like that! I want to challenge those negative thoughts, but I’m not sure how to start doing it.
+
+Consultant: A good starting point is to identify what exactly you’re telling yourself in those moments. For example, when you think you’re not as talented, what specific thought comes to mind? 
+
+User: I usually think, "I’m not as good at Japanese as they are, so I’ll never succeed." 
+
+Consultant: That’s a powerful thought. Let's take a closer look. How much evidence do you have to support that belief? Have you had moments where you've felt proud of your achievements in Japanese?
+
+User: Well, I did score well on a recent quiz, and my teacher praised my pronunciation. But those moments often feel small compared to what I see others doing.
+
+Consultant: It sounds like you do have achievements worth recognizing! How might you frame your experience differently, taking into account those successes? 
+
+User: I guess I could say that I’m making progress and that my efforts are valuable, even if I’m not the best.
+
+Consultant: That’s a healthy reframe! So, instead of seeing yourself as "not good enough," you can acknowledge your progress and efforts. What’s a small step you could take this week to reinforce this more positive perspective?
+
+User: Maybe I could set aside some time each day to practice Japanese and remind myself of the progress I've made instead of focusing on how others are doing.
+
+Consultant: That’s a great plan! Taking time to reflect on your own journey can really help in building self-acceptance. How do you feel about implementing that this week?
+
+User: I feel excited about it! It’s nice to think about focusing on my own progress rather than comparing myself to others.
+
+Consultant: Fantastic! As you move forward, remember to celebrate those small victories. How do you plan to acknowledge your progress when you practice?
+
+User: I think I could keep a journal to write down what I learn each day and how I felt about my practice. That might help remind me of my achievements.
+
+Consultant: A journal is an excellent idea! Writing can help solidify your accomplishments and how far you’ve come. Let’s talk about any challenges you might face while doing this.
+
+User: I might forget to write in the journal consistently or get discouraged if I don’t see immediate results.
+
+Consultant: That’s understandable. What strategies could you put in place to ensure you're consistent with journaling? 
+
+User: I could set a reminder on my phone to write in it every night before bed. That way, it becomes part of my routine.
+
+Consultant: That sounds like a practical solution! Creating a routine can help make it feel more natural. As you move forward, how do you think adjusting your mindset and acknowledging your achievements will impact your motivation in Japanese studies?
+
+User: I believe it will help me feel less stressed and more motivated to keep going. If I focus on my own growth, I think I’ll enjoy the process more.
+
+Consultant: Absolutely! Focusing on your own journey can create a more positive experience in your studies. As we come to a close today, let’s summarize what you've gained and planned for yourself.
+
+User: I’ve learned to challenge my negative comparisons and focus on my own achievements. I plan to practice daily and keep a journal to track my progress!
+
+Consultant: That’s wonderful! It seems you have a clear action plan moving forward. Remember, it’s all about recognizing your personal path and celebrating your successes. I'm here to support you any time you need help.
+
+User: Thank you! I really appreciate your guidance today. I feel more empowered about my journey now.
+
+Consultant: You’re very welcome, M! I'm glad to hear that. Remember, you’re capable of achieving great things. I look forward to our next session together. Take care!
+
+User: Thank you! See you next time!
+###################
+Consultant: Hello! I’m glad you're here for today’s session. How have you been feeling since we last spoke?
+
+User: Hi! I've been feeling pretty positive, actually. Engaging in the Japanese interest group has really helped me see my value. But I still feel unsure about my career direction moving forward.
+
+Consultant: That's great to hear that you’ve found value in the interest group! It's also normal to feel uncertain about your career path at this stage. What do you envision for your future, especially in terms of your career?
+
+User: I have some ideas about working in translation or teaching, but I’m not entirely sure what steps I should take to get there.
+
+Consultant: It sounds like you’re starting to explore your interests in translation and teaching. Let’s try to break this down further. What aspects of those careers excite you the most?
+
+User: I love the idea of helping others understand a new language and culture. The idea of being a bridge between people is really appealing to me.
+
+Consultant: That’s a wonderful perspective. Being a bridge between cultures can be incredibly rewarding. Have you thought about any specific skills or experiences you might need to pursue these options?
+
+User: Yes, I think I need to improve my language skills further and perhaps gain some teaching experience. I’m also considering getting certified in teaching Japanese.
+
+Consultant: Those sound like excellent steps to take! Gaining certification in teaching can really add to your credentials. What strategies might you consider to improve your language skills in the meantime?
+
+User: I could practice more regularly, perhaps find a language partner or take additional language classes. I think immersion could help too.
+
+Consultant: Immersion is a fantastic approach! Finding a language partner can also be very beneficial. Let’s talk about your current routine—how often do you practice Japanese now?
+
+User: I've been practicing a bit every day, mostly through online videos and apps. But sometimes I lose motivation when I don’t see immediate progress.
+
+Consultant: It’s very common to feel that way when progress is gradual. What if we set some small, achievable goals for your practice? What could be a realistic goal for you this week?
+
+User: Maybe I can set a goal to learn and use ten new vocabulary words this week. That feels manageable.
+
+Consultant: That’s a great goal! Learning new vocabulary can be very motivating. How will you keep track of your progress with this goal?
+
+User: I could write them down in a notebook or use a digital app to track my progress. Seeing my growth might help me stay motivated.
+
+Consultant: Writing it down is a great idea! Visualizing your progress can really help maintain motivation. Now, outside of language learning, how are you feeling about your communication with your family?
+
+User: I’ve noticed I’m communicating a bit more with them lately, especially about my interests. But there’s still a lot of uncertainty about how to talk to them about my career goals.
+
+Consultant: It’s encouraging to hear that communication is improving. Since you feel uncertainty around discussing your career goals, what do you think holds you back from sharing that with them?
+
+User: I guess I worry they won't understand or support my choices since my family is more focused on immediate work and the restaurant business.
+
+Consultant: It’s understandable to have those concerns, especially with your family’s focus on the restaurant. Perhaps we can work on ways for you to express your passion and aspirations to them in a manner that resonates with their values. What do you think they would appreciate hearing from you?
+
+User: They might appreciate knowing that my interests could lead to stable job opportunities. I also think they would be more supportive if they understood how much I value these goals.
+
+Consultant: That’s a solid approach! Sharing how your interests align with stable career opportunities can help. How could you frame this conversation to highlight both your aspirations and their value?
+
+User: I could explain how learning Japanese can open doors for teaching or working internationally, which might be beneficial in the long run. I’ll show them that I’m not just pursuing a hobby.
+
+Consultant: That’s a fantastic way to present it! Framing your aspirations in that light can make them more relatable. Let’s also discuss how you can convey your progress in the interest group to reinforce your commitment.
+
+User: I could share my experiences and any projects we’re working on. Showing them I’m active and engaged may help them understand my passion better.
+
+Consultant: Absolutely! Sharing your experiences will illustrate your commitment and growth. As we wrap up today, what are the key takeaways you have regarding your career direction and family communication?
+
+User: I feel like I have a clearer path for my language skills, and I have a strategy for discussing my future with my family. I’m feeling more confident now.
+
+Consultant: That’s wonderful to hear! It sounds like you’ve made significant progress today. How will you continue to build on this momentum in the coming weeks?
+
+User: I plan to write down my goals, practice consistently, and prepare for that conversation with my family. I want to ensure I stay focused.
+
+Consultant: Those sound like excellent plans! Remember, it’s okay to take things one step at a time. I’m looking forward to hearing about your progress next time we meet. If you ever feel overwhelmed, don’t hesitate to reach out.
+
+User: Thank you! I appreciate your support. I feel ready to tackle these challenges.
+
+Consultant: You're welcome! I believe in your ability to pursue these goals. See you next time, and take care!
+###################
+Consultant: Hello! I'm glad to see you again. It sounds like you've made some positive changes since our last session. How have you been feeling?
+
+User: Hi! I've been feeling really good, actually. My communication with my parents has improved a lot, and I feel more valued by them. It means a lot to me to have their support for my career plans.
+
+Consultant: That’s great to hear! It sounds like your relationship with your parents is strengthening. How do you think this improved communication is impacting your self-esteem and your future outlook?
+
+User: I think it’s really boosting my confidence. I feel like I can share more with them, and they believe in my goals. It’s comforting to know that they support my choices.
+
+Consultant: It’s wonderful that you feel supported and validated by your family. Let's discuss how you can maintain this positive change. Are there specific strategies or practices you’d like to explore to keep this communication going?
+
+User: I think it would help to set regular times to talk, maybe have family dinners where we can discuss our lives and future.
+
+Consultant: That sounds like an excellent idea! Regular family dinners could provide a space for open dialogue. What other areas in your life do you think could benefit from this kind of support?
+
+User: I’m also considering taking on new projects or internships related to my major. I feel like a more supportive family environment would encourage me to pursue these opportunities.
+
+Consultant: Pursuing new projects and internships is a fantastic way to grow. How do you feel about discussing those opportunities with your family? 
+
+User: I think sharing my ambitions with them would make it easier for me to commit to these opportunities because I would feel their backing.
+
+Consultant: Absolutely, sharing your ambitions can create an even stronger support system. Is there any fear or concern you have about discussing your ambitions with them?
+
+User: I worry they might not understand the path I want to take or think it’s too risky. 
+
+Consultant: It’s understandable to have those concerns. How do you think you could prepare or frame the conversation to help them understand your perspective better?
+
+User: Maybe I could explain the benefits of the internships and how they align with my career goals. That way, they can see I am being practical about it.
+
+Consultant: That’s a solid strategy! Providing them with context will likely help alleviate their concerns. Would you like to role-play this conversation to feel more prepared?
+
+User: Yes, that sounds helpful! Let’s do that.
+
+Consultant: Okay! I can be your parent. How would you start the conversation?
+
+User: I would say something like, “Mom, Dad, I want to talk to you about some opportunities I’m considering for my career.”
+
+Consultant: Great start! And how do you think they would respond?
+
+User: I think they would be curious but also worried. They might ask me about the risks involved.
+
+Consultant: Anticipating their concerns is smart. What would you say to reassure them?
+
+User: I would highlight the skills I would gain and how it’s a step towards building my future. 
+
+Consultant: That’s a compelling way to frame it. How confident do you feel about this conversation now?
+
+User: I feel much more prepared and confident. I think discussing the benefits will help them see my point of view.
+
+Consultant: Excellent! It sounds like you’re well on your way to fostering even more positive communication. As we wrap up today, what have you realized about your progress and current support system?
+
+User: I realize that my family’s support really matters, and I feel equipped to maintain this communication and pursue my goals. It's reassuring to know I can talk to them about my career path.
+
+Consultant: That’s insightful! It sounds like you’ve made significant progress, and you have a solid plan to keep that momentum going. Remember, you can always reflect on what you’ve learned during our sessions. How do you want to carry this forward?
+
+User: I’ll start by having that dinner this weekend and sharing my plans with them. I’m excited!
+
+Consultant: That sounds like a wonderful plan! I believe you’ll handle the conversation well. If you need anything, feel free to reach out. This ends our session today, but I look forward to hearing about your progress. 
+
+User: Thank you! I appreciate your guidance. See you next time!
+###################

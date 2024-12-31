@@ -1,0 +1,410 @@
+Consultant: Hello, welcome to today's session, Zhang. I appreciate you being here. How have you been feeling lately, especially concerning your job search?
+
+User: Hi. I'm really anxious. I've gone through several interviews at school, but I haven't been selected for any positions. It makes me feel like I don't have a future.
+
+Consultant: I understand that this situation is causing you quite a bit of anxiety. It's tough when things don't go as planned, especially with your career. What specifically do you think is contributing to these feelings about your future?
+
+User: I feel like I'm not good enough. I see my classmates getting offers while I'm just left out. It's hard to ignore that I'm struggling.
+
+Consultant: It's completely natural to feel this way when comparing yourself to others. It seems like you're connecting your self-worth to these job offers. Can you share any specific thoughts you've had during these interviews that contributed to this feeling?
+
+User: During the interviews, I kept thinking that I didn’t have the skills they were looking for. I was worried they would see I'm not as capable as my peers.
+
+Consultant: That's a significant concern, and it reflects a common issue where we doubt our capabilities. When you think about not having the skills, how does that make you feel emotionally?
+
+User: It makes me feel inadequate and really anxious. I start to doubt myself, and it spirals into thinking I’ll never find a job.
+
+Consultant: I can sense how overwhelming that must feel. Let’s take a moment to examine those thoughts. How much evidence do you think there is to support the idea that you won't find a job? Could there be alternative thoughts we can explore together?
+
+User: I guess there isn’t absolute proof. I just look at my recent experiences—being rejected makes it hard to be optimistic.
+
+Consultant: That makes sense. Experiencing rejection can feel very defeating. However, it’s important to recognize that many successful people have faced failures before finding a great opportunity. If a friend were in your situation, what would you tell them?
+
+User: I would probably tell them that they need to keep trying and that they should work on their skills. But I find it hard to apply that advice to myself.
+
+Consultant: It’s often easier to encourage others than ourselves, isn’t it? Let’s work on reframing how you view this. What skills do you think you could develop to feel more prepared for these opportunities?
+
+User: I think I need to work on my interviewing skills and maybe even get better at my specific field-related knowledge.
+
+Consultant: That’s a great insight! Improving those skills could help increase your confidence. Would you be open to setting some small, manageable goals related to these improvements?
+
+User: Yes, that sounds helpful. Maybe I could start by practicing interview questions by myself first and then do a mock interview with a friend.
+
+Consultant: That’s an excellent plan. Practicing by yourself and with a friend can build your confidence. It’s also a good way to familiarize yourself with common questions. How about we brainstorm some specific questions you might want to practice?
+
+User: Sure! I think typical questions like "Tell me about yourself" and "What are your strengths and weaknesses?" would be good to start with.
+
+Consultant: Those are perfect questions to begin with! Practicing how to answer them can really help ease your anxiety during the actual interviews. Do you feel that by preparing for these questions, it might alleviate some of your fears?
+
+User: I do think it would help. If I can prepare, I might feel a bit more confident going in.
+
+Consultant: Absolutely! Preparation can make a huge difference. Let's also think about how you can track your progress. Would you like to keep a journal of your practice sessions and reflect on how you feel after each one?
+
+User: I like that idea. Writing down my feelings might help me recognize my growth.
+
+Consultant: That sounds like a great approach. Reflecting on your journey will definitely help you see improvements over time. As we wrap up today, let’s summarize what you plan to work on and how you’ll feel after taking these steps.
+
+User: I plan to practice interview questions, work on my skills, and maybe keep a journal to track my feelings and progress. I think if I do this, I’ll start to feel more competent.
+
+Consultant: That’s a wonderful summary! You're taking proactive steps toward feeling more empowered and confident. Remember, it’s okay to face setbacks; focus on your efforts and growth. If you ever feel overwhelmed again, I’m here to support you.
+
+User: Thank you so much for the encouragement. It really helps to talk things through.
+
+Consultant: I'm glad you found our discussion helpful, Zhang. You've made solid plans today, and I believe you can follow through with them. I look forward to hearing how it goes in our next session. Take care!
+
+User: Thank you! I will definitely keep working on things.
+###################
+Consultant: Hello, Xiao Zhang! I'm glad you're here for this session. How have you been feeling lately?
+
+User: Hi. I’ve been feeling really anxious about job interviews. I thought I was prepared, but I still didn’t get selected, which makes me feel even more insecure about my abilities.
+
+Consultant: I see that you're dealing with a lot of anxiety related to job interviews and that you feel insecure about your abilities. I want to help you with that. Can you tell me more about how you felt during your recent interviews?
+
+User: Well, I felt really nervous and scared. I couldn't express myself well, and I think my introverted nature made it harder to connect with the interviewers.
+
+Consultant: It sounds like the anxiety during the interview affected your ability to communicate your skills and qualifications. What specific thoughts were running through your mind when you found out you didn’t get the job?
+
+User: I thought maybe I'm just not good enough or that I'll never succeed. It felt like all my efforts were wasted.
+
+Consultant: Those thoughts are understandably discouraging, but let’s take a closer look at them. What evidence do you have that supports the idea that you're not good enough?
+
+User: I guess... I don’t have much experience, and the failures in interviews make me feel like I don’t stand a chance.
+
+Consultant: It’s easy to feel that way after facing some setbacks. However, let's challenge that belief a bit. Can you think of any positive qualities or experiences that you can bring to an interview?
+
+User: I mean, I did well in my coursework, and I have knowledge in my field. But I have trouble showcasing that.
+
+Consultant: That’s a great start! Recognizing your strengths in your studies is important. Let’s think about ways you can express that in a more confident manner during interviews. Have you ever practiced interviewing with someone?
+
+User: No, I haven’t tried that. I didn't really think it would help.
+
+Consultant: Practicing interviews can be a helpful way to build confidence. It allows you to rehearse your answers and feel more comfortable. Would you be open to doing some role-playing in our sessions?
+
+User: Sure, I think that might help. But what if I still feel anxious even while practicing?
+
+Consultant: That’s completely normal. We can develop strategies to help you calm those feelings of anxiety as we practice. Would you like to discuss some relaxation techniques that can help before and during the interview?
+
+User: Yes, I would like that. I really want to feel less anxious.
+
+Consultant: Great! Deep breathing exercises can be very effective. They help reduce anxiety and help you focus. We can practice some techniques together right now. 
+
+User: Okay, that sounds good. 
+
+Consultant: Let’s try this: Inhale slowly through your nose for a count of four... hold it for a moment... and then exhale slowly through your mouth for a count of four. Let’s do this together a few times.
+
+User: *takes a deep breath* That felt nice. 
+
+Consultant: Excellent! This kind of practice can be really beneficial. Now, what else do you think you can do to prepare for your interviews, aside from practicing?
+
+User: Maybe I could write out some answers to common interview questions to feel more ready?
+
+Consultant: Absolutely! Writing out your answers helps solidify your thoughts. Which questions do you think are the most important for you to prepare for?
+
+User: I guess the typical “tell me about yourself” question is tough for me.
+
+Consultant: That's a common one! How would you describe your background and strengths in a few sentences?
+
+User: I guess I could say I am a motivated student with a strong academic record in my studies. 
+
+Consultant: That’s a good start! It shows your motivation and achievements. Let’s work on expanding that response. How could you incorporate your experiences and what you bring to the table into that introduction?
+
+User: Maybe I should mention the projects I worked on in school and my skills related to the job.
+
+Consultant: Exactly! Highlighting projects and skills gives a clearer picture of what you can offer. Practicing this will help you feel more confident in presenting yourself. How do you feel about that?
+
+User: I feel a bit better thinking about it now.
+
+Consultant: That’s a positive step! It’s important to remember that interviews are not just about being perfect but also about finding the right fit. What’s one thing you hope to take away from our sessions moving forward?
+
+User: I want to feel more confident and prepared so that I can handle interviews better in the future.
+
+Consultant: That’s a great goal, Xiao Zhang! Each time we meet, we’ll continue to work on building your confidence and skills. Let’s also set up some small goals for our next session. What would you like to focus on for next time?
+
+User: I think practicing my introduction and maybe working on some common questions would be helpful.
+
+Consultant: Sounds like a plan! I look forward to seeing your progress. Remember, every small step counts. Would you like to set a goal for practicing your introduction this week?
+
+User: Yes, I’ll practice it a few times before our next meeting.
+
+Consultant: That’s a great commitment! I believe in you, Xiao Zhang. Keep in mind that it’s okay to feel a bit uneasy; you’re learning and growing. I look forward to hearing about your practice next time!
+
+User: Thank you! I appreciate your help.
+
+Consultant: You’re very welcome! I’m here for you. See you next session!
+###################
+Consultant: Hello, Xiaozhang! I'm glad you’ve come for this session. How have you been feeling since our last talk, especially regarding your communication skills?
+
+User: Hi. To be honest, I still feel pretty down. I struggle to communicate with others, and it affects my confidence, especially with upcoming interviews.
+
+Consultant: I understand that this is a challenging situation for you. It sounds like you want to improve your communication skills to feel more confident during interviews. Can you tell me more about what specifically makes you feel anxious when communicating?
+
+User: I guess it’s mostly that I worry about not saying the right thing or that I’ll embarrass myself. I just feel out of place around others.
+
+Consultant: That feeling of being out of place can be really tough. It makes sense that you would want to avoid situations where you might feel embarrassed. How do you usually handle these situations when they arise?
+
+User: I usually try to avoid talking too much. I just stay quiet to avoid saying something wrong. It feels safer that way, but then I end up missing out on connecting with others.
+
+Consultant: Avoidance can often feel like a safe option, but it sounds like it is also limiting your opportunities for connection. What if we think about some small steps you could take to practice communication in a way that feels less overwhelming?
+
+User: I could try to talk to classmates more, but I don’t really know what to say. I often feel like they won't be interested in what I have to say.
+
+Consultant: That's a common concern. Let’s try to challenge that thought. What evidence do you have that your classmates wouldn’t be interested in talking to you? 
+
+User: I mean, I don’t have much to contribute. They’re busy with their own lives, and I feel like I don’t fit in.
+
+Consultant: It’s understandable to feel that way. But remember, everyone has their own experiences and perspectives that they value. How do you think they might respond if you shared something related to your studies or interests?
+
+User: Well, maybe they’d appreciate me reaching out. Sometimes they do seem willing to help with homework or share tips.
+
+Consultant: That sounds like a great starting point! What if you were to ask them about something they are working on? It can be a good way to ease into the conversation without putting too much pressure on yourself.
+
+User: I could definitely try that. Just asking for help or advice seems manageable.
+
+Consultant: Exactly! And as you practice this, we can think about more strategies you can use to feel more comfortable. How do you feel about creating a few specific scenarios we could role-play to help you prepare?
+
+User: That sounds helpful! I think practicing might make me feel a bit better about actually doing it.
+
+Consultant: Perfect! Let’s say you bump into a classmate in the hallway. How might you start that conversation? 
+
+User: I guess I could say hi and ask them how they are doing or what they think about an assignment.
+
+Consultant: That’s a fantastic opener! It shows you’re interested in them and what they think. Would you like to role-play this situation?
+
+User: Sure, I’d like to give it a shot!
+
+Consultant: Great! I’ll be your classmate. Let’s start. “Hey, Xiaozhang! How’s it going?” 
+
+User: (nervously) Uh, hi! I’m okay, thanks. How about you? Did you finish the assignment for our class?
+
+Consultant: Yes, I did! It was pretty challenging; I wasn’t sure about some of the questions. What about you? 
+
+User: (slowly gaining confidence) I agree, it was tough! I spent a lot of time on it, but I think I figured most of it out. I could share some tips if you’re interested.
+
+Consultant: That was a great response! You opened up a dialogue and offered help. How did that feel?
+
+User: It felt better than I expected. I guess if I focus on the topic, it’s easier to talk.
+
+Consultant: Definitely! Focusing on the subject can take the pressure off you personally. What do you think your next steps could be moving forward with this new approach?
+
+User: I suppose I could try practicing with friends and just keep asking questions to keep the conversation going. 
+
+Consultant: That sounds like an excellent plan! Creating those opportunities to practice will help build your confidence. How do you feel about approaching your classmates this week?
+
+User: I feel a bit nervous but also a little excited! I think I can give it a try.
+
+Consultant: That’s the spirit! Remember, it’s all about practice. And if things don’t go perfectly, that’s okay too. What matters is that you’re making an effort. 
+
+User: Right! I just need to take the first step and see how it goes.
+
+Consultant: Exactly! You’ve already made significant progress in understanding and addressing your anxiety about communication. Before we end today, let’s summarize what we’ve talked about.
+
+User: Okay! I’ll practice talking to classmates, focus on asking questions, and I’ll role-play those scenarios.
+
+Consultant: Wonderful! And remember to celebrate your efforts, no matter how small. We’ll check in on how it goes next time. How are you feeling about everything we've discussed?
+
+User: I’m feeling more hopeful now! I see that improving my communication skills is possible.
+
+Consultant: I’m glad to hear that! It sounds like you’re ready for this journey. I'm here to support you along the way, and I look forward to hearing about your experiences next time. 
+
+User: Thank you! I appreciate your help. I'm looking forward to our next session.
+
+Consultant: You’re welcome, Xiaozhang! Take care, and see you next time!
+###################
+Consultant: Hello, Xiao Zhang! I'm glad to see you today. How have you been feeling since our last session?
+
+User: Hi. I’ve been feeling a bit better actually. I joined a club at school, and I’m starting to enjoy socializing a bit more. But I still get anxious about meeting new people.
+
+Consultant: That's great to hear that you're joining the club and finding some enjoyment in socializing! It’s normal to feel anxious about meeting new people. What specific situations do you find most challenging when it comes to socializing?
+
+User: I tend to freeze up a bit when I first meet someone. I worry that I won't know what to say or that they won't be interested in talking to me.
+
+Consultant: It sounds like you have a bit of fear regarding the initial interaction. Let’s explore those thoughts together. What goes through your mind when you're about to meet someone new?
+
+User: I usually think they might judge me or think I'm awkward. It makes me feel really self-conscious.
+
+Consultant: That’s a common concern. It’s understandable to worry about being perceived in a certain way. Can you recall a specific moment recently when you felt this anxiety before meeting someone? What thoughts did you have about it?
+
+User: I remember before a club meeting, I kept thinking that everyone else would be more interesting than me, and that made me hesitate to go.
+
+Consultant: Thank you for sharing that. It seems like you were comparing yourself to others, which can heighten anxiety. Let’s challenge that thought. What evidence do you have that others are more interesting than you?
+
+User: I guess I don’t really have any proof. It’s just a feeling I have.
+
+Consultant: Exactly! Sometimes our feelings can distort reality. If you were to give advice to a friend feeling the same way, what would you tell them?
+
+User: I would probably tell them it’s okay to be themselves and that everyone has their own unique qualities.
+
+Consultant: That’s a wise perspective! You have qualities too that can contribute positively to conversations. Let’s try to replace that negative thought with a more balanced one. How about something like, “I bring my own unique perspective to conversations”?
+
+User: I can try to think that way. It sounds more positive.
+
+Consultant: That’s a fantastic step forward! How would you feel about applying this thought before your next interaction? 
+
+User: I think it might help me feel less stressed about it.
+
+Consultant: Great! Let’s also discuss some actions you can take to make those initial meetings easier. Would you be willing to prepare a few conversation starters or questions to ask? 
+
+User: I could do that. I think having something in mind might help.
+
+Consultant: Exactly! It’s a good way to ease into conversations. What kind of questions or topics do you think you might use?
+
+User: Maybe I could ask about their interests or what they think about the club activities.
+
+Consultant: Those sound like great options! These open-ended questions can keep the conversation flowing. How do you feel about practicing one of those with me now? 
+
+User: Sure, I can try. What do you think about the club activities?
+
+Consultant: That's a wonderful question! I think it’s a great way to connect with others. How did it feel to ask that?
+
+User: It feels a bit easier when I actually try it out. 
+
+Consultant: That’s a positive insight! Practice makes it feel more natural. As you move into these social situations, remember to focus on the exchange rather than how you’re perceived. How does that sound to you? 
+
+User: That sounds good. I’ll try to be more present in the conversation.
+
+Consultant: Exactly! Being present can significantly boost your confidence. Let’s summarize what you’ve learned today. What are some key strategies you plan to take into your next interactions?
+
+User: I’ll try to replace negative thoughts, prepare some questions, and focus on enjoying the conversations.
+
+Consultant: That sounds like a solid plan, Xiao Zhang! Remember, it’s about small steps. You’ve made great progress, and you should be proud of yourself. How do you feel about your social skills now compared to our last session?
+
+User: I feel more optimistic! I think I can really improve if I keep working on these things.
+
+Consultant: I'm glad to hear that! It’s encouraging to see your growth. Before we wrap up, do you have any concerns or questions you would like to discuss?
+
+User: No, I think I just need to practice what we've talked about.
+
+Consultant: Definitely! Practice is key. Remember, it’s okay to take your time. I'm here to support you whenever you need it. Keep believing in yourself, and I look forward to hearing about your experiences in our next session.
+
+User: Thank you! I feel relieved and more confident about socializing now.
+
+Consultant: You're very welcome! Take care, and keep embracing those social opportunities!
+###################
+Consultant: Hello, Xiaozhang! It's great to see you again. I'm really looking forward to our session today. How have you been feeling since our last discussion?
+
+User: Hi! I've been feeling pretty good, actually. I've made some new friends and I'm feeling more optimistic about my social life and future job opportunities, but I still feel a bit anxious about job hunting.
+
+Consultant: I'm glad to hear you're feeling encouraged and have made some new connections. It’s a big step! Could you tell me more about how your job hunting has been going? What specifically is making you feel anxious?
+
+User: I've applied for a few positions with the railway companies, but I haven't been successful in the interviews. It makes me really worried about my future.
+
+Consultant: It’s completely understandable to feel anxious after facing rejection. It shows you care about your success. Let’s explore what thoughts come to mind when you think about those unsuccessful interviews. What feelings do those thoughts evoke?
+
+User: I keep thinking that I’m not good enough compared to other candidates. It's discouraging and makes me doubt my abilities.
+
+Consultant: That sounds really tough, feeling like you’re not measuring up. Can we look at that thought together? What evidence do you have that supports the idea that you aren't good enough? 
+
+User: Well, since I haven't been selected, it feels like I didn’t perform well enough. 
+
+Consultant: That’s a valid point, but can we consider some alternative explanations? There might be several reasons for not getting selected, such as the competition. What do you think?
+
+User: Yeah, I guess the competition is pretty stiff. Maybe it’s not just about my performance.
+
+Consultant: Exactly! It could also be about the specific needs of the employers or even the qualifications of various candidates. If a friend were in your position, what would you tell him about the situation?
+
+User: I would probably say that he shouldn't give up and that there are always other opportunities.
+
+Consultant: That’s a wise perspective! You’ve shown resilience through your social interactions, and it sounds like you have the strength to keep trying. How do you think you can apply that mindset to your job search?
+
+User: I could remind myself that rejection is part of the process and that I can learn from each experience.
+
+Consultant: That’s a great strategy! Learning from each experience is crucial. Let’s practice some interview scenarios together. How would you introduce yourself in an interview setting?
+
+User: I would say my name and mention my major, then I might talk about my interests in the railway industry.
+
+Consultant: Very good start! Let's expand on that. What could you add to emphasize your strengths and what you bring to the table?
+
+User: Maybe I could mention my new friendships and how they've helped me build communication skills.
+
+Consultant: Absolutely! Your communication skills are valuable. Building on your social experiences can make you stand out. How do you feel about practicing this introduction right now? 
+
+User: Okay, I’ll give it a try. “Hello, my name is Xiaozhang, and I am a third-year student majoring in railway transportation. I’ve developed strong communication skills through social activities and I'm passionate about opportunities in this field.”
+
+Consultant: That sounds great! You presented yourself well. How do you feel after practicing it?
+
+User: I feel a bit more confident. It was nice to practice.
+
+Consultant: Confidence is key! Let’s create a plan moving forward. What specific steps can you take to keep practicing your skills and applying for jobs?
+
+User: I think I can practice more interview questions with friends and apply to a few more positions each week.
+
+Consultant: That sounds like a solid plan! Regular practice will strengthen your skills. As you continue, remember to reflect on what you learn from each interview. How does that sound to you?
+
+User: It sounds good! I’ll try to stay optimistic and learn from each experience.
+
+Consultant: That’s the spirit! Just as we discussed today, maintaining that positive mindset is beneficial. Let's also set a small goal for our next session. Would it be okay to check in on how your applications are going and if you've practiced your introductions?
+
+User: Yes, I think that will help keep me accountable.
+
+Consultant: Fantastic! I’m proud of your progress so far. Before we wrap up, what is one key takeaway you want to remember from today’s session?
+
+User: I want to remember that rejection is part of the process and that I have strengths worth showcasing.
+
+Consultant: That’s a powerful takeaway! I'm looking forward to hearing about your experiences next time. Keep believing in yourself, Xiaozhang. You're doing wonderfully.
+
+User: Thank you! I appreciate your help. 
+
+Consultant: It’s my pleasure! Take care and see you next time!
+###################
+Consultant: Hello, Xiao Zhang! I’m glad to see you today. It seems like you’re feeling more confident about your future and have made some positive progress in your job search. How have you been since our last session?
+
+User: Hi! Yes, I've been feeling much better lately. My sleep has improved, and I was really satisfied with my performance in the recent job simulation activity. I even got a few potential internship opportunities!
+
+Consultant: That’s wonderful to hear! It sounds like you’re making significant strides in your job preparation. What do you think contributed to this boost in your confidence?
+
+User: I guess participating in the simulation helped me realize that I can perform well in interviews and engage better than I thought. It made me feel more hopeful and motivated.
+
+Consultant: It's great that the simulation provided you with that realization. Feeling hopeful and motivated is a positive change! What specific skills do you think you demonstrated during the simulation that made you feel that way?
+
+User: I was able to communicate my ideas more clearly than I expected. I also felt more at ease answering questions. It was a pleasant surprise.
+
+Consultant: That’s an impressive achievement! Effective communication can make a huge difference in interview scenarios. How did you feel after finishing the simulation? Was there anything that surprised you about your performance?
+
+User: I felt relieved and proud of myself. I was surprised by how much I managed to focus and stay calm. Usually, I tend to overthink when I'm nervous.
+
+Consultant: Feeling relieved and proud are excellent responses! It seems that the experience helped you to manage your anxiety as well. What strategies did you use to maintain that calmness during the simulation?
+
+User: I tried to remind myself that it was just a simulation and I didn’t need to be perfect. I also took deep breaths before answering questions, which helped.
+
+Consultant: Those are effective techniques! By reframing the situation as a learning experience instead of a high-pressure test, you created a supportive mindset. As you continue this journey, how do you plan to build on this success for future interviews?
+
+User: I think I want to practice more mock interviews and maybe join a study group to improve my skills. I hope these will help me feel even more prepared next time.
+
+Consultant: Practicing mock interviews and engaging in a supportive study group are excellent strategies to enhance your skills and build confidence. It’s also a great way to foster connections with others. How do you feel about reaching out to others for support?
+
+User: I’ve been hesitant to do that in the past because I’m not good at socializing. But I realize if I want to improve, I need to push myself out of my comfort zone.
+
+Consultant: Acknowledging that is a big step forward. Remember, many people struggle with socializing, and it’s perfectly okay to feel that way. How about we discuss some ways you could gradually increase your comfort level in social situations?
+
+User: That sounds good. I think starting with smaller groups might help me ease into it without feeling overwhelmed.
+
+Consultant: Starting with smaller groups is a great approach! It allows for more personal interactions and can help you build confidence. Are there any specific groups or communities you could consider joining?
+
+User: Maybe I could join a club related to my major. That could give me a chance to meet people with similar interests who are also focused on their careers.
+
+Consultant: That sounds like a fantastic idea! Joining a club related to your field will not only help you connect with others but also enhance your professional network. How do you feel about taking that first step towards joining such a club?
+
+User: I feel a little nervous, but also excited about the opportunity. I think it will be worth it in the end.
+
+Consultant: It’s entirely natural to feel a mix of nerves and excitement! Focusing on the potential benefits can help alleviate some of that anxiety. What small initial step can you take to move towards joining a club?
+
+User: I could start by doing some research online to see what clubs are available at my school, then maybe attend a meeting or two to check them out.
+
+Consultant: That sounds like a solid plan! Researching clubs and attending a few meetings will give you a sense of what interests you without the pressure of full commitment right away. What support do you think you might need as you take this step?
+
+User: I think just having confidence in myself and reminding myself that it’s okay to be nervous would help. Maybe some encouragement from you as well!
+
+Consultant: I’m here for you, and I believe in your ability to navigate this journey. Strengthening your self-confidence and reminding yourself of your achievements can make a big difference. As you move forward, let’s summarize the progress you’ve made in our sessions. What do you consider your biggest successes?
+
+User: My biggest successes would be overcoming some of my anxiety, improving my performance in the simulation, and planning to take steps towards joining a club.
+
+Consultant: Those are excellent achievements! You should be very proud of yourself. As we wrap up today, what strategies will you take with you to maintain this momentum and tackle future challenges?
+
+User: I’ll keep practicing my interview skills, remind myself about my positive experiences, and actively seek social opportunities to boost my confidence.
+
+Consultant: That’s a fantastic approach! It’s important to build on what you’ve learned and keep your momentum going. Remember, I’m here to support you, and you can always come back if you need guidance. How are you feeling about everything we discussed today?
+
+User: I feel optimistic and empowered to move forward. Thank you for your support!
+
+Consultant: You’re very welcome, Xiao Zhang! I’m proud of your progress, and I look forward to hearing about your continued success. Take care, and remember to celebrate your achievements along the way!
+###################

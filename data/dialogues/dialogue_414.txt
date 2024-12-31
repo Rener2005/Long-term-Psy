@@ -1,0 +1,426 @@
+Consultant: Hello, Abel! I'm glad to see you today. How have you been feeling lately, especially at school and at home?
+
+User: Hi. I've been really anxious. My mom's health is getting worse, and I'm scared about possibly getting expelled from school. I just want to feel accepted by my classmates and Mr. Brown.
+
+Consultant: That sounds really tough. It’s normal to feel anxious when there are so many changes happening at home and at school. Can you tell me more about what being accepted by your classmates means to you?
+
+User: I just want them to like me and not think I’m different because of my situation at home. Sometimes I feel like they look at me weird because of my mom’s illness.
+
+Consultant: I can see why you would feel that way. Wanting to fit in is something many people experience. In the context of your mother’s illness, have there been times when those feelings became stronger?
+
+User: Yes, especially when my mom can't do things with me, like go to my school events. I just feel so alone.
+
+Consultant: It must be really hard to feel alone, especially during those times. What do you think about sharing how you feel with your classmates? 
+
+User: I don’t know. I’m scared they won’t understand or will think I’m looking for pity.
+
+Consultant: That is a common concern. Sometimes it helps to remember that most people care and might be more understanding than we expect. What if we explore how you might express your feelings in a way that feels comfortable for you?
+
+User: Okay, I’d like that. But I still feel like I’ll just mess it up.
+
+Consultant: It’s okay to feel that way. What if we think about some simple ways you could express yourself, maybe through art, since you mentioned you enjoy drawing?
+
+User: I like drawing! I could make a picture that shows how I feel about my mom and school. 
+
+Consultant: That sounds like a wonderful idea! Creating a piece of art to express your feelings can be very powerful. How do you think it would feel to share that with your classmates or even Mr. Brown?
+
+User: I think it might help them understand me better. But what if they don’t get it? 
+
+Consultant: It’s natural to worry about that. But sharing a part of yourself could open up a dialogue. We can also think of positive ways to frame that conversation, focusing on your experience rather than just the challenges. How does that sound?
+
+User: That makes sense. I guess if they see my drawing, it’ll show them what I’m going through.
+
+Consultant: Exactly! By showing them a part of your world, they might be more inclined to support you. Speaking of support, how do you think you could ask for help or connection when you're feeling anxious at school?
+
+User: Maybe I could talk to Mr. Brown privately. I trust him, and I think he would understand.
+
+Consultant: That sounds like a great plan! Establishing that relationship with him can provide some comfort. What do you think would help you feel more confident when approaching him?
+
+User: I suppose if I practice what to say, I won’t feel so nervous.
+
+Consultant: Practicing is a fantastic strategy. What if we role-play a little? You can try talking to me as if I were Mr. Brown.
+
+User: Okay, I’ll try. “Mr. Brown, I’ve been feeling really anxious because of my mom’s health...”
+
+Consultant: That’s a strong start! I appreciate your honesty. How about adding why it’s affecting you at school?
+
+User: “...and I’m worried about not being able to keep up with my schoolwork or that I might get expelled.” 
+
+Consultant: Very good, Abel! You’re expressing your feelings and concerns clearly. How did saying that feel for you?
+
+User: It felt kind of scary but also a little relieving.
+
+Consultant: That’s a powerful realization. It’s okay to feel scared when sharing something personal, but expressing those feelings can often lighten the burden. How do you think you’ll feel after talking with Mr. Brown?
+
+User: I guess I would feel more understood, and hopefully, he could help me figure things out.
+
+Consultant: Absolutely! It’s wonderful that you’re considering this. Remember, it’s a step towards building that support network. What will you take away from our session today?
+
+User: I feel like I have a few ideas to express myself. I can create a drawing and talk to Mr. Brown.
+
+Consultant: That’s fantastic, Abel! It sounds like you’ve gained some clarity on how to express your feelings and reach out for support. Whenever you feel anxious again, remember these strategies. 
+
+User: Thank you! I feel a bit more hopeful now. 
+
+Consultant: I'm glad to hear that! Keep practicing those strategies, and remember I’m here if you need to talk more. You’re doing great. 
+
+User: I will! Thank you so much for today’s session. 
+
+Consultant: You're very welcome, Abel! Don't hesitate to reach out if you need anything else. Take care and keep expressing yourself.
+###################
+Consultant: Hi Abel! I'm really glad to see you today. How have you been feeling lately?
+
+User: Hi. I've been a bit anxious. I worry a lot about my mom and how sick she is. It's hard for me to focus at school, and sometimes I feel like I'm not doing well enough.
+
+Consultant: That sounds really tough, Abel. It’s understandable to feel anxious, especially with everything going on at home. Can you share a bit more about how you express those feelings at school?
+
+User: Well, sometimes I draw when I'm feeling anxious. It's like my way of letting out what I can't say. But I still feel people are watching me, and I get nervous.
+
+Consultant: Drawing is a wonderful way to express yourself! It shows you're finding ways to cope. When you feel like people are watching you, what thoughts go through your mind?
+
+User: I think they must be judging me or thinking I’m not good enough because I keep looking at my mom's condition. I wish they could understand.
+
+Consultant: It sounds like you feel judged and that your situation makes you feel less than others. If someone else were in your shoes, how might you encourage them to think differently about these feelings?
+
+User: I guess I’d tell them that it’s okay to feel this way and that they shouldn't worry too much about what others think.
+
+Consultant: That's a great perspective! It’s important to be kind to ourselves. Let’s work together on ways you can remind yourself that it’s okay to feel anxious. What are some positive things you could say to yourself when you start feeling judged?
+
+User: Maybe I could say, “I’m doing my best, and that’s what matters” or “People care about me, and that’s enough.”
+
+Consultant: Those are excellent affirmations! How do you think saying those things to yourself might change how you feel in those moments at school?
+
+User: I think it might help calm me down and make me feel a little more confident. If I can believe it, maybe others can too.
+
+Consultant: Absolutely! Believing in yourself can really change your experience. Now, let’s talk about how you can use your drawing to communicate with your friends or teachers. How could you use your art to express your feelings or ask for help?
+
+User: I could draw something that represents how I feel and maybe show it to my friends or teachers. It would help me say what I can’t say out loud.
+
+Consultant: That’s a fantastic idea! It’s a creative way to express your needs. Let’s think of a situation at school where you could use this approach. Can you describe a moment when you might want to share your feelings with someone?
+
+User: Maybe during class when I feel really overwhelmed. I could show my drawing to the teacher and explain that I need some support.
+
+Consultant: That sounds like a great plan! Meeting your teacher with a drawing allows you to communicate in a way that feels safe for you. How do you think your teacher would respond to that?
+
+User: I think my teacher would be understanding. They might appreciate that I’m trying to share my feelings.
+
+Consultant: Exactly! Sharing your feelings can strengthen your connection with your teacher. Let’s practice how you might approach this conversation. What would you say to your teacher when you show them the drawing?
+
+User: I’d say, “I drew this because I’ve been feeling anxious about things, and I hope you can help me.”
+
+Consultant: That’s a great way to start! It shows honesty and vulnerability. How does it feel to think about approaching your teacher in that way?
+
+User: It feels a bit scary but also relieving, like it might be a way to really connect.
+
+Consultant: It’s perfectly normal to feel scared, but the relief that comes from sharing your feelings could create a positive change. What are some small steps you can take to prepare for this conversation?
+
+User: I can practice what I want to say at home and maybe draw a few pictures beforehand to feel ready.
+
+Consultant: Practicing is a wonderful strategy! It will help you feel more confident. How does that make you feel about approaching your teacher in the future?
+
+User: I feel a bit more hopeful. Maybe I won’t be as anxious if I’m prepared.
+
+Consultant: That’s a fantastic mindset! Remember, taking it one step at a time is key. Also, how can you try to seek out positive interactions with your classmates in the meantime?
+
+User: I could start talking to them about things I like, or maybe even show them my drawings. That might help.
+
+Consultant: That’s an excellent idea, Abel! Sharing your interests can foster connections. Engaging with them through your art can also be a great icebreaker. How do you feel about initiating conversations with classmates?
+
+User: It makes me a bit nervous, but I think it would be nice to connect with them.
+
+Consultant: Feeling nervous is normal, but taking that step could lead to new friendships. Let’s create a plan for reaching out. Maybe start with one person this week. Who would you feel most comfortable talking to?
+
+User: There’s this classmate named Jake. I think he would be friendly about it.
+
+Consultant: Jake sounds like a great choice! What’s your plan to start a conversation with him?
+
+User: I could ask him about a project we’re working on or show him a drawing and see if he reacts positively.
+
+Consultant: That sounds perfect! You’re setting yourself up for a friendly interaction. Remember to be gentle with yourself no matter the outcome. After this week, how would you like to reflect on your experience with Jake?
+
+User: I can think about how it went and how I felt afterward. Maybe I'll tell you about it in our next session.
+
+Consultant: Absolutely! We can review what worked and any challenges you faced. Your journey is important, and I’m here to support you. Before we wrap up today, is there anything else on your mind?
+
+User: No, I feel like we’ve covered a lot. Thank you for helping me understand how to express myself better.
+
+Consultant: You're very welcome, Abel! I’m proud of you for being open to these steps. I look forward to hearing about your progress next time. Remember, it’s okay to feel anxious, and you’re not alone in this. See you next week!
+###################
+Consultant: Hello, Abel! I'm really glad to see you today. I'd like to talk about how you're feeling lately, especially regarding your experiences in school. Can you share what's been on your mind?
+
+User: Hi. I've been feeling a bit anxious, especially when I'm in class. I get really nervous when it's my turn to participate. But the teacher has been giving me some attention, and that helps a little.
+
+Consultant: It's great to hear that your teacher's support is making a difference for you. Can you tell me more about when you feel most nervous in class? What thoughts go through your mind?
+
+User: I just worry that I won't know the answer or that I'll mess up. I feel like everyone is watching me and judging me. It's kind of scary.
+
+Consultant: That sounds like a tough situation, Abel. It's understandable to feel that way when you're concerned about how others see you. When you're feeling this way, how does it affect your participation in class?
+
+User: I tend to just stay quiet and not raise my hand. I don't want to embarrass myself. Sometimes I feel like maybe I'm not smart enough.
+
+Consultant: I can see how that feeling might hold you back. It's important to explore those thoughts. Do you think there might be any evidence that suggests you are smart enough to participate in class?
+
+User: Well, my teacher did mention that I have good ideas when I do speak up. And I've done well on some tests. But then I still doubt myself.
+
+Consultant: It sounds like there are positive signs that you do know the material and can participate. Let's work on challenging those doubts together. If a friend felt the way you do, what would you tell them?
+
+User: I guess I'd tell them that it's okay to try and that everyone makes mistakes sometimes. 
+
+Consultant: That's a great perspective! Giving yourself the same kindness you would offer a friend is really important. What small step could you take in the next class to challenge that anxiety?
+
+User: Maybe I could try raising my hand once, even if I feel nervous. Just to see what happens.
+
+Consultant: That's a fantastic idea, Abel! It can be a small victory. How would you feel after trying that?
+
+User: I think I'd feel a little proud, even if I was still nervous. It's better than doing nothing.
+
+Consultant: Absolutely! Feeling proud of yourself for trying is a big step. We can also talk to your teacher about creating a reward system for when you participate. How does that sound?
+
+User: That could work! If I know there's something to look forward to, it might help.
+
+Consultant: Exactly! It gives you that extra motivation. Now, let’s think of a simple reward that you’d enjoy. What could that be?
+
+User: Maybe I could earn extra playtime or something fun to do when I participate.
+
+Consultant: Great choice! That sounds like a wonderful motivation. How do you think the other kids in your class would react to your participation?
+
+User: Maybe they would be encouraging. I hope they wouldn't laugh at me.
+
+Consultant: It's natural to worry about that, but remember, many kids appreciate when others try, and you might inspire them to participate too! What could be a different way to look at it?
+
+User: I suppose I could think that they might actually support me instead of judging.
+
+Consultant: Exactly! Sometimes, people are more supportive than we realize. Doing your part by speaking up can help create a more positive environment for everyone. 
+
+User: I like that idea. It makes me feel like it’s not just me being nervous but all of us in it together.
+
+Consultant: Yes, building that connection can be powerful. Moving forward, what strategy can you use to keep reminding yourself of your strengths when you feel anxious?
+
+User: I could write down the positive things my teacher said and keep that with me.
+
+Consultant: That’s a perfect strategy! Having a reminder of your strengths can help counter those anxious thoughts. Now, Abel, let’s recap what you’ve decided to work on. What are your next steps?
+
+User: I’ll try to participate once in class, talk to my teacher about rewards, and keep my positive notes with me.
+
+Consultant: Those are solid steps! I'm proud of you for being willing to push through those feelings. How do you feel about these plans today?
+
+User: I feel more confident. I think I can do this!
+
+Consultant: That's fantastic, Abel! Remember, each step you take is a big achievement. Now, think about how you’ll celebrate these small victories when they happen.
+
+User: Maybe I can treat myself to a special snack or something. 
+
+Consultant: That sounds perfect! Treating yourself can reinforce those positive behaviors. I'm here to support you as you take these steps. How are you feeling about our session today?
+
+User: I'm feeling really good! I think this will help me a lot.
+
+Consultant: I'm glad to hear that! You've made wonderful progress, and I believe in your ability to continue this journey. Remember, I'm here if you need support again. 
+
+User: Thank you so much! I really appreciate it.
+
+Consultant: You’re very welcome, Abel! It's been a pleasure working together. I'm looking forward to hearing about your successes next time.
+###################
+Consultant: Hello Abel! I'm so glad to see you today. How have you been feeling lately with your school and friends?
+
+User: Hi! I've been doing okay, I guess. I feel a bit anxious sometimes, especially about school and how well I'm doing. But I did make some friends recently, and that feels good!
+
+Consultant: That sounds like a positive step! Making friends is really important. Can you tell me more about how you feel when you hang out with them? 
+
+User: I feel happy and less lonely when I'm with them. I enjoy playing games together and talking. I used to be really worried I wouldn’t fit in, but now it feels different.
+
+Consultant: It's wonderful to hear that you've found some friends and feel happier! What do you think has changed that allows you to feel more accepted and included?
+
+User: I think I’ve become more confident. I don’t worry as much about what others think. I just focus on having fun. It's nice to be part of a group.
+
+Consultant: That's great progress, Abel! Confidence can really make a difference in interactions. How do you think you can build on this confidence to feel even more secure in social situations?
+
+User: I think if I try to talk more during games or ask about their lives, that might help. I want to be seen as a good friend.
+
+Consultant: Absolutely! Engaging more in conversations is a fantastic way to strengthen those friendships. What kinds of questions do you think you could ask your friends to get to know them better?
+
+User: Maybe I could ask about their favorite games or what they like to do after school. That would be fun!
+
+Consultant: Those are excellent questions! They not only show you care but also keep the conversation flowing. Have you had a chance to do this with them yet?
+
+User: I haven't really asked much yet. I was nervous about interrupting their conversations, but I think I can try next time!
+
+Consultant: That's a good insight! Remember, conversations are like a dance—you can step in and out. Why don’t we also think of small ways to make these conversations easier for you?
+
+User: Yeah, maybe I could practice asking questions at home or with family. That might help me feel more comfortable.
+
+Consultant: Practicing at home is a fantastic idea! It can boost your confidence and help you feel prepared. What do you think would be a good first question to practice with your family?
+
+User: I think I’ll ask my siblings about their day at school. That sounds simple and easy to remember.
+
+Consultant: That’s a perfect start, Abel! Engaging with your siblings will definitely help you practice. How do you feel about trying this out?
+
+User: I feel a bit nervous, but also excited. I want to do it!
+
+Consultant: It’s completely normal to feel nervous, but it’s great that you’re excited! Perhaps you can set a small goal for this week. What would you like that to be?
+
+User: I’d like to ask at least one question to each of my friends when we hang out this week.
+
+Consultant: That sounds like a wonderful goal! Setting small, achievable targets will boost your confidence. How will you celebrate or acknowledge yourself after you do this?
+
+User: Maybe I’ll treat myself to some ice cream if I do it! That sounds fun!
+
+Consultant: Ice cream sounds like a delicious reward! Recognizing your achievements, no matter how small, is really important. How do you think you might feel after you reach your goal?
+
+User: I think I would feel proud and maybe even more excited to keep talking to them!
+
+Consultant: That’s the spirit! Feeling proud can help you want to engage more. Maintaining that momentum is key. Are there any concerns you have while trying to achieve this goal?
+
+User: I’m a bit worried they might not be interested in talking to me. What if they seem bored?
+
+Consultant: Those feelings are quite common. Let’s challenge that thought. What evidence do you have that your friends wouldn’t be interested in talking to you?
+
+User: Well, they play with me and laugh at my jokes. I guess they do enjoy hanging out with me.
+
+Consultant: Exactly! Your experiences show that your friends appreciate your company. Remember, it’s normal for conversations to ebb and flow. How might you remind yourself of that when feeling anxious?
+
+User: I could tell myself that they like being with me and that it’s okay if not every conversation is perfect.
+
+Consultant: That’s a wonderful affirmation to hold onto! It can really help reduce anxiety and remind you of your value in your friendships. How do you feel about implementing these reminders this week?
+
+User: I feel more assured. I’ll definitely try to keep that in mind! 
+
+Consultant: That’s fantastic to hear, Abel! You’re making great strides in your confidence and social skills. Let’s keep reinforcing these positive thoughts moving forward. 
+
+User: Thanks! I appreciate your help. I feel better about talking to my friends now.
+
+Consultant: I'm glad to hear that, Abel! Remember, progress takes time. Keep practicing, and don't hesitate to share how it goes in our next session. You've got this!
+###################
+Consultant: Hello, Abel! I'm really pleased to see you again today. It sounds like you have been working hard to improve your confidence. What would you like to discuss in our session today?
+
+User: Hi! I’ve been feeling better since the school music festival. I got so much encouragement from my teacher and classmates, but I still feel anxious about the possibility of being expelled from school. 
+
+Consultant: It's great to hear that the music festival experience gave you a boost! The encouragement you received is a big step forward. Let's talk about the anxiety you're feeling about being expelled. What thoughts come to your mind when you think about that situation?
+
+User: I keep thinking that if I get expelled, it means that I'm not good enough. Those thoughts make me feel really low and scared about what’s next.
+
+Consultant: I can understand how those thoughts can be really overpowering. It seems like you're linking your worth to the possibility of being expelled. What do you think is the evidence for and against this thought that "if I get expelled, I'm not good enough"?
+
+User: Well, I know I did well in the music festival, and my teacher said I’ve made great progress. But then I remember times when I didn’t do well in class, which makes me question myself.
+
+Consultant: It sounds like you have mixed feelings. On one hand, you've experienced success and recognition, but on the other hand, past difficulties are coming back to haunt you. What if we tried to challenge that thought by considering your achievements? How does it feel to acknowledge your success at the music festival in this context?
+
+User: Thinking about the festival makes me feel a bit better. I guess I do have some achievements. But then I worry that maybe it was just luck.
+
+Consultant: That’s a common concern, wondering if our successes are just a fluke. However, every achievement, including participating in the music festival, is a result of your effort and talent. If a friend told you they felt this way about their accomplishments, what would you say to them?
+
+User: I would tell them that they worked hard and deserved it. I should probably think about that for myself too.
+
+Consultant: Exactly! It’s so important to be as supportive of yourself as you would be for a friend. Let's work on some self-affirming thoughts together. Can you come up with a positive statement about your abilities that reflects your achievements?
+
+User: Maybe I can say, “I am capable and worthy of doing well in school and in other activities.” 
+
+Consultant: That’s a fantastic affirmation, Abel! How does saying that out loud make you feel?
+
+User: It makes me feel a little lighter, like maybe I can believe it. 
+
+Consultant: That’s wonderful to hear! Now, how can we incorporate this positive affirmation into your daily life, especially when you start feeling anxious about school?
+
+User: I could try saying it to myself before class or when I feel anxious. I think that could help remind me of my abilities.
+
+Consultant: That sounds like a solid plan! By reminding yourself of your capabilities in moments of doubt, you can gradually change the narrative you tell yourself. Is there anything else you think you might encounter that could challenge this positive thought?
+
+User: I might worry a lot about grades. If I do poorly, it feels like the affirmation wouldn't matter anymore.
+
+Consultant: It’s understandable to think that way, but let’s assess this belief. What if you don’t perform as well as you hoped—does that take away from your abilities or worth?
+
+User: I suppose not. Everyone has ups and downs in school. It doesn't mean I'm not capable. 
+
+Consultant: Exactly! Each experience is just a part of your journey, not a definition of you. How will you remind yourself of this during challenging times?
+
+User: I could write down my positive affirmations, and maybe also list out my achievements to look at when I’m feeling down.
+
+Consultant: That’s a wonderful strategy! Keeping a record of your achievements helps you visualize your growth. It could also help to recognize patterns: when do you usually feel negative, and how can you prepare for it?
+
+User: I usually feel negative when I receive feedback. I could practice reframing that feedback instead of taking it too personally.
+
+Consultant: Reframing feedback is a powerful skill. Instead of viewing it as a reflection of your worth, you can see it as an opportunity for growth. What would a constructive response to feedback look like for you?
+
+User: I think I could say, “This feedback helps me learn and improve; it doesn’t define who I am.”
+
+Consultant: That's an excellent approach! Keeping a learning mindset can really help reduce anxiety about making mistakes. How are you feeling about this mindset shift so far?
+
+User: I’m feeling more empowered and less anxious. I think I can face my challenges better now.
+
+Consultant: I’m glad to hear that, Abel! As we wrap up today, let’s reflect on your progress. What have you learned about your abilities, and how do you feel about handling future challenges?
+
+User: I learned that I can be proud of my achievements and that my worth isn’t tied to any mistakes I might make. I feel more ready to handle whatever comes next.
+
+Consultant: That’s a significant insight! It's all about recognizing your progress and embracing your journey. Before we end, what support would you like to have in the future to maintain this mindset?
+
+User: I think just talking about my feelings and achievements regularly could really help me stay focused and positive.
+
+Consultant: Absolutely, keeping the lines of communication open is key. I'm confident you'll continue to grow. Whenever you need support, remember I'm here for you. Great job today, and I look forward to our next session!
+
+User: Thank you! I appreciate everything. See you next time!
+###################
+Consultant: Hello Abel! It’s great to see you again. I'm proud of the progress you've made. Let’s start by reflecting on how you’ve been feeling lately. How do you think your time at school has changed since we last spoke?
+
+User: Hi! I feel a bit safer at school now. I’ve been trying to focus more on my studies and not let my worries about being expelled take over, but sometimes it's still tough.
+
+Consultant: It's wonderful to hear that you're feeling safer at school. It's understandable to have lingering concerns about expulsion. Can you tell me more about what specifically makes it tough for you at times?
+
+User: I guess I sometimes feel overloaded with assignments and worried that I won't meet expectations. It makes me anxious, even when everything else seems okay.
+
+Consultant: That sounds challenging, especially since you're balancing various pressures. When you start to feel anxious about the assignments, what thoughts go through your mind?
+
+User: I often think that I'm not smart enough to handle the workload, or that everyone expects me to do perfectly. It makes me feel low about myself.
+
+Consultant: I appreciate you sharing that, Abel. It sounds like those thoughts are quite critical and can really affect how you feel about your abilities. What do you think might happen if you challenge those thoughts about not being smart enough?
+
+User: I suppose if I could challenge those thoughts, maybe I would believe that I can do it, or at least try my best without feeling so pressured.
+
+Consultant: Exactly! Challenging those negative thoughts could help you feel more confident. What would you say to a friend in your shoes who was feeling the same way?
+
+User: I would probably tell them that it's okay to make mistakes and that it doesn't define their intelligence. Everyone struggles sometimes.
+
+Consultant: That’s a kind and empathetic perspective. It could be helpful to remind yourself of this advice when you're feeling low. Let’s think about some practical steps you can take to manage your assignments without feeling overwhelmed. Any ideas come to mind?
+
+User: Maybe I could break down my assignments into smaller tasks and set smaller deadlines for myself. That way, it feels less daunting.
+
+Consultant: That sounds like a great plan, Abel! By breaking things down, you can create a more manageable approach and celebrate small victories. How do you feel about starting this strategy for your next assignment?
+
+User: I feel hopeful about trying that! It seems doable, which is nice. 
+
+Consultant: I'm glad to hear that! Remember, it's all about making progress step by step. Now, how do you think your family can support you with this new approach?
+
+User: My mom can help remind me to take breaks and maybe help me organize my tasks. She’s been really supportive since her health improved a little.
+
+Consultant: That’s really valuable. Having that support from your mom can make a big difference. As we discuss ongoing support, are there any other areas you would like us to focus on during our sessions?
+
+User: I think I need to keep working on feeling accepted at school and maybe deal with some worries about my mom’s health as well.
+
+Consultant: Absolutely, addressing your feelings of acceptance at school is important, as well as having a strategy for coping with worries regarding your mom’s health. How have you been feeling about your mom’s condition lately?
+
+User: It’s been a mixed bag. Some days I’m okay, but other days when I see her struggle, I get really worried. I hate seeing her like that.
+
+Consultant: That’s completely understandable. Watching a loved one struggle can be very distressing. Have you found any ways to cope on those tougher days?
+
+User: Sometimes I talk to my friends about it, but I don’t always want to burden them with my problems.
+
+Consultant: It's good that you talk to friends, but it’s also okay to share how you’re feeling. Would you be open to discussing ways to express your feelings without feeling like a burden?
+
+User: Yeah, I think I could do that. Maybe I could also write in a journal or something.
+
+Consultant: Journaling can be a fantastic tool for expressing your feelings and reducing anxiety. It allows you to reflect and process your emotions. Would you like to set a goal for how often you might want to write in your journal?
+
+User: I could try doing it a few times a week. It might help me sort through my thoughts.
+
+Consultant: That sounds like a great starting point. Remember, it's about finding what works for you! As we wrap up, let’s reflect on your progress today. What do you feel has been your biggest takeaway from our session?
+
+User: I think the biggest takeaway for me is realizing that I can manage my assignments better and that it's okay to talk about my feelings without feeling like a burden. 
+
+Consultant: That’s a wonderful realization, Abel. You've come a long way, and I'm proud of you for recognizing those points. How do you plan to maintain this mindset moving forward?
+
+User: I’m going to remind myself to be kinder to myself and focus on what I can control. Also, I’ll keep practicing the journaling and breaking down tasks into smaller pieces.
+
+Consultant: That sounds like an excellent plan! Maintaining this mindset and your new strategies will definitely help you. As our session concludes today, remember that it’s perfectly natural to have ups and downs. You’re not alone in this journey. If you need support, don’t hesitate to reach out.
+
+User: Thank you! I feel more equipped to handle things now. I appreciate all the help!
+
+Consultant: You’re very welcome, Abel! It’s been a pleasure working with you. I look forward to hearing about your progress. Take care, and remember, you can always come back if you need anything.
+###################

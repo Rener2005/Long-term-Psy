@@ -1,0 +1,396 @@
+Consultant: Hello! It’s great to see you today. I understand you’ve been dealing with some heavy emotions lately. Can you share what’s been on your mind?
+
+User: Hi. I feel really down about my recent performance on an important exam. I thought I prepared well, but it didn’t go as expected, and now I’m doubting if I can ever succeed in my studies. 
+
+Consultant: I'm sorry to hear that you’re feeling this way. It sounds like this exam has really shaken your confidence. Can you tell me more about what thoughts you had right after you realized you didn’t do well?
+
+User: Well, I just kept thinking that I’m a failure and that maybe I should just give up on studying altogether. It feels like I’m stuck in this cycle of negativity. 
+
+Consultant: That’s tough. It seems like you’re caught in a loop of negative thoughts about your abilities. Let’s explore those thoughts a bit more. What evidence do you have that suggests you are a failure? 
+
+User: I guess I don't have much evidence besides this one exam. But I feel like if I can’t do well on one test, it means I’ll never be good enough. 
+
+Consultant: It’s understandable to feel that way after a disappointing experience. But let’s challenge that thought. If a friend were in your position, what might you say to them about their performance?
+
+User: I’d probably tell them that one exam doesn’t define their worth or future. Everyone has ups and downs.
+
+Consultant: Exactly! So why do you think it’s different for you? What if you allowed yourself to see this exam as just one moment in time rather than a reflection of your entire ability?
+
+User: I guess I rarely think about it that way. I often put so much pressure on myself to succeed every time.
+
+Consultant: That’s a common feeling, and it's okay to want to do well! But if we put excessive pressure on ourselves, it can lead to anxiety and low self-esteem. What could be a more balanced way to think about your academic performance? 
+
+User: Maybe I could try to view my results as part of my learning process, instead of taking them so personally. 
+
+Consultant: That’s a great insight! Accepting that mistakes are part of learning can ease some of that pressure. Can we brainstorm some steps you could take when you feel those negative thoughts creeping in again?
+
+User: Perhaps I could remind myself that it’s just one test and not let it dictate how I feel about myself overall. 
+
+Consultant: Absolutely! Additionally, when you’re ready, you might consider talking to your friends or family about your feelings. How do you feel about that idea?
+
+User: I think it could help, but I sometimes worry they won’t understand me or will judge me. 
+
+Consultant: It’s normal to feel apprehensive about sharing your feelings, especially if there’ve been misunderstandings before. But reaching out could deepen those connections. What's a small step you could take to start a conversation with someone you trust?
+
+User: Maybe I can text my close friend to see if she’s free to talk. She’s always been supportive. 
+
+Consultant: That sounds like a wonderful step! Fostering those supportive relationships can really help when times are tough. Are there any other activities that you find comforting during stressful moments?
+
+User: I enjoy drawing and sometimes it helps me relax. But I haven't made time for it lately. 
+
+Consultant: Engaging in creative activities like drawing can be a fantastic outlet for your emotions! Could we plan some time for you to incorporate that back into your routine this week?
+
+User: Yes, I can set aside some time every evening to do some drawing before bed. 
+
+Consultant: That’s a wonderful plan! It can help clear your mind and improve your mood. Let’s also talk about how you can gently challenge those automatic negative thoughts when they pop up. What’s one negative thought you can actively challenge this week?
+
+User: I keep thinking I’m not good enough for my profession. I guess I could remind myself of my past successes and how I’ve overcome challenges before.
+
+Consultant: That’s a powerful strategy! Reminding yourself of your strengths and achievements can help combat those negative beliefs. Would it be helpful to keep a journal of these positive reminders?
+
+User: Yes, I think writing it down could reinforce those thoughts better. 
+
+Consultant: Great! Journaling can be such a helpful tool for recognizing patterns in your thinking and boosting self-awareness. As we wrap up today, what do you feel are some key takeaways from our session?
+
+User: I realized I put too much pressure on myself, and one test doesn't define my whole ability. I also want to start talking to my friends and return to drawing.
+
+Consultant: I’m proud of you for recognizing those points. You’ve made some positive plans for the upcoming days. Remember, it’s okay to ask for support and enjoy your creative time. How do you feel about our work together today?
+
+User: I feel a bit lighter and more hopeful. I’m looking forward to trying out these ideas! 
+
+Consultant: That’s wonderful to hear! I’m glad you’re feeling more hopeful. Remember, it's a journey, and taking these small steps can lead to significant changes. I'm here to support you whenever you need it. 
+
+User: Thank you! I appreciate your help. 
+
+Consultant: You’re welcome! Take care and see you next time.
+###################
+Consultant: Hello, A! I'm glad to see you today. How have you been feeling since our last session?
+
+User: Hi. I’ve been feeling pretty down, actually. The argument with B has been bothering me a lot. I just keep questioning whether people actually like me or if I'm just annoying them.
+
+Consultant: I see. It sounds like that disagreement has really affected your self-esteem and how you view your relationships. Let's explore this a bit further. Can you tell me more about the thoughts that come to your mind when you think about your interactions with B and others?
+
+User: Well, I often feel like I'm not good enough for them. When B and I argue, I end up believing that maybe I'm the problem, that I just mess things up.
+
+Consultant: That sounds really challenging. Feeling like you're the cause of these issues can be really heavy. What emotions do you experience when you have those thoughts about yourself?
+
+User: I mostly feel sad and also kind of angry at myself. It's like I can't escape those thoughts and it just makes me feel worse.
+
+Consultant: It’s understandable to feel that way, especially when conflicts arise. What about when things are going well with your friends? Do you ever feel differently in those moments?
+
+User: Yes, when we’re okay, I feel really happy and like I belong. But then I start to worry it won’t last, or that they’ll get tired of me. 
+
+Consultant: That’s insightful, A. It seems there's a lot of worry about the stability of your friendships. In those happy moments, do you notice any specific thoughts that you tell yourself?
+
+User: Not really, I just feel happy. It's when things go wrong that I start doubting myself.
+
+Consultant: That makes sense. It seems like your negative thoughts really surface during tough times. Let's think about this: when you feel like you’ve messed up, can we challenge that thought? Is there tangible evidence to support the idea that you’re the problem? 
+
+User: I’m not sure. Maybe I sometimes overreact, but it’s hard for me to tell.
+
+Consultant: It's great that you're questioning that. If a friend were in your shoes, thinking they were the problem, what would you say to them?
+
+User: I’d probably tell them it’s not their fault and that everyone makes mistakes.
+
+Consultant: Exactly! You’d offer them compassion, yet it's harder to extend that kindness to yourself. Let's try to reframe those thoughts: instead of thinking “I’m the problem,” could we say “I made a mistake, and that’s okay”?
+
+User: I think I could do that, but it feels difficult to believe it sometimes.
+
+Consultant: That’s perfectly normal. It takes time to shift our thinking. We could work on small exercises that help you see yourself more positively. Would you be interested in trying that?
+
+User: Yes, I’d like to try if it helps me feel better about myself.
+
+Consultant: Wonderful! What if we develop a simple strategy to acknowledge your strengths, even when things don’t go perfectly? It could be a habit to write down one positive thing about yourself each day. How does that sound?
+
+User: That sounds doable. I might struggle with it, but I’ll try.
+
+Consultant: I believe in you! Starting small can make a big difference. Also, how would you describe your relationship with your mom right now? 
+
+User: It’s pretty tense. I often feel like she doesn’t understand me, and we argue too.
+
+Consultant: It's tough when we feel like our closest relationships are unstable. Can you share more about what triggers those arguments?
+
+User: Mostly little things. Sometimes I just want her to listen to me, but she reacts poorly and ends up yelling.
+
+Consultant: That sounds frustrating. It’s essential to feel heard in any relationship. Have you been able to express your feelings to her about wanting her to listen?
+
+User: I haven't really. I’m worried how she’ll react if I bring it up.
+
+Consultant: I get that—it can be hard to open up, especially if there's a history of tension. What if we brainstormed a gentle way to approach that conversation? 
+
+User: That might help. What would you suggest?
+
+Consultant: One approach could be to choose a calm time and express how you feel using “I” statements. For example, “I feel upset when I share something important, and it seems like it’s not acknowledged.” Would that feel comfortable to try?
+
+User: Yes, that sounds manageable. I think I could give that a shot.
+
+Consultant: Great! Remember, it's about creating a dialogue. Also, I want to remind you to be kind to yourself in this process as well. What do you think your next steps will be before our next session?
+
+User: I’ll try to practice affirming myself and maybe have that talk with my mom. 
+
+Consultant: That sounds like a solid plan, A. I’m proud of you for taking these steps, and I’m looking forward to hearing how it goes. 
+
+User: Thank you! I feel a little more hopeful about it now. 
+
+Consultant: I’m glad to hear that. Remember, change takes time. We’re working together towards understanding and improving these relationships. I’ll see you next time, okay?
+
+User: See you next time!
+###################
+Consultant: Hello, XIAO A! I'm glad you could come in today. How have you been feeling since our last session? 
+
+User: Hi! I don’t know. Things have been tough. I had another big fight with my mom, and now I just feel really lost and disappointed with our relationship.
+
+Consultant: I'm sorry to hear that. Conflicts can really have a strong emotional impact on us, especially when it comes to family. Can you share more about what happened during the fight and how it made you feel?
+
+User: Well, we just started arguing over small things, but it escalated quickly. I felt like she didn’t care about my feelings. It made me feel really alone and frustrated.
+
+Consultant: It sounds like you felt overlooked and that your emotions weren't acknowledged during this argument. That can be really tough. What do you think triggered the fight this time?
+
+User: I think it was about my grades and her expectations. She kept comparing me to my classmates, and it made me feel like I just can’t meet her standards. 
+
+Consultant: I understand. It’s really hard when expectations feel overwhelming and it seems like there's constant comparison. How do you feel about your own performance in school?
+
+User: I do okay, but it gets really stressful, especially before exams. Sometimes I feel like I want to give up, especially when I can’t handle the pressure.
+
+Consultant: That sounds overwhelming. It seems that the stress from both home and school is building up for you. How do you usually cope with that stress when it comes up?
+
+User: I don’t really have any effective ways to cope. Sometimes I just want to shut down and avoid everything, but it doesn’t help.
+
+Consultant: It sounds like avoiding the situation feels like a temporary relief, but in the long run, it only adds to the pressure. Let’s explore some of those feelings. When you face that pressure, what thoughts come to your mind?
+
+User: I often think I’m not good enough or that I’ll disappoint everyone. Those thoughts just keep spiraling, and then I feel even worse.
+
+Consultant: Those thoughts sound really heavy to carry. It might help if we take a closer look at them together. Can you think of any evidence that supports or contradicts those thoughts about not being good enough?
+
+User: I guess I do manage to get decent grades, and sometimes my teachers say I’m doing well. But it just feels like those moments don’t count.
+
+Consultant: That's a really important insight. It seems that there are positive affirmations from your teachers, yet you feel they don’t balance out the negative thoughts. What would you say to a friend who feels the way you do about their worth and performance?
+
+User: I guess I would tell them that they are doing their best and that everyone struggles sometimes. 
+
+Consultant: Exactly! It’s so much easier to show compassion to others than to ourselves. Let’s practice being a little kinder to yourself. Can you rephrase those negative thoughts into something more supportive?
+
+User: Maybe I could say, “I am trying my best, and it’s okay to not be perfect all the time.” 
+
+Consultant: That's a great start! Acknowledging that it's acceptable to be imperfect is an important step. Let's think about making this a part of your self-talk. How can you remind yourself of this when stress arises?
+
+User: I could write it down somewhere or try to tell myself that before studying or during stress.
+
+Consultant: Writing it down can help reinforce the message. Next, let’s talk about your relationship with your mom. What might be a small step you could take to improve communication with her after a fight?
+
+User: Maybe I could try explaining how I feel when she compares me with others instead of just getting angry.
+
+Consultant: That sounds like a constructive approach. Communicating your feelings can help create understanding. Would you feel comfortable practicing what you might say to her?
+
+User: I think I could say something like “When you compare me to my classmates, I feel pressured and stressed. I need your support instead.” 
+
+Consultant: That’s a wonderful way to express your feelings honestly. How do you think she might respond to that?
+
+User: Hopefully, she’ll understand and maybe be less harsh. 
+
+Consultant: That’s a positive hope. It’s important to manage expectations for this conversation, as it may take time for her to adjust. How would you like to follow up if you don't get the response you want?
+
+User: I guess I could just try to stay calm and repeat my needs. 
+
+Consultant: Staying calm is a great strategy. It can help the conversation remain productive. Let’s wrap up for today and reflect on what we’ve discussed. What do you feel is the biggest takeaway from our session?
+
+User: I think recognizing that I’m doing my best and expressing my feelings could help both in school and with my mom.
+
+Consultant: Absolutely! Those are valuable insights. It will take practice, but you’re already making progress. For our next session, let’s focus on refining those communication strategies and coping techniques for your studies. How does that sound? 
+
+User: That sounds good to me. Thank you! 
+
+Consultant: You’re very welcome, XIAO A! I'm proud of the steps you're taking. Remember, it’s okay to seek support whenever you need it. Looking forward to seeing you next time!
+###################
+Consultant: Hello! I'm glad to see you again today. How have you been feeling since our last session?
+
+User: Hi. To be honest, I'm still feeling really anxious about the upcoming exams. It's like there's this heavy weight on my shoulders, and I struggle to focus or even start studying.
+
+Consultant: I appreciate your honesty. It sounds like the pressure from exams is really overwhelming for you. Can you share more about what specifically is weighing you down right now?
+
+User: Well, it's mostly the thought of failing and disappointing everyone. I feel like if I don't do well, I'll let my grandparents down, and I just freeze up when I try to study. 
+
+Consultant: That sounds really tough. It seems like there's a lot of fear surrounding your exams. When you think about studying, what kind of thoughts come to your mind that make you feel so anxious?
+
+User: I just keep thinking that I won't understand the material, or that I'll forget everything during the exam. It feels like I'm stuck in this cycle of worry.
+
+Consultant: I see. It sounds like those thoughts are creating a lot of anxiety for you. Let’s explore those thoughts together. When you think, “I won’t understand the material,” how does that make you feel physically and emotionally?
+
+User: It makes me really panicky. My heart starts racing, and I just want to hide. I wish I could just get it over with and not feel this way.
+
+Consultant: It's understandable to want to avoid that discomfort. Let's try to unpack that belief a bit. What evidence do you have that suggests you will not understand the material? Have there been times in the past when you felt like you wouldn't understand something but managed to do well?
+
+User: Well, there was this time in math that I was terrified about a test, but I actually did okay. I guess I did prepare more for that one… 
+
+Consultant: That's a great realization! It shows that you have the ability to understand the material when you prepare. What if you shifted your thought from "I won't understand" to "I can prepare and do well like I did before"? How does that feel?
+
+User: It feels slightly better to think that way. But sometimes I still doubt myself when I'm actually sitting there with the books.
+
+Consultant: That doubt is normal, especially during times of stress. Let’s talk about some practical strategies to manage these feelings. Have you ever tried deep breathing or mindfulness exercises to help calm your mind when you start feeling anxious?
+
+User: I haven’t really tried those. I just thought it was silly.
+
+Consultant: It's understandable to feel that way, but many people find them helpful! Deep breathing can signal your body to relax. How about we practice a simple breathing technique together? 
+
+User: Okay, that sounds fine. 
+
+Consultant: Great! Let’s try this: close your eyes if you’re comfortable, and take a deep breath in through your nose for a count of four… hold it for a count of four… and then slowly breathe out through your mouth for a count of six. Let’s do that a few times. 
+
+User: (takes deep breaths) That actually feels pretty calming.
+
+Consultant: I’m glad to hear that! Incorporating this kind of deep breathing into your study routine can help you manage anxiety before and during your exams. Would you be willing to try this technique when you start to feel overwhelmed while studying?
+
+User: Yes, I can definitely try that. It feels like something easy I can do anywhere.
+
+Consultant: Exactly! It's a small tool that can make a big difference. Now, let’s create a study plan together. What subjects or topics do you think you need to focus on most for the upcoming exam?
+
+User: I really need to work on my accounting and math. Those two always stress me out the most.
+
+Consultant: Let’s break it down then. How about allocating specific times for both subjects in the week leading up to your exams? This way, we can ensure that your preparation is structured and manageable. 
+
+User: That sounds helpful. I think I need that structure.
+
+Consultant: Perfect! Let’s also add in some short breaks within your study time to practice your deep breathing. How does that sound?
+
+User: I like that idea. The breaks would help me not feel so overwhelmed.
+
+Consultant: Fantastic! It seems like you’re starting to build some effective strategies for managing your anxiety and preparing for your exams. How are you feeling about everything we discussed today?
+
+User: I feel a bit more relieved and hopeful. It seems like I finally have a plan.
+
+Consultant: That’s wonderful to hear! Remember, you don’t have to face this alone. You have tools to manage your anxiety and a plan to follow. Let’s keep building on this in our next session. 
+
+User: Yes, I’m looking forward to it. Thank you!
+
+Consultant: You're welcome! It's been great working with you today. Take care until we meet again, and remember to practice your deep breathing and keep that study plan in mind!
+###################
+Consultant: Hello, I'm glad to see you here today! It's great to hear that you're beginning to feel a bit more relaxed and that you've recognized the benefits of relaxation techniques. How have you been feeling since our last session?
+
+User: Hi! I've been trying to practice mindfulness meditation daily. It has helped me feel a bit calmer, but there are still moments when I'm overwhelmed, especially when I think about exams.
+
+Consultant: It's wonderful that you're committing to mindfulness meditation! It's normal to still feel overwhelmed at times, especially with exams approaching. Can you share a specific moment when you felt particularly overwhelmed, and what thoughts went through your mind at that time?
+
+User: Sure. Last week, I was studying for a big test and suddenly I felt this wave of panic. I thought I wouldn't remember anything, and that made my heart race. I just wanted to escape the situation.
+
+Consultant: That sounds really challenging. It seems that in that moment, you experienced a strong fear of not being able to perform well. Let’s explore that thought a bit more. What evidence do you think supports this belief that you wouldn’t remember anything during the exam?
+
+User: Maybe I don’t have strong evidence. It's more like a feeling that comes over me. I guess I often remember instances when I felt blank during tests, which reinforces my fear.
+
+Consultant: That makes sense. It can be quite powerful when past experiences shape our current feelings. Let's try shifting that thought a bit. If a friend were in your position and felt that way, what would you tell them to help them see things differently?
+
+User: I would probably tell them that it's okay to feel nervous, and that they should trust their preparation. Maybe I should remind myself of that too.
+
+Consultant: Absolutely! Trusting in your preparation can make a big difference. What do you think would happen if you approached your upcoming exam with that mindset instead of fear? 
+
+User: I think it would make me less anxious. If I could trust that I've studied and rely on that, maybe I wouldn't feel so panicked.
+
+Consultant: That's a great insight! Let's practice that mindset. When you start to feel anxious before the exam, try reminding yourself of the work you've put in and that it's normal to feel nervous. We can also incorporate some breathing exercises to help calm those nerves. Would you be open to that?
+
+User: Yes, that sounds helpful! I could definitely use some more techniques.
+
+Consultant: Perfect. We can practice a simple deep breathing exercise together right now. As you breathe in slowly through your nose for a count of four, hold it for four, and then exhale slowly through your mouth for a count of four. How does that feel?
+
+User: Doing it now... It feels nice. I can feel my body relaxing a bit.
+
+Consultant: That's great to hear! This breathing technique can be a wonderful tool for you in moments of high stress. You can use it during your study sessions or even right before your exam. Let’s think about how we can incorporate more mindfulness practices into your daily routine. Do you have other times throughout the day that feel particularly stressful?
+
+User: Well, mornings can be tough. I'm often running late and I get really stressed out.
+
+Consultant: It sounds like mornings could be a good opportunity for you to apply what you've learned. What if you set aside just a few minutes in the morning for a mindfulness practice before starting your day? This could help set a positive tone.
+
+User: That could work. I could wake up a little earlier to fit that in.
+
+Consultant: That sounds like a solid plan! Establishing a morning routine that includes mindfulness could really help you feel more grounded. Let's also think about setting some small, achievable goals for this week. What do you think you could aim to practice daily?
+
+User: I think I could aim for at least ten minutes of mindfulness each morning, plus the breathing exercises when I feel anxious.
+
+Consultant: That sounds wonderful! Ten minutes is a great start. By the end of the week, you can reflect on how that practice has impacted your feelings and stress levels. Next session, we can discuss what you noticed and any adjustments we might make. How does that sound?
+
+User: That sounds perfect! I'm feeling more hopeful already.
+
+Consultant: I'm so glad to hear that! You've made great progress today. Remember that it's completely normal to have ups and downs, but with the techniques we discussed, you have the tools to manage your feelings effectively. Before we conclude, what would you say is your biggest takeaway from today's session?
+
+User: I think it's about trusting my preparation and using the mindfulness techniques to calm myself, especially during stressful moments.
+
+Consultant: That's a powerful takeaway! I believe that these strategies will help you navigate the upcoming challenges. As we wrap up, remember to be gentle with yourself and acknowledge the effort you're putting into this process. You’re doing great! If you ever feel stuck or need support, I’m here for you.
+
+User: Thank you! I really appreciate the guidance.
+
+Consultant: You're very welcome! It’s been a pleasure working with you today. I look forward to hearing about your experiences in our next session. Take care until then!
+###################
+Consultant: Hello there! I'm really glad to see you again today. How have you been feeling since our last session?
+
+User: Hi! I've been trying to focus on managing my emotions better. I’ve noticed some positive changes, but there are still moments when I feel really low, especially when I think about school and my relationship with my mom.
+
+Consultant: It's great to hear that you're noticing some positive changes! Let's talk more about those low moments. What exactly brings those feelings up, particularly concerning school and your relationship with your mom?
+
+User: I think when I have a lot of assignments or if something goes wrong at school, it makes me feel overwhelmed. With my mom, when we argue, it really takes a toll on me.
+
+Consultant: That sounds really tough, especially since school can be demanding and home should be a safe space. Can you share a specific instance where you felt overwhelmed or upset? What were your thoughts in that moment?
+
+User: I remember last week, I was stressed about a project due, and I just felt like I couldn't handle all the pressure. I thought, "What if I mess it up?" and it made me want to give up entirely.
+
+Consultant: Those thoughts must be quite heavy to carry. It's common to feel like giving up when faced with so much pressure. You mentioned the thought of "messing it up"—how does that thought affect your feelings during stressful moments?
+
+User: It just makes me feel anxious and inadequate, like I'm not good enough. I start doubting my abilities and feel like I won't be able to succeed.
+
+Consultant: That sense of inadequacy can be quite discouraging. Let's explore that thought further. What evidence do you have that you would actually mess it up? Have there been times when things went better than you expected?
+
+User: Honestly, I did well on my last exam, but I always focus on the negatives more than the positives. It’s like the good moments don’t stick with me as much as the bad ones.
+
+Consultant: That’s a common pattern—our minds tend to focus more on negatives than positives. It’s important to recognize those wins. How could you remind yourself of those successful moments when you start doubting yourself again?
+
+User: Maybe I could keep a journal to note down my successes or the things I do well. That might help me remember the positive moments.
+
+Consultant: That’s an excellent idea! Keeping a journal can really help shift your focus over time. It allows you to see your accomplishments and how far you’ve come. How do you feel about starting that?
+
+User: I think I’d feel good about it. Writing things down could be a helpful tool for me.
+
+Consultant: I’m glad to hear that! Along with journaling, how about we brainstorm some other strategies you could use in those stressful school moments to ease your mind?
+
+User: Yes, I could really use some strategies. Sometimes, I just freeze and don’t know what to do.
+
+Consultant: That freezing sensation can be tough. One approach is to break tasks into smaller steps. Instead of seeing it as one big project, focus on one part at a time. Would that be manageable for you?
+
+User: Yes, I’m not sure why I never thought of that before. Breaking things down sounds like it could make things feel less overwhelming.
+
+Consultant: Absolutely! Small steps can make a huge difference. Also, when things start to feel tense, taking short breaks can help clear your mind. Have you tried that before?
+
+User: I haven't really taken breaks while studying. I usually just push through it, thinking I’ll get it done faster.
+
+Consultant: It’s understandable to want to push through, but taking small, intentional breaks can actually enhance your focus and productivity. How about experimenting with that during your next study session?
+
+User: I’ll definitely try it out. It sounds like a good idea, and I think it might help me feel less stressed.
+
+Consultant: I’m really glad you’re open to trying that! Now, let’s turn our attention to your relationship with your mom. How have things been at home since our last discussion?
+
+User: There have been ups and downs. Some days are okay, but other days we just end up arguing again. It's tiring.
+
+Consultant: I can imagine how exhausting that must be for you. Do you find any particular topics or situations trigger those arguments?
+
+User: Usually, it’s about my schoolwork or when I don’t do things the way she wants me to. She can get really critical, and it hurts.
+
+Consultant: That sounds really difficult to navigate. It’s tough when someone we care about doesn’t understand our perspective. Have you thought about ways to communicate your feelings to her when those arguments happen?
+
+User: I’m not sure how to express what I feel without making things worse.
+
+Consultant: That’s a valid concern. One approach could be to use "I" statements, focusing on how you feel rather than on her actions. For example, "I feel overwhelmed when I hear criticism about my schoolwork." Would that feel comfortable for you to try?
+
+User: I think that might work! It’s less confrontational than blaming her directly.
+
+Consultant: Exactly! It opens the door for dialogue rather than defensiveness. How do you think she might respond if you approached her like that?
+
+User: Maybe she’d be more understanding? I hope it could help reduce the tension between us.
+
+Consultant: That’s a hopeful perspective! Communication is key in rebuilding understanding. I encourage you to practice that technique when you feel ready. How do you feel about today’s session?
+
+User: I feel really good. I have some new strategies to try and talking about these things helps a lot.
+
+Consultant: I’m thrilled to hear that! You’ve made some great progress today. Remember, keep using your journal and practicing those communication techniques with your mom. How do you feel about scheduling our next session to check in on how things are going?
+
+User: I’m definitely open to that. It will help me stay accountable.
+
+Consultant: Perfect! I’ll look forward to hearing about your experiences and progress. You've got this, and I’m here to support you. Thank you for sharing so openly today!
+
+User: Thank you! I appreciate all your help.
+###################

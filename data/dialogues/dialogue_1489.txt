@@ -1,0 +1,426 @@
+Consultant: Hello, Xiao Yuan! I'm glad to see you today. How have you been feeling since our last session?
+
+User: Hi. I've been feeling really on edge lately, especially after finishing that important school assignment. It was so stressful; I kept getting nervous and doing repetitive things. My emotions have been all over the place.
+
+Consultant: It sounds like that assignment really took a toll on you. You mentioned feeling anxious and having unstable emotions during the process. Can you share more about what specific moments made you feel anxious?
+
+User: Well, every time I had to sit down and focus on my work, I'd feel this overwhelming urge to just keep repeating things or even hurt myself a little—just to cope with the stress.
+
+Consultant: I'm really sorry to hear that you felt the need to resort to self-harm as a way to cope. It’s important that we find healthier ways for you to deal with stress and manage those overwhelming emotions. Can we explore some triggers that lead to those feelings of anxiety?
+
+User: I think it’s mostly the pressure of getting things done perfectly, especially with my mom's high expectations. When I feel like I’m not meeting them, I get really nervous.
+
+Consultant: That makes a lot of sense. It sounds like the pressure to perform well is a major trigger for your anxiety. Let’s work together to identify some specific thoughts or feelings that arise when you feel that pressure. What goes through your mind at those moments?
+
+User: I often think I’m going to fail and disappoint my mom, which makes me panic even more. It’s like a cycle I can’t escape.
+
+Consultant: It’s completely understandable to feel that way, especially under pressure. It sounds like this thought of failing and disappointment is very powerful for you. Let’s try to challenge that thought. What evidence do you have that failing at one task would lead to your mom being disappointed in you?
+
+User: I don’t know, maybe she’s just really tough on me and expects a lot. But I guess I haven't failed big in the past, just once or twice.
+
+Consultant: That’s a very important realization! It sounds like while your mom does have high expectations, you’ve generally done well. Let’s try to replace that thought with something more balanced. If a friend were in your position, what would you tell them?
+
+User: I think I’d tell them it’s okay to make mistakes and that everyone struggles sometimes. They shouldn’t be so hard on themselves.
+
+Consultant: That’s a great perspective! Let’s work on adopting that same kindness towards yourself. It’s okay to be imperfect and to face challenges. Now, I want to introduce a simple skill that might help you when you start feeling anxious. Have you ever tried deep breathing techniques?
+
+User: No, I haven’t. How does that work?
+
+Consultant: Deep breathing is a helpful way to calm your mind and body. It involves taking slow, deep breaths in through your nose and out through your mouth. Would you like to try it with me right now?
+
+User: Sure, that sounds simple enough.
+
+Consultant: Great! Let’s practice together. Inhale deeply for a count of four… one, two, three, four… and now exhale slowly for a count of four… one, two, three, four. How does that feel?
+
+User: It feels a bit relaxing, actually. 
+
+Consultant: I’m glad to hear that! Deep breathing can be a good tool when you feel your anxiety rising. You can use this technique whenever you feel overwhelmed. Let’s also talk about what other activities you enjoy that might help you feel more relaxed.
+
+User: I like drawing and listening to music, but I often don't make time for them.
+
+Consultant: Those are wonderful outlets! Drawing and music can be great ways to express your feelings. How about we set a goal for you to take at least 10 minutes each day to engage in one of these activities?
+
+User: I think I can do that. It would be nice to draw or listen to music more.
+
+Consultant: That sounds like a positive step forward! Now, let’s also discuss any situations that might come up unexpectedly that could trigger some anxiety. How do you usually cope with surprises?
+
+User: I tend to just avoid them or get really upset when things don’t go as planned.
+
+Consultant: Avoiding surprises is a common reaction, but it can lead to feeling more anxious in the long run. How about we work on some strategies for facing unexpected situations? What if we brainstorm some small ways to practice facing surprises over time?
+
+User: I suppose we could try that. Maybe I could make a plan for handling surprises better.
+
+Consultant: That’s a great idea! Creating a plan can give you more confidence. Let’s think about what kinds of surprises you find most challenging, and we can come up with specific strategies for each scenario.
+
+User: One big surprise I don’t like is when my mom suddenly asks me about my homework.
+
+Consultant: That’s a good point. How about this: when she asks about your homework, you could take a deep breath first and give yourself a moment before responding. You can say something like, “Let me think about that for a second.” How does that sound?
+
+User: I like that approach. It gives me a moment to gather my thoughts.
+
+Consultant: Exactly! Giving yourself that moment can help reduce your anxiety in the moment. You've been doing a great job of expressing yourself today, Xiao Yuan. Let’s summarize what we’ve discussed so far and set some goals for your next session.
+
+User: Okay! So, I want to try deep breathing, make time for my drawing or music, and work on responding to unexpected questions calmly.
+
+Consultant: Those are fantastic goals! I believe that as you begin to practice these techniques, you’ll find greater emotional control. It’s important to remember that everyone has difficult moments, and you’re not alone. In our next session, we can review how these strategies have been working for you and make adjustments as needed.
+
+User: Thank you! I feel a bit more hopeful about managing my emotions.
+
+Consultant: I’m really glad to hear that, Xiao Yuan. Remember, it's all about taking small steps. You can achieve this. Feel free to reach out if you have any questions before our next session. Take care, and I’ll see you next time!
+###################
+Consultant: Hello, Xiaoyuan! I'm glad you're here today. How have things been for you since our last session?
+
+User: Hi. I feel frustrated because I keep struggling to manage my emotions, especially after that incident at school with my classmates. I react poorly to unexpected events, and it's making things harder for me.
+
+Consultant: It sounds like the recent situation at school really affected you. Can you share more about what happened and how it made you feel?
+
+User: Well, there was a small disagreement during group work, and I didn’t know how to respond. I ended up feeling overwhelmed, and I didn't express myself well. I just wanted to avoid the conflict, but it didn't help.
+
+Consultant: That must have been really challenging for you, feeling overwhelmed in that situation. It’s normal to want to avoid conflict, but we can explore ways to handle these moments better. What do you think triggered your feelings in that situation?
+
+User: I think it was the suddenness of the disagreement. I didn't have a plan for what to do, and it threw me off. I felt so anxious and didn't know how to express my thoughts.
+
+Consultant: I see. Sudden events can be particularly tough when you don't have a strategy in place. Let's work together on developing some steps you can take when faced with unexpected conflicts. What strategies do you currently use when you start feeling anxious?
+
+User: Honestly, I mostly just freeze up or try to walk away. I don't really have anything else, and that usually makes it worse later on.
+
+Consultant: It's understandable to feel that way, especially if you're not sure how to express your feelings. Freezing or walking away are common reactions. Let's try to identify what you could do instead when similar situations come up. Would you be open to practicing some role-playing scenarios with me today?
+
+User: Yes, that could help. I think practicing might make me feel more prepared.
+
+Consultant: Great! Let's imagine a scenario where someone disagrees with your ideas during a group project. Can you think of specific phrases or responses you might use in that moment?
+
+User: I guess I could say something like, "I see your point, but I feel differently." But I’m not sure how to keep calm while saying that.
+
+Consultant: That’s a good start, Xiaoyuan! Acknowledging the other person's perspective is important. To help you stay calm while responding, we can practice some breathing techniques. Would you like to try a simple breathing exercise together now?
+
+User: Sure, that sounds helpful. I always forget to breathe when I’m anxious.
+
+Consultant: Let’s take a moment. Inhale deeply through your nose for a count of four, hold it for a moment, and then exhale slowly through your mouth for a count of six. Let’s do this together a few times.
+
+User: Okay, I’ll try it now… Inhale... one, two, three, four. Hold… and exhale… one, two, three, four, five, six. 
+
+Consultant: Well done, Xiaoyuan! How does that make you feel? 
+
+User: A little calmer, I guess. I can see how it might help in a stressful moment.
+
+Consultant: Definitely! Practicing this breathing technique can create a moment for you to gather your thoughts before responding. Now, let's combine that with the phrase you shared. How would it feel to say, "I see your point, but I feel differently," after taking a deep breath?
+
+User: I think it might help me feel less panicky. I just have to remember to do it.
+
+Consultant: Remembering is key. You could even write it down as a reminder for yourself. Let's continue our role-play and add another layer. After you express your feelings, how do you think you could invite your classmates to share more of their thoughts?
+
+User: Maybe I could ask, "Can you explain why you feel that way?" It seems less confrontational.
+
+Consultant: Exactly! Asking questions can help keep the conversation going and show that you’re open to understanding them better. How do you feel about using both breathing and open-ended questions in a real-life situation?
+
+User: It feels a bit easier to handle, but I still worry I'll forget in the moment.
+
+Consultant: That’s a valid concern. Would you be comfortable practicing this with a friend or family member before your next school encounter? It could help reinforce your confidence.
+
+User: Yes, I could ask my mom to help me practice a bit. That might work.
+
+Consultant: That sounds like a solid plan! Practicing in a safe space can prepare you for real situations. As we wrap up today, are there any particular feelings or thoughts you want to explore further?
+
+User: I still feel a sense of frustration that I can't communicate like others. It’s frustrating.
+
+Consultant: I understand that frustration, Xiaoyuan. It can be tough to feel different in how you communicate. Remember that it’s okay to seek alternative ways to express yourself. We’ll keep working on it together, and you’re making progress by practicing these skills.
+
+User: Thank you. I hope I get better at this.
+
+Consultant: I believe you will! Just take it one step at a time. Before our next session, reflect on how the strategies worked for you and any other feelings that arise. Remember, it’s about learning and growing. You’re doing a great job by being here and sharing your experiences.
+
+User: I will. Thanks for your support. I’ll try to remember what we talked about.
+
+Consultant: You’re very welcome! I’m looking forward to hearing how things go during our next session. Take care of yourself, and don’t hesitate to reach out if you need anything before then. 
+
+User: I will. Bye for now!
+###################
+Consultant: Hello, Xiao Yuan! I'm glad to see you today. I want to start by understanding how you've been feeling lately, especially after participating in the basketball activities.
+
+User: Hi. I felt really frustrated during basketball because I didn't understand the rules, and I couldn't communicate with my teammates well.
+
+Consultant: I see. It sounds like the difficulties in communication during the game led to some strong feelings for you. Can you describe what happened that made you feel frustrated?
+
+User: Yes, I didn't know when to pass the ball or how to defend. My teammates seemed upset with me, and that made me want to hurt myself because I didn't know what else to do.
+
+Consultant: I'm really sorry to hear that you felt like hurting yourself. It’s important to talk about these feelings. Can you share a little more about what goes through your mind when you feel that way?
+
+User: I just feel like I'm not good enough, and the frustration becomes overwhelming. It's like I can’t get out of that feeling.
+
+Consultant: It makes sense that you would feel overwhelmed. Sometimes, these feelings can create a cycle that’s hard to break. When you felt frustrated during the game, what thoughts were running through your mind?
+
+User: I thought maybe I'm just not meant to play sports. I wanted to be part of the team, but I felt like I was a burden.
+
+Consultant: Those thoughts can be really tough to deal with. They can make you believe that you don’t belong. Let’s take a moment to challenge that idea. What would you say to a friend who felt like they were a burden in a team setting?
+
+User: I’d tell them that everyone has their strengths and weaknesses, and it’s okay to struggle. 
+
+Consultant: Exactly! That’s a really supportive perspective. Now, let’s think about how you can apply that self-compassion to yourself. What would be a kinder way to look at your experience in basketball?
+
+User: Maybe I can think of it as a chance to learn and improve, rather than just being bad at it.
+
+Consultant: That’s a great shift in perspective! Focusing on learning can help you to feel more positive. Besides basketball, have you participated in any other activities that you enjoyed?
+
+User: Yes, I liked music class because I can express myself through playing instruments.
+
+Consultant: Music can be a wonderful way to express your feelings. In our next steps, we could explore how using music and even simple gestures might help you communicate your needs and emotions during activities like basketball. How does that sound?
+
+User: That sounds good. I think expressing myself through music might help me feel less frustrated.
+
+Consultant: Absolutely! Using music as a tool, combined with visual cards or gestures, can really enhance your communication. Let’s brainstorm ways to integrate that into team activities. What kind of gestures do you think would be helpful during games?
+
+User: Maybe a thumbs up for 'good job' and trying to point where I want the ball to go might work.
+
+Consultant: Those gestures are perfect! They are simple yet effective. Practicing these non-verbal cues can relieve some anxiety in communication. How do you feel about trying these methods at your next basketball game?
+
+User: I feel a bit more hopeful about it. I think it might help me to focus on the game instead of just the stress.
+
+Consultant: That’s wonderful to hear! By focusing on these strategies, you’re setting yourself up for a more successful experience. How about we talk about some positive feelings you might look forward to during the game?
+
+User: I hope I feel more in control and that I can connect with my teammates better.
+
+Consultant: That sounds like a great goal! Feeling in control can positively impact your overall experience. If you manage to connect better with your teammates, what might you feel in return?
+
+User: I think I would feel happy and maybe even proud of myself for trying.
+
+Consultant: Yes! Pride in your efforts is a powerful emotion. It seems that engaging in these activities and improving your communication could lead to a sense of accomplishment. Let’s keep that in mind as we work on these skills. 
+
+User: Okay. It makes me feel a bit better to think about it. 
+
+Consultant: I'm glad to hear that! As we move forward, keep in mind to celebrate the small wins, no matter how tiny they may feel. They all matter. Can we set a plan for you to practice these gestures this week?
+
+User: Yes! I can practice a few gestures and maybe talk with my teammates about it.
+
+Consultant: That’s a proactive approach! Connecting with your teammates could also help build stronger relationships, which is so important. How are you feeling about sharing this plan with them?
+
+User: I feel a little nervous, but I think they might understand.
+
+Consultant: It’s completely normal to feel nervous. Remember, being open about wanting to improve can bring you closer to your teammates. You’re taking a brave step! 
+
+User: I really hope so. I’ll let you know how it goes next time!
+
+Consultant: Please do! I want to hear all about your experiences. For now, let's recap what we've achieved today—what do you consider the most important takeaway from our conversation?
+
+User: I think it's that I can use non-verbal communication and music to express myself, and that it's okay to learn and improve.
+
+Consultant: That’s a fantastic realization! Keeping that in mind will help you navigate not just basketball but many areas in your life. As we wrap up, let’s think about how you'll maintain this positive mindset going forward, especially during your next basketball game.
+
+User: I’ll try to remind myself that it’s okay to make mistakes and that I can learn from them.
+
+Consultant: That’s an excellent strategy! Mistakes are indeed part of growth. I’m excited for you, and remember you have tools now to handle those feelings better. I'm looking forward to seeing you again next time!
+
+User: Thank you! I appreciate your help. See you!
+###################
+Consultant: Hello, welcome to today's session, Xiaoyuan! I'm glad to see you here. Before we start, could you tell me about how you've been feeling lately, especially after the feedback from your music teacher?
+
+User: Hi! I've been feeling pretty good actually. The music class was really fun, and I enjoyed participating. My teacher said I showed a lot of improvement, which made me feel proud.
+
+Consultant: That's wonderful to hear! It sounds like the music class has had a positive impact on your feelings. What specific things do you think contributed to that improvement?
+
+User: I think I just felt more relaxed during the class. I started to enjoy singing with my friends and playing the instruments. It was nice to be part of something.
+
+Consultant: It sounds like being involved in the music class and connecting with your friends helped you relax and enjoy the experience. How does that make you feel about participating in similar activities in the future?
+
+User: I want to do more of it! It feels good to be part of a group. I think I could even try joining the art class or something like that.
+
+Consultant: That’s a great idea! Engaging in more activities that you enjoy could really help maintain those positive feelings. What do you think could be a good way to include music or art more regularly in your schedule?
+
+User: Maybe I can ask my mom if we can have art days at home, or I can practice music after school. I want it to be fun, not stressful.
+
+Consultant: That sounds like a lovely plan! Making it about enjoyment rather than pressure is important. How about we create a weekly schedule that includes these fun activities? This way, you can track your feelings after each one.
+
+User: Yes, that would be nice! I like the idea of having a schedule for fun stuff.
+
+Consultant: Perfect! Let's think about how many times a week you would like to do these activities. What feels comfortable for you?
+
+User: Maybe two or three times a week? That way it doesn’t feel too much.
+
+Consultant: Two to three times sounds like a balanced approach. How do you feel about starting the week with music on Mondays and adding an art activity later in the week?
+
+User: I think that works! Monday music and maybe Wednesday art. 
+
+Consultant: Great! We’ll call it “Motivating Mondays” for music and “Creative Wednesdays” for art. After each session, you can jot down how you felt—what you liked and anything you might want to change for next time.
+
+User: I can do that! Writing it down will help me remember.
+
+Consultant: Absolutely! Reflecting on your experiences can reinforce these positive feelings and help us see what’s working. Speaking of feelings, how do you feel about sharing your thoughts and feelings with your mom about these activities?
+
+User: Sometimes I feel a bit shy, but I think I can tell her. She wants me to be happy.
+
+Consultant: That’s good to hear. Shyness is natural, but it sounds like your mom is supportive. We can think of ways to share your excitement with her, so she knows how much these activities mean to you.
+
+User: Maybe I can show her my drawings or tell her about the songs I liked in music class!
+
+Consultant: I love that idea! Sharing your creations can really show her how much you enjoy these activities. It can also help strengthen your bond. How does that make you feel—knowing she would want to hear about your experiences?
+
+User: It feels nice! I want to make her proud too.
+
+Consultant: That's a wonderful motivation, Xiaoyuan! Balancing your happiness with making your mom proud can create a positive family dynamic. How about we also plan some time for family activities? It could help you both enjoy moments together.
+
+User: Yes! Family activities sound fun. We can play games or watch movies together!
+
+Consultant: Exactly! Games and movies are great bonding activities. How do you feel about incorporating one family activity each week along with your music and art?
+
+User: That would be awesome! I like the idea of having fun with my family too.
+
+Consultant: I'm glad to hear that! So let's summarize. You have “Motivating Mondays” for music, “Creative Wednesdays” for art, and one family activity each week. How does that sound for your emotional stability?
+
+User: It sounds really good! I feel more excited thinking about it all.
+
+Consultant: That's the spirit! Keeping your schedule filled with enjoyable activities will definitely help maintain your positive feelings. How do you think you'll feel if you keep this routine?
+
+User: I think I’ll feel more stable and happy. I really want that.
+
+Consultant: That’s a solid goal! Stability and happiness are key aspects we can work on together. I believe maintaining this balance can lead to even more joyful experiences. 
+
+User: Yeah, I hope so. I want to be part of my family and be happy.
+
+Consultant: You are already on the right path, Xiaoyuan. Participating in these activities will not only enhance your mood but also strengthen those family connections. Remember, I’m here to support you. 
+
+User: Thank you! I feel more confident about sharing my feelings now.
+
+Consultant: You’re welcome! Building this confidence is important, and I’m really proud of you for taking these steps. If you ever feel uncertain or troubled, don’t hesitate to reach out. 
+
+User: I will! I really appreciate your help.
+
+Consultant: It’s my pleasure! Next time, let’s touch base on your experiences and how these activities impacted your emotions. I’m looking forward to hearing all about it!
+
+User: Me too! Thank you for today!
+
+Consultant: Thank you for sharing your thoughts! I'm excited about your progress, and I think you'll do wonderfully with this plan. Until next time, take care!
+###################
+Consultant: Hello, Xiaoyuan! I'm glad you're here today. How have you been feeling recently with the activities you’ve been doing at home with your mom? 
+
+User: Hi! I feel quite happy. Cooking with my mom has been interesting. We had fun together, and it felt nice to spend time as a family.
+
+Consultant: That's wonderful to hear! It sounds like cooking has brought you closer to your mom. Can you tell me more about what you enjoyed most during those cooking sessions?
+
+User: I really liked trying to chop vegetables. At first, I was a bit scared to use the knife, but my mom helped me. It felt good to make something together.
+
+Consultant: It’s great that you faced your fear of using the knife with your mom’s support. That took courage! How did that experience make you feel about yourself?
+
+User: I felt proud after I chopped the vegetables. I didn't think I could do it, but I did! 
+
+Consultant: Feeling proud of yourself is so valuable. It seems like you’re building confidence through these cooking experiences. Have you noticed any changes in how you feel when trying new things?
+
+User: Yes! I feel more willing to try things. Sometimes I even ask my mom if we can cook something new together.
+
+Consultant: That's a significant shift! Wanting to try new things is a great sign of increasing confidence. How does it feel to take the initiative to suggest new recipes to your mom?
+
+User: It feels good! I enjoy sharing ideas with her, and she seems happy when I do. It makes our time together special.
+
+Consultant: Sharing ideas definitely strengthens your connection. It’s wonderful to hear that you’re enjoying those moments. Have there been any challenges, though, when cooking or trying new activities with your mom?
+
+User: Sometimes, I get a bit overwhelmed if we try too many new things at once. I don’t always know if I’m doing it right.
+
+Consultant: That’s understandable; it’s common to feel overwhelmed when facing too much at once. When you feel that way, what do you think would help calm you down?
+
+User: Maybe if my mom reminded me to take it slow and praised my effort, it might help. 
+
+Consultant: That sounds like a solid strategy! Positive feedback can help ease anxiety and boost your confidence. How do you think you can communicate this to your mom so she understands what you need?
+
+User: I can tell her that I appreciate her help and I feel good when she encourages me. I think she would be happy to know.
+
+Consultant: Absolutely! Communication is key, and it’s wonderful that you’re open to sharing your feelings. Moving forward, how would you like to use these cooking sessions to continue building your emotional skills and confidence?
+
+User: I want to keep suggesting new recipes, and I’d like to practice asking for help when I feel unsure about something.
+
+Consultant: That’s a fantastic plan! By suggesting recipes and asking for help when needed, you're actively engaging in your learning and emotional growth. What would be your next recipe to try with your mom?
+
+User: Maybe we can try making pizza together! I love pizza.
+
+Consultant: Making pizza sounds fun and a perfect way to collaborate. What do you think will be the most enjoyable part of making pizza with your mom?
+
+User: I think choosing the toppings will be fun! Plus, kneading the dough looks cool. 
+
+Consultant: Absolutely, choosing toppings can be a lot of fun and a creative process! It sounds like you’re excited about this experience. How do you expect this will make you feel once the pizza is ready?
+
+User: I think I will feel accomplished again and happy to share it with her.
+
+Consultant: That sense of accomplishment is invaluable! Sharing your creation will certainly deepen your connection as well. How can you remind yourself to feel calm and confident during the cooking process?
+
+User: I will take deep breaths if I feel stressed, and I’ll remind myself it’s okay to make mistakes.
+
+Consultant: That’s an excellent approach! Deep breathing can help manage stress, and accepting mistakes is part of the learning process. As we wrap up today, what’s one thing you’ve learned about yourself during our conversation?
+
+User: I've learned that I can be more confident when trying new things, and I really enjoy cooking with my mom!
+
+Consultant: I’m glad you discovered that about yourself! Your progress is really inspiring. How do you feel about your journey moving forward?
+
+User: I feel positive! I’m excited to keep cooking and trying new activities.
+
+Consultant: That’s a fantastic mindset! Remember, you can always reach out for support whenever you need it. I'm looking forward to hearing about your cooking adventures next time. Take care!
+
+User: Thank you! I will, and I’m looking forward to our next session too!
+###################
+Consultant: Hello, Xiao Yuan! I'm glad to see you today. It sounds like you've been through some positive experiences lately. Can you tell me how you're feeling after your successful presentation?
+
+User: Hi! I felt really good after the presentation. My classmates praised me, and it gave me a boost of confidence. I enjoyed it more than I expected.
+
+Consultant: That's wonderful to hear! It’s amazing how positive feedback can enhance our self-esteem. How do you think this new confidence could influence your willingness to take on new challenges in the future?
+
+User: I think it makes me feel more open to trying new things. I even want to join a club at school where I can meet more friends and practice speaking.
+
+Consultant: That's a great goal! What kind of club are you interested in joining, and how do you believe participating in it could help you further build your confidence and social skills?
+
+User: I’m thinking about joining the debate club. I like discussing ideas, and I hope it will help me become more comfortable speaking in front of others.
+
+Consultant: Joining the debate club sounds like an excellent choice! Engaging in discussions can really strengthen your speaking abilities. What steps do you think you can take to prepare yourself for joining the club?
+
+User: I could start by reading about current issues and practicing speaking out loud at home. Maybe I can also ask a friend to help me practice.
+
+Consultant: Those are fantastic ideas! Practicing with a friend can make you feel more at ease. As you take these steps, how do you feel about the pressure of being in the club and possibly debating in front of others?
+
+User: I feel a bit nervous about it. What if I can’t express my thoughts clearly when I’m on the spot?
+
+Consultant: It’s completely normal to feel nervous about speaking in public, especially in a debate setting. Let’s explore this together—what specific thoughts cross your mind when you think about those situations?
+
+User: I worry that others might think I'm not smart enough. Sometimes I doubt my own knowledge.
+
+Consultant: I appreciate you sharing that with me. It sounds like you might be experiencing some negative thoughts about your abilities. Can you think of any evidence that suggests you are knowledgeable enough to engage in discussions?
+
+User: Well, I did well in my classes, and my teachers have always encouraged me. They say I have good ideas.
+
+Consultant: That’s right! It sounds like you have a solid foundation of knowledge and support. Let’s challenge those negative thoughts together. If a friend were having similar doubts, what would you tell them?
+
+User: I would tell them that they shouldn’t doubt themselves since they are capable and have done well in school.
+
+Consultant: Exactly! You’re capable and deserving of confidence. Let's use that perspective when you start practicing for the debate. How does that feel to you?
+
+User: It feels better. I need to remind myself that I can do this too, just like I would for a friend.
+
+Consultant: That’s a wonderful attitude, Xiao Yuan! As we discuss these positive affirmations, how do you feel about setting personal reminders or notes that encourage this self-belief throughout your preparation?
+
+User: I like that idea! I could write encouraging notes to myself and stick them on my desk or my notebooks.
+
+Consultant: Great plan! Those reminders can help reinforce your confidence. Can we also explore what other social situations you might want to tackle alongside joining the debate club?
+
+User: I think I’d like to attend some social events at school, like game nights or dances. I want to make more friends.
+
+Consultant: Engaging in social events is a fantastic way to connect with classmates! What steps can you take to prepare for these gatherings and make them enjoyable for yourself?
+
+User: I could practice small talk topics and maybe invite a friend along so I don’t feel alone.
+
+Consultant: Inviting a friend is a smart strategy! Having support can make these situations easier. What topics do you think would be good to talk about with new people?
+
+User: Maybe hobbies, games, or school projects. I always enjoy hearing about what others are interested in.
+
+Consultant: Those are great conversation starters! By engaging in topics you enjoy, you might find it easier to connect with others. As you look forward to these events, how do you want to manage any anxiety that might come up?
+
+User: I think I can take deep breaths and remind myself to stay calm. Practicing what to say beforehand should help, too.
+
+Consultant: Deep breathing is an excellent technique to relieve anxiety. Preparing what you want to say can boost your confidence even more. How do you feel about trying these techniques at your upcoming events?
+
+User: I’m feeling more confident about it now. It makes it seem like less of a big deal.
+
+Consultant: That’s a fantastic realization! By viewing these situations with less pressure, you’re setting yourself up for success. As we wrap up today, what are some key takeaways that you found particularly helpful?
+
+User: I learned that I have a lot of support and abilities. I also feel more prepared to try new things and manage my anxiety.
+
+Consultant: I’m so glad to hear that! Those insights are valuable as you move forward. Remember, you’ve got the tools to succeed, and I believe in your ability to manage challenges. If you ever feel stuck, don’t hesitate to reach out again. 
+
+User: Thank you! I appreciate your help and will keep these tips in mind.
+
+Consultant: You’re welcome, Xiao Yuan! I’m proud of your progress, and I look forward to hearing about your experiences next time. Remember, take it one step at a time, and enjoy the journey. See you soon!
+###################

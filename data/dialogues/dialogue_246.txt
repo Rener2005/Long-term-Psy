@@ -1,0 +1,370 @@
+Consultant: Hello, T! I'm glad you're here today. I understand that you've been feeling pressure regarding the upcoming science exhibition. Can you tell me more about how you're feeling about this project?
+
+User: Hi! Yeah, I'm really anxious. I don't know how to work on the report with my group. I feel like I'm not good enough at school, and I worry that I won’t be able to contribute.
+
+Consultant: It sounds like you're feeling overwhelmed and unsure about your abilities when it comes to this group project. Can you share what specifically causes you to doubt your abilities in school?
+
+User: I guess it's because my grades are not that great, and I don't enjoy studying. It's hard for me to stay focused, and I think everyone else is better than me.
+
+Consultant: I see. It seems like you’re comparing yourself to others, which can be really tough. Let's explore this together. What thoughts go through your mind when you think about contributing to the group project?
+
+User: I just keep thinking that my ideas are stupid and that I’ll make mistakes. I don't want to let my group down.
+
+Consultant: It's completely normal to have those thoughts, T. But let’s take a moment to challenge them. How much evidence do you have that your ideas would be 'stupid' or that you could really let your group down?
+
+User: Well, I guess I don’t have that much proof. I just feel like everyone else is smarter than me. 
+
+Consultant: That’s a valid feeling. It’s important to recognize that sometimes feelings don’t reflect reality. If you were to give advice to a friend feeling the same way, what would you tell them?
+
+User: I would probably say that everyone has something valuable to contribute and that it's okay to make mistakes.
+
+Consultant: Exactly! You have unique ideas too, and making mistakes is part of learning. Let’s think about a way you could contribute to your group. What are some topics or interests within the project that excite you?
+
+User: I like using experiments to understand things better. I think I could help plan an experiment for our report.
+
+Consultant: That sounds like a fantastic idea! Planning an experiment could be a way to blend your interest with the project. How could you start discussing this idea with your group?
+
+User: Maybe I could suggest brainstorming some experiments together. I just hope they like my idea.
+
+Consultant: It sounds like a great plan! When you suggest your idea, remind yourself that your perspective is just as important as anyone else's. How do you feel about approaching your group with this suggestion?
+
+User: I feel a bit nervous, but I think I could try. I want to be a part of it.
+
+Consultant: That’s a positive step, T! Feeling nervous is natural, but your willingness to participate is what matters. If things don’t go perfectly, how might you handle that?
+
+User: I guess I could just remind myself that it's okay to make mistakes and that we can learn from them.
+
+Consultant: Exactly! Mistakes can be learning opportunities. As we wrap up today, what is one thing you can do this week to help you prepare for your group project?
+
+User: I think I’ll write down some of my ideas for experiments so I feel ready to share them.
+
+Consultant: That sounds like a solid plan! Writing down your ideas can help you feel more confident when you speak to your group. Before we end, let’s summarize what we’ve talked about today and your next steps.
+
+User: Okay! I learned that it's okay to feel nervous, and that I have something good to contribute to my group. I’ll write down my ideas for the experiments.
+
+Consultant: Great job, T! You’ve made excellent progress today. Keep nurturing those thoughts about your abilities, and remember, everyone has something valuable to offer. If you ever feel overwhelmed again, we can always talk about strategies to manage those feelings. 
+
+User: Thank you! I feel a bit better now.
+
+Consultant: You’re very welcome! I’m glad to hear that. Remember, take it one step at a time, and I’m here for you whenever you need support. See you next time!
+###################
+Consultant: Hello! It's great to see you today. I want to talk about how you’ve been feeling recently. Can you share what’s been on your mind?
+
+User: Hi! I've been feeling really down about the science exhibition project at school. I don't think I contributed much, and I feel like my teammates ignored my ideas. It makes me think that I'm not good enough.
+
+Consultant: I hear you, that sounds really frustrating. It’s tough to feel overlooked when you want to contribute. Can you tell me more about what you felt during the project? 
+
+User: Well, I had some ideas but when I shared them, no one seemed to pay attention. I felt like I was just there, not really part of the team. It made me doubt if I'm good at working with others.
+
+Consultant: It sounds like that experience really affected your confidence in your abilities to work in a team. It’s understandable to feel that way. How do you think this experience might shape your view of yourself in future group projects?
+
+User: I think I’ll just stay quiet next time and not share my ideas, because it feels like they won’t care anyway. I don’t want to feel this way again.
+
+Consultant: That’s a really tough position to be in. Staying quiet might seem easier, but it can also lead to feeling isolated. Let’s explore that thought a bit. What evidence do you have that your ideas weren’t worth sharing?
+
+User: I guess I just felt ignored, like they weren’t listening. Maybe I wasn’t clear enough, but I thought my ideas were good.
+
+Consultant: It’s important to recognize that your feelings are valid, but let’s challenge this thinking together. If a classmate shared an idea that you thought was good, how would you respond to them? 
+
+User: I would tell them it was a good idea. I’d want them to feel happy about it.
+
+Consultant: Exactly! So, it sounds like you can see that others’ ideas can be valuable. It’s possible your teammates might have just been distracted. Can we think of ways to present your ideas more clearly next time?
+
+User: Maybe I could write down my ideas before sharing them. I just get nervous when talking in front of everyone.
+
+Consultant: That’s a great strategy! Writing down your thoughts can help you feel more prepared. Let’s also think about practicing how you present them. Would you feel comfortable sharing your ideas in a smaller setting first?
+
+User: Yeah, I think that could help. I could try practicing with my dad or grandma.
+
+Consultant: That sounds like a wonderful plan! Practicing with someone you trust can help build your confidence. How do you feel about setting small goals for yourself in your next group project?
+
+User: I guess if I set a small goal like sharing one idea, that might help. But what if they ignore it again?
+
+Consultant: That’s a valid concern. But remember, every time you share, you are building your skills and confidence. Can we focus on celebrating that effort, regardless of the reaction?
+
+User: I see what you mean. If I try to share and put myself out there, that’s a step forward even if it doesn’t go perfectly.
+
+Consultant: Yes! Each attempt is progress. How about we also brainstorm some ideas on how you can support your teammates next time? This can help you feel more involved.
+
+User: I could ask them for their opinions on my ideas or see what they’re working on, so I can help out.
+
+Consultant: That’s a fantastic approach. Collaborating with them shows your willingness to contribute and can help you feel more integrated. Let’s reflect for a moment on how this process makes you feel about your value in teamwork.
+
+User: I guess I haven't thought of it that way. I do have something to offer; I just have to remind myself to speak up.
+
+Consultant: Absolutely! Recognizing your own value is key to moving forward. Remember, even if it feels challenging, your contributions matter. What’s one thing you feel more confident about after today?
+
+User: I feel like I can try again next time and be okay with taking small steps to share my ideas.
+
+Consultant: That’s a positive takeaway! Setting small goals and practicing can significantly enhance your experience in the next project. How can we keep this momentum going until our next session?
+
+User: I can keep a journal of my ideas and practice how to share them. I’ll try to remind myself to think positively about it.
+
+Consultant: That sounds like a great strategy! Journaling will help you organize your thoughts and build confidence over time. Before we end today, what is one thing you want to take away from our session that will help you in your studies?
+
+User: I want to remember that my ideas are valuable and that speaking up is important, no matter the outcome.
+
+Consultant: That’s a powerful message to carry with you. I believe in your ability to rebuild your confidence. I’m looking forward to hearing about your progress next time we meet. Take care until then!
+
+User: Thanks! I feel a little better already. See you next time!
+###################
+Consultant: Hello, little T! I'm glad you're here for our session today. I know things have been tough lately with your English scores. How are you feeling about everything right now?
+
+User: Hi. I'm feeling really down about my exam results, especially in English. I just don’t think I’m good at it. It's really disappointing, and I’m starting to doubt my ability to learn.
+
+Consultant: It's completely understandable to feel that way, especially after putting in effort and not getting the results you hoped for. Can you tell me more about what specific thoughts are running through your mind when you think about your English results?
+
+User: I keep thinking that I’ll never improve. My friends seem to get good grades so easily, and I feel like I'm just not smart enough to understand anything.
+
+Consultant: That sounds really tough. It seems like you're comparing yourself to your friends and feeling a lot of pressure. Do you notice how those thoughts affect your feelings about studying?
+
+User: Yeah, it makes me feel anxious and unmotivated. Sometimes I just don’t want to try because I think it wouldn't make a difference anyway.
+
+Consultant: I hear you. When we feel anxious or doubtful, it can be hard to find the motivation to even start studying. What do you think would help you feel more confident about studying English, even a little?
+
+User: Maybe if I could just understand some of the words better, I could feel more confident. But I don't know how.
+
+Consultant: That’s a great insight, little T! Understanding the words better could definitely help you. How do you usually study for English? Maybe we can explore some different strategies that could make it easier for you.
+
+User: I usually just read the book or do the homework. It feels boring, and I get stuck a lot.
+
+Consultant: It’s understandable to feel stuck when things become repetitive. What if we looked for ways to make studying more fun? Are there any activities you enjoy that could help with English learning?
+
+User: I like playing video games and watching cartoons. I think those are more fun than studying!
+
+Consultant: Awesome! Incorporating things you enjoy can make learning feel less like a chore. How about we explore some ways you could use those interests to improve your English? For instance, you could try playing games that involve language skills or watching cartoons in English with subtitles.
+
+User: That sounds interesting! I’ve never thought about using games to learn. I guess it could be fun.
+
+Consultant: Exactly! Games can be interactive and engaging, which might help you learn without it feeling like work. What would it look like for you to include some English in your gaming or cartoon watching this week?
+
+User: I could try to find some English games online and maybe watch a cartoon in English. That could be cool!
+
+Consultant: That sounds like a fantastic plan, little T! Setting small goals can help you feel more accomplished. What else can we add to your study routine to keep things exciting and maintain that motivation?
+
+User: I think I would also like to practice speaking. It’s something I never do because I’m scared of making mistakes.
+
+Consultant: Speaking practice is a great idea! Mistakes are actually part of learning, but I understand that it can be scary. Would it help to practice speaking in a fun and relaxed way, like talking to yourself or maybe even with a family member?
+
+User: I could try talking to my dad about the cartoons I watch. He can help me with words if I get stuck.
+
+Consultant: That’s a perfect strategy! Sharing what you enjoy can help you learn and build confidence. How do you feel about tackling your study with this new approach, little T?
+
+User: I feel a bit better. I like the idea of combining things I enjoy with studying. It seems much less scary.
+
+Consultant: I'm glad to hear that! Remember, it’s all about taking small steps, and it’s okay to feel some anxiety. How about we set a goal for this week? You could aim to incorporate at least one game or cartoon into your routine and practice speaking with your dad.
+
+User: Yeah, that sounds like a good plan. I think I can do that!
+
+Consultant: That's wonderful, little T! By focusing on these enjoyable activities, you'll be building your skills and confidence. How do you plan to reflect on your progress after trying these new strategies?
+
+User: I can write down how I felt while doing those activities and what I learned. That could help me see if it’s working.
+
+Consultant: That’s a great idea! Keeping track of your feelings and progress can help you see improvements over time. How do you feel about the session we've had today?
+
+User: I feel more hopeful now. I think trying some of these ideas will really help me improve.
+
+Consultant: I'm so glad to hear that! You have some solid strategies to start with. Remember that learning can take time, and it’s okay to go at your own pace. If you ever feel stuck again, we can always chat. 
+
+User: Thanks! I appreciate your help. I'm excited to try these things!
+
+Consultant: You’re very welcome! I’m excited for you too. Keep up the good work, and I look forward to hearing about your progress next time. Don’t hesitate to reach out if you need anything. 
+
+User: I will! Bye for now!
+
+Consultant: Bye, little T! Take care and enjoy your learning journey!
+###################
+Consultant: Hello, Little T! I'm really glad you're here today. I heard you recently participated in a fun extracurricular activity. How are you feeling about your learning right now?
+
+User: Hi! Yes, the activity was really fun. I made some new friends, and it felt nice to learn in a different way. I think I can learn more if I find ways to enjoy it like that.
+
+Consultant: That sounds wonderful! It's great to hear that you found joy in learning during the activity. Can you tell me more about what you enjoyed and how you think it could relate to your school work?
+
+User: Well, we did a lot of team games and worked together. It was fun because everyone helped each other, and I felt like I was a part of something. I wish school could be more like that.
+
+Consultant: It sounds like being part of a team and collaborating with others really inspired you. How do you think you could bring that sense of teamwork and enjoyment into your regular studies?
+
+User: Maybe I could ask some friends to study together. It might make it more fun and less boring than doing it alone.
+
+Consultant: That's a fantastic idea! Studying with friends can definitely make learning more enjoyable. What subjects do you think would be easier to study together, and how do you feel about that?
+
+User: I think it would be great for math because it confuses me sometimes. But I’m also a bit shy about asking my friends to help.
+
+Consultant: It's normal to feel shy about asking for help. Let’s explore that. What do you think might happen if you ask your friends for help with math?
+
+User: I guess they might help me, but what if they think I'm not good at it?
+
+Consultant: I understand that concern, Little T. However, most friends like to help each other, especially in subjects that are challenging. Can you think of any examples when you’ve seen friends helping each other in school?
+
+User: Yeah, I remember in class when someone didn't understand something, others would explain it. They seemed happy to help.
+
+Consultant: Exactly! You experienced that teamwork among your classmates. Let’s think of a way to approach a friend about studying together. What could you say to invite them to help with math?
+
+User: Maybe I could say, “Hey, I’m struggling with math. Could we study together?” It sounds okay, right?
+
+Consultant: That sounds perfect, Little T! It's a straightforward and friendly approach. How do you feel about trying that out this week?
+
+User: I think I can try. It feels a bit scary, but I want to give it a shot.
+
+Consultant: That’s a brave step! It’s normal to feel a bit scared when trying new things, but you’re taking action. Remember, every little step counts. Is there anything else you want to explore that can make your learning experience better?
+
+User: I also want to find ways to stay motivated. Sometimes I just don’t feel like doing homework.
+
+Consultant: That's a common feeling. Let’s talk about what motivates you. What part of the extracurricular activity motivated you the most?
+
+User: I really liked earning stickers and rewards when we did well. It made me want to try harder.
+
+Consultant: Those rewards were a great motivator for you! We can apply the same idea to your studies. How about setting some small rewards for yourself when you complete your homework or study sessions?
+
+User: I like that idea! Maybe I could set a fun video game break as a reward.
+
+Consultant: That sounds like a fun reward to look forward to! So, if you complete a study goal, you could play your video game. How much time do you think would be a good reward?
+
+User: Maybe half an hour? That sounds fair.
+
+Consultant: Half an hour is a great goal! Setting these mini rewards can help you stay motivated. How are you feeling about this new plan for studying and rewarding yourself?
+
+User: I feel more excited about it! It seems like it could really help me with my homework.
+
+Consultant: I’m really happy to hear that, Little T! It looks like you’re building a more positive approach to your studies. How do you think this excitement and your new plan can affect your overall performance at school?
+
+User: I hope I’ll do better and feel happier about learning. Maybe my teachers will notice too!
+
+Consultant: That’s a great perspective! Feeling happier while learning can really show in your performance. Let’s recap your plan: you’ll ask friends to study together, set small rewards for your achievements, and use your positive experiences from the extracurricular activities to motivate you. 
+
+User: Yes! And I’m going to try to find ways to make my homework time more fun!
+
+Consultant: That’s the spirit! Keep those creative ideas coming. As we wrap up our session, what do you think will be your biggest takeaway from our conversation today?
+
+User: I think it’s that I can make studying more fun and that asking for help is okay.
+
+Consultant: Exactly! You’re doing a fantastic job at recognizing these important steps. Remember, learning can be exciting and rewarding, just like the activities you enjoy. If you keep this mindset, I believe you'll see great progress. I'm proud of you, Little T! 
+
+User: Thank you! I feel more confident about everything now.
+
+Consultant: You’re very welcome! It’s been such a pleasure discussing these ideas with you. Don’t hesitate to reach out if you need further support. I look forward to hearing about your progress next time. Take care!
+###################
+Consultant: Hello, Little T! I'm so happy to see you here today. How have you been feeling since the last time we talked, especially after being praised in math class?
+
+User: Hi! I felt really great about the praise. It made me happy, and I want to feel that way in other subjects too!
+
+Consultant: That’s wonderful to hear! Feeling recognized for your accomplishments can be a big boost. What specific subjects are you looking to improve in, and how do you think you might achieve similar recognition in those classes?
+
+User: I really want to do better in science and English. I think if I focus more and try to participate in class, maybe the teacher will notice me too.
+
+Consultant: It sounds like you’re ready to take proactive steps, which is fantastic! Focusing and participating are great strategies. What do you think might help you stay focused during your studies?
+
+User: Sometimes I get distracted easily, especially with my phone or games. I could try putting my phone away while I study.
+
+Consultant: That’s a great idea! Reducing distractions can really help you concentrate. How do you feel about setting specific study times when you can fully focus, without distractions?
+
+User: I think that would be helpful. Maybe I can study in the afternoon after I finish my homework and take a break from my phone.
+
+Consultant: That’s a solid plan, Little T! It’s all about finding a routine that works for you. How do you feel about setting a goal for your science and English participation this week?
+
+User: I think I’ll try to answer at least one question in each class. That’s not too hard to do!
+
+Consultant: That’s a very achievable goal! Answering even one question can help build your confidence. How did you feel the last time you participated in math class?
+
+User: I felt proud when the teacher praised me. I want to feel that way again!
+
+Consultant: Absolutely! That feeling of pride is significant. Let’s visualize you raising your hand in science or English class—what do you think that would feel like?
+
+User: It would feel amazing! I hope the teacher notices me like in math.
+
+Consultant: Imagine that feeling of joy and accomplishment. How can we make sure you remember this feeling when you’re in your next science or English class?
+
+User: Maybe I can remind myself to think about the last time I felt good when I answered questions. That might help!
+
+Consultant: That’s a great strategy! Reminding yourself of that positive experience can reinforce your confidence. How do you feel about reflecting on your progress after this week?
+
+User: I think I could write down how many questions I answered and what I felt after class. It could help me see I’m getting better.
+
+Consultant: Excellent idea, Little T! Keeping a record of your achievements can serve as a motivational reminder. How about we check in next time to discuss your reflections?
+
+User: Yes! I’m excited to share what I’ve done and how it made me feel!
+
+Consultant: I’m looking forward to that as well! Remember to celebrate even the small victories. It’s all part of your journey. Do you feel more prepared now to tackle this week’s challenges?
+
+User: Yes, I feel ready! I’m excited to try this out!
+
+Consultant: That’s the spirit! With enthusiasm like that, you’re sure to make great progress. Remember, it’s okay to ask for help when you need it. Is there anything else you’d like to discuss today?
+
+User: Not right now, I think I’ve got a good plan to work on!
+
+Consultant: That’s wonderful to hear! It sounds like you’ve set yourself up for success. Keep that positive mindset, and I can’t wait to hear about your experiences next time.
+
+User: Thank you! I’m feeling really good about all this!
+
+Consultant: You’re very welcome, Little T! I’m proud of your efforts and positive changes. Remember, keep believing in yourself, and you will continue to grow. See you next time!
+
+User: See you! I’ll work hard!
+
+Consultant: Take care, and happy studying!
+###################
+Consultant: Hello, T! It's great to have you here today. I'm really looking forward to hearing about your recent experiences, especially with your schoolwork. How have you been feeling about your studies lately?
+
+User: Hi! I feel pretty good actually. I did better in my exams, especially in English. My dad said he was proud of me, which made me really happy!
+
+Consultant: That's wonderful to hear, T! It's fantastic that you've made progress and received positive feedback from your dad. How did it feel to see those improvements in your exam results?
+
+User: It felt amazing! I was really worried before the tests, but when I saw my scores, I was really proud of myself. I guess all the hard work paid off!
+
+Consultant: Absolutely, it sounds like your dedication is really showing through. This must have boosted your confidence in your studies too. Are there any specific subjects or areas that you’ve felt more motivated to tackle now?
+
+User: Yes, mostly English! I want to keep getting better at it. I even thought about reading more books this summer.
+
+Consultant: That’s a great idea! Reading can really help improve your skills. It sounds like you’re setting some exciting goals for yourself. How does the thought of reading more books make you feel?
+
+User: It makes me feel excited! I like stories, and I think reading more will help me understand the language better.
+
+Consultant: It's great to see that enthusiasm, T! Finding joy in learning can make a big difference. Have you talked to your dad or grandma about this plan to read more books?
+
+User: I told my grandma. She said she can help me choose some books. She loves reading too!
+
+Consultant: That’s fantastic support! It sounds like you have a strong support system at home. Having someone to share this journey with can really make it more enjoyable. How do you think having your grandma's support impacts your motivation to read?
+
+User: I think it helps a lot. She encourages me to try new things, and I feel like I have someone to share my thoughts with.
+
+Consultant: That’s wonderful to hear, T! It's so important to have someone to discuss your ideas with. Now that you’ve made progress, how do you feel about setting some new academic goals for yourself? 
+
+User: I’d like to aim for even better grades. Maybe if I focus more, I could try to get an A in English.
+
+Consultant: Setting a goal to achieve an A in English is a great challenge! What steps do you think you could take to reach that goal?
+
+User: I could study a bit every day and ask for help when I don’t understand something.
+
+Consultant: That sounds like a solid plan! Studying consistently and asking for help are key strategies. Have you had a chance to practice asking for help when you need it?
+
+User: I did once when I didn’t understand something in class, and it helped me a lot!
+
+Consultant: That's a fantastic step, T! Seeking help when needed not only supports your learning but also helps you build confidence. How did it feel to ask for help?
+
+User: It was a bit scary, but once I did it, it felt good. I realized everyone needs help sometimes.
+
+Consultant: Exactly! Everyone does need help, and it's such a courageous thing to ask for it. As we discuss your goals and progress, what else do you think you'd like to improve in your academic life?
+
+User: Maybe I could also work on being more organized with my homework and projects.
+
+Consultant: That's a valuable area to focus on. Being organized can really help reduce stress and improve your overall performance. Have you thought about any tools or methods that could help you stay organized?
+
+User: I think I could use a planner. My dad uses one, and it seems to help him.
+
+Consultant: Great idea, T! A planner can be really useful for keeping track of assignments and deadlines. How do you feel about starting to use one for your studies?
+
+User: I think it would be helpful! I’d feel more in control of my tasks.
+
+Consultant: Feeling in control can significantly impact how you approach your studies. As we wrap up today, let’s reflect on the progress you've made and the goals you’ve set. What do you feel has been your biggest achievement lately?
+
+User: I think improving in English and being more open about my struggles has been my biggest achievement.
+
+Consultant: That's a wonderful recognition! Celebrating your achievements, both big and small, is essential. How can you reward yourself for your hard work?
+
+User: Maybe I could treat myself to a new book when I finish my homework.
+
+Consultant: That sounds like an excellent reward, T! It ties your interests into your achievements. As we finish up today, is there anything you’d like to take away from our conversation to help keep you on track?
+
+User: I want to remember to ask for help when I need it and to keep setting goals for myself.
+
+Consultant: Those are excellent takeaways! I’m confident that you will continue to thrive in your studies. Remember, there will always be support around you. Well done on all the progress you've made, T!
+###################

@@ -1,0 +1,422 @@
+Consultant: Hello, Fangfang! I'm really glad you're here today. I understand you've been going through a tough time lately. Can you tell me a bit about how you've been feeling?
+
+User: Hi. Yes, things have been really overwhelming. Since I started at the teacher training school, my anxiety about needing to use the bathroom has gotten worse. I feel this pressure constantly and it’s affecting my studies.
+
+Consultant: That sounds really challenging, Fangfang. It’s understandable to feel stressed in a new environment, especially when it affects your ability to focus on your studies. Can you share more about what thoughts or feelings come up for you when you experience this anxiety?
+
+User: I often find myself thinking that if I don't go to the bathroom right away, something bad will happen. It feels like I have no control, and I just keep thinking about it until I really have to go.
+
+Consultant: It sounds like those thoughts create a lot of pressure for you, leading to the need to go frequently. This cycle can be really tough. Let's try to identify those thoughts together. What are some specific thoughts that run through your mind during those moments?
+
+User: I usually think, "I can't concentrate on anything else until I go," or "What if I can't hold it?" It’s like I’m stuck in this loop.
+
+Consultant: That loop can be incredibly frustrating. It leads to a lot of anxiety and makes it hard to focus on your studies and other activities. Have you noticed any situations that trigger these thoughts more than others?
+
+User: Yes, it seems to happen more in class or when I'm studying in the library. I feel like everyone is watching me, and that makes it worse.
+
+Consultant: Being in those environments can definitely heighten your feelings of anxiety. It might be helpful to explore these situations further. What do you think might happen if you were to stay focused on your studies instead of immediately paying attention to the bathroom urge?
+
+User: I guess I'm scared that I might embarrass myself if I can't hold it. But it also makes it hard to learn anything.
+
+Consultant: That fear makes a lot of sense, but it seems like it’s actually creating a barrier to your learning. Let's challenge that thought a bit. Can we think of any evidence that suggests you could manage not needing to go immediately while you study?
+
+User: I suppose there have been times when I didn’t feel the urge at all if I was really focused, like when I’m reading something I enjoy.
+
+Consultant: That's a great insight! It shows that when you’re engaged in something you enjoy, you can experience a break from that urgency. What kind of activities help you get into that focused state?
+
+User: I like reading and sometimes drawing. Those activities seem to keep my mind off things.
+
+Consultant: Excellent! Engaging in those activities can be a powerful strategy for you. Perhaps we can create a plan where you incorporate those enjoyable activities into your study routine to help manage the anxiety. What do you think about that idea?
+
+User: That sounds promising, but I still feel nervous about how to make it work.
+
+Consultant: It's completely normal to feel nervous about implementing changes, especially when you're dealing with this level of anxiety. Let’s break it down into smaller steps. What would be a manageable way for you to start incorporating your interests into study time?
+
+User: Maybe I could set a timer for a short study session, like 20 minutes, and then reward myself with some drawing afterward.
+
+Consultant: That’s a practical and fun approach! Setting a timer can help you focus while giving you a clear end point. As you practice this, you might find that your need to run to the bathroom lessens. How do you feel about trying that out?
+
+User: I think I’d like to try that. It seems less overwhelming.
+
+Consultant: I’m glad to hear that! Keep reminding yourself that it’s a process, and it’s okay to take small steps. Additionally, when you feel those anxious thoughts creeping in, it might help to use some of the strategies we talked about earlier. How does that sound?
+
+User: That makes sense, but I still worry a lot about what people might think if I struggle in class.
+
+Consultant: That’s a valid concern, Fangfang. Remember, everyone has their own struggles, and chances are, they are focused on their own challenges. Perhaps we could work on some positive affirmations or reminders to help combat those negative thoughts when they arise? 
+
+User: I haven’t really thought about affirmations, but I’m open to it. What would you suggest?
+
+Consultant: A simple reminder like “I am learning at my own pace,” or “It’s okay to take breaks” might work well for you. You could even write them down and keep them somewhere visible. Would that be something you’d consider?
+
+User: Yes, I think that could be helpful. I can keep it in my notebook.
+
+Consultant: Fantastic! It’s a small but powerful tool. Over time, as you reinforce these positive reminders, they may help lessen the anxiety tied to classroom situations. How do you feel about where we’ve gotten today?
+
+User: I feel a bit better, I think. I realize I have to be patient with myself. 
+
+Consultant: Absolutely! Patience and self-compassion are vital. Always remember that progress takes time. In our next session, we can talk about how implementing these strategies went for you. Would you be comfortable sharing your experiences then?
+
+User: Yes, I can do that. Thank you for your help today, it’s nice to talk about this.
+
+Consultant: You’re very welcome, Fangfang! I’m proud of you for taking this step today. Remember, you’re not alone in this process. Take care, and I look forward to our next session.
+
+User: Bye!
+###################
+Consultant: Hello, Fangfang! I'm glad to see you again. I remember our last session, where you expressed concerns about how frequently needing to use the restroom affects your studies. Can you share how you've been feeling since we last spoke?
+
+User: Hi! I feel like my anxiety has grown a bit, especially with the pressure from my teachers and classmates. I still find myself rushing to the restroom often, and it just makes me feel more overwhelmed and discouraged.
+
+Consultant: It sounds like the pressure from your surroundings is adding to your anxiety about needing to use the restroom frequently. Let's take a moment to explore what specific thoughts or feelings come up when you find yourself in those situations. What do you notice happening in your mind?
+
+User: I keep thinking that if I don't go, something bad will happen, or I'll embarrass myself in class. It feels like I have to go even when I don't really need to.
+
+Consultant: That sounds quite stressful. Those thoughts can create a strong urge to act, making it even harder to manage the situation. Can you tell me how these thoughts make you feel emotionally?
+
+User: I feel panicked and helpless, like I can't control my body. It's really frustrating because I want to focus on my studies.
+
+Consultant: I understand that sense of helplessness can be overwhelming. Let’s consider those thoughts. When you think, "I will embarrass myself if I don't go," do you think there’s a way we could challenge that thought to see if it holds true?
+
+User: I guess I could try to think about times when I didn't go and nothing bad happened. But in the moment, it feels so real.
+
+Consultant: That's a great observation! It's normal for those feelings to feel very real. How about we start recording some of these automatic thoughts when you feel that urge? This will help us track what you're feeling and thinking in those moments.
+
+User: That sounds like a good idea. I want to understand better what's going on in my head.
+
+Consultant: Wonderful! We’ll be taking it one step at a time. The goal is to become more aware of those thoughts, and then we can work together on challenging them. Have you noticed any particular situations or triggers that make those thoughts stronger for you?
+
+User: Yes, it definitely happens during class or when I'm preparing for a test. I feel so much pressure to perform well that I just want to escape.
+
+Consultant: It makes sense that high-pressure situations would heighten those feelings. We can begin to identify specific coping strategies to use in those moments to help reduce that anxiety. What would you say would be an acceptable level of anxiety for you during class?
+
+User: I think if I could feel a little bit of nerves but still concentrate, that would be okay. Right now, I just feel completely overwhelmed.
+
+Consultant: That’s a helpful benchmark. Let's aim for a manageable level of nerves. Would you be open to trying some gradual exposure, perhaps by staying in class a little longer each time before you feel the need to leave? 
+
+User: Yes, I think that might help. I need to try to see that I can stay without it being a disaster.
+
+Consultant: Exactly! We can set small, achievable goals together. For example, can we try for a few minutes longer each day this week, observing your feelings without acting on them immediately? 
+
+User: I’d like to try that. I’m a bit nervous about it, but I know I need to change something.
+
+Consultant: It's perfectly normal to feel nervous; that just shows you're aware of the challenge ahead. Let’s also introduce some relaxation techniques you can use before entering those situations. How does the idea of deep breathing sound?
+
+User: I’ve heard about deep breathing but haven’t really tried it. How does it work?
+
+Consultant: Deep breathing can help calm your body's response to stress. The technique involves inhaling deeply through your nose, holding it for a moment, and then exhaling slowly through your mouth. We can practice together right now. Would you like to try?
+
+User: Sure, let’s do it together.
+
+Consultant: Great! Let’s find a comfortable position. Inhale deeply through your nose… hold for a moment… and now exhale slowly through your mouth. Let’s do that a couple of times. How do you feel after that?
+
+User: I feel a bit calmer. I think I could use this when I'm feeling anxious next time.
+
+Consultant: I'm glad to hear that! Adding these breathing exercises to your toolkit can be quite beneficial. Remember, it’s about gradual progress. Before our next session, let’s commit to monitoring your thoughts and practicing the exposure tasks. How does that sound? 
+
+User: That sounds doable. I’ll try to keep track of my thoughts, and I’ll practice the breathing. 
+
+Consultant: That’s excellent! You're taking important steps towards managing those feelings. We'll revisit your progress in our next session, and I'm here to support you throughout this process. Remember, it’s a journey, and it’s okay to take it one step at a time.
+
+User: Thank you! I appreciate your help. I hope I can start feeling more in control.
+
+Consultant: You’re very welcome, Fangfang! I believe in your ability to manage this, and I'm excited to hear about your progress. Remember to be gentle with yourself as you work through this. I'll be here whenever you need guidance or support. 
+
+User: Thank you! I feel a little hopeful now. 
+
+Consultant: That’s wonderful to hear! Hope is an important part of this journey. I look forward to our next conversation. Take care until then! 
+
+User: Take care! See you next time.
+###################
+Consultant: Hello, Fang Fang! It's great to see you today. How have you been feeling since our last session?
+
+User: Hello! I think I’ve made some progress. I’m trying to reduce how often I go to the bathroom, but I still worry about having “accidents.” It's causing me a bit of anxiety.
+
+Consultant: It's understandable to feel anxious about that, especially when you're trying to make changes. Let's explore your feelings a bit more. What specific thoughts go through your mind when you're worried about having an accident?
+
+User: I just keep thinking that if I don't go, something really bad might happen. It feels like I can't trust my body.
+
+Consultant: That sounds quite distressing. It seems like there's a lot of pressure on yourself to manage this situation perfectly. How does this thought make you feel emotionally?
+
+User: I feel really anxious and sometimes even panicky. It’s hard to concentrate on my studies when I keep worrying about it.
+
+Consultant: I completely understand. When you're anxious, it can affect your focus in many areas of your life, including your studies. What would it look like for you to feel more in control of this situation?
+
+User: I guess I’d like to go through my day without constantly checking if I need to go or worrying about it. Feeling normal would be nice.
+
+Consultant: That sounds like a positive goal! Let’s think about some ways we can work towards that. Perhaps we can identify some of the thoughts that lead to your anxiety and challenge them. Would you be open to that?
+
+User: Yes, I think that could help. 
+
+Consultant: Great! Let's start with the thought that something bad will happen if you don’t go to the bathroom frequently. What kind of evidence do you have to support that thought?
+
+User: I don’t have any concrete evidence. It's mostly just a fear that’s stuck in my head.
+
+Consultant: It's common for fears like that to stick around without solid evidence. What might be another way to look at this situation, perhaps more positively or realistically?
+
+User: Maybe I could think that it’s okay to trust my body a little more, and accidents are not as catastrophic as I imagine.
+
+Consultant: That’s a wonderful alternative thought! Trusting your body can really help to reduce anxiety. Now, let’s talk about the idea of having an accident. How bad do you think it really would be if it happened?
+
+User: I suppose it wouldn’t be the end of the world. Just a little embarrassing, but I’d survive.
+
+Consultant: Exactly! It sounds like you recognize it wouldn’t be as severe as your anxiety suggests. How can we keep this perspective in mind when you start to feel anxious?
+
+User: Maybe I can remind myself that it’s okay to make mistakes and that I can handle them.
+
+Consultant: That’s a fantastic strategy! During those moments of anxiety, having a set reminder like that can really help. Can we discuss some actions you could take to reinforce this new way of thinking?
+
+User: Yes, I could set little goals for myself, like waiting an extra few minutes before going. 
+
+Consultant: That sounds like a great plan! Incremental steps can be very effective. How do you feel about integrating those small goals into your daily routine?
+
+User: I think I can manage that. It would feel good to challenge myself.
+
+Consultant: Absolutely! It's about building confidence in yourself. In the coming week, try setting a few of those small goals. How do you feel about checking in with me on how that goes?
+
+User: I feel good about that. I think having accountability will help me stick to it.
+
+Consultant: Accountability is a powerful tool! Let’s plan to review your progress together next time. As we wrap up today's session, what do you feel are your biggest takeaways?
+
+User: I think realizing that my thoughts aren’t always true is really helpful. I want to keep working on trusting myself.
+
+Consultant: That’s an excellent realization, Fang Fang! You're on the right track. Remember to be patient with yourself as you practice these skills, and I believe you can achieve the progress you desire. 
+
+User: Thank you! I appreciate your support. I feel more optimistic about this now.
+
+Consultant: I’m really glad to hear that! Keeping this optimism will serve you well on this journey. I look forward to hearing about your progress next time. Take care!
+
+User: Thank you! I will. See you next time!
+###################
+Consultant: Hello, Fangfang! Welcome to today’s session. It’s great to see you again. How have you been feeling since our last chat?
+
+User: Hi! I've been feeling a mix of things. I’ve tried talking to my roommate to improve our living situation, but I still feel a bit anxious about it. I want to handle my emotions better during these interactions.
+
+Consultant: It sounds like you're putting in the effort to communicate and make positive changes, which is a great step. Can you share a bit about what specifically was making you anxious during those conversations?
+
+User: Well, I worry about how she might react. Sometimes I feel like I'm overthinking everything, like if I say the wrong thing, it might make things worse.
+
+Consultant: I can see how that uncertainty could lead to anxiety. When you find yourself overthinking, what sort of thoughts usually come to mind? 
+
+User: I often think that if the conversation doesn’t go perfectly, she might not want to talk to me again, or that I might upset her.
+
+Consultant: That’s a tough thought to sit with. It’s understandable to want to maintain a good relationship. Let’s break that down a bit. What evidence do you have that she would react negatively if things didn’t go as planned?
+
+User: I guess I don’t have any solid reasons for that. It’s just a fear I have. 
+
+Consultant: It’s common for fears to be based more on assumptions than on reality. What would you tell a friend who had similar worries about a conversation?
+
+User: I’d probably tell them to just be honest and that it’s okay if things don’t go perfectly.
+
+Consultant: That’s wise advice! Adding a sense of honesty can really help ease the tension. How do you feel about adopting that mindset in your own conversations?
+
+User: I think it makes sense. I’d feel less pressure if I approached it that way.
+
+Consultant: Absolutely! Let’s also explore how you can manage your anxiety before approaching these conversations. What are some techniques you think might help you stay calm?
+
+User: I could try taking deep breaths or maybe even writing down what I want to say beforehand.
+
+Consultant: Those are excellent strategies! Preparation can give you confidence while breathing techniques can help calm your nerves. Would you like to practice a short breathing exercise together now?
+
+User: Sure! I’d like that.
+
+Consultant: Great! Let’s take a deep breath in for four counts... (pauses for breathing exercise) Now, breathe out slowly for six counts. How did that feel?
+
+User: It felt nice, actually. I didn’t realize how tense I was until I did that.
+
+Consultant: That’s wonderful to hear! Remember, you can use that technique whenever you start to feel anxious about interacting with others. So, what’s your plan for your next conversation with your roommate?
+
+User: I think I’ll try to be more open about my feelings and use the breathing exercises before we talk.
+
+Consultant: That sounds like a solid plan, Fangfang! It’s all about practicing those skills in real-life situations. What do you hope to achieve from that conversation?
+
+User: I hope to create a more comfortable living space and be able to talk openly without feeling scared.
+
+Consultant: That’s a great goal! And remember, practicing openness can strengthen your bond. It’s also a chance for you to reaffirm your worthiness of respect in the conversation. How do you feel about that?
+
+User: I feel more empowered. It’s nice to think I can approach it differently.
+
+Consultant: Absolutely! Empowerment comes with practice. Let’s take a moment to recap the key strategies you want to implement moving forward.
+
+User: I’ll focus on being honest, doing some breathing exercises, and preparing what I want to say.
+
+Consultant: That’s a fantastic recap! I believe you have everything you need to approach your interactions with more confidence. How do you envision your emotional state after applying these strategies?
+
+User: I think I’ll feel calmer and more capable, which is definitely encouraging.
+
+Consultant: I believe so too! As we wrap up today's session, what do you think is the most significant change you will start making in your interactions?
+
+User: I’ll start being more honest and put less pressure on myself to make everything perfect.
+
+Consultant: That’s a wonderful perspective to take! Keep in mind that it’s okay to have imperfect conversations. With practice, you'll continue to improve. We can also explore more techniques in our next session. How does that sound?
+
+User: That sounds great! Thank you so much for your help.
+
+Consultant: You’re very welcome, Fangfang! I’m proud of the progress you’re making. Remember, you’re not alone in this process. I look forward to hearing about your experiences next time. Take care until then!
+###################
+Consultant: Hello Fangfang! I'm glad you're here for today's session. How have you been feeling lately, especially regarding your anxiety?
+
+User: Hi. I've been feeling a lot better actually! I think some of the strategies we've discussed are starting to help. I feel like I have more control over my anxiety now.
+
+Consultant: That's really great to hear! Feeling more in control can make a big difference. Can you tell me more about those strategies that you’ve found helpful and how they’ve impacted your focus?
+
+User: Well, I've been trying to practice some breathing exercises and I also organize my study schedule better. It feels like I can sit and study without being interrupted by anxiety as often.
+
+Consultant: It sounds like you've been proactive in using those skills, which is fantastic! How do you feel when you're studying now compared to before?
+
+User: I feel more focused. I don't notice the urge to get up and leave as much, which used to happen quite frequently. I can actually get through my plans more smoothly.
+
+Consultant: That's a significant improvement, Fangfang! Being able to follow your study plan more smoothly must provide you with a sense of accomplishment. Have you noticed any specific moments where you felt particularly focused or in control?
+
+User: Yes, there were a few times when I was studying for a recent test. I just kept going without getting too anxious about it, and I was surprised by how much I could concentrate.
+
+Consultant: That's wonderful! Those moments of concentration can really reinforce your confidence. As we move forward, how can we maintain that focus and continue to build on your progress?
+
+User: I think I need to keep track of my feelings when I study, maybe write them down or something? It might help me recognize what works best for me.
+
+Consultant: Great idea! Using self-monitoring like that can help you identify patterns in your emotions and behaviors. How do you envision setting up this self-monitoring for your study sessions?
+
+User: Maybe I could create a simple chart where I note my feelings before and after studying. That way, I can see what affects my focus and anxiety.
+
+Consultant: That sounds like a solid plan! Tracking your emotional state could provide valuable insights. What kind of feelings do you think you might want to record?
+
+User: I guess I would want to note down feelings like anxious, calm, focused, and maybe even overwhelmed if that happens. It would be interesting to see how my emotions change.
+
+Consultant: Absolutely! Recording those emotions can help you see progress over time and identify strategies that reduce anxiety. How do you feel about implementing this method during your studies?
+
+User: I feel excited about it! It seems like a manageable way to keep everything in check. I can see how my feelings can change based on my study habits.
+
+Consultant: That's a positive mindset! Celebrating small milestones will also build your confidence. Are there any specific moments or achievements in your studies that you would like to recall or celebrate?
+
+User: I did well on my last test, and I felt good about studying for it! I want to remember this success when I'm feeling anxious again.
+
+Consultant: That's a fantastic achievement to remember! Acknowledging those successes can help you counter negative feelings when they arise. How can we make sure these positive feelings stick with you?
+
+User: Maybe I can create a reminder or a note about my successful study session to look at when I start feeling anxious again.
+
+Consultant: That's an excellent idea, Fangfang! Visual reminders can be powerful. How do you feel about using positive affirmations alongside the reminders?
+
+User: I think that would work well! Having a phrase I can repeat when I start feeling anxious sounds really comforting.
+
+Consultant: Yes, using positive affirmations can reinforce your confidence and reduce anxiety. What affirmations do you think might resonate with you?
+
+User: I could use something like "I am capable and in control of my study." It might remind me of my progress.
+
+Consultant: That’s a wonderful affirmation! Repeating it can help anchor those positive feelings of control. Are there any other strategies you'd like to explore further?
+
+User: I think I'd like to learn more about managing moments when I start feeling overwhelmed again. Sometimes it still creeps in.
+
+Consultant: Of course! It's important to handle those moments when they arise. We can work on some anxiety-reduction techniques that might help during those times. How would you feel about trying grounding techniques?
+
+User: Grounding techniques sound good! I’d like to learn how to use them effectively when I start feeling overwhelmed.
+
+Consultant: Great! Grounding techniques help bring your focus back to the present moment. Would you be open to practicing a simple one together now?
+
+User: Yes, I’d love that opportunity!
+
+Consultant: Awesome! Let's try the 5-4-3-2-1 technique. First, look around and name five things you can see. Take your time.
+
+User: Okay, I see my books, my desk lamp, the wall clock, my notebook, and a plant.
+
+Consultant: Perfect! Now, can you tell me four things you can touch?
+
+User: I can feel my keyboard, my chair, my desk, and the fabric of my shirt.
+
+Consultant: Great job! Next, can you identify three things you can hear?
+
+User: I can hear my fan, some distant voices outside, and my clock ticking.
+
+Consultant: Excellent! Now, what are two things you can smell?
+
+User: I smell my tea and the fresh scent from the plant.
+
+Consultant: Wonderful! Finally, can you identify one thing you can taste?
+
+User: I can taste a bit of my tea. 
+
+Consultant: Well done, Fangfang! How do you feel after this grounding exercise?
+
+User: I feel more calm and centered. This really helps take my mind off any worries.
+
+Consultant: I’m glad to hear that! Practicing grounding techniques like this can be very beneficial. As we conclude our session today, how do you think you can incorporate this exercise into your routine?
+
+User: I think I will use this whenever I feel overwhelmed, especially during studying. It gives me something I can do to calm myself.
+
+Consultant: That sounds like a solid plan! As we wrap up, let’s review the progress you’ve made and the strategies you've set for yourself today. What’s your biggest takeaway from our session?
+
+User: I feel like I have a better handle on my anxiety now, and I have strategies like self-monitoring and grounding techniques to use when needed.
+
+Consultant: That’s fantastic progress, Fangfang! Remember to keep celebrating your successes and using those strategies as needed. You’re doing a great job managing your anxiety. If you ever feel you need support again, I'm always here for you. 
+
+User: Thank you! I appreciate your help and support. I feel more confident now. 
+
+Consultant: You're very welcome! It's been a pleasure working with you. Take care, and I look forward to seeing how you continue to grow.
+###################
+Consultant: Hello Fangfang! I'm glad you're here today. It seems like you've made some progress recently. How are you feeling about your anxiety management and your social activities?
+
+User: Hi! I feel much more optimistic these days. I've been engaging more with my classmates and it's been really nice. But sometimes, I still worry about my anxiety sneaking back in, especially during stressful times.
+
+Consultant: That’s great to hear that you’ve been enjoying more social interactions! It sounds like you’re doing well, yet it’s understandable to have concerns about anxiety returning. Can you tell me more about any specific moments when you felt your anxiety creeping back?
+
+User: Well, last week we had a group project, and I started feeling anxious about presenting our work. My heart raced, and I thought maybe I’d forget everything in front of the class.
+
+Consultant: Presenting in front of others can definitely be a trigger for anxiety. It’s interesting that you experienced physical symptoms like a racing heart. What thoughts were going through your mind when you felt that way?
+
+User: I just kept thinking, "What if I embarrass myself?" or "What if they don’t like my contribution?" I was really worried about judgment.
+
+Consultant: Those thoughts of embarrassment and fear of judgment can indeed amplify anxiety. Can we explore whether there’s any evidence to support those thoughts? How realistic do you think they are?
+
+User: I guess I don’t have much evidence that they would judge me harshly. Usually, everyone is supportive. It's just hard to remind myself of that when I'm nervous.
+
+Consultant: It's completely normal to struggle with that! Let’s try to find a way to challenge that thinking. If a friend were in the same situation, what would you tell them about those fears?
+
+User: I would probably tell them to focus on their strengths and to remember that everyone is there to support each other.
+
+Consultant: That’s a wonderful reminder! You have some supportive peers. How can you apply that same advice to yourself when you start feeling anxious again?
+
+User: Maybe I can remind myself of the positive feedback I've received in the past and tell myself it's okay to be nervous. I could also visualize my classmates being supportive instead of judging me.
+
+Consultant: Visualization sounds like a powerful tool! Practicing that can be quite beneficial. Let’s talk about other strategies. Have you found any particular activities or techniques that help you relax before presentations?
+
+User: Listening to calming music helps a lot, and I also try to breathe deeply. I’ve started to incorporate that before class more often.
+
+Consultant: Deep breathing and calming music are excellent strategies for managing anxiety. Have you noticed any changes in your anxiety levels since you've started using these techniques?
+
+User: Yes, I think they help! I still feel nervous, but it’s more manageable than before.
+
+Consultant: That’s a great observation, Fangfang. You’ve developed helpful coping strategies. How do you feel about incorporating these techniques regularly in your daily routine, especially when you anticipate stressful situations?
+
+User: I definitely want to keep doing that! Maybe I can create a routine before school or before any presentations to remind myself to use these techniques.
+
+Consultant: That sounds like a solid plan! Creating a routine can provide structure and remind you to practice these techniques consistently. Is there anything else you’d like to explore or clarify in our session today?
+
+User: I'm also interested in how I can set some long-term goals for myself. I feel like I’m ready to think about my future now.
+
+Consultant: That’s wonderful to hear! Setting long-term goals can provide motivation and direction. What areas of your life are you thinking about in terms of setting those goals?
+
+User: I’m really thinking about my education and what I want to pursue after school. I’m also curious about expanding my social circle and building stronger connections.
+
+Consultant: Both are fantastic areas to focus on! For your education, what kinds of goals do you have in mind? Is there a specific field you’re interested in pursuing after school?
+
+User: I’m really interested in becoming a teacher, like my own teachers who inspired me. I think about studying education further.
+
+Consultant: That sounds like a meaningful path! How do you envision yourself taking steps toward that goal in the coming months or years?
+
+User: I could volunteer in tutoring programs or help organizing activities at school to gain experience. 
+
+Consultant: Those are excellent steps! Volunteering will not only build your experience but also connect you with others in the field. As for your social connections, what strategies do you feel comfortable using to expand your circle?
+
+User: I think joining clubs or groups related to teaching could help. Also, I want to engage more in school activities to meet more people.
+
+Consultant: Joining clubs is a fantastic way to meet new friends and expand your connection. It also aligns well with your interests. How do you feel about taking these steps over the next few months?
+
+User: I’m excited! I feel more confident about meeting new people and pursuing my interests.
+
+Consultant: That’s a wonderful attitude to have! It seems like you’re ready to embrace new opportunities. Before we wrap up, let’s summarize the strategies and goals you’ve developed today. What do you think would help you maintain your progress moving forward?
+
+User: I think sticking to my anxiety management techniques and being intentional about my goals will help me stay on track. 
+
+Consultant: Absolutely, maintaining those techniques while actively pursuing your goals is key. Remember, it’s a journey. As we conclude today’s session, how do you feel about the progress you’ve made, and what are your thoughts for the future?
+
+User: I feel really good! I have a clearer vision of my goals and a plan to manage my anxiety. Thank you so much for your help!
+
+Consultant: You’re very welcome, Fangfang! You've made impressive progress. Remember, whenever you feel the need for support, don't hesitate to reach out again. Wishing you all the best as you move forward!
+###################

@@ -1,0 +1,412 @@
+Consultant: Hello, H! It's great to see you today. How have you been feeling since our last session?
+
+User: Hi! I've been feeling a bit overwhelmed. After that criticism from my teacher, I just can't shake the feeling that everyone dislikes me.
+
+Consultant: That sounds really challenging. You’re feeling isolated and misunderstood, which can be quite difficult to manage. Can you tell me more about how that situation with your teacher affected you?
+
+User: Well, when he pointed out my mistakes in front of the class, I felt really embarrassed and angry. It made me think that he must think I’m a bad student, and that made me feel worse about myself.
+
+Consultant: I can see how that would create a strong emotional response. It’s common to feel upset when criticized, especially in front of others. What thoughts crossed your mind during that moment? 
+
+User: I remember thinking that maybe I'm just not cut out for this subject, that I’ll never be good enough.
+
+Consultant: Those thoughts sound quite heavy and discouraging. Let’s explore them a bit. How do these beliefs about not being good enough affect your emotions and actions afterward?
+
+User: I just feel really sad and occasionally lash out at my friends or even my mom. It's like I can’t control it, and then I feel guilty afterward.
+
+Consultant: It's understandable that you'd feel sad and frustrated. It's a tough cycle when criticism leads to these feelings which then affect your behavior. Have you noticed if that belief about not being good enough affects the way you see your friends or classmates?
+
+User: Yeah, sometimes I feel like they’re judging me too, or that they’re secretly laughing at me behind my back.
+
+Consultant: It seems like you’re thinking that others are critical of you, which adds to the feelings of loneliness and isolation. What evidence do you have that supports this belief? 
+
+User: I guess I don’t really have solid proof, but it just feels that way, especially when I see them whispering or giggling.
+
+Consultant: I understand. Those observations can be interpreted in many ways. If a friend came to you with similar feelings, how would you help them see things differently?
+
+User: I would probably tell them that maybe their friends are just having a private conversation and it doesn’t have anything to do with them.
+
+Consultant: That’s a kind and rational response. Let’s try applying that perspective to yourself. What if there's another possibility behind their behavior that isn't about you?
+
+User: Maybe they’re just being normal teenagers, and it’s not directed at me at all?
+
+Consultant: Exactly! It's easy to focus on our insecurities and overlook alternative explanations. This can be an important step in changing how you feel about social situations. How does considering this new perspective make you feel?
+
+User: It makes me feel a bit lighter. I guess I’m not always the center of attention in a negative way.
+
+Consultant: That’s a great realization! Shifting your thoughts can lead to a shift in feelings. Let’s work together to identify other situations where you can challenge those automatic negative thoughts. Can you think of another time you felt similarly?
+
+User: In group projects, I always assume my classmates don't want me in the group because I think I'm not contributing enough.
+
+Consultant: That’s a perfect example. When you feel that way, how does it impact your behavior and interactions with them?
+
+User: I tend to withdraw, and I don’t share my ideas, which probably makes it seem like I’m not involved.
+
+Consultant: Yes, and withdrawing can make the situation feel worse. What could you try doing differently in those situations to engage more?
+
+User: Maybe I could take a small step and contribute one idea, just to see how it goes?
+
+Consultant: That sounds like a wonderful plan! By taking that small step, you'll gradually build your confidence. Remember, it’s okay to start small. What do you think you might say when you try sharing an idea next time?
+
+User: I might say, “I have a thought that could help us,” and just see how they respond.
+
+Consultant: I love that! It’s a gentle yet effective way to initiate participation. How do you feel about approaching the next group project with this mindset?
+
+User: I feel a bit nervous but also excited. I think it's worth a shot!
+
+Consultant: That’s a fantastic attitude to have. Trying new things can be nerve-wracking, but each step you take can help reinforce a positive self-image. Let's set a little goal for you to report back on how it goes next time we meet.
+
+User: Okay, I’ll definitely do that! I want to see if it changes how I feel about myself afterward.
+
+Consultant: That’s the spirit! Remember, it’s about progress, not perfection. I’m proud of you for being willing to face these situations. Is there anything else on your mind today that you'd like to discuss?
+
+User: I think that's it for now. I have a lot to think about, especially with how to change my thoughts.
+
+Consultant: Absolutely, reflecting on these strategies will help you. Before we end today, let’s recap your main takeaways and any feelings you want to keep in mind until our next session.
+
+User: I want to remember to challenge my negative thoughts and to share my ideas, no matter how scared I feel.
+
+Consultant: That’s a powerful takeaway! You have shown great insight today, and I believe you're making progress. I'm here to support you as you navigate this journey. Remember, it's okay to reach out if you need help before our next session. 
+
+User: Thank you! I really appreciate your support and guidance.
+
+Consultant: You’re very welcome, H! I look forward to hearing about your experience next time. Until then, take care of yourself!
+###################
+Consultant: Hello H! I'm glad to see you today. To start, could you share with me how you've been feeling recently? What's been on your mind?
+
+User: Hi! I've been feeling really down. I keep getting angry over small things, and I feel like my teachers and classmates don't like me. I just feel really terrible about myself.
+
+Consultant: It sounds like you're experiencing a lot of negative emotions and self-doubt. Can you tell me more about what’s been happening that's made you feel this way?
+
+User: Well, just the other day in class, I answered a question incorrectly. I felt like everyone was laughing at me, and since then, I've been questioning if I'm even smart enough.
+
+Consultant: That must have felt really uncomfortable for you, especially in front of your classmates. When you think about that moment, what thoughts ran through your mind? 
+
+User: I just thought that I must be the dumbest person in the class. It makes me feel like I can’t ever do anything right.
+
+Consultant: I hear you. It’s tough to deal with such strong feelings of inadequacy. Let's explore a bit. What evidence supports the idea that you are "the dumbest person in the class"?
+
+User: I don't know... It’s just how I feel. And when I get criticism from my mom, it makes it worse. I start doubting myself more.
+
+Consultant: I can understand how difficult it must be to face that criticism. What if we looked at a time when your mom gave you feedback that felt constructive? What did she say, and how did you react?
+
+User: She said I needed to focus more and not get distracted. It made me feel like I was failing her. 
+
+Consultant: That sounds painful. It's important to separate feelings from facts. Can we think about it this way: does receiving advice from your mom mean that you are failing? 
+
+User: I guess not. She may want me to improve, but sometimes it just feels overwhelming. 
+
+Consultant: Thank you for sharing that. It sounds like your mom’s intentions are to help you rather than to criticize you. Can you think of a time where you've received praise or positive feedback? 
+
+User: Sometimes my teachers say I'm doing good work, but then I just brush it off. 
+
+Consultant: That's a great point! You’ve received positive feedback. What if you held onto those moments a bit more? How might it change your view of yourself?
+
+User: Maybe it would help me feel a bit more confident. 
+
+Consultant: Exactly! Building on that positive perspective can be helpful. How about we try to identify some specific situations where you felt confident or proud of yourself?
+
+User: I did feel good when I helped a friend with her homework last week. It made me feel useful.
+
+Consultant: That’s a wonderful example! Helping others can really boost your self-esteem. How can you remind yourself of these moments when you're feeling low?
+
+User: I could maybe keep a journal to write down those good moments and read them when I feel bad.
+
+Consultant: That’s an excellent idea, H! Keeping a journal can help you reflect on your achievements and combat those negative thoughts. How are you feeling about this strategy?
+
+User: I think it sounds helpful. I really want to change how I feel about myself.
+
+Consultant: That's a great mindset to have, H! Let's also discuss ways to handle anger when it bubbles up. What do you usually do when you feel angry?
+
+User: I tend to just snap at people around me or keep it inside, and then it gets worse.
+
+Consultant: That sounds frustrating. Instead of snapping, how about we try some techniques to pause and reflect before reacting? Would that be something you’d like to explore?
+
+User: Yes, I think I could try that.
+
+Consultant: Wonderful! One approach is to take a deep breath and count to three before responding. Can you practice that in the next week?
+
+User: Yes, I can definitely try that. 
+
+Consultant: Excellent! It’s all about taking small steps. Let’s ensure we create a plan. You’ll keep the journal, practice pausing before reacting, and perhaps even remind yourself of your strengths when doubts creep in. How do you feel about that strategy?
+
+User: I feel good about it! It sounds manageable.
+
+Consultant: I'm glad to hear that! Remember, change takes time, and it’s okay to talk about it whenever you feel comfortable. Let’s summarize what we've discussed today and plan our next steps. 
+
+User: Okay! We talked about my feelings, the journal, and how to handle my anger.
+
+Consultant: Right. And if you ever feel overwhelmed again, just remember those positive experiences and that your feelings aren’t always reflective of reality. Keep practicing those techniques, and we can check in next time about how it went.
+
+User: Definitely! Thanks for your help today. 
+
+Consultant: You're very welcome, H! I'm proud of you for being open about your feelings. Until next time, take care and remember that these strategies can make a difference. 
+
+User: I will, thank you!
+###################
+Consultant: Hello H! I'm glad to see you today. I understand you've been feeling quite unsettled and sensitive lately. Can you tell me more about what's been troubling you recently?
+
+User: Hi. I've been really struggling with my emotions. I feel like I'm always on edge, especially after my mom criticizes me. It makes me feel like I’m not good enough and that nobody at school likes me.
+
+Consultant: It sounds like those criticisms from your mom are weighing heavily on you and affecting how you view yourself and your relationships at school. Can you share a specific moment when you felt this way?
+
+User: Just two days ago, she told me I needed to do better in my studies, and I felt an overwhelming wave of anxiety. I got really angry and just snapped at her. I didn't mean to, but I couldn’t help it.
+
+Consultant: I understand that feeling of frustration and anger. It can be overwhelming when expectations feel too high, especially from someone close to you. How did that interaction with your mom make you feel afterward?
+
+User: I felt terrible. I couldn't focus on my homework afterward, and I kept thinking about how much I disappointed her. It just made everything worse.
+
+Consultant: That's a really tough spot to be in, feeling disappointment and guilt on top of everything else. Let’s explore what thoughts were running through your mind during that moment. What were you telling yourself when your mom criticized you?
+
+User: I remember thinking that I would never be good enough for her and that she probably thinks I'm a failure. I felt like everyone at school sees me that way too.
+
+Consultant: Those thoughts sound quite harsh. It’s understandable that they would make you feel anxious and angry. Can we take a moment to challenge those thoughts? How much evidence do you think there is to support the idea that you’re a failure or that no one likes you?
+
+User: I guess I don’t really have any solid evidence. I mean, my friends talk to me and sometimes joke around, but... I just feel this way anyway.
+
+Consultant: It's great that you recognize that those thoughts might not be grounded in reality. Let's think about how you could interpret your friendships differently. If a friend felt this way, what would you say to help them see things in a more positive light?
+
+User: I would probably tell them that their friends like them for who they are and that they shouldn’t focus too much on mistakes.
+
+Consultant: Exactly! You already have such supportive insights for others. Now, how can you apply that same kindness and understanding to yourself? 
+
+User: I think I could try to remind myself that I have friends who care about me and that mistakes are normal, right?
+
+Consultant: Absolutely, mistakes are a part of learning and growing. How about we try to set a small goal for this week? Something that helps you practice this new way of thinking?
+
+User: Maybe I can write down some positive things my friends have said about me and keep it somewhere I can see?
+
+Consultant: That sounds like a wonderful idea! Keeping those positive reminders visible can help counter those harsh self-judgments. What about during interactions with your mom? How might you try to communicate your feelings next time?
+
+User: I could tell her that her comments upset me and that I’m really trying my best. Maybe I could ask her for specific things I can improve on instead of vague criticism.
+
+Consultant: That’s a fantastic approach—being open and specific can help minimize misunderstandings. It also gives her a chance to support you more effectively. How are you feeling about this planned approach?
+
+User: I feel a bit hopeful, like maybe it’s something I can actually do. I just wish I didn’t feel so sensitive all the time.
+
+Consultant: It’s perfectly natural to feel sensitive, especially in challenging environments. Acknowledging those feelings is the first step toward managing them. Remember, it’s okay to ask for the space you need when things feel overwhelming. 
+
+User: Yeah, that makes sense. Sometimes I just want to escape and hide.
+
+Consultant: Hiding can feel like an easy option, but it often leads to feeling more isolated. Let’s think about facing those feelings together instead. What activities can you do when you're feeling overwhelmed to help you cope?
+
+User: Maybe I could take a walk or listen to music? Those usually help calm me down.
+
+Consultant: Those sound like excellent strategies! Physical activity and music can both act as great outlets for pent-up emotions. Would you be willing to set a goal to incorporate those activities into your week?
+
+User: Yes, I think I can do that. Just doing something active might help me clear my head.
+
+Consultant: Absolutely! Engaging in those activities can provide a nice balance when emotions run high. Looking ahead, how do you plan to build on these small goals to improve your interactions, both at home and at school?
+
+User: I guess I need to practice these reminders and be more open with my mom and friends. I want to try to stay connected instead of shutting down.
+
+Consultant: That’s a commendable intention, H. Staying connected can greatly help in reducing feelings of isolation. As we wrap up today, let's reflect on what you feel is the most significant takeaway from our session?
+
+User: I think I’ve realized that I can change my mindset and that I need to communicate better about how I feel.
+
+Consultant: That’s a powerful insight! You have the tools to challenge negative thoughts and communicate your feelings. Remember, it’s a journey, and I’m here to support you every step of the way. 
+
+User: Thank you! I feel like I have a plan now. 
+
+Consultant: You’re very welcome, H! I’m proud of the steps you’re taking. We can continue our conversation next time. Take care of yourself!
+###################
+Consultant: Hello, H! It's great to see you again. How have you been feeling since our last session? 
+
+User: Hi. Honestly, I still feel pretty isolated and overwhelmed. I had another argument with a classmate, and it's making everything worse. I keep thinking that maybe no one really likes me.
+
+Consultant: I'm really sorry to hear that you're feeling this way. It sounds like the conflict with your classmate has added to your feelings of isolation. Can you tell me more about what happened? 
+
+User: Well, it started over something really small. I just felt disrespected, and then I lost my temper. Now I feel even worse because I think everyone thinks I’m being dramatic.
+
+Consultant: It sounds like that situation brought up a lot of emotions for you. When you lost your temper, what thoughts were going through your mind? 
+
+User: I just felt like I had to defend myself. But then I also thought that maybe it was my fault for overreacting. It's so confusing.
+
+Consultant: That confusion is understandable. It seems like you might be dealing with some negative thoughts about yourself after the argument. Let's explore that a bit—do you remember what specific thoughts you were having in the moment?
+
+User: I kept thinking that nobody would want to be friends with me after that. It felt like I ruined everything.
+
+Consultant: That sounds really tough. When those thoughts come up, how do they make you feel? 
+
+User: I feel really sad and alone. It feels like everything is spiraling out of control, and I just don’t know how to fix it.
+
+Consultant: I’m here to help you through this. It’s important that you know you’re not alone in these feelings. Let’s try to look at those thoughts together. What evidence do you have that supports the idea that no one likes you?
+
+User: I guess there's no real evidence. It's just how I feel, especially when I'm angry. 
+
+Consultant: That’s a great insight. It seems your feelings might be clouding the way you see the situation. If a friend came to you with similar thoughts, what would you tell them? 
+
+User: I would probably tell them that it's okay to have conflicts and that it doesn't mean people don’t like them. 
+
+Consultant: Exactly! You’re already giving yourself some wise advice. Let’s think about how you can apply that understanding to your own situation. What if you reframed your thoughts? 
+
+User: I could try thinking about how it’s just one conflict and that it doesn't define my worth or my friendships. 
+
+Consultant: That sounds like a positive shift! Now, let’s think about some steps you can take to improve the situation at school. Are there any small interactions you could try with your classmates that might help? 
+
+User: Maybe I could just say hi to them when I see them in the hallway or join a group project. 
+
+Consultant: Those are great ideas! Engaging in small, positive interactions could really help your confidence. What else can you do to support yourself when you start to feel anxious again? 
+
+User: I think I could talk to my dad about how I’m feeling. He always listens. 
+
+Consultant: That's a wonderful strategy. Having that support can make a big difference. As we wrap up our session today, what do you think is the most valuable insight you've gained? 
+
+User: I guess it’s realizing that my feelings aren’t all facts and that I can talk to someone I trust about it. 
+
+Consultant: I’m glad you’ve found that perspective. Remember, it’s okay to reach out for help. You’re making progress, and you have those supportive relationships to lean on. How do you feel about our session today? 
+
+User: I think I feel a little lighter. I’m still nervous, but it helps to talk things out. 
+
+Consultant: That’s great to hear! It’s normal to feel a bit nervous, but you’re taking positive steps. When we meet next, we can build on these strategies and see how they're working for you. Remember, you’re doing well, and I’m here to support you. 
+
+User: Thank you! I appreciate your help. 
+
+Consultant: You're very welcome, H! Take care and see you next time!
+###################
+Consultant: Hello there! It's wonderful to see you again. How have you been feeling since our last session? 
+
+User: Hi! I've been feeling a bit better about things, especially with my dad. But I still get really anxious around my classmates and teachers. I just don't know how to handle it.
+
+Consultant: I'm glad to hear your relationship with your dad is improving. That support can be really valuable. Can you tell me more about the situations where you feel anxious around your classmates and teachers?
+
+User: Well, when I'm in class, I worry that they are judging me. Sometimes, if I have to speak up, my heart races, and I feel like everyone is looking at me, which makes me panic.
+
+Consultant: It sounds really overwhelming to feel like you’re under a spotlight. Let’s try to explore that feeling further. What thoughts come to your mind when you start to feel anxious in those situations?
+
+User: I think that they must think I’m weird or that I'm not smart enough. It’s like I can't do anything right.
+
+Consultant: Those thoughts can be really harsh. It seems like you’re being very critical of yourself. Let’s take a moment to consider, what evidence do you have that your classmates or teachers actually think negatively of you?
+
+User: I don't know... I guess I just assume they must think that way because sometimes they don’t talk to me much.
+
+Consultant: That’s a common assumption many people make. However, it might be helpful to question that. Have there been any specific interactions where they showed kindness or support to you?
+
+User: Well, sometimes my teacher praises me for my work, but I still doubt it... like maybe they’re just saying it to be nice.
+
+Consultant: It’s understandable to question the praise, but it’s also important to recognize those positive moments. If a friend were in your position, what would you tell them about those compliments?
+
+User: I would probably tell them they should believe their teacher, that it means something good.
+
+Consultant: Exactly! That shows you a different perspective. Can we try to apply that same kind of thinking to yourself? Believing those positive moments may help you feel less anxious.
+
+User: I’ll try, but it’s really hard! 
+
+Consultant: I get that; changing thought patterns doesn't happen overnight. How about we find ways to gradually expose you to social situations where you can practice feeling more comfortable? 
+
+User: That sounds okay. I mean, I do want to get better at talking to people. 
+
+Consultant: Great! What if we start by setting small goals, like greeting a classmate or asking a question in class. How do you feel about that?
+
+User: I think I could maybe try that. It doesn’t feel too overwhelming.
+
+Consultant: Perfect! And remember, having your dad’s support can be a great asset when you’re feeling nervous. You could even share your goals with him. 
+
+User: Yeah, I think I’ll tell him about it. 
+
+Consultant: That’s a fantastic idea! How would you feel about having a little practice conversation with him about how your day went?
+
+User: I think I’d feel comfortable doing that. He usually listens to me.
+
+Consultant: That’s wonderful to hear! Talking about your experiences can help reassure and reinforce the connection with him. 
+
+User: I feel a bit more encouraged to try now. 
+
+Consultant: I’m glad to hear that! As we continue, let’s also work on how to challenge those anxious feelings when they arise. It’s a process, but you're already taking significant steps.
+
+User: Yes, I understand! I feel more ready to talk to my classmates now. 
+
+Consultant: Excellent! And keep in mind, it’s okay to have setbacks too; that’s all part of the journey towards feeling more confident. 
+
+User: True, I guess I shouldn’t be too hard on myself if things don’t go perfectly.
+
+Consultant: Exactly! Remember that self-compassion is vital. How do you feel about maintaining these practices next week before our next session?
+
+User: I think I'll try those small steps and may even write down how it goes to share next time. 
+
+Consultant: That sounds like a fantastic plan! Writing it down can help you reflect on your feelings and progress. I’m looking forward to hearing how it goes.
+
+User: Me too! I feel like I’m slowly getting there. 
+
+Consultant: I believe in you! Let's summarize what we’ve talked about today. You’re setting small social goals and using support from your dad to navigate anxiety. 
+
+User: Yes, and I’ll also try to challenge those negative thoughts!
+
+Consultant: Absolutely! You're doing great work in recognizing your feelings and taking actionable steps. Remember, it’s okay to reach out for help if you need it.
+
+User: Thank you! I appreciate your help.
+
+Consultant: You’re very welcome! I’m here for you. I look forward to our next session, where we can discuss your experiences and keep working on this together. 
+
+User: Sounds good! See you next time!
+###################
+Consultant: Hello, H! I'm so glad to see you again. How have you been feeling since our last session?
+
+User: Hi! I've been feeling a bit better, actually. My performance in the mid-term exams was better than I expected, which gave me a little boost in confidence.
+
+Consultant: That’s wonderful to hear! It sounds like you’ve made some progress. Can you share more about how this boost in confidence has affected your daily life and interactions with others?
+
+User: Well, I've been a little more comfortable talking with my classmates and even my teachers. I used to worry a lot about what they thought of me, but now I feel like I’m doing okay.
+
+Consultant: It's great to see you feeling more at ease! It’s important to acknowledge that improvement. What do you think has contributed to this change in how you feel about yourself and your interactions?
+
+User: I guess realizing that my exam results weren’t as terrible as I thought helped a lot. Plus, I've been trying to focus on the positive feedback I get, instead of just the negative.
+
+Consultant: That’s a fantastic approach, H! Focusing on positive feedback can really shift your mindset. Can you recall a specific moment recently when you felt good about a social interaction?
+
+User: Yes, just the other day, I had a group project with my classmates. They complimented my ideas, and it felt nice to be appreciated.
+
+Consultant: That’s a key moment to celebrate! Recognizing and valuing those compliments can help reinforce your self-esteem. How did that interaction make you feel about yourself in that moment?
+
+User: It made me feel like I actually belong and that they appreciate my contributions. I wish I could feel this way all the time!
+
+Consultant: You’re definitely on the right track! Let’s explore how you can maintain this positive mindset. What strategies could you use to remind yourself of these feelings in difficult moments?
+
+User: I think I could keep a journal of positive experiences and compliments. That way, I can look back on them when I'm feeling down.
+
+Consultant: That sounds like an excellent strategy! Keeping a journal can serve as a powerful reminder of your strengths and accomplishments. Are there other areas in your life where you would like to feel more confident and positive?
+
+User: Yes, I still feel a bit nervous interacting with some teachers. I worry they think I’m not paying attention or that I’m not smart enough.
+
+Consultant: It's completely normal to feel that way, especially in a school environment. Would it help to think about the evidence that contradicts that belief? For instance, teachers often recognize effort and improvement.
+
+User: I guess that’s true. My recent performance has been better, and they have acknowledged that. It’s just hard to shake off those old worries.
+
+Consultant: It’s understandable. Our minds can sometimes hold onto negative thoughts, even when things improve. Could we practice reframing those thoughts together? For example, instead of thinking "they don’t think I’m smart enough," we could challenge that to "they see my progress."
+
+User: I’d like that! I think shifting my mindset could really help.
+
+Consultant: Absolutely! Whenever you notice those negative thoughts creeping in, practice reminding yourself of your successes and the evidence of your growth. How do you feel about trying to incorporate this into your daily routine?
+
+User: I think it will take some practice, but I want to try. It sounds manageable.
+
+Consultant: Great! It’s all about gradually building that awareness. Let’s also talk about your relationships with your classmates and your mother. How do you feel those interactions are going?
+
+User: With my classmates, I feel better, but with my mom, we still have our moments. She can be quite strict, and I often feel like I can’t express my feelings without her getting upset.
+
+Consultant: That can be tough. It’s important to have open communication, especially with family. Have you considered practicing expressing your feelings to her in small ways?
+
+User: I haven’t really tried that. I usually just keep things to myself.
+
+Consultant: It might be worthwhile to start with something small, like sharing a positive moment from your day or expressing gratitude for something she’s done. How do you think she would respond?
+
+User: She might be surprised, but it could open the door for us to talk more openly.
+
+Consultant: Exactly! Taking small steps can create room for more positive engagement. As you practice this, you may find that it becomes easier over time. What do you think?
+
+User: I think that’s a good plan. I’ll give it a try.
+
+Consultant: Wonderful! As we wrap up today’s session, let’s reflect on the progress you’ve made. What do you consider your biggest achievement since we started working together?
+
+User: I think just being able to identify my negative thoughts and start focusing on the positives is a huge step for me.
+
+Consultant: That’s a significant achievement, H! Acknowledging your growth is essential. Remember to carry these strategies forward into your daily life. What will you take away from our sessions that will help you in the future?
+
+User: I’ll remember to keep a positive journal, challenge my negative thoughts, and try to communicate better with my mom.
+
+Consultant: Those sound like excellent strategies to maintain your progress! It’s been a pleasure working with you, H. If you find you need support in the future, don’t hesitate to reach out. You’ve made great strides, and I believe you’ll continue to succeed!
+
+User: Thank you so much! I really appreciate your help. 
+
+Consultant: You’re very welcome! Take care, and best of luck in all your future endeavors!
+###################

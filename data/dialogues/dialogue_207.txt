@@ -1,0 +1,400 @@
+Consultant: Hello Liu! It's great to see you today. Before we dive in, I'd like to talk about how you’ve been feeling lately. What’s been on your mind?
+
+User: Hi! I've been really anxious and stressed lately with the upcoming exams. My focus is all over the place, and I'm worried about how I'll perform. I also have trouble sleeping, which makes everything worse.
+
+Consultant: I understand how overwhelming that can feel, especially with the pressure of exams. Can you help me understand what specifically about the exams is causing you the most stress?
+
+User: I guess it's the fear of disappointing my family. They’ve sacrificed so much for my education. I feel like I have to excel, but the pressure is just too much.
+
+Consultant: It’s perfectly understandable to feel that way given your circumstances. You want to honor your family's sacrifices, and that can create a lot of pressure. How does this pressure affect your mood and focus right now?
+
+User: It makes me feel more anxious and sometimes even hopeless. Some days, I just can’t concentrate in class, and that makes me even more worried.
+
+Consultant: It seems like there's a cycle of anxiety impacting your concentration, which in turn heightens your stress about your performance. Have you noticed any specific thoughts you have when you're feeling this way?
+
+User: I often think things like, “I’m going to fail,” or “I’m not good enough.” Those thoughts just keep swirling in my head, and I can't seem to escape them.
+
+Consultant: Those thoughts sound very distressing, and it’s important we acknowledge them. Let’s work through them together. How much evidence do you think supports the thought that “I’m going to fail?”
+
+User: Well, I mean, I haven’t been studying as much as I should, so it feels pretty valid. 
+
+Consultant: It makes sense to feel that way when you’re under stress, but it is also useful to know that this thought might not be the whole picture. If a friend were in your position feeling the same way, what would you tell them?
+
+User: I’d probably tell them to focus on what they can change rather than worrying too much about the failures. 
+
+Consultant: That’s a wise perspective. It seems like you already have insights on how to handle these situations. What do you think would happen if you tried to apply that advice to yourself?
+
+User: I guess I would feel less pressure if I focused on managing my studies day by day instead of thinking so far ahead.
+
+Consultant: Exactly! Focusing on manageable steps can help alleviate some of that overwhelming pressure. Let’s talk about how you can break your study tasks into smaller, more achievable goals. What would that look like for you?
+
+User: Maybe I could create a daily study schedule and set small goals for each subject.
+
+Consultant: That sounds like a productive plan! Along with that, let’s address your sleep issues. Have you been able to establish a bedtime routine that helps you wind down?
+
+User: Not really. I usually end up studying late or scrolling on my phone, which doesn’t help.
+
+Consultant: It’s easy to fall into that habit when there’s so much on your mind. Can we brainstorm ways to create a calming bedtime routine that could improve your sleep quality?
+
+User: Sure! I think I’d like to try reading a book or listening to calming music before bed instead of looking at my phone.
+
+Consultant: That sounds like a perfect idea! Reading or listening to music can really help relax your mind. What else do you think you could add to your routine to signal your brain it’s time to sleep?
+
+User: Maybe a short meditation or breathing exercises could help?
+
+Consultant: Absolutely! Deep breathing and meditation can be powerful tools for managing stress and improving sleep. Would you be willing to try those techniques this week?
+
+User: Yes, I’d be willing to give that a shot.
+
+Consultant: Great! I believe that by implementing these small changes, you can begin to feel a shift in your anxiety and sleep patterns. Let’s plan to check in next session to see how things are going. 
+
+User: Okay, that sounds good to me. I hope I can make some progress.
+
+Consultant: I have faith in you, Liu! Remember, it’s about progress, not perfection. And as we go forward, we’ll continue to explore ways to help you build self-confidence and tackle your challenges. Thank you for sharing your experiences today. 
+
+User: Thank you! I appreciate your support and guidance. 
+
+Consultant: You're welcome, Liu! I look forward to our next conversation. Take care until then!
+###################
+Consultant: Hello, Liu! I'm glad to see you today. Before we dive into our session, I'd love to hear how you've been feeling lately. What’s been on your mind recently?
+
+User: Hi. I've been really struggling with feelings of inadequacy. After a class discussion, I realized how much I seem to lag behind my city classmates. It's left me feeling frustrated and self-critical.
+
+Consultant: It sounds like that discussion brought up some strong feelings about your abilities and worth in comparison to others. It's understandable to feel this way, especially with the pressures of school. Can you share a bit more about how this makes you feel on a daily basis?
+
+User: Sure. I often feel anxious and doubtful about my performance. My concentration in class has decreased, and I find it hard to complete my assignments. I just feel like I'm not good enough.
+
+Consultant: I hear you, Liu. It’s tough to feel that way, especially when you’re striving for excellence. Let’s explore those feelings together. When you say you feel "not good enough," what specific thoughts come to your mind?
+
+User: I often think that I won’t be able to keep up with my peers or that I’ll disappoint myself and my family. It’s exhausting.
+
+Consultant: That sounds quite overwhelming. Those thoughts seem to create a cycle of anxiety and self-doubt. Can we try to identify whether these thoughts might have any cognitive distortions? For example, do you see any extremes in how you view yourself compared to your peers?
+
+User: Yes, I realize I tend to think that if I’m not at their level, I’m failing. It doesn't feel right since I know I've accomplished things too.
+
+Consultant: Exactly! It’s important to recognize that this way of thinking can be quite limiting. If a friend were to express similar thoughts, what would you tell them to help them see their worth more clearly?
+
+User: I would probably tell them to focus on their own journey and remember their achievements, rather than comparing themselves to others.
+
+Consultant: That’s a great perspective! Now, how about we apply that same advice to you? What achievements or strengths can you acknowledge in yourself right now?
+
+User: Well, I have maintained good grades despite the challenges, and I’m involved in some extracurricular activities. I guess those count for something.
+
+Consultant: They certainly do! Those accomplishments reflect your hard work and dedication. Let’s try to make a habit of recognizing these strengths. Would you be open to keeping a journal where you note down your successes, big or small, every day?
+
+User: That sounds helpful. I think writing things down could make me feel more aware of my achievements.
+
+Consultant: Great! This exercise could help shift your focus from comparing yourself to others towards appreciating your own journey. How do you feel about addressing this negative self-talk when it arises?
+
+User: I think acknowledging those thoughts when they come up could help, even if it feels challenging.
+
+Consultant: Absolutely, catching those thoughts is the first step. You can challenge them with a more balanced perspective. Can we explore a specific situation where you felt self-critical recently? 
+
+User: Certainly. Just last week, I panicked in an exam when I didn’t know an answer. I felt like I blew it completely.
+
+Consultant: It’s common to feel that way in high-pressure scenarios. Looking back, what evidence do you have that this one exam defines your overall ability or potential?
+
+User: I guess it doesn’t define me, but it just felt like such a failure at the moment.
+
+Consultant: Exactly! That one moment does not capture the full picture of your capabilities. Let’s think about how you can reframe that experience. What could you tell yourself to provide a kinder viewpoint on that situation?
+
+User: I could remind myself that everyone has tough moments and that it’s just one exam among many.
+
+Consultant: That sounds like a compassionate approach. Practicing this reframing whenever you feel critical of yourself can help mitigate the negative emotions. How do you feel about trying this out moving forward?
+
+User: I’m willing to try. It might take time, but I think it could help.
+
+Consultant: That’s a healthy mindset, Liu. Change takes practice, but it’s possible! As we approach the end of our session, what do you think will be your biggest takeaway today?
+
+User: I think recognizing my achievements and reminding myself that I’m on my own path are important. It’s a relief to have those tools to cope with my insecurities.
+
+Consultant: That’s wonderful to hear! I’m glad you found value in our discussion. Remember to be gentle with yourself and give yourself the space to grow at your own pace. If you face any challenges, we can work on them together in our future sessions.
+
+User: Thank you! I feel a bit lighter already, but I know there’s still some anxiety around exam results.
+
+Consultant: It’s perfectly normal to feel that way. Let’s keep working on ways to manage that anxiety in future sessions. You're doing great, Liu. Keep up the good work in recognizing your strengths, and remember, I'm here to support you.
+###################
+Consultant: Hello, Liu! I'm glad to see you again. How have you been feeling since our last session?
+
+User: Hi. I've been experiencing a bit of mixed feelings. On one hand, I feel a sense of relief since the exams just ended. On the other hand, I'm quite anxious about how I performed. 
+
+Consultant: It's understandable to feel both relief and anxiety after such an intense period. Can you tell me a bit more about what's specifically causing your anxiety regarding your exam performance?
+
+User: I keep worrying about whether I studied enough and if my grades will meet my expectations. It’s like I can’t shake off the feeling of uncertainty.
+
+Consultant: That uncertainty can be really overwhelming. Let's explore what that feeling is like for you. What thoughts come to your mind when you think about your exam results?
+
+User: I think about how hard I studied and if that effort was worth it. More often than not, I end up feeling like I could have done better. 
+
+Consultant: So, it sounds like you’re feeling pressure to achieve a certain standard. How does that make you feel emotionally when you compare your actual performance to your expectations?
+
+User: It makes me feel anxious and sometimes even a bit worthless. I feel like I’m letting myself down if I don’t achieve what I set out to do.
+
+Consultant: I hear you—those thoughts can create a heavy emotional burden. Let's take a moment to assess those expectations. Are they based on your past performances or on what you think others expect of you?
+
+User: I think it’s a bit of both. I’ve always done well academically, so I feel this pressure to keep up that image. Plus, sometimes I feel that my family expects me to do my best, given our situation.
+
+Consultant: It's commendable that you want to meet your family’s expectations, but it’s also important to consider your own well-being. What evidence do you have that suggests you didn't do well, or is it more of a fear of not living up to expectations?
+
+User: It’s mostly fear. I don't have any concrete evidence of failure yet, but the anxiety just keeps replaying scenarios in my mind.
+
+Consultant: That sounds tough. What if we try to challenge those anxious thoughts together? If a friend were in your situation, what would you advise them to think about during tough times?
+
+User: I’d probably tell them not to be too hard on themselves and to recognize their efforts instead of just focusing on the outcome. 
+
+Consultant: That’s a great perspective! Now, how can you apply that same advice to yourself? What could you say to yourself to ease that pressure?
+
+User: I guess I could remind myself that I did my best and that it’s okay to not have perfect results every time.
+
+Consultant: Exactly! Acknowledging your efforts can really help shift your mindset. Let’s also explore some relaxation techniques to help you cope with this anxiety. Have you tried any methods to unwind before?
+
+User: Not really. I usually just think about studying or worry about grades when I try to relax.
+
+Consultant: It’s understandable to have those thoughts, but setting aside some time for relaxation is crucial. How about we create a plan for some activities that help you feel more at ease? 
+
+User: That sounds good. I like listening to music and going for walks, but I haven’t done those things as much lately.
+
+Consultant: Those are excellent choices! Let’s plan to incorporate music and walks into your routine. When do you think you could start with those activities?
+
+User: I could probably start this weekend. Maybe a walk in the park would help clear my mind.
+
+Consultant: That sounds like a wonderful plan! And remember, while walking, focus on the environment around you rather than your worries. Let’s check in about how that goes next time. 
+
+User: Sure, I will! 
+
+Consultant: Also, before we conclude today, let’s reflect on the progress you’ve made. You identified some of your anxious thoughts and have a plan to combat them. How do you feel about that?
+
+User: I feel a bit better. Just recognizing my thoughts feels like a step forward. 
+
+Consultant: Absolutely! It’s all about taking those small steps. As we wrap up, how can you maintain this positive momentum leading up to the next session?
+
+User: I can remind myself of what I learned today and try to stay active with my relaxation techniques. 
+
+Consultant: That sounds great! Keep focusing on those positive thoughts. Remember, it’s okay to feel anxious from time to time. You’re doing remarkable work. If you need anything, feel free to reach out. 
+
+User: Thanks, I appreciate your help today. 
+
+Consultant: You’re welcome, Liu! I look forward to hearing how you’re doing next time. Take care!
+###################
+Consultant: Hello, Liu! I'm glad to see you today. How have you been feeling since our last session?
+
+User: Hi. I've been feeling a mix of satisfaction and anxiety. I did well in a recent competition, which gave me a boost, but I'm still worried about how I will perform in the future.
+
+Consultant: It sounds like that competition was a great opportunity for you to feel more confident, but there’s still that underlying worry. Can you share what aspects of the future performance are causing you concern?
+
+User: I guess I’m just afraid that I won’t be able to replicate that success. Sometimes I feel like it was just a lucky break.
+
+Consultant: That’s a common feeling, especially after an achievement. It’s easy to doubt our abilities when we think it might have been luck. What would help you feel more secure and confident in your skills moving forward?
+
+User: I need to have a clearer focus on my goals and a solid plan for studying. But I get distracted easily and then feel stressed about falling behind.
+
+Consultant: Let's take a closer look at that distraction. When do you find it's hardest to focus? Are there specific triggers or situations that make it worse?
+
+User: It tends to happen during lectures or when I sit down to study at home. My mind just wanders, and then I feel frustrated.
+
+Consultant: I can see how that would be really challenging. It might help to explore some of those thoughts that pop into your mind when you start to feel distracted. What do you typically think in those moments?
+
+User: I often think that I'm not good enough or that I’ll never get through all this material. It makes me want to give up sometimes.
+
+Consultant: Those thoughts sound pretty heavy. It’s important to recognize that they’re common, but also that they can be challenged. What evidence do you have that supports the idea that you're not good enough?
+
+User: I mean, I guess there have been times when I didn’t perform as well as I hoped, but I did well in this recent competition. 
+
+Consultant: Exactly! You have proof of your capabilities right there. If a friend were in your shoes, feeling like they weren’t good enough despite their achievements, what would you tell them?
+
+User: I’d probably say to focus on their successes and to keep trying, even if things get tough.
+
+Consultant: That’s a great perspective! You deserve the same kindness. What if we worked on a plan to remind yourself of your strengths and accomplishments whenever self-doubt creeps in?
+
+User: That sounds like it could help. How do I do that?
+
+Consultant: One way is to keep a success journal where you jot down your achievements, big and small, and how they made you feel. Over time, it can act as a positive reminder of your abilities. Would you be open to trying that?
+
+User: Yes, I think that could be useful. I just worry I might forget to do it consistently.
+
+Consultant: That's understandable. We can set up a specific time each week for you to reflect, maybe after a study session. What day works best for you?
+
+User: Maybe Sunday afternoons. It’s usually a quieter time for me.
+
+Consultant: Perfect! Now, while we’re on the subject of study sessions, have you thought about incorporating breaks to improve your focus?
+
+User: I haven’t really thought about that. I just sit for long hours, hoping to power through. 
+
+Consultant: Breaking your study time into chunks, like 25 minutes of focused study followed by a 5-minute break, can really help. This technique is called the Pomodoro Technique. You might find it makes studying less overwhelming while maintaining your productivity. 
+
+User: That sounds manageable. I could give that a try.
+
+Consultant: Great! Lastly, let’s discuss how your family fits into this picture. How’s communication with your father been? 
+
+User: We don’t talk much. He’s usually away driving, and when he’s home, we don’t have much to say. 
+
+Consultant: It seems like establishing a better connection could provide you with some emotional support. Would you feel comfortable reaching out to him about your achievements?
+
+User: I think that would be nice. I’m just not sure how to bring it up.
+
+Consultant: You could start by sharing your excitement about your competition and how it made you feel, then express that you’d appreciate more conversations about your goals and feelings. It could open up a space for better communication. 
+
+User: I’ll try that. I miss having those kinds of conversations.
+
+Consultant: That’s wonderful to hear, Liu. It sounds like building that relationship could really help alleviate some of your pressures. Let’s summarize what we’ve discussed today. 
+
+User: Sure!
+
+Consultant: You plan to keep a success journal to remind yourself of your strengths, try the Pomodoro Technique for studying, and reach out to your father to strengthen your connection. How are you feeling about these steps?
+
+User: I feel hopeful, actually. I think they might really help me.
+
+Consultant: I'm glad to hear that! Remember, it’s okay to take things one step at a time. I believe in your ability to implement these strategies. I look forward to hearing about your progress next time we meet.
+
+User: Thank you! I appreciate this support.
+
+Consultant: You’re welcome, Liu. Take care, and I’m here whenever you need to talk again.
+###################
+Consultant: Hello, Liu! It's great to see you again. I’m looking forward to our conversation today. How have you been feeling since our last session?
+
+User: Hi! I've been feeling a bit better after spending time with my dad over the holidays. But I still have this pressure weighing on me, especially regarding my studies and how I compare to others.
+
+Consultant: I'm glad to hear that spending time with your dad has helped a little. It sounds like those moments felt supportive to you. Can you share more about the pressure you're feeling, especially in relation to your studies?
+
+User: Yes, I just feel like I should be doing better, you know? Sometimes I can’t help but think about how my situation is different from my classmates who seem more relaxed and confident. It makes me anxious about not measuring up.
+
+Consultant: That comparison sounds challenging. It’s common to feel that way, especially in a competitive environment. How does this anxiety affect your ability to focus on your studies?
+
+User: Well, I often feel distracted and end up procrastinating. I can sit down with my books, but my mind just wanders. It's frustrating because I know that if I could concentrate, I would do better.
+
+Consultant: I understand how frustrating that must be for you. It seems like there’s a cycle of anxiety leading to distraction, which then increases your pressure. Have you noticed any specific thoughts that pop into your mind when you're trying to study?
+
+User: Usually, I think things like, “What if I fail?” or “Everyone else is going to do better than me.” It’s like this endless loop of negative thinking.
+
+Consultant: Those thoughts sound heavy and very real for you. Let’s try to unpack them. How much evidence do you think supports those thoughts, like the idea that you’ll fail or that others are doing better?
+
+User: I don’t really know, to be honest. Maybe it’s just my own insecurities talking. I do get good grades, but I still doubt myself.
+
+Consultant: It sounds like there could be a disconnect between your achievements and your self-perception. If a friend of yours had similar doubts, what would you say to help them see their strengths?
+
+User: I’d probably tell them that grades don’t define their worth and that they should focus on their progress rather than comparing themselves to others.
+
+Consultant: That’s a wise perspective! You seem to have a good understanding of how to support your friends. Could you try applying that same kindness and understanding to yourself?
+
+User: I guess I could try to remind myself of my achievements and progress. It’s hard, though.
+
+Consultant: It is hard, especially when negative thoughts feel so convincing. One approach could be to keep a journal where you note your achievements and positive experiences. How do you feel about that idea?
+
+User: That sounds like it could help. Writing things down might make it easier to recognize my progress.
+
+Consultant: Great! Writing can be a powerful tool. It can help you reflect and shift your focus to the positive aspects of your journey. What are some small steps you could take to start this journaling practice?
+
+User: Maybe I could set aside a few minutes each evening to jot down what went well during the day. I think that would be manageable.
+
+Consultant: That sounds very doable! And each time you do it, you can reinforce those positive thoughts about yourself. Besides journaling, have you thought about ways to connect with your dad, especially now that you’ve felt more supported lately?
+
+User: We’ve been talking more, and I think I could share my study struggles with him. He may not have gone to college, but he always encourages me and listens.
+
+Consultant: That’s wonderful to hear! Sharing your feelings with him might strengthen your bond even further. It could also help relieve some of that pressure you're feeling. How does the idea of opening up to him make you feel?
+
+User: I feel a bit nervous, but also relieved. It’s nice to know he’s willing to listen.
+
+Consultant: Nervousness is completely understandable, but it sounds like you have a supportive relationship to build on. What do you think would be the best way to approach this conversation with your dad?
+
+User: I think I could just be honest about how I’m feeling and ask him for advice. He might have some insight on how to cope with my anxiety.
+
+Consultant: That’s a great plan! Honesty often leads to deeper understanding. It's also rewarding to involve him in your journey. How would you feel about having that conversation this week?
+
+User: I’ll definitely try to have that talk this week. I feel a bit more confident after discussing it with you.
+
+Consultant: That’s excellent to hear! Remember, this process takes time, and it’s okay to take small steps. As we wrap up, let’s reflect on your progress. What do you feel has been the most helpful for you today?
+
+User: I think identifying those negative thoughts and thinking about how to counter them has been really helpful. I also feel more motivated to talk to my dad.
+
+Consultant: That’s a wonderful takeaway, Liu! You’ve made significant strides today. As you move forward, remember to be patient with yourself and utilize your support system. If you face challenges, think about the strategies we've discussed. I look forward to hearing how things go in our next session.
+
+User: Thank you! I appreciate your support. I’ll see you next time!
+
+Consultant: You're very welcome! Take care, and see you soon!
+###################
+Consultant: Hello! I'm glad you're here today. How have you been feeling lately?
+
+User: Hi. I've been feeling a bit better recently. I'm more positive about my personal and social life, but I still want to improve further.
+
+Consultant: That’s great to hear that you’re feeling more positive! What specific areas in your personal and social life would you like to focus on improving?
+
+User: I want to be more involved in social activities and feel more confident when interacting with others. Sometimes I still feel a bit out of place.
+
+Consultant: It sounds like building your confidence in social situations is important to you. Can you share an experience where you felt particularly out of place or uncomfortable recently?
+
+User: There was a group gathering last week. I felt like I struggled to keep up with the conversation, and I ended up sitting quietly for most of it. I wish I could have contributed more.
+
+Consultant: It can be tough to feel like you’re not fully engaging in conversations, especially at social gatherings. What thoughts were running through your mind during that gathering about your participation?
+
+User: I kept thinking that my experiences are so different from theirs. I felt like I couldn't relate to them, and I worried that they wouldn’t find what I said interesting.
+
+Consultant: Those thoughts can be really challenging to handle. It's understandable to feel that way, but let’s explore them a bit. What evidence do you have that your experiences wouldn't be interesting to them?
+
+User: I guess I don’t have solid evidence. It's just a feeling I have. I tend to think that everyone else has cooler stories to tell.
+
+Consultant: It's common to compare ourselves to others, but this might be a cognitive distortion—thinking that others have it better or that your stories aren't valuable. Can we challenge that thought together? What if someone else feels the same way about their stories?
+
+User: That makes sense. I hadn’t thought about it that way. Maybe others also feel insecure about sharing.
+
+Consultant: Exactly! Engaging with others often reveals that we all have our insecurities. What might happen if you allowed yourself to share your thoughts and experiences more openly?
+
+User: I guess I could feel more connected, and I might be surprised by their reactions.
+
+Consultant: Absolutely! Connection often comes from vulnerability. Let’s brainstorm some ways to gently push yourself to share more in social settings. What would you feel comfortable trying out next time?
+
+User: Maybe I could prepare a couple of topics or stories in advance that I feel good about sharing. That way, I'll feel more confident.
+
+Consultant: That's a fantastic idea! Having a few topics ready can ease anxiety. How about planning to share one of those topics at your next gathering? 
+
+User: Yes, I can do that! I’ll pick something that I feel excited about discussing.
+
+Consultant: That sounds promising! Let's also talk about your overall progress in both your academic and social life. What positive changes have you noticed recently?
+
+User: I’ve started hanging out more with my classmates, and I feel less lonely. My grades are holding steady, which also helps my confidence.
+
+Consultant: It's wonderful that you've been making connections and maintaining your academic performance! What do you think contributed to these positive changes?
+
+User: I think being more open to socializing and not isolating myself has really helped. Plus, feeling good about my studies boosts my self-esteem.
+
+Consultant: That's a great insight! Recognizing the link between social interaction and self-esteem is important. How can you continue to build on this momentum in both areas?
+
+User: I’d like to join a club on campus. I think that would give me more opportunities to meet people and share experiences.
+
+Consultant: Joining a club sounds like a brilliant idea! It can provide a structured way to interact and build connections with others who share your interests. Does any particular club come to mind?
+
+User: I’m considering the photography club. I’ve always enjoyed taking pictures.
+
+Consultant: That aligns perfectly with your interests! Engaging in a shared activity like photography could help ease social interactions as well. When do you plan to check it out?
+
+User: I can go to their meeting next week. I’ll be nervous, but I think I’ll give it a try.
+
+Consultant: It’s normal to feel nervous, but remember, you’re taking a positive step! We can also prepare some conversation starters together to help you feel more equipped. Would you like to do that?
+
+User: Yes, that would help a lot. I want to feel ready and not overthink everything.
+
+Consultant: Great! Let’s come up with a few friendly questions or comments you can share. How about starting with something related to photography? What interests you about it?
+
+User: I could ask others about their favorite photography styles or what got them into it. 
+
+Consultant: Perfect! Those are excellent conversation starters. We can also think about sharing something you’ve recently captured. How does that sound?
+
+User: I love that idea! I have some photos I’m proud of. Sharing them could be a good way to connect.
+
+Consultant: That’s an excellent strategy! Sharing your work can spark discussions and build rapport with others. You’re really making strides in planning out how to improve your social experiences.
+
+User: Thank you for your help! I have a clearer idea of what I want to do now.
+
+Consultant: I’m glad to hear that! Let’s summarize your action plan. You’ll prepare topics to share, join the photography club, and engage with others by asking about their interests. How do you feel about this plan?
+
+User: I feel excited and less anxious about socializing. I think it will be a great opportunity for me.
+
+Consultant: That’s wonderful to hear! Remember, each interaction is an opportunity to learn and grow. This will be our last session for now. How do you feel about the progress you've made?
+
+User: I feel proud and optimistic. I’m ready to take these steps toward improving my social life.
+
+Consultant: You should be proud! I believe you have the skills to maintain what you’ve learned. If you ever feel the need for support again, don’t hesitate to reach out. Good luck with everything!
+
+User: Thank you so much! I really appreciate your guidance.
+
+Consultant: You’re very welcome! Take care, and I wish you the best in your journey.
+###################

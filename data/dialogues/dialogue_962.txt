@@ -1,0 +1,392 @@
+Consultant: Hello! I'm really happy to see you today. How have you been feeling lately?
+
+User: Hi. I've been feeling a bit lost and distracted, especially during class. My mom wasn't even at the parent-teacher meeting recently, and it made me feel ignored.
+
+Consultant: That sounds really tough. It's understandable to feel that way, especially when you want your parents to be involved. Can you share more about how your attention has been during school?
+
+User: Well, I find myself daydreaming a lot and it's hard to focus on what the teacher is saying. I get a bit frustrated because I know I can do better.
+
+Consultant: It’s great that you recognize your abilities. So it sounds like your mind wanders, which leads to frustration. What do you think makes it hard to concentrate during class?
+
+User: I think when the teacher talks for a long time or when there's a lot of noise around me, I just start thinking about other things. It’s like my brain switches off.
+
+Consultant: That makes perfect sense. External distractions can definitely make focusing difficult. Let’s explore those moments when you find it really hard to pay attention. What’s going through your mind then?
+
+User: Sometimes, I start thinking about things that happened at home or what my friends are doing. I really wish I could just stay focused.
+
+Consultant: It's quite common for our thoughts to drift. If you were to describe those distracting thoughts, what would they look like? 
+
+User: I guess they’re just random, like daydreams about playing or being with friends—things I’d rather be doing instead of sitting in class.
+
+Consultant: I see. It sounds like your mind goes to happier places when you're feeling stuck. What do you think might help you stay more present during class instead of drifting off?
+
+User: Maybe if I had something to keep my hands busy, like a fidget toy? Or if the teacher called on me more, so I wouldn’t drift away?
+
+Consultant: Those are excellent ideas! Using a fidget toy can give your hands something to do. And engaging more with the teacher could definitely help you stay focused. Have you tried talking to your teacher about this?
+
+User: No, I feel a bit shy to bring it up. What if they think I’m not trying hard enough?
+
+Consultant: That’s a valid concern. It might feel uncomfortable to speak up, but most teachers appreciate students who want to improve. What if we practiced how you could approach your teacher together?
+
+User: That sounds helpful! Maybe I could say that I have trouble focusing and ask if there are things I can do?
+
+Consultant: Absolutely! That’s a great approach. You can express your desire to improve and share your ideas. It might also make you feel more in control of your learning. How are you feeling about that idea?
+
+User: I feel a bit more confident thinking about it. I just hope I don’t get too nervous when I actually do it.
+
+Consultant: It’s normal to feel nervous, but remember that you’re taking a positive step. We can also think about some calming breathing techniques to help you when you feel anxious. How does that sound?
+
+User: That sounds good! Breathing might help calm me down before I talk to my teacher.
+
+Consultant: Perfect! Deep breathing can really make a difference. We could practice it together. Would you like to give it a try now?
+
+User: Yes, I’d like to try!
+
+Consultant: Great! Let’s take a deep breath in for four counts... now hold it for four... and exhale slowly for four. Let’s do that a few times.
+
+User: I feel a little better now. It's nice to focus on my breath.
+
+Consultant: I'm glad to hear that! This can be a useful tool when you're feeling overwhelmed or anxious. How do you think you can incorporate this into your daily routine?
+
+User: Maybe I could do it before I start my homework or before school. It might help me feel less distracted.
+
+Consultant: That's a wonderful idea! By incorporating this practice regularly, it might help you develop better focus over time. What are your thoughts on your attention going forward?
+
+User: I’m starting to feel hopeful that I can improve. I really want to try these strategies and see what happens!
+
+Consultant: That’s a great mindset to have! Exploring these strategies will give you a better understanding of what helps you concentrate. How do you feel about our session today?
+
+User: I feel positive and excited to try new things. I want to be able to focus better in class!
+
+Consultant: I'm really happy to hear that! Remember, it’s a journey, and each small step counts. As we wrap up today, is there anything specific you want to remember or focus on before our next session?
+
+User: I want to remember to speak up to my teacher and practice my breathing techniques.
+
+Consultant: Fantastic goals! I’m looking forward to hearing how it goes next time. You’re doing great, and don’t hesitate to reach out if you need support. I'll see you soon!
+###################
+Consultant: Hello! Welcome to our session today. I'm really glad you're here. How have you been feeling lately, especially with the recent news about your parents possibly participating more in family activities?
+
+User: Hi. I'm feeling a bit of excitement about my parents being around more. I think it could help me focus better in school. But I still worry about my attention problems.
+
+Consultant: It's great to hear that you're feeling positive about your parents being more involved. You believe it might help with your focus in school. Can you tell me a bit more about how your attention feels when you're in class?
+
+User: In class, I often find my mind wandering, and I can’t keep up with what the teacher is saying. It’s frustrating because I want to do better.
+
+Consultant: That sounds really challenging. Feeling frustrated when you want to improve is understandable. Can you recall a specific moment in class recently when you noticed your mind wandering?
+
+User: Yes, just last week, I was supposed to be taking notes, but I started daydreaming about playing with my friends instead. I realized I missed important parts of the lesson.
+
+Consultant: It can be tough when distractions pull you away from learning, especially when you want to pay attention. Thinking about that moment, what thoughts went through your mind as you started to daydream?
+
+User: I thought it wouldn’t matter if I missed a little bit, but then I realized I needed those notes for the test. I felt kind of guilty.
+
+Consultant: That feeling of guilt can be hard. It seems like you understand the importance of being attentive, yet distractions still manage to take over. What if we explored some ways to help you catch those distractions before they happen? 
+
+User: That could be helpful! I want to learn how to focus better.
+
+Consultant: Wonderful! Let’s start by practicing self-monitoring. This means noticing when your attention shifts. Can you think of a simple way to remind yourself to stay focused during class?
+
+User: Maybe I could use a small sticker on my desk as a reminder to focus? 
+
+Consultant: That’s a creative idea! Having a physical reminder can help bring your attention back. How do you think you could use that sticker when you start to feel distracted?
+
+User: I guess I could look at it and remember that I want to pay attention. 
+
+Consultant: Exactly! It serves as a prompt to refocus. Besides the sticker, what’s something you enjoy that could motivate you to pay attention more?
+
+User: I like stickers! Maybe if I reward myself with a sticker every time I stay focused for a full lesson, I’d feel encouraged.
+
+Consultant: That sounds like a great plan! Positive reinforcement can be very effective. So we can set a goal to earn a sticker every time you successfully focus throughout a lesson. How does that sound to you?
+
+User: That sounds exciting! I think I can do it.
+
+Consultant: I believe you can too! Now, let’s talk about some strategies you can use during class when you start to feel distracted. What’s one technique you might remember to help bring your attention back?
+
+User: I could take deep breaths and remind myself to focus on the teacher’s voice. 
+
+Consultant: That’s a fantastic strategy! Deep breathing can help calm your mind and center your focus. Would you like to practice that here with me?
+
+User: Sure! How do we do it?
+
+Consultant: Let's take a deep breath in through your nose and then slowly breathe out through your mouth. Let’s do it together. Inhale… and exhale. How did that feel?
+
+User: It felt nice and calming. 
+
+Consultant: I’m glad to hear that! You can use that technique whenever you start feeling your attention drifting. Are there any other situations besides class where you find it hard to focus?
+
+User: When I do my homework at home, it’s really hard too. 
+
+Consultant: Homework can definitely be a challenge, especially when there are distractions around. How about we talk about creating a quiet space for you to do your homework? 
+
+User: That could work! I could try doing my homework at the kitchen table without my phone.
+
+Consultant: Great idea! Limiting distractions like your phone can help you stay more focused. What rules do you think you can set for yourself during homework time?
+
+User: Maybe I could give myself 25 minutes of working time and then a 5-minute break. 
+
+Consultant: That’s a smart approach! It’s called the Pomodoro technique, and it allows time for focused work followed by short breaks. How do you feel about trying that during your next homework session?
+
+User: I think I’d like to try that!
+
+Consultant: Excellent! Planning those breaks can make working feel more manageable. Now, as we wrap up for today, let’s summarize what strategies you’ll apply in class and during homework.
+
+User: I’ll use the sticker as a reminder to focus, try deep breathing when distracted, and do my homework with a timer!
+
+Consultant: That sounds like a solid plan! You’re taking great steps to improve your focus. Remember, it may take practice, but I believe you can do this. How do you feel about the strategies we’ve discussed today?
+
+User: I feel more confident. It seems like I have a plan now. 
+
+Consultant: I’m so happy to hear that! You’re already making progress. Keep challenging yourself, and remember to be patient with your journey. If you ever need to talk again, just reach out. Take care! 
+
+User: Thank you! I appreciate your help. 
+
+Consultant: You're very welcome! Looking forward to hearing how your progress goes next time. Goodbye for now!
+###################
+Consultant: Hello there, Li! I'm glad to see you again. How are you feeling after our last session and the family gathering?
+
+User: Hi! I feel a little better since I got to spend time with my parents and felt their support. But I'm still struggling to apply what we talked about regarding attention management in class.
+
+Consultant: It’s great to hear that you felt more support from your parents. It can really make a difference! When you think about using the attention management strategies in class, what specific challenges do you face?
+
+User: Sometimes, when the teacher is talking, my mind just wanders off, and I can't focus on what we're learning. I feel like I forget everything really quickly.
+
+Consultant: That’s understandable. Wandering thoughts can be tough to manage, especially in class. Let’s explore how you can redirect your focus when that happens. Can you recall a moment in class recently when you felt your attention drifting? 
+
+User: Yes, last week during math class. The teacher was explaining a new topic, and I just started thinking about what I would do after school, like playing with my friends.
+
+Consultant: It sounds like your mind took you to a fun place while you were meant to be focusing on math. What do you think you could do differently in that moment to bring your attention back to the lesson?
+
+User: I’m not sure. Maybe I could try to remind myself to pay attention, but it’s hard when I get distracted.
+
+Consultant: That makes sense. One technique is to create a simple reminder for yourself. For example, you could think, “I’m here to learn.” What do you think about trying to set a little goal for each class, like focusing for a certain amount of time before taking a little break in your mind?
+
+User: I like the idea of setting a small goal! Maybe I can try focusing for 10 minutes at a time and then take a short break in my thoughts.
+
+Consultant: That's a great plan! Breaking it down into shorter segments can make it feel more manageable. During those 10 minutes, how can you remind yourself to stay focused?
+
+User: I could use my pencil to tap lightly on my desk whenever I find my mind wandering. It would be like a reminder to come back to the lesson.
+
+Consultant: I love that idea! It’s a gentle way to bring your focus back without being disruptive. After you’ve tried it, how do you think you might feel if it helped you concentrate better?
+
+User: I’d feel proud of myself! It would be nice to understand what’s going on in class instead of feeling lost.
+
+Consultant: Absolutely! It’s all about those small successes that build up your confidence. Let’s discuss how you can evaluate your progress. What could you do to reflect on your attention goals after each class?
+
+User: Maybe I could write down what I noticed about my attention and if I stayed focused during those 10 minutes?
+
+Consultant: That sounds perfect! Keeping a little journal can help you track your improvements and see patterns in your focus. How do you feel about starting that after our session today?
+
+User: I’m excited about it! I think it will help me see how I’m doing in class.
+
+Consultant: I’m glad to hear that your excitement is growing! Remember, it’s okay if you don’t get it right every time. Each day is a chance to learn. What will you do if you find it hard to stick to your plan in class?
+
+User: I guess I’ll try not to be too hard on myself and just keep reminding myself that it’s okay to practice.
+
+Consultant: Exactly! Practicing self-compassion is important. Progress takes time, and every small step counts. Let’s also think about how you can celebrate your successes, no matter how small they are.
+
+User: Maybe I can reward myself with some extra playtime after school if I focus well?
+
+Consultant: That’s a fantastic idea! Positive reinforcement can really motivate you. As you work on these strategies, how do you think they will affect your overall enjoyment of school?
+
+User: I think I’ll start enjoying school more. If I can focus, I’ll understand things better, and I won’t stress out so much.
+
+Consultant: Yes, exactly! Understanding class material can definitely reduce stress. Before we finish today, let’s summarize what you’ve learned and your plan moving forward.
+
+User: I’m going to try to focus for 10 minutes, use my pencil as a reminder, and write down my observations afterward. I’ll also reward myself if I focus well.
+
+Consultant: That’s a solid plan, Li! I’m confident that with your dedication, you’ll see improvement in your focus and enjoyment of school. Remember, this is a journey, and I’m here to support you along the way.
+
+User: Thank you so much! I feel much better after our talk and more ready to tackle my classes.
+
+Consultant: You’re very welcome! I'm truly proud of your commitment to improving. Remember, you can always reach out if you need additional support. Keep practicing, and I look forward to hearing about your progress next time. 
+
+User: I will! See you next time!
+
+Consultant: See you next time, Li!
+###################
+Consultant: Hi there! Welcome back. I'm really glad to see you again. Last time, we talked about your experiences in group activities and how much you enjoyed them. How have you been feeling since then?
+
+User: Hi! I've been feeling pretty good. Being part of the group was fun, and it made me realize that I can actually focus better when working with others. But I'm still having a tough time staying focused in class.
+
+Consultant: It's great to hear that you enjoyed the group work and found it helpful for your focus! Let's discuss your classroom experience a bit more. Can you share what it's like for you when you're in class and trying to pay attention?
+
+User: Well, sometimes I feel my mind drifting away. I see other students engaged but I have a hard time keeping my thoughts on what the teacher is saying.
+
+Consultant: That sounds frustrating. It seems like you know what you’d like to achieve in class, especially since you've found ways to focus during group activities. Have you noticed any specific thoughts or feelings that pop up when you start to lose focus in class?
+
+User: I often think that I am just not good at this subject or that I will never understand it. It kind of makes me want to just give up.
+
+Consultant: It's understandable to feel that way, especially when you find something challenging. Let's think about these thoughts. When you tell yourself that you're not good at it, how does that make you feel in the moment?
+
+User: It makes me feel really discouraged and sometimes I just want to stop trying altogether.
+
+Consultant: That sounds tough. So, your thoughts about not being good enough seem to impact your feelings and motivation. What do you think would happen if you approached those subjects with the mindset you had during the group activities, where you felt more confident and engaged?
+
+User: I think I might feel more motivated to try, but I’m not sure how to make that change happen.
+
+Consultant: That's a good insight. Let's brainstorm together. Can we identify some strategies you used in group activities that made you feel more focused and confident? Maybe we could apply those to your classroom experiences.
+
+User: Well, in the group, we often helped each other and shared ideas. If I could talk to classmates or ask questions, it made things easier.
+
+Consultant: Excellent! Communicating with classmates seems to be a key part of how you stay engaged. How about we set a small goal where you try to ask at least one question or share one thought in class each session? 
+
+User: That sounds doable, I can try that! 
+
+Consultant: Great! And as you do this, how do you think it might change your feelings about your abilities in class?
+
+User: I guess it might make me feel a bit more confident. If I speak up and get it right, I won’t feel so discouraged.
+
+Consultant: Exactly! Sharing your thoughts can reinforce your knowledge and remember that each contribution is valuable. Besides this goal, are there any other ways you think you could remind yourself that you are capable in class, just like you felt in your group?
+
+User: Maybe I could think of some positive things that happened in the group or remind myself that I’ve learned before.
+
+Consultant: Those are fantastic strategies! Writing down those positive experiences and referring to them when you feel discouraged could be very helpful. How do you feel about creating a quick list for yourself?
+
+User: I’m okay with that! I can even put it in my binder to see when I need a boost.
+
+Consultant: That sounds like a great plan! Now, let's also think about how to track your progress with these new goals. Would you be willing to share how you're feeling each week, perhaps in a small journal?
+
+User: Yes, I’d like that! I think it could help me see how I’m improving.
+
+Consultant: Perfect! Regular reflection can give you valuable insights. So, just to summarize, you plan to ask questions in class, keep a positive experience list, and write in your journal about your feelings. How do all these strategies make you feel about returning to class next time?
+
+User: I feel more excited and less anxious about it! Like I have a plan that can really help me.
+
+Consultant: That's wonderful to hear! Remember, it's a journey, and you're taking positive steps forward. I believe in your ability to manage those moments in class and strengthen your focus. 
+
+User: Thank you! I’ll try my best, and I’m looking forward to seeing how this goes!
+
+Consultant: You’re very welcome! Keep up with your strategies, and we can discuss your progress in our next session. I'm here to support you. Any final thoughts before we wrap up today?
+
+User: No, I think I just want to remember everything we talked about. 
+
+Consultant: Perfect! I’ll look forward to hearing about your experiences next time. Take care, and see you soon!
+###################
+Consultant: Hello! It's great to see you here today. How have you been feeling since we last talked?
+
+User: Hi! I've been feeling pretty good, actually. Being appointed as the class monitor made me feel recognized, and I've been more motivated to improve my attention in class.
+
+Consultant: That's wonderful to hear! Feeling recognized can really boost your confidence and motivation. Can you tell me more about how being the class monitor has influenced your feelings about your studies?
+
+User: Being a monitor makes me feel responsible. I want to set a good example for my classmates, which encourages me to pay more attention in class.
+
+Consultant: It sounds like the role has really helped you develop a sense of responsibility and motivation. What specific strategies have you been using to help you concentrate better during lessons?
+
+User: I’ve been trying to take notes more actively and engage in class discussions. When I participate, I find it easier to stay focused.
+
+Consultant: Engaging in discussions and taking notes are great strategies! How do you feel when you manage to stay focused during a lesson? 
+
+User: I feel proud of myself! I think it shows that I can control my attention, and it gives me more confidence.
+
+Consultant: That's an excellent feeling to have! Building confidence through your successes can help you even more. Would you like to explore additional strategies for managing your attention and maintaining that high sense of self-control?
+
+User: Yes, I think that would be helpful. Sometimes I still struggle, especially with distractions.
+
+Consultant: Totally understand. It's completely normal to face distractions at times. How do you usually handle distractions when they come up?
+
+User: I try to ignore them, but it’s hard. Sometimes, I just end up getting distracted anyway.
+
+Consultant: Ignoring distractions can be challenging! What if we work together to find some techniques to deal with those distractions more effectively? 
+
+User: That sounds good! I would love to learn some new techniques.
+
+Consultant: One strategy could be to create a focused study environment. What does your study space look like? 
+
+User: My study space is at the kitchen table, but it can be noisy sometimes with my grandparents around.
+
+Consultant: It sounds like the noise could be a challenge. How about setting up a designated study area where you can have fewer distractions? Maybe you could use headphones or have some quiet time while studying.
+
+User: That might work! I could ask my grandparents to keep it quiet during my study times.
+
+Consultant: That sounds like a good plan! Also, have you considered rewarding yourself after completing a study session? It could help keep you motivated.
+
+User: I haven’t thought of that. What kind of rewards do you mean?
+
+Consultant: It could be something simple, like taking a break to do something fun or having a small treat. Rewards can create positive associations with studying and focusing!
+
+User: I like that idea! I can plan small breaks after I finish my tasks. 
+
+Consultant: Perfect! And how about making a study schedule? Creating set times for your study might help you manage your time better and minimize distractions.
+
+User: That sounds helpful too. Maybe I could block out specific hours for different subjects.
+
+Consultant: Great! Blocking time for subjects can help you stay organized and focused. Do you feel ready to try implementing these strategies in your routine?
+
+User: Yes, I’m excited to try these! It feels good to have a plan.
+
+Consultant: I'm glad to hear that! How about we check in again in our next session to see how these strategies are working for you? 
+
+User: That sounds good! I’ll definitely let you know how it goes.
+
+Consultant: Excellent! Remember, it’s all about progress, not perfection. You’ve done so well already. 
+
+User: Thank you! I feel really motivated now.
+
+Consultant: That’s exactly the spirit! Keep up that positive attitude, and I believe you’ll continue to see great progress. 
+
+User: I will! I’m looking forward to working on this and seeing where I can take it!
+
+Consultant: Fantastic! I'm looking forward to hearing all about your progress next time. Don't hesitate to reach out if you encounter any challenges before then.
+
+User: Thank you for your support. I appreciate it!
+
+Consultant: You're very welcome! It's been a pleasure talking with you, and I can't wait to continue our work together. See you next time!
+
+User: See you! I'm excited about our next meeting!
+###################
+Consultant: Hello! I'm glad to see you today. Before we dive in, I’d love to hear how you’ve been feeling lately about your preparation for the upcoming exams.
+
+User: Hi! I've been doing pretty well. I feel excited because I have started using some new techniques to manage my focus while studying. I really hope I can show improvement in my exam results.
+
+Consultant: That's great to hear! It sounds like you've been proactive in your approach. What specific techniques have you been using to help manage your attention better?
+
+User: I’ve been breaking my study sessions into shorter segments and taking regular breaks. I feel that this helps me stay more focused and less overwhelmed.
+
+Consultant: It sounds like you're really applying effective strategies! How do you feel during your study sessions using this method? Do you notice any changes in your focus or stress levels?
+
+User: Yes, I feel less stressed and more in control. I can study longer without feeling too anxious, though sometimes I still struggle with distractions.
+
+Consultant: It's wonderful that you're feeling more in control and less stressed. Distractions can be tough to manage. Can you share what kinds of distractions you typically encounter during your studies?
+
+User: I often get distracted by my phone or noises around me. Sometimes my mind just wanders off to unrelated thoughts as well.
+
+Consultant: Those are common challenges! Let's think about how we can address those distractions. Have you considered any specific strategies to minimize the impact of your phone or the surrounding noise?
+
+User: I’ve tried putting my phone in another room while I study. It helps, but I still get distracted by background noise sometimes.
+
+Consultant: That's a smart move with your phone! Regarding background noise, have you thought about using earplugs or some calm music to help you concentrate?
+
+User: I haven't tried music yet, but earplugs sound like a good idea. Maybe I can create a quieter environment to study in.
+
+Consultant: Exactly! Creating a quieter study space can really enhance your focus. It’s all about finding what helps you best. Have you noticed any other situations where it’s easier or harder to concentrate?
+
+User: I find it easier to concentrate at school because the teachers guide us, but at home, it’s more difficult to stick to my study plan without supervision.
+
+Consultant: That makes sense. The structure at school helps you stay on track. How about we brainstorm some ways to create a similar structure for your study time at home? 
+
+User: That sounds good! I can write a schedule and maybe ask my grandparents to check in on me while I study.
+
+Consultant: That’s a fantastic idea! Having a schedule will provide you with guidance and accountability. How do you feel about sharing your study schedule with your grandparents for support?
+
+User: I think they would be happy to help and check on me. It would make me feel more responsible too.
+
+Consultant: It sounds like a win-win! As you move forward, let's make sure you’re also checking in on your feelings and how your study strategies are working. What steps can you take to reflect on your progress regularly?
+
+User: I could keep a little journal to note what works and what doesn’t. That would help me adjust my approach if needed.
+
+Consultant: A journal is an excellent idea! Reflecting on your progress can provide you with valuable insights. Have you thought about how often you might want to review your journal entries?
+
+User: I think maybe weekly? That way I can make changes if I notice something isn't working.
+
+Consultant: Weekly reflections sound perfect! This will help you stay on track and make timely adjustments. As we wrap up today, I'm curious about how confident you feel about implementing these strategies before your exams.
+
+User: I’m feeling pretty confident! I have a clear plan now and feel more prepared. I’m excited to see how things turn out.
+
+Consultant: I'm so glad to hear that! It sounds like you’ve made great progress and have a solid plan going forward. Remember to keep using those strategies and continually check in with yourself. 
+
+User: Thank you! I appreciate your help in sorting all of this out.
+
+Consultant: You're very welcome! It was a pleasure to work with you today. Keep up the great work, and don’t hesitate to reach out if you need further support. Good luck with your studies!
+
+User: I will. Thanks again!
+###################

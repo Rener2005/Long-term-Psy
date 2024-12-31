@@ -1,0 +1,418 @@
+Consultant: Hello, Marty! I'm glad you decided to join me for this session. I know things have been tough for you lately. How have you been feeling since we last spoke?
+
+User: Hi. Honestly, I still feel pretty low. I know my parents are disappointed in me, and I just feel like I'm a mess. I don’t really know how to fix things.
+
+Consultant: It sounds like you're feeling a heavy weight of disappointment and confusion. That's completely understandable given the changes you've been experiencing. Can you share a bit more about what you think is causing these feelings?
+
+User: I think it's mainly because of school. I used to do really well, but now everything's gone downhill. Smoking got me expelled, and now I'm stuck here. I feel like I'm letting everyone down.
+
+Consultant: That’s a difficult situation to be in, especially when you feel like you've lost control. Let's take a moment to explore what you believe is your current self-image. How do you see yourself right now?
+
+User: I see myself as a "bad kid" with no future. It feels like I'm just disappointing everyone around me, even myself.
+
+Consultant: I appreciate your honesty, Marty. It sounds like you're carrying a lot of negative beliefs about yourself. Can we have a closer look at those thoughts? What evidence do you think supports the idea that you are a “bad kid”?
+
+User: Well, I got kicked out of school, and I've disappointed my dad. I don't know, it just feels like I'm on a bad path.
+
+Consultant: It's understandable to feel that way after facing such big challenges. However, sometimes our thoughts can be a bit extreme. If a friend were in your position, how might you explain the situation to them about when they made a mistake?
+
+User: I guess I would tell them that everyone makes mistakes and that it doesn't define who they are. But for me, it feels different.
+
+Consultant: That’s a wise perspective. It shows that you understand mistakes are part of life. Let’s try to apply that same understanding to your situation. Is it possible that this one mistake doesn't define you and that there’s more to you than just this moment?
+
+User: Maybe, but it's hard. I just keep thinking about how I messed up. 
+
+Consultant: It’s definitely a challenge to shift that focus. Let’s think about your strengths and what you value in yourself. Can you think of some positive qualities or achievements you have that might balance out those negative thoughts?
+
+User: I used to be a straight-A student, and I love art. I guess I used to be proud of that.
+
+Consultant: Those are great qualities to reflect on, Marty! Remembering your strengths can help you build a balanced view of yourself. What if we explored how you could reconnect with those interests, like art, to help you feel better?
+
+User: I haven't painted in a while. I used to enjoy it, but I just feel too down.
+
+Consultant: Engaging in something you love can be a powerful way to express yourself and alleviate those feelings of sadness. How about setting aside some time this week for painting? It could help you reconnect with that passion.
+
+User: Yeah, I could try that. I’ve really missed it.
+
+Consultant: That’s a wonderful idea! Along with painting, let’s also think about how you can improve communication with your father. How do you think he feels about what’s been happening?
+
+User: He’s been really quiet. I think he’s upset and doesn’t know how to talk to me now.
+
+Consultant: That’s tough. Since it seems communication is a bit strained, what do you think might help break the ice between you two? 
+
+User: I guess maybe I could just be honest about how I'm feeling? 
+
+Consultant: Absolutely, honesty is a crucial step. What if you shared what you’ve been reflecting on during our sessions, about your feelings and goals? That might help him understand where you’re coming from.
+
+User: I could do that. It feels scary, though.
+
+Consultant: It’s natural to feel that way, especially when opening up. Sometimes, starting with a simple statement about how you've been feeling recently can ease the conversation. Would you like to think of something you might say to him?
+
+User: Maybe something like, “I know I've made mistakes, but I'm trying to figure things out.” 
+
+Consultant: That's a great start! It shows vulnerability and a willingness to improve. How does it feel to think about saying that to him?
+
+User: It feels a bit freeing, but also like I’m taking a big step.
+
+Consultant: Taking steps can indeed feel daunting, but it’s also a sign of growth. We’ve talked a lot about your feelings today. Looking ahead, what steps do you feel motivated to take next?
+
+User: I think I want to start painting again and talk to my dad. 
+
+Consultant: Those sound like meaningful actions. As we wrap up today’s session, let’s summarize what you’ve learned about yourself and your steps forward. What stands out to you the most?
+
+User: I see that I’m more than my mistakes, and I have things I loved before. I guess I still have a chance to change.
+
+Consultant: That’s an empowering realization, Marty! Remember, it’s not about perfection but progress. If you stay focused on exploring those positive qualities and communicate openly, you’ll be taking great steps forward. 
+
+User: Thanks. I’ll keep that in mind.
+
+Consultant: You’re welcome! I’m proud of the work we’ve done together today. Remember, I’m here whenever you need support. You’re making progress, and I believe in your ability to navigate through this. 
+
+User: Thanks, I appreciate it.
+###################
+Consultant: Hello, Matt! I'm glad to see you today. How have you been feeling lately, especially with everything going on with your father?
+
+User: Hi. I've been feeling really low. It seems like no matter what I do, my dad still criticizes me. I try to have a conversation, but it just ends up in an argument. It’s exhausting.
+
+Consultant: That sounds very tough, Matt. It seems like you're putting in effort to communicate, but it’s not leading to a positive outcome. Can you tell me more about what happens during these arguments?
+
+User: Well, I just want to explain myself or share what I’m doing, but he doesn't really listen. He just jumps in and starts pointing out everything I’m doing wrong. It makes me feel like I can’t do anything right.
+
+Consultant: I can see why you’d feel frustrated. Feeling unheard or invalidated can be very painful, especially when you're trying to improve things. What do you think would help in having a more constructive conversation with him?
+
+User: I wish I could just get him to understand where I'm coming from. Maybe if I had a way to express my feelings without it turning into a fight. I don't want him to think I’m just being lazy.
+
+Consultant: That’s a great insight, Matt. Understanding how to express your feelings can be key in changing the dynamic. Let’s explore some strategies together. Can you think of a time when you tried to communicate with him and it went relatively well?
+
+User: Well, there was one time I told him about my schoolwork, and he seemed a bit interested... but it didn't last long. He quickly shifted to telling me off for other things.
+
+Consultant: It sounds like there was a small moment of connection there. What if we practice how you could build on that positive moment? How do you think you could share your feelings more effectively next time?
+
+User: Maybe I could start by asking him if we could talk about something that's bothering me. That way it feels less like I'm forcing my thoughts on him.
+
+Consultant: That sounds like a great approach! Asking for permission to share can help create a more open environment. Besides that, how can you express what you need from him in that conversation?
+
+User: I could say something like, “I need your support.” But I’m afraid he’ll just dismiss it.
+
+Consultant: It’s normal to feel anxious about being dismissed, but remember that you have the right to express your needs. What if you framed your request in a way that highlights the importance of his support for your well-being? 
+
+User: Like saying it’s important to me that we work better together?
+
+Consultant: Exactly! Emphasizing teamwork can foster a sense of collaboration rather than confrontation. How do you think you'd feel approaching the conversation this way?
+
+User: I think it might help me feel more confident. But I worry if he’ll actually listen.
+
+Consultant: That’s a valid concern. Being prepared for various outcomes can help you stay grounded. What can you remind yourself of if he does choose not to listen?
+
+User: I could remind myself that I still have the right to express how I feel, even if he reacts badly.
+
+Consultant: Absolutely, Matt! Your feelings are valid regardless of his response. We can also practice some phrases that could help ease the tension. Would you like to try a role-play exercise now?
+
+User: Sure, that sounds helpful. I’d like to see how it could go.
+
+Consultant: Great! Let’s set the scene. Imagine you're talking to your dad. You start by asking him if he has time to chat. What might you say next?
+
+User: “Dad, could we talk for a minute? There’s something I want to share.”
+
+Consultant: Perfect start! Now, if he agrees, how would you like to share your feelings or needs next?
+
+User: I’d say something like, “I’ve been feeling overwhelmed with schoolwork and could really use your support.”
+
+Consultant: That’s a solid statement! It’s clear and direct. How does it feel to say that?
+
+User: It feels good. I like that I’m asking for support rather than saying he’s wrong.
+
+Consultant: Exactly! You're taking ownership of your feelings. Practicing these conversations can make them feel more natural. What can you do to prepare yourself before your next conversation with him?
+
+User: I can write down what I want to say and remind myself of the good intentions behind my approach.
+
+Consultant: That’s an excellent plan. Having notes can provide you with confidence. As we wrap up today, what do you feel you’ve learned about improving your communication with your dad?
+
+User: I think I’ve realized that it’s about expressing my feelings in a way that invites him to listen rather than reacting defensively.
+
+Consultant: Exactly! You’ve made great strides in understanding how to approach this. Remember, it may take time, but with persistence, you can foster a better relationship. Keep practicing those strategies.
+
+User: Thank you. I feel a bit more hopeful about it now.
+
+Consultant: I'm glad to hear that, Matt! You’re already taking important steps. We’ll continue to work on this together. If you have more thoughts or questions before our next session, don't hesitate to reach out. 
+
+User: I will, thank you!
+###################
+Consultant: Hello, Marty! I'm glad to see you today. How have you been feeling since our last meeting?
+
+User: Hi. I've been trying to adapt, but I still feel kind of frustrated with my dad. He doesn't really believe that I can quit smoking, and it's hard to talk to him about it.
+
+Consultant: I can see how that might be discouraging for you. Feeling that lack of belief from your father can create a barrier in your communication. Can you tell me more about how those conversations usually go?
+
+User: Well, I try to explain my reasons, but he often just dismisses them. It feels like he’s convinced I can't change, which makes me doubt myself too.
+
+Consultant: That sounds really tough, Marty. It’s understandable to feel doubt when someone you care about doesn’t support your efforts. What kinds of things do you think might help improve those talks?
+
+User: I guess I could try to be more open about my feelings and maybe show him that I really want to change. But I don't know if he'll really listen.
+
+Consultant: That’s a thoughtful approach. Being open can help bridge the gap in communication. What do you think you might want to express to him that would show him your commitment to this change?
+
+User: Maybe I could share how it makes me feel when he doubts me and how much I want to make him proud.
+
+Consultant: Expressing your feelings can indeed be a strong way to connect. Sometimes, sharing our vulnerabilities can open up dialogue. How do you think he might respond to that?
+
+User: I hope he would understand. I just want him to see that I’m serious about quitting and that it matters to me.
+
+Consultant: It’s great that you see the importance of your feelings in this situation. What if we worked on a specific way to communicate that to him? Would you be open to role-playing that conversation?
+
+User: Sure, I think that could help. What should I say first?
+
+Consultant: Let’s start with how you might open the conversation. You could start by saying something like, “Dad, I really want to talk about my progress and how I feel when you doubt my efforts.” How does that sound to you?
+
+User: That sounds okay. It feels a bit uncomfortable, but I think it’s a good start.
+
+Consultant: It's completely normal to feel uncomfortable when discussing personal topics. Remember, the goal is to express yourself honestly. How about we practice that opening line a few times together?
+
+User: Alright. “Dad, I really want to talk about my progress and how I feel when you doubt my efforts."
+
+Consultant: Great job! It’s important to sound sincere. Now, how would you continue the conversation after that?
+
+User: I could say something like, “I’ve been trying really hard to quit smoking and I want you to trust that I'm serious about it.”
+
+Consultant: That’s a good continuation, Marty. You are clearly communicating your effort and desire for trust. After you say that, you might ask him how he feels about your efforts. Do you think you could try that?
+
+User: Yes, I think I could ask him that. “How do you feel about my efforts to quit?”
+
+Consultant: Excellent! Asking for his perspective invites a two-way conversation. It could help him feel included and perhaps more trusting. How do you feel about this approach overall?
+
+User: I feel a bit more hopeful. It seems like a constructive way to communicate.
+
+Consultant: That’s wonderful to hear! Remember, even if the conversation doesn’t go exactly as planned, what matters is that you’re expressing yourself. Would you like to discuss any other feelings or thoughts that come up when you think about this conversation?
+
+User: I guess I’m just worried about his reaction. What if he still doesn't believe in me?
+
+Consultant: Worrying about reactions is natural, especially when we care about someone’s opinion. Let’s think this through together. If he responds negatively, what coping strategies could you employ to stay grounded?
+
+User: I could remind myself that I'm still trying, no matter what he thinks. I guess it’s about my personal progress as well.
+
+Consultant: That’s a great perspective! Focusing on your effort can help maintain your self-esteem. You’re building a foundation for your change. How does that realization make you feel?
+
+User: It makes me feel a little stronger. Like I can handle his doubts better.
+
+Consultant: That’s a positive insight, Marty. Would you be open to exploring how to solidify these new communication strategies and coping abilities for future interactions?
+
+User: Yes, I’d like to learn more about that.
+
+Consultant: Fantastic! We can work on enhancing your communication skills further. For now, let’s summarize what we’ve achieved today. You've created a plan for an open conversation with your dad and recognized the importance of focusing on your progress. 
+
+User: Yeah, I feel good about that!
+
+Consultant: I'm glad to hear that! As we move forward, how do you want to maintain this mindset when you face challenges? 
+
+User: I think I want to keep practicing these conversations, even if it gets tough.
+
+Consultant: That sounds like a solid plan. Remember, it’s about progress and self-growth. If ever you feel overwhelmed, don’t hesitate to reach out. You’re making strides in understanding your value and potential.
+
+User: Thank you! I appreciate your help today.
+
+Consultant: You’re very welcome, Marty. This is a journey, and you’re taking meaningful steps forward. Until our next session, keep nurturing those skills. You’re doing great!
+###################
+Consultant: Hello, Marty! It's great to see you again. I’m excited to continue our conversation today. How have you been feeling since we last spoke?
+
+User: Hi! I’ve been feeling a mix of emotions. It’s been a little easier to think about my past successes in school, especially now that I’ve been talking more with my dad about family stuff. But sometimes, I still feel like no one really understands me.
+
+Consultant: It sounds like you're starting to recognize your achievements, which is a positive step! Yet, it’s understandable that you still feel misunderstood at times. Let’s explore that. Can you share more about the conversations with your dad? How have they impacted you?
+
+User: Well, we've been discussing how I used to do really well in school. It's nice to hear him encourage me, but sometimes it feels like he wants me to be perfect, which adds pressure.
+
+Consultant: I can see how that pressure to be perfect might feel overwhelming, especially when you’re already trying to reconnect with your strengths. Would it be helpful to talk about what those past successes meant to you, and how they can guide you moving forward?
+
+User: Yeah, I think that would help. I remember feeling proud when I got good grades, like it meant I was doing something right. 
+
+Consultant: That pride is important! It shows that you value your accomplishments. How do you think recognizing that pride and success can help you in your current situation?
+
+User: Maybe it can remind me that I am capable of doing well again. I just need to believe that I can find that rhythm like I did before.
+
+Consultant: Exactly! Believing in your capabilities can be a powerful motivator. Can you think of a small action you could take that aligns with that belief and confidence?
+
+User: I could start by setting a study schedule or maybe reaching out to my mom for some advice about how to study better.
+
+Consultant: Those sound like excellent steps! Creating a study schedule can help you establish a routine, while reaching out to your mom could strengthen your relationship. How might you feel if you decided to take those steps?
+
+User: I think I would feel more in control of my time and less anxious about studying. Plus, it could be nice to connect with her again.
+
+Consultant: That sense of control is vital, and reconnecting with your mom could enhance your support system. Do you think preparing a study plan together could foster that connection?
+
+User: Yes, I’d like that! It could make it more fun and also help me feel less alone in this.
+
+Consultant: Wonderful! Making it enjoyable can definitely make a difference. How about we set a goal right now for when you plan to start this study schedule?
+
+User: Hmm, I think I can start on it this weekend. Maybe we can work on it together. 
+
+Consultant: That sounds like a solid plan! Working together can really boost motivation and foster connection. How do you feel about the idea of recording your progress too, like small victories or positive interactions you have with your mom?
+
+User: I like that thought! It might help me see how things are improving, and it would remind me that I’m making an effort.
+
+Consultant: Absolutely! Recognizing those small successes can be encouraging and keep you engaged in your goals. Would you like to think of a specific way to record those moments?
+
+User: Maybe I could keep a journal or something simple on my phone where I note down positive things that happen or the good study sessions I have.
+
+Consultant: Keeping a journal is a fantastic idea! It allows you to reflect and celebrate your achievements regularly. How about we set a goal for how often you’ll write in it?
+
+User: I think I could aim to write in it at least a couple of times a week, especially after studying or talking with my mom.
+
+Consultant: Great goal! That frequency will keep you in touch with your progress. One last thing—how can you remind yourself to be kind to yourself during this process?
+
+User: I guess I could tell myself that it's okay not to be perfect and that it's about progress, not just results.
+
+Consultant: That’s a very compassionate approach, Marty! Reminding yourself of progress can help alleviate some of that pressure. As we wrap up today, what is one key takeaway you want to remember from our session?
+
+User: I think it’s that I can build on my past successes and be kind to myself as I work towards my goals.
+
+Consultant: That’s a powerful takeaway! Embracing your journey with kindness will help you grow. I look forward to hearing how things progress next time. Remember, you can always reach out if you need extra support. Until then, take care!
+###################
+Consultant: Hello, Marty! I'm glad to see you again today. How have things been since our last session? 
+
+User: Hi! I've been feeling pretty good actually. My mom has been talking to me a lot and recognizing the things I do for the family. It makes me feel appreciated.
+
+Consultant: That sounds positive! Feeling appreciated can really boost our self-esteem. How has this recognition from your mom changed the way you see your role in the family?
+
+User: I think I’m starting to see that I can contribute a lot more. I’ve been helping my dad with chores around the house. It's nice to feel like I'm part of the team.
+
+Consultant: That's great to hear! It sounds like you're taking active steps to contribute and connect with your family. How do these actions make you feel about yourself and your relationship with your parents?
+
+User: It feels good to help out. I feel more connected to both my parents now. I hope my mom notices even more.
+
+Consultant: It's wonderful that you're feeling more connected. When we contribute positively, it often strengthens our relationships. What kinds of things are you hoping your mom will notice specifically?
+
+User: I guess I want her to see that I’m being responsible and that I care about the family. Maybe I’m hoping she’ll feel closer to me.
+
+Consultant: That’s a heartfelt wish, Marty. It sounds like you value your relationship with your mom a lot. Have you thought about ways to communicate this to her?
+
+User: I haven’t really said anything. I just keep doing things and hoping she notices.
+
+Consultant: That’s understandable. Sometimes actions speak louder than words, but expressing how you feel can also deepen that connection. Would you be open to trying to share your feelings with her? 
+
+User: I think I could. It might be nice to tell her how much I appreciate her too.
+
+Consultant: That’s a lovely idea! Sharing appreciation can create a positive feedback loop. How do you think your mom might react if you expressed that to her?
+
+User: I think she’d be really happy. I remember how much it meant to her when I helped her with projects in the past.
+
+Consultant: It sounds like you understand your mom well. Those conversations can strengthen your bond. Have you noticed any specific moments recently where you felt particularly proud of your contributions to the family?
+
+User: Yes, when I helped with dinner last weekend, we all sat together and laughed. It felt nice to be part of something like that.
+
+Consultant: That sounds like a wonderful moment! Sharing meals can be a great way to connect with family. How can we create more of those moments in the future?
+
+User: Maybe I can plan more family dinners? I could try cooking sometimes too.
+
+Consultant: That’s a brilliant idea! Planning and preparing meals together can foster connection. How do you feel about taking on that responsibility? 
+
+User: I feel good about it! It might be a fun way to bring everyone together.
+
+Consultant: I’m glad to hear that! It seems like you’re gaining confidence in your ability to help and connect. What steps can you take this coming week to set up a family dinner? 
+
+User: I can talk to my dad and see which day works best for him, and maybe I can suggest a meal we all enjoy.
+
+Consultant: That sounds like a solid plan! By taking those steps, you’re actively fostering a collaborative family environment. What feelings do you anticipate experiencing when you initiate this dinner? 
+
+User: I think I’ll feel excited and maybe a little nervous. I just hope everyone enjoys it.
+
+Consultant: Those feelings are completely normal, and they show how much you care. Remember, it’s about the effort and togetherness more than the perfect meal. Letting go of the pressure can help.
+
+User: That’s true. I’ll just focus on having a good time with them.
+
+Consultant: Exactly! As you move forward, it’ll be important to keep reminding yourself about the joy of connection, rather than perfection. What would you say is your biggest takeaway from our conversation today? 
+
+User: I guess it’s about expressing appreciation and being more proactive in my family. I can help create those moments.
+
+Consultant: That’s a fantastic insight, Marty! It seems like you’re really embracing the positive changes in your family dynamic. What specific strategies can you adopt to keep this momentum going?
+
+User: I think I’ll try to keep helping at home and maybe have open conversations with my parents about how we’re all doing.
+
+Consultant: That’s a great approach! As you continue to express yourself and connect, you're likely to see ongoing positive changes. Is there anything else you'd like to discuss today?
+
+User: No, I think I’ve said a lot! I feel good about what we talked about.
+
+Consultant: I’m glad to hear that! Remember, you’re making wonderful progress. Keep nurturing those family connections, and I look forward to hearing about how it goes in our next session. 
+
+User: Thank you! I feel more confident now. See you next time!
+
+Consultant: Take care, Marty! I'm excited to hear about your progress next time.
+###################
+Consultant: Hello, Marty! I'm glad to see you again. How have you been feeling since our last session? 
+
+User: Hi! I've been feeling really good actually. My parents have been acknowledging my efforts, and it's made me feel more positive about everything.
+
+Consultant: That sounds wonderful! It's great to hear that your relationship with your parents has improved. Could you tell me more about how their support has affected you?
+
+User: Well, it feels nice to know they see the changes I'm making. It's like they're proud of me, and I want to keep doing better.
+
+Consultant: It sounds like their acknowledgment has motivated you to continue improving. What specific changes have you noticed in yourself since we last spoke?
+
+User: I’ve been more self-disciplined with my studies, and I've also started helping out more around the house.
+
+Consultant: That’s impressive! It sounds like you’re taking on more responsibility. How do you feel about these changes?
+
+User: I feel proud, to be honest. It’s nice to see myself becoming someone who is more responsible.
+
+Consultant: That’s a significant achievement, Marty! Being proud of yourself shows growth. Are there any challenges you've faced while trying to maintain these changes?
+
+User: Sometimes I still feel overwhelmed with schoolwork, especially when I have multiple assignments at once. 
+
+Consultant: I understand. It’s normal to feel overwhelmed, especially with all those responsibilities. How have you been managing when these feelings arise?
+
+User: I try to prioritize my tasks and take breaks, but sometimes I just end up procrastinating instead.
+
+Consultant: It sounds like you're aware of your tendencies to procrastinate. Let’s explore that for a moment. What thoughts go through your mind when you find yourself procrastinating?
+
+User: I think I’ll never finish everything on time, and I just don’t know where to start. 
+
+Consultant: Those thoughts can indeed feel paralyzing. Let’s consider—how realistic is it that you won’t finish your tasks on time? 
+
+User: I guess it’s not completely realistic. I usually manage to finish, even if it’s at the last minute.
+
+Consultant: That’s a valuable insight! It seems there is evidence that you can meet deadlines. What might happen if you shifted the focus from the thought of not finishing to the focus on breaking tasks into smaller, manageable parts?
+
+User: I think that could help! If I break things down, it won’t look so daunting.
+
+Consultant: Absolutely, breaking tasks down can make them feel more achievable. Would you like to try developing a specific plan for your upcoming assignments?
+
+User: Yes, that would be great! I could really use that help.
+
+Consultant: Let’s pick one assignment to focus on first. What’s the most pressing task you have right now?
+
+User: I have a history project due in a week. 
+
+Consultant: Okay, how about we break that project down into smaller steps? What’s the first step you think you can take?
+
+User: I need to gather my research materials and outline my ideas.
+
+Consultant: Great start! How about setting a specific time today to work on that? 
+
+User: I can set aside some time this afternoon for that.
+
+Consultant: Perfect! Setting a specific time makes it more concrete. How do you feel about implementing this plan?
+
+User: I feel really good about it. I think having a plan will help me stay focused.
+
+Consultant: That's fantastic! It’s promising to see you have a strategy to help manage your workload. As you progress with this plan, we can continue to assess how it's working for you.
+
+User: I’d like that. I want to keep improving and not fall back into bad habits.
+
+Consultant: It’s great to see your commitment to personal growth. Throughout this process, what strategies do you think you'd like to use to maintain your motivation?
+
+User: I think I’ll reward myself after completing tasks. That should keep me motivated.
+
+Consultant: That sounds like an excellent approach! Rewards can be a great way to reinforce positive behavior. What kind of rewards are you thinking about?
+
+User: Maybe some time to relax or watch my favorite show after finishing a task.
+
+Consultant: Perfect! Those small rewards can create a positive cycle for you. As we wrap up today, let’s recap what we’ve discussed. What do you see as your key takeaways?
+
+User: I need to break down my tasks, set specific times to work, and reward myself for my efforts. 
+
+Consultant: Exactly! You have a solid plan moving forward. With the improvements you’ve made, I’m confident you can maintain this progress. 
+
+User: Thank you! I really appreciate your guidance.
+
+Consultant: It’s been a pleasure working with you, Marty. If you ever feel the need for support again in the future, don’t hesitate to reach out. 
+
+User: I will! Thanks again!
+###################

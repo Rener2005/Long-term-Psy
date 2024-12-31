@@ -1,0 +1,380 @@
+Consultant: Hello there, little Z! I'm glad to see you today. How have you been feeling lately?
+
+User: Hi. I don't know... I feel pretty lost. My dad is strict with me, and it makes me not want to study at all. I just want to play games.
+
+Consultant: It sounds like you're going through a tough time with your dad and school. I understand that you're feeling a bit overwhelmed. Can you tell me more about how these feelings affect your daily life and schoolwork?
+
+User: I just have no motivation. School feels pointless, and my dad keeps pushing me. I feel like he doesn't get me at all.
+
+Consultant: That sounds really frustrating. It seems like there’s a disconnect between what your dad wants for you and how you feel about school and your interests, like gaming. Can we explore why school feels pointless to you right now?
+
+User: Yeah, I just think it's boring. I'd rather be playing games. I want to be an esports player one day, and school just feels like it's getting in the way.
+
+Consultant: I hear you. Your passion for esports is important to you, and it’s understandable to feel that school can be a distraction. Have you thought about how you might combine your interest in gaming with your schoolwork?
+
+User: I guess I could try... but it’s hard. I feel like my teachers just don’t care about what I like.
+
+Consultant: It can be tough when it feels like teachers don't understand you. It would be helpful to think about your interests and how they might relate to what you're learning in school. Can you think of any subjects that might connect to gaming?
+
+User: Maybe math, but I still don’t see how learning it helps me with games.
+
+Consultant: That's a good start! Math can actually be really useful in gaming, like calculating scores or strategies. If you think about it that way, do you feel a bit more curious about learning things like math?
+
+User: I guess. But it’s still just not exciting like games.
+
+Consultant: That makes sense. Games provide immediate fun, while school can feel slow and boring. Let’s focus on how you can make your study time a little more engaging. What if we brainstorm some fun ways to approach your studies?
+
+User: Okay. Maybe if I could play games related to what I’m learning, I might enjoy it more.
+
+Consultant: That's a great idea! There are actually many educational games out there. We could look for ones that connect to your school subjects. Would that interest you?
+
+User: Yeah, that might help. But what about my dad? He wants me to focus only on school. 
+
+Consultant: It sounds like there’s a lot of pressure from your dad regarding school, which can feel very overwhelming. Have you had a chance to share your passion for gaming with him?
+
+User: Not really. I'm scared he won’t understand and just get mad at me.
+
+Consultant: That's a valid concern. It can be intimidating to talk about your interests when you feel pressure. Do you think there might be a way to express your feelings to him without making him upset? 
+
+User: I could try showing him some of my games, but I don’t know if he’ll care.
+
+Consultant: That could be a good start! Sharing something you love might open a conversation. If he sees how much gaming means to you, he might understand you better. What do you think?
+
+User: Maybe he would see it differently. But what if he’s still strict after that?
+
+Consultant: It's tough to predict how someone will react, but starting with a small step can help. If things don’t change immediately, we can work together on strategies to handle it. How does that sound?
+
+User: Okay, I guess I can try that. 
+
+Consultant: That's a positive step! Now, let’s talk about how you feel about your parents' divorce. How has that impacted your feelings towards school and gaming?
+
+User: It feels like they don’t care about me. My mom left, and my dad is just focused on school stuff. I feel really alone.
+
+Consultant: I’m really sorry to hear that. Feeling abandoned can be very painful. It's understandable to feel isolated when significant people in your life seem distant. You're not alone in feeling this way. 
+
+User: I just wish I could feel more supported.
+
+Consultant: That desire for support is completely valid. Maybe we can think about who else in your life might provide support. Have you talked to anyone else about how you’re feeling?
+
+User: Not really. I keep everything to myself because I don’t want to bother anyone.
+
+Consultant: It's understandable to think that way, but sharing can sometimes lighten the burden. Do you have anyone like a friend or a teacher you feel you could talk to?
+
+User: There’s one friend I sometimes talk to, but he doesn't really get it... 
+
+Consultant: It’s good that you have someone, even if he doesn’t fully understand. Would you be open to trying to talk to him about how you feel? 
+
+User: Maybe. I guess it wouldn't hurt.
+
+Consultant: Exactly! It might help you feel less isolated and give you a different perspective. Now, as we wrap up today, what do you think will be your next steps from here?
+
+User: I'll think about talking to my dad about gaming and maybe try talking to my friend.
+
+Consultant: Those sound like excellent steps. Remember, it’s important to be kind to yourself through this process. You have the passion for gaming, and together we can find a way to connect that to your school experience. 
+
+User: Thank you! I feel a bit better now.
+
+Consultant: You’re very welcome, little Z! I'm glad to hear that. Remember, it’s okay to reach out for support, and I’m here for you whenever you need to talk. Take care of yourself!
+###################
+Consultant: Hello, Z! Welcome to our session today. I’m really glad to see you again. Let's start by talking about how you've been feeling recently regarding your studies and everything else in your life. What's been on your mind?
+
+User: Hi. I've been feeling really down about school lately. The homework seems endless, and the teachers are always on my case. I just don’t see the point in it all. Sometimes, I think it would be better if I could focus on gaming instead.
+
+Consultant: I can see how overwhelming that must feel for you. It sounds like you’re really struggling with the pressure from school and the way it makes you feel. You mentioned thinking about gaming—can you tell me more about what being a professional gamer means to you?
+
+User: It means everything! I love gaming, and I think I could be really good at it. But my grandparents always say I need to focus on school, and my dad is never around to support me. It feels like I can't chase my dream.
+
+Consultant: That sounds really tough, Z. Balancing your dream of being a professional gamer with your current school responsibilities can be quite challenging. It makes sense that you're feeling pressure from both sides. Let’s explore this further—what do you think would help you find a better balance between school and your gaming?
+
+User: I don’t know. Sometimes, I just wish school was more fun. I feel like I’m being judged all the time, and it makes me not want to try. I wish I could just skip classes and play games all day.
+
+Consultant: It’s understandable to feel judged, especially when it seems like what you enjoy is not being acknowledged. Would you be willing to share a specific moment from school recently where you felt that lack of interest or pressure?
+
+User: Just last week, I got a bad grade in math, and my teacher yelled at me in front of everyone. It made me feel terrible. I don’t even want to go to math class anymore.
+
+Consultant: I’m really sorry to hear that happened. It sounds very humiliating to be called out like that. When you think about that incident, what kind of thoughts come to your mind about yourself and your abilities?
+
+User: I just think I’m not smart enough and that I’ll never get better. It makes me feel like a failure.
+
+Consultant: Those thoughts can be really heavy to carry. It’s important to recognize that you’re not alone in feeling this way about school. Let’s try to challenge that belief. What if you looked at that math grade as just one part of your learning journey, rather than a reflection of your worth?
+
+User: I guess I could try to see it that way, but it’s hard. I still feel like I should just know everything.
+
+Consultant: It’s completely normal to feel that way, but learning is a process, and it’s okay to stumble along the way. If a friend were in your situation, what advice would you give them about dealing with setbacks? 
+
+User: I’d probably tell them to keep trying and not to give up. But it’s different when it’s me. 
+
+Consultant: I understand that. It’s often easier to support others than to be kind to ourselves. Let's work together on creating a plan to support you during these tough times. How do you feel about setting small, achievable goals in your studies while still making time for gaming?
+
+User: That could work. I’d like to play games, but maybe I can set some times to study too. 
+
+Consultant: That sounds like a positive approach! Let's identify one small goal you can set for yourself in your studies this week. What subject would you like to focus on, and what do you think could be a manageable goal? 
+
+User: Maybe math. I could start by doing just one extra exercise each day? 
+
+Consultant: That sounds like a great idea! Tackling one extra exercise each day can help ease some of that pressure. How do you think accomplishing that small goal might make you feel? 
+
+User: If I complete it, maybe I'll feel a bit better about math. It might help me see that I can improve. 
+
+Consultant: Exactly! And every small improvement counts. Remember, it’s about progress, not perfection. How about we also think of some ways to reward yourself after completing your math exercises? 
+
+User: I could let myself play games for a bit longer if I finish! 
+
+Consultant: That sounds like a great reward! Balancing study and play is essential. As you move forward, give yourself credit for those small victories. Is there anything else you’d like to share or discuss today?
+
+User: I just hope I can keep this up. Sometimes, I feel like giving up, especially when school gets too overwhelming.
+
+Consultant: It’s absolutely okay to have those feelings. It’s important to remember you can reach out for support when things get tough. How about we think of a few specific strategies you can use when you start to feel overwhelmed?
+
+User: Yeah, I think that would help. 
+
+Consultant: Great. One strategy could be taking short breaks while studying to keep your mind fresh. Another could be practicing some deep breathing techniques to help manage anxiety. Would you like to try a short breathing exercise together now?
+
+User: Sure, let’s do it. 
+
+Consultant: Perfect! Let's take a deep breath in through your nose for four seconds… hold it for four seconds… and now breathe out through your mouth for four seconds. How did that feel?
+
+User: It felt nice. I think I can use that when I start feeling stressed.
+
+Consultant: I'm glad to hear that! Practicing this regularly can really help. As we wrap up our session today, let’s reflect on what you feel has changed. What are some takeaways you will carry with you?
+
+User: I think I’ll try to set those small goals and use the breathing exercise when I get anxious. It feels good to have a plan.
+
+Consultant: That’s a fantastic takeaway! Remember, you’re making progress, and it’s okay to reach out for help whenever you need it. I’m proud of you for taking these steps today. Before we say goodbye, is there anything else on your mind?
+
+User: No, I think that’s all. Thanks for listening.
+
+Consultant: You’re very welcome, Z! I believe in your ability to find a balance. We can tackle these challenges together in our next session. Take care, and I look forward to seeing you again!
+###################
+Consultant: Hello, Z! I'm glad to see you today. How have you been feeling since our last session?
+
+User: Hi! I've been feeling a bit better actually. My confidence has grown a little after doing well in the sports competition. But I still find studying really boring and overwhelming.
+
+Consultant: That's great to hear that you're feeling more confident after your success in sports! Can you share a bit more about why studying feels overwhelming to you?
+
+User: I just think it’s too much work, and it doesn’t feel rewarding at all. I’d rather play games and think about being an esports player.
+
+Consultant: It sounds like you find more joy and fulfillment in gaming than in schoolwork. Given your recent achievements in sports, do you think there could be a way to channel that positive feeling into your studies?
+
+User: I guess it would be nice if studying felt a bit more like sports. Like, if there were levels to reach or goals to achieve. 
+
+Consultant: That’s a really interesting thought! What if we tried to set small, achievable goals in your studying, similar to what you experience in sports? How do you think that might change your perspective on studying?
+
+User: Maybe if I had some short tasks and got points for them or something, I would feel more motivated. Like a game.
+
+Consultant: That sounds like a fun idea! Setting small tasks and rewarding yourself for completing them might make studying feel more enjoyable. What specific subjects or tasks would you want to create goals for first?
+
+User: I think math and maybe science. Those are the toughest for me.
+
+Consultant: Okay! Let’s start with math. What small goal could you set for yourself in math that would feel achievable and rewarding?
+
+User: Maybe I could try to solve five math problems a day. If I do that, I could treat myself to some gaming time afterward.
+
+Consultant: That sounds like a fantastic plan! Completing those five math problems each day and rewarding yourself with gaming time could create a positive cycle. How do you feel about adding this goal to your routine?
+
+User: It feels good, actually. I like the idea of getting something fun for finishing my work!
+
+Consultant: I'm glad to hear that! Just like in sports, achieving those smaller goals will build your confidence in your abilities. How do you think we can keep your motivation up as you go through these tasks?
+
+User: Maybe I can keep track of my progress. Like a scorecard for my tasks! And I can also ask my friends if they want to compete.
+
+Consultant: A scorecard is a great idea! And competing or studying with friends could make it even more engaging. Have you thought about what you could say to your friends to get them involved?
+
+User: I could just tell them I want to study better and see who can finish their tasks first. 
+
+Consultant: That sounds perfect! Sharing your goals with friends not only keeps you accountable but also makes the process fun. How do you feel about approaching them with this idea?
+
+User: I think I’ll do it. I feel more excited about studying now!
+
+Consultant: That’s wonderful to hear! As you incorporate this new strategy, remember to celebrate your small successes, just like you do in sports. What changes do you think you might notice in your feelings towards studying in the coming weeks?
+
+User: I think I might start to enjoy it more. If I see progress, I’ll feel like I can actually do it.
+
+Consultant: Absolutely! Focusing on your progress will help you feel more accomplished. How do you plan to reflect on your feelings and progress as you try this out? 
+
+User: I can maybe journal about how I feel after studying and if the scorecard helped me.
+
+Consultant: That’s a great idea! Journaling about your experiences will allow you to track your feelings and adjust your strategy as needed. How do you feel about this new approach to your studies and self-reflection?
+
+User: I feel really good about it! It seems like something I can work with.
+
+Consultant: I’m thrilled to hear that! As we conclude today’s session, I encourage you to remember the positive feelings you have from sports and channel those into your study goals. You’re capable of achieving great things. If you face any challenges along the way, we can always discuss them together in our next session. 
+
+User: Thank you! I’m excited to try this out.
+
+Consultant: You're welcome, Z! I'm looking forward to hearing about your progress next time. Remember, you’re not alone in this journey. Good luck, and enjoy your studying!
+###################
+Consultant: Hello, Little Z! I'm glad to see you today. How are you feeling about everything that's been happening lately, especially with your interest in esports?
+
+User: Hi! I've been really excited about my gaming experience. I recently tried playing in a team match with an esports club. It was intense but a lot of fun!
+
+Consultant: That sounds thrilling! It’s great to hear you’re enjoying gaming. What did you learn about yourself from this experience?
+
+User: I felt really engaged and focused during the match. For a moment, I forgot about everything else. It made me think maybe I want to do this more seriously, but I don’t know how to balance it with school.
+
+Consultant: It’s wonderful that you felt so engaged! Finding a balance between your passion for esports and school can be challenging. What are some of the thoughts you have about studying and esports right now?
+
+User: I think studying is boring and my homework feels like a chore. I wish I could just focus on gaming. But I know I need to get good grades… it's just hard to care sometimes.
+
+Consultant: It’s understandable to feel that way, especially when you’re passionate about gaming. Could you share more about what makes you feel that school is less interesting compared to gaming?
+
+User: In gaming, I’m constantly learning new strategies and thinking fast. In school, I just feel like I’m memorizing things without understanding why they’re important.
+
+Consultant: That contrast makes sense. It seems like you thrive on challenges and quick thinking, which gaming provides. Have you thought about how you can apply some of those skills you enjoy in gaming to your studies?
+
+User: Not really. How would I even do that? They seem so different.
+
+Consultant: One way to look at it is how you approach challenges in gaming—like breaking them down into smaller, manageable goals. Would setting small academic goals, similar to levels in a game, appeal to you?
+
+User: Maybe. I like achieving goals in games. It feels satisfying. But I don’t know what small goals to set for school.
+
+Consultant: Great! Let’s start by identifying what subjects or areas feel the most challenging for you. Once we have that, we can break it down into smaller, achievable tasks that you can tackle one at a time.
+
+User: Math is pretty tough for me. Sometimes I just want to skip it and play games instead.
+
+Consultant: It can be tough, for sure. How about we set a small goal for math, like spending just 15 minutes each day reviewing a concept? Afterward, you could reward yourself with some gaming time. Does that sound doable?
+
+User: That could work! I like the idea of having a reward. It might help me stick to it.
+
+Consultant: I’m glad to hear that! By setting that goal, you’re taking a step toward balancing both your studies and your gaming interests. How do you feel about this new approach?
+
+User: I feel a bit more motivated. It seems less overwhelming now.
+
+Consultant: That’s a fantastic shift in mindset! It’s important to remember that you’re capable of integrating your interests into your learning. Any other thoughts on how to make study time feel more engaging for you?
+
+User: I wish I could have more fun while studying—like using games or competitions to learn.
+
+Consultant: That’s a creative idea! Many educational games exist that can make learning more interactive. Have you seen any that sound interesting to you?
+
+User: I've heard of some math games online that look fun, but I haven't tried them.
+
+Consultant: Trying out those math games could be a great way to combine both your interest in gaming and your studies. Would you like to explore some of those together next time?
+
+User: Yes, that sounds good! I feel like I’m starting to see how my interests can connect.
+
+Consultant: That’s wonderful progress, Little Z! As you reflect on your plans for both school and gaming, what’s one thing you’re excited to try this week?
+
+User: I’m excited to start spending a little time on that math game, and I’ll set that 15-minute daily goal for myself.
+
+Consultant: That’s an excellent plan! You’re taking important steps toward your goals. Remember, it’s okay to explore and adjust as you go along. How do you feel about your journey now?
+
+User: I feel a lot better! I see it as more of a game now, not just work. I think I can manage it!
+
+Consultant: That’s the spirit! I’m proud of how you’re approaching this. Reflecting on our session today, what do you think is your biggest takeaway?
+
+User: I think it’s that I can find ways to make learning fun like gaming. And I can set smaller goals that help me balance everything.
+
+Consultant: Absolutely! Making learning fun and manageable is a fantastic approach. You’ve already shown a remarkable understanding of how to integrate your interests. Keep up the great work, and remember, I’m here to support you whenever you need.
+
+User: Thank you! I’m looking forward to our next session and sharing how it goes.
+
+Consultant: I'm looking forward to it too, Little Z! Keep nurturing your passions, and remember that exploring different interests can lead you to new opportunities. See you next time!
+
+User: Bye!
+###################
+Consultant: Hi there, Z! It's great to see you again. How have you been feeling since our last session?
+
+User: Hi! I've been thinking a lot about my future, especially about esports. I realize that it's a challenging path, and sometimes it makes me feel stressed. 
+
+Consultant: That makes sense. The pressure of competition in esports can be quite intense. It's good that you're reflecting on it. Can you share more about what thoughts or feelings you have when you think about pursuing that path?
+
+User: I feel nervous and insecure sometimes. I love gaming, but what if I can't make it as a pro? School feels like such a waste of time compared to practicing. 
+
+Consultant: It sounds like you’re feeling conflicted—your passion for gaming versus your concerns about school. What would school need to look like for you to feel like it’s worth your time alongside your gaming interests?
+
+User: Maybe if I could learn about things that interest me more, it would help. Like, if there were classes about game design or something fun like that.
+
+Consultant: That's a great idea! If school offered subjects related to your interests, do you think that would help motivate you in your studies and lessen your worry about your future in gaming?
+
+User: Yeah, I think so. I’d feel more engaged, for sure. 
+
+Consultant: Engaging with subjects that you find exciting can certainly make a difference. What other interests or activities do you have that you might want to explore further?
+
+User: I like playing sports, especially soccer. It’s fun and helps me relax. 
+
+Consultant: That’s wonderful! Sports can be a great way to relieve stress. How do you feel when you're playing soccer compared to when you're gaming or doing schoolwork?
+
+User: When I'm playing soccer, I feel alive and free. In school, I feel trapped sometimes, and in gaming, I feel the pressure to succeed.
+
+Consultant: Feeling free during soccer is a positive, energizing experience. Let’s think about how to incorporate that sense of freedom or joy into your studies. What strategies do you think could help you find that balance?
+
+User: Maybe I could set mini-goals for studying or practice. Like, a certain time to focus, then take a break to play soccer? 
+
+Consultant: That sounds like a fantastic strategy! Setting mini-goals can help you stay focused, and taking breaks to do something you enjoy will make studying feel less overwhelming. How do you feel about trying that approach?
+
+User: I like it! It seems manageable and fun. 
+
+Consultant: Great! Let's also think about how to manage the pressure you feel about esports. What might help you when you start feeling stressed about competition or your future in gaming?
+
+User: Talking to someone about it helps sometimes. I guess I can remind myself that it takes time to get better and that I can enjoy the journey.
+
+Consultant: That’s an excellent perspective, Z! Reminding yourself that improvement takes time can help alleviate some of that pressure. Do you have someone specific in mind that you could talk to when those feelings arise?
+
+User: I could talk to my grandpa or even my friends who also play games. They understand me. 
+
+Consultant: That’s wonderful! Having supportive people around you can significantly help during tough times. How do you feel about sharing your thoughts with them?
+
+User: I feel good about that. They always listen. 
+
+Consultant: That’s great to hear! Let's take a moment to summarize what we've discussed today. We talked about balancing your interests in gaming and soccer with your studies, how to set mini-goals, and the importance of communication with your support system. How do you feel about these strategies?
+
+User: I feel positive! I think they can really help me.
+
+Consultant: I’m glad to hear that. As we wrap up, let’s think about how to maintain a positive mindset moving forward. What are some ways you can remind yourself of these goals and perspectives during challenging times?
+
+User: I could write down my goals and keep them where I study. Also, maybe set reminders to talk to friends or go outside for soccer breaks.
+
+Consultant: Those are fantastic ideas, Z! Writing down your goals and taking breaks to reconnect with your interests can help keep you grounded. Remember, it’s important to enjoy the journey, whether in school, sports, or gaming. 
+
+User: Yes! I feel more excited about it now. 
+
+Consultant: That's the spirit! You've made great progress today. Remember, it's okay to reach out whenever you need support. I look forward to hearing how all this works out for you in our next session. Take care!
+
+User: Thank you! I can't wait for the next session. Bye!
+###################
+Consultant: Hello, Z! I'm really glad to see you for our session today. It sounds like you've experienced some positive changes recently, especially in your family relationships and outlook on learning. Can you share a bit more about how you’re feeling now?
+
+User: Hi! Um, I feel a bit better than before. The video call with my mom helped a lot. I think I'm starting to enjoy my studies a little more, especially when I can relate it to my dream of becoming a professional gamer.
+
+Consultant: That’s great to hear! It’s wonderful that you could have that conversation with your mom and that it helped improve your feelings. Now that you're seeing studies in a new light, how do you think you can connect your passion for gaming with your schoolwork?
+
+User: I think if I see the subjects as levels in a game, it might help. Like, math could be a puzzle to solve, and science could be like discovering new things, you know? 
+
+Consultant: I love that idea! Viewing subjects like levels in a game can definitely make them more engaging and fun. What specific subjects do you think you might approach this way first?
+
+User: Maybe math and science. I’ve always thought math is just about numbers, but if I think of it as solving puzzles, it might be more interesting. Science is okay too since I like experiments.
+
+Consultant: Exactly! Turning your studies into puzzles and discoveries can change your approach significantly. As we reflect on your progress, what do you feel has been your biggest achievement or change since we started our sessions?
+
+User: I guess my biggest change is actually feeling interested in my studies now. Before, I just didn’t care at all. Now, I feel like I want to try harder.
+
+Consultant: That’s a fantastic achievement, Z! Recognizing your interest in studies is a huge step forward. As we look to the future, what strategies can you think of to maintain this motivation, especially with your dream of becoming a professional gamer as a goal?
+
+User: I could set small goals, like completing a chapter in math, and reward myself with gaming time after. That sounds fun!
+
+Consultant: That sounds like an excellent plan! Setting small goals and rewarding yourself is a great way to stay motivated. How do you feel about balancing your gaming and studying from now on?
+
+User: I think it'll be okay. If I can keep my studies fun, I won't feel so stressed. Plus, I can use gaming as a reward.
+
+Consultant: It sounds like you’re really developing a healthy balance, which is wonderful! It might also help to write down your daily or weekly goals. How do you think that could benefit you?
+
+User: Writing them down might help me keep track and remind me of what I need to do. I could also see how close I am to my goals.
+
+Consultant: Exactly! It creates a sense of accomplishment when you can check off your goals. Are there any other tools or methods you think could support you in staying organized and focused on your studies?
+
+User: Maybe using a planner or a schedule could help me see what I have to do each day. I’ve never tried that.
+
+Consultant: A planner can be a great tool! It not only keeps you organized but also helps you visualize your progress. As we approach the end of our time together, how do you feel about the strategies we’ve discussed today?
+
+User: I feel really good about these strategies! They seem practical, and I like that I can make studying more fun.
+
+Consultant: I'm glad to hear that, Z! You've made tremendous progress, and it’s essential to keep that positive attitude moving forward. Before we wrap up, is there anything specific you’d like to remember or focus on for future challenges?
+
+User: I want to remember that it’s okay to ask for help if I need it. And the whole “study as a game” idea. I like that!
+
+Consultant: That's a valuable insight, Z. Remembering it's okay to ask for help is a great approach to manage challenges. As we conclude our sessions today, I'm proud of your growth and encourage you to keep applying these strategies. If you ever feel the need for support again, don’t hesitate to reach out. 
+
+User: Thank you! I appreciate all your help. I feel ready to tackle my studies now!
+
+Consultant: You’ve done really well, Z. I believe in your ability to manage your studies and passions successfully. Wishing you all the best as you move forward!
+###################

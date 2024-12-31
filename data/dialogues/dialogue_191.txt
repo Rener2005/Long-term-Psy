@@ -1,0 +1,316 @@
+Consultant: Hello! I'm glad you're here today. Let's start by talking about how you've been feeling lately. I understand you recently left your internship. What’s been on your mind regarding that?
+
+User: Hi. Yes, I just quit my internship, and now I'm feeling really anxious about it. I thought it was the right decision, but I heard that my old job had better pay and benefits, and now I’m starting to doubt myself. I also have this pressure from my father to do well in my studies, and it's really overwhelming.
+
+Consultant: It sounds like you're dealing with a lot of conflicting emotions right now. Let’s explore that a bit deeper. What specific thoughts are going through your mind about your decision to quit your job?
+
+User: I keep thinking that maybe I made a mistake. I had some hopes for the internship, but it just didn’t work out. Now I feel like I might have thrown away a good opportunity. And with exams coming up, I’m also worried about not being prepared enough.
+
+Consultant: I can see why you’d feel anxious with those thoughts. It must be tough to question your decisions. Can you share what feelings come up when you think about your past internship and the upcoming exams?
+
+User: When I think about the internship, I feel regret and anxiety. I also feel pressure about the exams, which makes it hard to focus. I'm not sleeping well either, which just adds to my stress.
+
+Consultant: Lack of sleep can really amplify anxiety. It seems like your mind is racing with thoughts about your choices and the pressure of the exams. Do you find that certain thoughts keep repeating themselves when you're trying to prepare for your studies or when you think about your decision to leave the job?
+
+User: Yes, definitely. I keep thinking that I should have stayed at the internship, and now I'm not sure if I can handle the exams. Sometimes, I also think that if I fail, it will disappoint my father, and that thought makes me even more anxious.
+
+Consultant: Those thoughts sound quite challenging to cope with. Let's identify them more clearly. What would you say is the most distressing thought related to your decision regarding the internship?
+
+User: I think the worst thought is that I've ruined my chances for a good career by quitting. That I'm now stuck in this uncertain place where I might not do well in my studies either.
+
+Consultant: That’s a heavy thought to carry. It seems like it leads to a lot of worry about your future. Let's challenge that thought a bit. What evidence do you have that you've ruined your chances? Are there other possible explanations for your situation?
+
+User: I guess there are a lot of people who change paths and still succeed. But, I can’t help but think that I might just be wasting time now, and if I don't do well in the exams, I won't find a better opportunity later.
+
+Consultant: That’s a valid concern, but let’s consider your strengths. You’ve done well academically before, right? What skills or strategies do you have that could help you perform well in your upcoming exams?
+
+User: Yes, I usually study hard and have good grades. I just feel lost right now because my focus is all over the place with everything going on.
+
+Consultant: It sounds like you have a strong foundation in your studies. It might help to create a structured study plan to manage your time effectively and regain that focus. How does that sound to you?
+
+User: That might help, yes. I think if I have a clear plan, it will be easier to concentrate. But I'm still worried about balancing everything.
+
+Consultant: Balancing can be tough, especially when you’re under pressure. We can work on setting up a practical study schedule together that allows for breaks and some relaxation time too. How many hours do you think you could realistically dedicate to studying each day?
+
+User: I could probably manage about four to five hours a day, but I worry what happens if I don’t understand something or get stuck.
+
+Consultant: It's perfectly okay to feel that way. It might be helpful to plan for those moments too—let's incorporate time into your schedule for reviewing difficult topics or seeking help if needed. Would that ease some of your pressure?
+
+User: Yes, I think that would help. Having some buffer time would make me feel less anxious about getting stuck.
+
+Consultant: That's great to hear. So, let’s outline your study plan with structured time for study, breaks, and extra time for review. What’s the first subject you’d like to focus on?
+
+User: I should probably start with math since it's what I struggle with the most. 
+
+Consultant: That’s a solid choice. Let’s allocate some dedicated time to math in your schedule. How about we aim for two sessions per week focused specifically on math, and we can adjust it based on how you progress?
+
+User: That sounds good! I like the idea of breaking it down into manageable parts instead of trying to tackle everything at once.
+
+Consultant: Excellent! Breaking it down can really help make tasks feel less overwhelming. Remember, it’s about progress, not perfection. How do you feel about the plan we’ve outlined so far?
+
+User: I feel a bit more relieved and hopeful. At least now I have a structure to work with instead of feeling lost.
+
+Consultant: I'm glad to hear that! As we move forward, remember to be gentle with yourself. You’re doing your best given the circumstances. Is there anything else on your mind that you want to discuss today?
+
+User: I think I just need to remind myself to keep following this plan and not let my doubts take over again. I still worry about whether I made the right choice with the internship.
+
+Consultant: Those doubts can creep in, but you’ve done great today in recognizing them. As you continue working on your studies, you can remind yourself of the steps you’re taking. That’s a positive direction! How would you like to stay accountable for following your study plan?
+
+User: Maybe I could check in with you after a week to see how I'm doing. 
+
+Consultant: That sounds like a wonderful idea! Regular check-ins can help you stay on track and adjust as needed. How do you feel about our session today overall?
+
+User: I feel much better now. It’s good to talk things through and get some clarity. Thank you for listening and guiding me.
+
+Consultant: You’re very welcome! I’m here to support you. Remember, you have strategies now to help manage your feelings and studies. If you ever need to talk again, don’t hesitate to reach out. I believe in you and your ability to navigate this journey.
+
+User: Thank you so much! I will try my best with the plan and hopefully feel less anxious.
+
+Consultant: That’s the spirit! Take care, and I look forward to hearing how you progress next time. Goodbye for now!
+###################
+Consultant: Hello, He! I'm glad to see you again today. How have you been feeling since our last session?
+
+User: Hi! Honestly, I've been struggling a bit. I'm still unsure about quitting my internship, and the pressure of the upcoming exams is making things worse. I feel really low at times.
+
+Consultant: It's understandable to feel uncertain after making a significant decision like leaving your internship, especially with added stress from exams. Can you share more about what specific thoughts are going through your mind regarding this situation?
+
+User: I keep thinking maybe I made the wrong choice by quitting. My father had high hopes for me, and now I feel like I'm letting him down. Plus, I’m worried about the exams and if I can even handle my studies well.
+
+Consultant: It sounds like you’re dealing with a lot of self-doubt and pressure from both your family and your academic responsibilities. Let’s break this down a bit. When you think about quitting the internship, what kind of thoughts do you experience that bring up these feelings?
+
+User: I often think that I should have handled the internship better. I also worry that if I hadn’t quit, I might have had a better chance to prove myself, you know? It feels like I have disappointed my family.
+
+Consultant: Those thoughts seem quite heavy, He. You're holding onto the belief that staying in the internship was the path to validation, and that quitting was a failure. What emotions do these thoughts bring up for you?
+
+User: I feel anxious and guilty. The more I think about it, the worse it gets. And then I start worrying about the exams, wondering if I'll even be able to study well given everything.
+
+Consultant: It's tough to carry that weight. It's important to acknowledge those feelings of anxiety and guilt. Let’s explore your beliefs about the exams. Can you describe what thoughts come to mind when you think about studying and preparing for them?
+
+User: I just keep thinking that I need to study harder to make up for my uncertainties. If I don’t do well, then my choice to quit will feel justified, and I really don’t want that.
+
+Consultant: That sounds like a lot of pressure you're putting on yourself, hoping that studying harder will somehow relieve the doubts you've been feeling. What are some specific ways you’re currently approaching your study sessions?
+
+User: I try to follow a schedule, but sometimes I feel overwhelmed and don’t start at all. I end up just thinking about everything instead of actually getting productive.
+
+Consultant: It seems like your anxiety might be causing a cycle of avoidance. When faced with pressure, it's common to feel like you can't move forward. How about we come up with a plan to address this? What small tasks could you focus on during your study sessions that might help ease that feeling of being overwhelmed?
+
+User: Maybe I could set smaller goals, like reviewing just one chapter a day instead of trying to tackle everything at once. That sounds less intimidating.
+
+Consultant: That’s a great idea! Setting smaller, more manageable goals can help reduce that overwhelming feeling. Would you be willing to commit to that for your study sessions this week? 
+
+User: Yes, I think that could really help. I’ll try it out.
+
+Consultant: Wonderful! And when doubts about quitting your internship come up, how can you remind yourself that you made this choice to focus on your education and well-being?
+
+User: I guess I could write down the reasons why I chose to leave. It might help to see them in front of me.
+
+Consultant: That's an excellent strategy! Keeping a visible reminder of your reasons can help reinforce your decision. How do you feel about discussing this in our next session?
+
+User: That sounds good, I’ll definitely have my reasons written down. I just hope it will help me stick to my decision.
+
+Consultant: It will! You're taking proactive steps, and that's essential for building your confidence. As we continue, let’s also focus on how you can create a more positive mindset towards your exams. What would it look like for you to feel confident and more engaged in your study process?
+
+User: I suppose if I could enjoy learning again, instead of feeling it’s just a chore, that would be great. I used to love studying before everything got so stressful.
+
+Consultant: Reconnecting that sense of enjoyment with learning is key! Perhaps we can explore ways to make studying more enjoyable for you. What subjects do you feel most passionate about?
+
+User: I really enjoy my courses related to graphic design. I love being creative and expressing myself.
+
+Consultant: That’s a wonderful outlet! How can you incorporate more of that creativity into your studying? Maybe you could create mind maps or visual notes. Would that be something you’d want to try?
+
+User: Yes! That would definitely make it more fun and interesting for me.
+
+Consultant: I'm glad to hear that! Balancing creativity with your studies can increase motivation. As we approach our next session, focus on the smaller goals and integrate those creative methods. How do you feel about this plan?
+
+User: I feel more hopeful. I think these adjustments could really help me feel better about everything.
+
+Consultant: That’s fantastic to hear! Remember that it’s okay to feel pressure, but you have the tools to manage it. We’ll check in on your progress next time and continue building on your confidence. Thank you for sharing today, He. You're doing great!
+
+User: Thank you for your support! I really appreciate it. See you next time!
+###################
+Consultant: Hello, He! I'm glad to see you today. How have you been feeling since our last session?
+
+User: Hi! I've been feeling a bit better. Even though there’s still some pressure, I’m starting to enjoy the process of studying. I have a more positive attitude toward the upcoming exam.
+
+Consultant: That’s great to hear! It sounds like you’re finding a way to engage with your studies more effectively. Can you tell me more about what has changed in your study approach that has made a difference?
+
+User: Well, I recently started using new review materials and organizing my time differently. I tried breaking my study sessions into smaller, manageable chunks, which helps me focus better.
+
+Consultant: It seems like you’re implementing some practical strategies to enhance your learning. How do you feel about the progress you're making with these changes?
+
+User: I feel more confident about what I'm studying. It's nice to see that my efforts are paying off, which motivates me to keep going.
+
+Consultant: That’s fantastic! Recognizing your progress can really boost your motivation. Are there specific moments during your study sessions where you've felt particularly successful or satisfied?
+
+User: Yes! There were times when I felt really in the zone and managed to complete a lot of material. It’s a nice feeling to see the results of my hard work.
+
+Consultant: Wonderful! Those positive feelings can reinforce your study efforts. Let's think about how we can build on that success. Would you be open to setting some small, achievable goals for your study sessions this week?
+
+User: Sure! That sounds helpful.
+
+Consultant: Great! Let’s start with something simple. How about aiming to study for a set amount of time each day this week? Perhaps you could track how many days you successfully meet that goal.
+
+User: I could aim for studying at least one hour each day. That feels doable!
+
+Consultant: That’s a solid target. After each study session, you can note how you felt—both in terms of focus and accomplishment. How do you think that will help you?
+
+User: I think writing it down will help me recognize my progress and stay motivated. Plus, reflecting on my feelings afterward will be interesting.
+
+Consultant: Absolutely! This reflection can enhance your awareness of your learning process and boost your sense of achievement. We can also review your notes together at our next session. How does that sound?
+
+User: That sounds like a good plan. I’m looking forward to it!
+
+Consultant: I’m looking forward to hearing about your experiences too. Remember, it’s okay to have ups and downs during your study process. What matters is the effort you’re putting in. Do you feel ready to put this plan into action?
+
+User: Yes, I feel ready. I’m excited to see how this goes!
+
+Consultant: That’s the spirit! As you embark on this journey, remind yourself of the progress you’ve made so far. How can you celebrate or reward yourself for achieving your daily goals?
+
+User: Maybe I could treat myself to something nice, like a favorite snack or some leisure time after studying.
+
+Consultant: That’s a lovely idea! Positive reinforcement can make the study process much more enjoyable. It’s important to balance work and self-care. Do you have any specific activities in mind for your leisure time this week?
+
+User: I’ve been wanting to catch up on a series I like. I think I’ll do that!
+
+Consultant: That sounds like a great way to relax after a productive day. Finding that balance between study and relaxation can really help maintain your motivation. Before we wrap up, is there anything else on your mind today?
+
+User: Not really, I feel good about our plan. I’m excited to put everything into action!
+
+Consultant: Excellent! It’s wonderful to see your enthusiasm. Just remember, if you encounter any challenges along the way, feel free to share them. Learning is a journey, and it’s okay to ask for support.
+
+User: I will! Thanks for the reminder. I really appreciate all your help.
+
+Consultant: You're very welcome! I'm here to support you. Let’s carry this positive energy into your studies this week. I’m looking forward to our next session where we can discuss your progress. 
+
+User: Me too! See you next time!
+
+Consultant: See you, He! Take care and enjoy your studying!
+###################
+Consultant: Hello, He! It's great to see you today. How have you been feeling lately, especially with your studies and the upcoming exams?
+
+User: Hi! I've actually been feeling pretty good. I've been studying with some friends who are also preparing for the exams, and it feels really motivating. I feel more energized about my studies than before.
+
+Consultant: That's wonderful to hear! It sounds like the support from your peers is really making a difference for you. Can you share more about what specifically feels different in your study routine now?
+
+User: Sure! Before, I was just studying alone, and it felt kind of dull. Now, studying with friends makes it more fun, and we keep each other accountable. It's nice to have someone to bounce ideas off of.
+
+Consultant: That camaraderie sounds incredibly beneficial! Having a supportive environment can enhance motivation. How do you think this new approach impacts your anxiety about the exams?
+
+User: I feel less anxious now, actually. When I'm with my friends, I can focus better, and I feel more confident that I might actually do well on the exams this time.
+
+Consultant: It sounds like the peer support is providing you not only with motivation but also with a sense of confidence. What about your interactions with your friends makes you feel more confident?
+
+User: I think it's the way we encourage each other. We share tips, solve problems together, and celebrate small achievements. It feels good, like I'm not alone in this process.
+
+Consultant: That sense of belonging and support can indeed boost your confidence. Now, thinking about your family, how are things going with your father now that you've made some changes in your career path?
+
+User: Well, I've been trying to communicate better with him. I think he was worried about my decision to leave my job, but I explained my reasons and my plans for studying further. It felt good to talk it out.
+
+Consultant: That's a positive step! Effective communication can really clear up misunderstandings. How did your father respond to your explanations?
+
+User: He seemed to understand better after our talk. There were some worries on his side that I didn't realize before. Now I feel like we have a better connection.
+
+Consultant: That’s really encouraging to hear! Feeling understood by family can have a soothing effect. Looking ahead, how do you plan to maintain that connection with your father while also focusing on your studies?
+
+User: I think I will keep being open with him about my progress and what I'm doing. Maybe I can share my study achievements with him to reassure him that I'm on the right path.
+
+Consultant: That sounds like a great plan, He! Sharing your successes can foster a sense of pride in both you and your father. Now, let's reflect on any possible challenges that might come up. Are there moments you think might test this connection or your motivation in studying?
+
+User: I guess if I start feeling overwhelmed again, I might retreat inward like I used to. That could affect both my studies and my relationship with my dad if I stop communicating.
+
+Consultant: Recognizing that tendency is a significant insight. It's essential to address feelings of overwhelm before they escalate. What strategies do you think could help you manage those feelings and keep that connection alive?
+
+User: I could try to take breaks when I feel stressed and just talk to someone about how I'm feeling. I might also set short, achievable goals to avoid getting burnt out.
+
+Consultant: Those are effective strategies! Taking breaks and setting realistic goals can help maintain your energy and motivation. Additionally, reaching out to someone when you're feeling stressed can remind you that you're not alone. Do you have someone in mind you could reach out to?
+
+User: Yes, I think my study buddies would be there for me if I needed to talk. They might understand what I'm going through since they are involved in the same process.
+
+Consultant: That sounds like a solid support system! Leaning on friends who understand your experiences can provide reassurance. As we wrap up our session today, what are your main takeaways regarding your studies and communications with your family?
+
+User: I've realized that peer support and open communication with my father are crucial. They’ve both helped me feel more confident and less anxious.
+
+Consultant: Absolutely! You're developing valuable skills in both managing your studies and nurturing family relationships. Before we end today, what steps can you take to implement these insights in your daily life leading up to your exams?
+
+User: I’ll make a schedule for my studies, plan regular check-ins with my dad, and keep hanging out with my friends for support. 
+
+Consultant: That sounds like an excellent plan, He! Remember, it's perfectly normal to have ups and downs. You're building a foundation for a healthy balance in your life. Thank you for sharing today, and if you need to talk again, feel free to reach out anytime.
+
+User: Thank you! I appreciate your support. I feel more confident about everything now!
+###################
+Consultant: Hello, how nice to see you again! I'm glad you're here. Let's discuss how you've been feeling since our last session. How do you feel about the conversation you had with your father regarding your future?
+
+User: Hi! I actually feel really good about it. We talked things through, and I sense more understanding between us now. I think we’re on the same page about my career path, which is a relief.
+
+Consultant: That sounds like a significant step forward! It’s great that you feel understood and that the communication with your father has improved. Can you share more about how this conversation has impacted your feelings about your future?
+
+User: Sure! Knowing that my father supports me gives me more confidence about pursuing further education. I was quite unsure before, but now I feel like I have his backing, and that makes a difference.
+
+Consultant: It's wonderful to hear that support has helped boost your confidence. What specific steps are you considering taking next regarding your education?
+
+User: I’m planning to prepare for the higher education entrance exam. It feels more attainable now that I know my father is behind me.
+
+Consultant: That's a positive shift! Preparing for the entrance exam can understandably bring about some pressure. How do you plan to manage any potential stress as you dive into your studies?
+
+User: I guess I need to figure out a study schedule, but I sometimes struggle to stay focused. That’s part of why I’ve been anxious in the past.
+
+Consultant: A study schedule sounds like a practical approach. It's also important to maintain focus. Could you share what distractions you encounter that might lead to those anxious feelings?
+
+User: I often feel overwhelmed by the amount of material I need to cover, and sometimes I just lose motivation halfway through. It can feel like there’s too much pressure to perform well.
+
+Consultant: It's understandable to feel overwhelmed with a lot on your plate. When you notice those feelings creep in, how do you usually react? 
+
+User: I tend to procrastinate or get really anxious, which just makes the situation worse. I want to change that.
+
+Consultant: Recognizing that pattern is an excellent first step. Let’s explore some emotional management strategies together. Have you thought about any techniques that could help you stay focused and manage that anxiety when it comes up?
+
+User: Honestly, I haven’t explored many techniques yet. I just try to push through, but it doesn't always work.
+
+Consultant: That's quite common. One effective strategy can be breaks and mindfulness techniques, like taking a moment to breathe deeply or step outside for fresh air. Would you be open to trying some of these methods?
+
+User: I’d be willing to try that. I think taking breaks could help clear my mind.
+
+Consultant: Great! It's all about finding what works best for you. We can also define specific strategies for when you start feeling overwhelmed. What do you think would be a good cue for you to take a break?
+
+User: Maybe when I start feeling my heart race or when I can’t focus anymore. That usually means I need to step away for a minute.
+
+Consultant: That sounds like a solid plan. By recognizing those physical cues, you can take proactive steps toward calming yourself. What would you like to do during those breaks to help you reset?
+
+User: Maybe just walk around the campus or listen to music. I find those things help me relax a bit.
+
+Consultant: Those sound like wonderful ways to reset! Incorporating short walks or music can provide you with a refreshing change of pace. How do you feel about setting goals for your study times and breaks?
+
+User: I think that would be helpful. If I have a clear plan, it might reduce my anxiety about how much I have to study.
+
+Consultant: Absolutely! Setting specific, manageable goals can help you monitor your progress without feeling overwhelmed. Would you like to outline a basic study schedule together for your upcoming exam preparations? 
+
+User: Yes, that would really help! I need to stay organized.
+
+Consultant: Fantastic! Let’s break your study sessions into smaller, focused blocks of time, followed by those refreshing breaks. What amount of time do you think you can dedicate to studying each day?
+
+User: I think I can manage about three hours with breaks in between. I could do an hour, then take a short break.
+
+Consultant: That sounds like a good plan! How about we set a goal to review specific subjects during those study sessions? Would you like to prioritize based on your comfort with the material?
+
+User: That makes sense! I’ll probably start with the subjects I find more difficult first.
+
+Consultant: Excellent choice! Tackling your tougher subjects first can help reinforce your confidence as you progress. How do you feel about this approach?
+
+User: I feel a lot better about it! Knowing I have a plan helps reduce my anxiety.
+
+Consultant: I'm so glad to hear that! You've developed a more structured approach to your studies, which could positively impact your emotional state. Is there anything else about your studies or personal life that you'd like to discuss today?
+
+User: Not really. I feel like we’ve covered a lot, and I’m excited to start using these strategies!
+
+Consultant: That’s wonderful! I’m proud of the progress you've made. As we wrap up today, let’s reflect on what you've learned and how you can keep building on these new strategies moving forward.
+
+User: I’ve learned about setting clear goals, recognizing my cues, and managing my anxiety with breaks. I feel ready!
+
+Consultant: Those are excellent takeaways! Keeping the lines of communication with your father open can also help you continue feeling supported. Remember, this process is about gradual progress. 
+
+User: Thank you for your guidance. I appreciate it!
+
+Consultant: You’re very welcome! I'm proud of what you've achieved so far. Remember to engage with those strategies, and if you need any support, please feel free to reach out again. Good luck, and take care!
+
+User: Thank you! I'll keep that in mind.
+###################

@@ -1,0 +1,356 @@
+Consultant: Hello, Xiaoli. I'm really glad to have you here today. How have things been since our last conversation?
+
+User: Hi. I guess it's been a rough time. Things at school haven't improved much. I still feel isolated from my classmates after the incident at the art festival rehearsal. I feel like everyone dislikes me and I can't shake off this feeling.
+
+Consultant: I hear you, and it's completely understandable to feel this way given the situation. Let's take a closer look at what happened during the rehearsal. Can you tell me more about your thoughts at the time and how it made you feel?
+
+User: During the rehearsal, I was already a bit nervous working with the boy since we had to present our piece together. But then, when other classmates started to distance themselves, it felt like they were doing it because they judged me. I feel like I'm just not wanted.
+
+Consultant: That sounds incredibly tough, Xiaoli. It seems like you're attributing your classmates' behavior directly to who you are, which makes you feel unwelcome. Has this kind of situation happened before, or is this a new experience for you?
+
+User: It's kind of new, I guess. I mean, I've had some ups and downs with friends, but nothing like this. I'm starting to doubt myself and question if I'm really the person they think I am.
+
+Consultant: Self-doubt can be really heavy to carry around. Can we explore other possibilities of why they might be acting this way? Sometimes our first thoughts aren't the only explanation.
+
+User: I suppose they could just be siding with each other. Maybe they see me as an outsider because I was only working with that boy. It might not be about me personally, but it still feels like it.
+
+Consultant: It’s really insightful to consider how group dynamics might play a role. How does thinking of it this way change how you feel about their behavior?
+
+User: I guess it makes it seem a little less personal, but I still can't help feeling hurt and rejected by them. It's hard to just change these feelings overnight.
+
+Consultant: Absolutely, feelings don't change overnight. It's important to acknowledge them first, and over time, with new perspectives, they may shift. Is there anyone at school you still feel comfortable talking to about this?
+
+User: There's maybe one close friend, but I'm worried that I might burden her with my issues. I tend to bottle things up, afraid that people will think I'm too dramatic.
+
+Consultant: It's understandable to want to protect your friend from feeling overwhelmed, but remember that sharing can also strengthen bonds. Let's talk about how you could express what you're going through in a way that feels comfortable for both of you.
+
+User: Maybe I could start by telling her how I've been feeling generally without going into every detail. She's usually very understanding, and I don't want to lose that support.
+
+Consultant: That sounds like a thoughtful approach, Xiaoli. It's great that you're considering your friend's needs while expressing your own. How do you feel about trying this soon?
+
+User: I feel a bit anxious about it, but also relieved at the thought of not having to keep it all to myself. I think I might give it a shot after school or during the weekend.
+
+Consultant: That sounds like a positive step forward. Let's also explore how this situation with your classmates might be affecting how you're handling things at home. You mentioned feeling disappointed with your mother's attitude; would you like to discuss that?
+
+User: Yes, that's been bothering me too. I was hoping she'd notice how upset I've been, but she's just busy with her work and keeps saying I should get over it. I feel kind of invisible.
+
+Consultant: It sounds like you're longing for your mother's support but feel neglected due to her busy schedule. It’s understandable to feel invisible. Have you thought about how you might communicate your needs to her differently?
+
+User: I haven't tried directly talking about my feelings recently. I usually just shut down when she doesn't seem to get it, but maybe I need to be more clear about needing her support.
+
+Consultant: Direct communication can be really powerful. It might help to express how her support would mean a lot to you right now. How do you think she might respond to a more open conversation?
+
+User: I'm hopeful that she would listen, but at the same time, there's a fear of disappointment if she doesn't. It's scary to put myself out there like that.
+
+Consultant: It takes courage to be vulnerable, Xiaoli. Even when we can't predict the outcome, being honest about our emotions can open new possibilities for understanding. How about we plan what you might say to her?
+
+User: Okay, I think I could tell her that I'm feeling overwhelmed with everything that's happening, and I'd appreciate her being there for me, even if it's just for a few minutes.
+
+Consultant: That sounds sincere and approachable. Starting a conversation with what you need may help your mother see how she can support you. As you try these new strategies, remember it's a process. Each small step is significant.
+
+User: Thanks. It helps to think about taking small steps instead of expecting everything to change at once. I'll try to approach her when she's not too busy.
+
+Consultant: That's a great idea. Timing can make a big difference in how a conversation goes. Meanwhile, alongside dealing with social and family issues, have you been managing with schoolwork?
+
+User: I've been finding it hard to focus on my studies. The stress from all of this makes it hard to concentrate, and I'm worried about falling behind.
+
+Consultant: School stress can pile up, especially when there are other things on your mind. Let’s brainstorm some small, practical steps you can take to help you get back on track academically.
+
+User: Maybe I could start by setting smaller goals. Instead of trying to study for hours, I could focus on one topic at a time. I’ve heard that breaking things down can help.
+
+Consultant: That's a great strategy, dividing your workload into manageable tasks can definitely ease the pressure. Have you considered tracking your progress to celebrate small achievements?
+
+User: Tracking sounds like a good idea. I usually overlook the small wins because I'm so focused on what needs to be done next.
+
+Consultant: Recognizing those small victories can motivate you to keep moving forward. It might also balance some of the negative feelings if you see that you are indeed making progress.
+
+User: I'll try to remember that. With everything feeling overwhelming, it's nice to think about celebrating even small steps.
+
+Consultant: I'm glad you find the idea encouraging. Let's remember, Xiaoli, that all these feelings and challenges are part of growth. Moving through them with awareness can lead to valuable insights about yourself.
+
+User: Thank you. It's comforting to know that these challenges might help me grow, even though they don't feel good right now.
+
+Consultant: You're welcome. Growth often feels uncomfortable in the moment, but it's a natural part of overcoming difficulties. As we conclude today’s session, how are you feeling about the steps we discussed?
+
+User: A bit more hopeful, I think. I'm still nervous about everything, but having a plan makes it seem more manageable.
+
+Consultant: That's really encouraging to hear. Remember, you're not alone in this. Taking small steps and reaching out for support are significant achievements. We can continue exploring at our next session. Take care, Xiaoli.
+
+User: Thank you. I’ll try to keep everything we've talked about in mind. See you next time.
+###################
+Consultant: Hi Xiaoli, welcome back. How have you been feeling since our last session?
+
+User: Hello. I've been having a tough time. After an argument with my mom, I tried to ask my dad for some financial help, but he refused. This made my mom really upset, and she said some harsh things. I just feel like such a burden to my family right now, and the pressure from school isn't helping.
+
+Consultant: That sounds really challenging, Xiaoli. It seems like you're carrying a lot on your shoulders. Would you like to talk a bit more about what was going through your mind during this time?
+
+User: I keep thinking that maybe if I were more deserving or if I did better academically, things would be different. But then, I get lost in these thoughts and end up feeling more helpless.
+
+Consultant: I hear you, feeling like you're a burden must be incredibly heavy. Let's try to unpack some of these thoughts. When you think about being a burden, what kind of feelings surface for you?
+
+User: Mostly, I feel guilty and ashamed. It's like I'm responsible for making everyone unhappy, and I just don't know how to change that.
+
+Consultant: Guilt and shame can be really overpowering. It’s important to remember that you’re not alone in navigating these feelings. Can we explore the thoughts you associate with being responsible for everyone's happiness?
+
+User: I guess I believe that if I can't contribute or make things easier, I'm just adding to their problems. Especially for my mom, since she's been through so much.
+
+Consultant: Your concern for your mom is evident, and that comes from a place of caring. But let’s question that belief: is it realistic to think you must be responsible for everyone’s happiness? What do you think?
+
+User: I know, thinking about it now, it seems unfair to myself. But in the moment, it's hard to think that way.
+
+Consultant: Exactly, it's natural to feel that way with the pressure you're under. Recognizing that your feelings are valid is a big step. Let's think about what self-compassion would look like for you. How might you show kindness to yourself in these situations?
+
+User: Maybe I'd remind myself that it's okay to feel these emotions and that they're understandable given what's happening. But I'm not sure how to break free from the guilt.
+
+Consultant: That's a meaningful insight, Xiaoli. Practicing self-compassion can indeed be powerful. One approach is to challenge guilt with facts—would it help to write down instances where you contributed positively, however small, to shift the focus?
+
+User: That sounds like a good idea. It might help me see things more clearly and less negatively.
+
+Consultant: Great! Let's also look at ways you can express your needs in the family. How would you feel about role-playing how to have a conversation with your mom or dad about your feelings?
+
+User: I think that could help me prepare, but what if they don't react well? I always fear I'll just mess things up more.
+
+Consultant: That worry is understandable, yet practicing with a safe space like us can equip you with strategies. If they react unexpectedly, what do you think you might do differently with our practice?
+
+User: I could try to stay calm and clarify my intentions, maybe ask questions instead of getting defensive.
+
+Consultant: That's an excellent approach. Keeping communication open and centered on your thoughts and feelings sometimes reduces tension. Do you think setting small goals for these conversations might help manage your expectations?
+
+User: Yes, focusing on small steps might make it less overwhelming.
+
+Consultant: Wonderful. Start small, perhaps with a message you want to deliver clearly. Let's simulate a difficult conversation you anticipate, what would it be?
+
+User: Talking to my mom about feeling pressured to always succeed, without upsetting her.
+
+Consultant: Let's practice: "Mom, I've been feeling a lot of pressure lately, and I worry about disappointing you. Can we talk about how I can feel less burdened?"
+
+User: I like that beginning. It's gentle but honest.
+
+Consultant: Glad to hear! Remember, it's about mutual understanding. As we continue practicing these dialogues, how can your confidence be enhanced in these interactions?
+
+User: I guess by reinforcing positive outcomes from our practices and reminding myself of similar times when things went well.
+
+Consultant: Positive reinforcement does bolster confidence. And as you gradually take these steps, how do you think your social interactions might change?
+
+User: I hope to feel less anxious and more confident in expressing who I am.
+
+Consultant: That’s a promising goal, Xiaoli. You’re progressing well in this journey of self-empowerment. How can you celebrate these small victories towards building confidence?
+
+User: Maybe treating myself with something I enjoy or writing about my progress could be rewarding.
+
+Consultant: Both are wonderful ways to acknowledge and celebrate your efforts! Practicing these small celebrations consistently can reinforce positive change. As you continue, remember that support is always here when you need it.
+
+User: Thank you. It feels good to have someone understand and guide me through these challenges.
+
+Consultant: Always here for you. Let’s set our next steps and check on the progress you've made in our next session. Until then, treat yourself with the kindness you deserve.
+###################
+Consultant: Hello Xiao Li, it's great to see you again. How have you been feeling lately with the new changes in your life?
+
+User: Hi. I've been feeling a bit more confident as I settle into my new environment and build friendships, but I sometimes still feel lonely.
+
+Consultant: I understand. It's important to acknowledge that you're making progress. Can you share more about the friendships and your volunteer role at school?
+
+User: Sure. I made a new friend, and we enjoy spending time together. Being a volunteer has helped me feel more connected to school activities, but I still doubt my abilities sometimes.
+
+Consultant: It sounds like you're taking positive steps. How do you feel about your involvement in these activities, and what aspects make you doubt yourself?
+
+User: Being involved is good, and it makes me feel like I belong. But I worry if I'm really good enough or just getting by.
+
+Consultant: Let's explore these doubts together. When do these feelings usually occur, and what thoughts run through your mind at that time?
+
+User: They appear when I'm trying something new or speaking up in groups. I think maybe others don't see me the way I want, or that I'm not as confident as I seem.
+
+Consultant: It can be challenging to step into new roles. Do you ever find yourself assuming that others are judging you more harshly than they really might be?
+
+User: Yes, often. I guess I overthink how people might perceive me.
+
+Consultant: That’s a common feeling. Can you think of recent times where your worries turned out to be less concerning than you initially thought?
+
+User: Yes, like when I first talked to my new friend. I thought I’d make a bad impression, but they were friendly and things went smoothly.
+
+Consultant: That's a perfect example. It shows you have the ability to make positive connections. How did you feel once you realized it went well?
+
+User: Relieved and happy. It boosted my confidence a bit knowing I can make new friends.
+
+Consultant: Those are the feelings we want to build on. How do you think these positive interactions can influence your social skills in other settings?
+
+User: I suppose they show I can handle meeting new people and that maybe things won't always go wrong like I fear.
+
+Consultant: That's an excellent insight. How about trying some small steps to challenge these thoughts and reinforce these skills?
+
+User: What kind of steps do you suggest?
+
+Consultant: Maybe try engaging in a short conversation with someone you don’t know well at school or offer your opinions in class more often.
+
+User: I can try that. It might help me feel more integrated and comfortable.
+
+Consultant: Great! Let's think about how you can reflect on these experiences to use them as a learning tool.
+
+User: I can write down how I feel before and after, and see if my worries are really justified.
+
+Consultant: That sounds like a productive approach. Over time, you’ll likely notice patterns that help ease your concerns.
+
+User: I hope so. I think documenting it might also help to see my progress.
+
+Consultant: Absolutely. With each interaction, you build more evidence of your capability. How does it feel to know this?
+
+User: It feels reassuring. Like I'm capable of improving.
+
+Consultant: You're definitely capable, Xiao Li. Let's touch on your relationship with your mother too. You mentioned wanting to improve it.
+
+User: Yes, I want us to communicate better and not have misunderstandings.
+
+Consultant: Have there been any specific situations where communication felt challenging?
+
+User: Sometimes, we just don't see eye to eye. I often worry about disappointing her.
+
+Consultant: That's understandable. Do you notice any assumptions you might be making about her thoughts or feelings?
+
+User: I often assume she's unhappy with me when she actually hasn't said so. 
+
+Consultant: It's easy to fall into those assumptions. How might you approach these conversations differently to ease the tension?
+
+User: Maybe ask her directly how she feels instead of guessing, and share more about my feelings too.
+
+Consultant: That's a very proactive approach. Open communication can truly enhance the relationship. How confident do you feel about trying this?
+
+User: A bit nervous, but I think it's worth trying. 
+
+Consultant: You're showing great courage in this. Step by step, you'll find a comfortable way for both of you to connect.
+
+User: Thank you. That means a lot. I'll give it a go and see how things change.
+
+Consultant: You're welcome, Xiao Li. We'll continue to build on these strategies. These steps are just as important for building a strong, positive future.
+
+User: Yes, I believe they will help. I feel more hopeful about improving both my relationships and self-confidence.
+
+Consultant: Your progress is evident, and I'm confident you'll continue to grow. If you need any support or want to discuss further strategies, I'm here for you.
+
+User: Thanks. I appreciate your help and look forward to our next meeting.
+###################
+Consultant: Hi Xiao Li! It's great to see you again. How have things been since our last session?
+
+User: Hi. Things have been pretty good. I recently participated in a school debate competition, and I did really well. I got some positive feedback, which was encouraging.
+
+Consultant: That's wonderful to hear! It sounds like your hard work paid off and people noticed your potential. How did it feel to receive that positive feedback?
+
+User: It felt really great. I was surprised because I usually doubt myself a lot. But during the competition, I actually felt confident.
+
+Consultant: That must have been an empowering experience! It's important to acknowledge how such successes can contribute positively to your self-image. Have you had a chance to reflect on what made this experience different for you?
+
+User: I think it was knowing my arguments were strong. Plus, my team was supportive. I guess their belief in me helped me believe in myself too.
+
+Consultant: It seems like both preparation and teamwork played a key role. It's amazing how team support can enhance our own belief. How has this affected your views on working with others?
+
+User: I used to think I did better on my own, but now I realize that collaborating with others can boost my confidence and help me perform better.
+
+Consultant: That's a valuable insight. Teamwork indeed has many benefits. How do you think this newfound perspective might help you in other areas of your life, perhaps in your relationship with your mother?
+
+User: I haven’t thought about it like that. I suppose it could help, as sometimes we clash, and I feel like we're not on the same page.
+
+Consultant: Improving communication and finding common ground can often enhance relationships. Have you had any positive exchanges with your mother recently that you could build upon?
+
+User: We talked about the debate, and she was really proud of me. It was nice to see her happy and supportive.
+
+Consultant: That's a great step forward! Celebrating successes together can help strengthen your bond. How would you like to continue fostering this positive interaction with her?
+
+User: Maybe I can share more of my interests with her, like how much I enjoy debating or other things I'm involved in.
+
+Consultant: That sounds like a promising way to deepen your connection. Sharing experiences can open doors to understanding. How do you feel about actively inviting her to be more involved in your interests?
+
+User: I think it might bring us closer. I've always felt a bit distant, so involving her more could be good for us.
+
+Consultant: It’s good to hear you're open to trying this. Let's keep track of the positive changes in your relationship. What other strategies could you use to maintain and enhance these interactions?
+
+User: I could plan dedicated times for us to talk or do activities together. Maybe even ask her advice more often to show I value her opinions.
+
+Consultant: Those are excellent strategies. Showing that you value her input can really strengthen your bond. As you build on these interactions, how might this help in reaffirming your confidence?
+
+User: Well, if we have a better relationship, I feel it might boost my overall confidence. Knowing I have her support can make a big difference.
+
+Consultant: Absolutely! The support from our loved ones often adds to our self-assurance. Let’s also consider reflecting on your achievements regularly. How would keeping a success journal help in this regard?
+
+User: I think writing down positive experiences would remind me of what I'm capable of. It could be a good reminder on tough days.
+
+Consultant: That's a great idea. Reflecting on past successes can be a powerful tool for boosting confidence. Would you find regular reflection helpful in setting new goals for further personal growth?
+
+User: Yes, definitely. I think it could help me see what I can improve and what I’m already doing well.
+
+Consultant: Fantastic. Reflecting on your progress is a wonderful way to set the stage for continued development. As we conclude today, what are some immediate steps you can take to apply what we've discussed?
+
+User: I'll start by journaling my experiences and plan some time with my mom. Also, I’ll keep considering how I can use teamwork to grow further.
+
+Consultant: That sounds like a solid plan. Remember, consistent small steps can lead to significant transformation. I’m proud of your progress and look forward to hearing about your experiences next time. 
+
+User: Thank you! I'm feeling more hopeful and excited to try out these ideas.
+
+Consultant: It's my pleasure. Keep embracing the positive changes, and see you in our next session!
+###################
+Consultant: Hi, Xiao Li! It's nice to see you again. Last time, we talked about your recent achievements and how they have impacted your self-confidence. How have things been since then?
+
+User: Hello! I've been feeling pretty good about myself after the event we organized. It was a lot of fun working with my classmates and seeing how well everything turned out. I think I've learned a lot from it.
+
+Consultant: That's wonderful to hear. Teamwork can indeed be very rewarding. How do you feel these experiences have changed your perspective or confidence?
+
+User: I feel more confident in my abilities, especially in leading a group and making decisions. It was satisfying to see our plans come to life and receive positive feedback from both teachers and students.
+
+Consultant: That's a significant shift in self-belief. Recognizing these moments can help reinforce positive thinking. Have you thought about how you can leverage this confidence in other areas of your life?
+
+User: I've been considering trying out for student council or taking on more leadership roles in school. I want to keep challenging myself and see where it takes me.
+
+Consultant: Those sound like excellent opportunities to further grow your skills. Setting goals in these areas can be a great next step. What long-term aspirations do you have in mind?
+
+User: I aim to improve my communication skills and become more decisive. In the long term, I wish to explore careers that involve teamwork and leadership, maybe something in management or project planning.
+
+Consultant: Those are valuable skills and an ambitious goal. To start working towards these, let's try setting some specific, achievable short-term objectives. How does that sound?
+
+User: That sounds helpful. I guess breaking it down into smaller steps would make it more manageable and less overwhelming.
+
+Consultant: Absolutely. It’s often easier to stay motivated when you have clear, short-term targets. What’s one step you might take in the next month to move toward these goals?
+
+User: Perhaps volunteering to lead another class project, or maybe join a club that focuses on communication or leadership skills.
+
+Consultant: Both options are fantastic ideas. They would provide practical experience and an opportunity to apply what you’ve recently learned. Which one feels more doable right now?
+
+User: Joining a club seems like a good start because it would continuously engage me in activities that can hone these skills throughout the year.
+
+Consultant: That's a great choice. I encourage you to take the first step by finding a club that aligns with your interests. Let’s discuss what challenges you might anticipate and how you can overcome them.
+
+User: I might worry about the time commitment or fitting it into my schedule, considering schoolwork and other responsibilities.
+
+Consultant: Time management can definitely be a challenge. One strategy is to prioritize your activities and perhaps create a weekly planner. Would you like to explore how to balance these commitments effectively?
+
+User: Yes, I'd really appreciate some advice on that. I often feel overwhelmed when trying to juggle multiple responsibilities.
+
+Consultant: A planner can help you visualize your week and allocate time specifically for each activity. You might also find it useful to set boundaries and say no to less important activities. How does that resonate with you?
+
+User: It makes sense. I think I need to be more organized in how I approach my tasks and learn to politely decline when I can't take more on.
+
+Consultant: It's okay to strike a balance and protect your energy for what's truly important to you. How do you feel about practicing this approach during the next few weeks?
+
+User: I feel a bit nervous, but also excited to see if it can help reduce my stress and make my days more productive.
+
+Consultant: Completely understandable. Remember, it's all about progress, not perfection. We'll monitor how this goes and make adjustments if needed. Besides time management, are there other areas that concern you?
+
+User: Sometimes I worry about not meeting expectations, especially from teachers or my mom. It's like a pressure to perform well all the time.
+
+Consultant: That's a common feeling, and it can weigh heavily on you. One way to manage it is to focus on what you can control: your effort and learning. Do you find that approach lessens the pressure?
+
+User: Yes, framing it that way makes it seem more manageable. I can try to focus on giving my best effort rather than seeking perfection.
+
+Consultant: That's a healthy perspective. When you center your attention on growth and learning, successes naturally follow. Would visual reminders or affirmations help reinforce this mindset?
+
+User: Visual reminders sound good. Maybe I could put up some motivational quotes or notes in my room to remind myself daily.
+
+Consultant: That's a creative solution. Surrounding yourself with positive influences can uplift your spirit significantly. Is there anything specific you'd like to achieve by our next session?
+
+User: I'd like to have joined a club, started using a planner, and maybe found a few motivational quotes to put up. It seems like a good start toward my goals.
+
+Consultant: Those are solid objectives. I'm confident that you'll handle these beautifully. As we wrap up today, remember that growth is a journey and you’re making wonderful progress.
+
+User: Thank you for all your guidance. I feel more equipped to tackle these challenges with a positive mindset.
+
+Consultant: I'm glad to hear that. You've shown great resilience and enthusiasm. Until our next meeting, take care and keep nurturing those positive spirits!
+
+User: Thank you. I will. Looking forward to our next session!
+###################

@@ -1,0 +1,362 @@
+Consultant: Hello, Wang! Welcome to today’s session. I would like to hear more about how you’ve been feeling regarding your math class and your teacher. What’s been on your mind?
+
+User: Hi! I’ve been feeling really frustrated with math lately. I just can’t seem to get over my negative feelings towards my math teacher. It’s affecting how I view the subject itself.
+
+Consultant: I see. It sounds like your feelings towards your teacher are really influencing your feelings about math as a whole. Can you tell me more about what specifically bothers you about the teacher?
+
+User: Well, I feel like he doesn’t explain things well. He often gets impatient, and that makes me anxious when I ask questions. It’s like he doesn't care if we understand.
+
+Consultant: That sounds really tough. Feeling anxious about asking questions in class can be very discouraging. How does that make you feel about participating in math lessons?
+
+User: I just don’t want to be in the class anymore. I dread going to math. I used to enjoy it, but now it feels like a chore.
+
+Consultant: It’s perfectly natural to feel this way when you associate discomfort with a subject that’s important for your studies. You mentioned earlier that you once enjoyed math; what do you think has changed since then?
+
+User: I think it’s mostly the pressure and the way my teacher interacts with us. I feel overwhelmed, and now I can’t even focus on the actual math concepts.
+
+Consultant: That overwhelming feeling can really hinder your ability to learn. Let’s try to break it down a bit. Can you share any specific instances where your teacher’s actions made you feel this way?
+
+User: There was this time during a test when I didn’t understand a question and asked him for help. He snapped at me, and I felt so embarrassed. Since then, I just shut down in class.
+
+Consultant: I can understand how that experience would make you hesitant to ask for help again. It sounds humiliating, and understandably, it has affected your courage to engage in the classroom. How do you feel during your lessons now?
+
+User: I just feel anxious all the time, like I can’t breathe when I’m in class. I don’t want to raise my hand anymore.
+
+Consultant: That's extremely challenging. It's important to have a safe space to learn without feeling that pressure. What do you think would help make your learning experience feel safer?
+
+User: I guess if I felt more confident in my understanding of math, I wouldn’t be so scared of asking questions.
+
+Consultant: Building that confidence is a great goal. Can we explore some ways to help you regain that understanding and develop a more positive relationship with the subject, irrespective of your teacher?
+
+User: Sure, that sounds good. I just want to find a way to enjoy math again.
+
+Consultant: Great! Let's start with identifying one area in math you still feel somewhat confident in and brainstorm ways to reinforce that understanding. What do you think?
+
+User: Maybe geometry? I used to like shapes and angles. 
+
+Consultant: That's a wonderful start! Geometry offers a lot of interesting concepts. Let’s think about some exercises or visual aids that could help you engage with geometry more. How might you incorporate those into your study routine?
+
+User: I could look for online resources or videos about geometry to get a better grasp. I think practicing visuals would help.
+
+Consultant: Excellent idea! Visual learning can be very effective. Additionally, if we focus on geometry, you may find yourself feeling more competent, which could help with your confidence in math overall. 
+
+User: Yes, and I think if I feel better about geometry, it might carry over to my other math classes too.
+
+Consultant: Absolutely! Gaining confidence in one area can often help alleviate anxiety in others. Let's also discuss how we can address your feelings about your teacher. Would it be useful for you to practice some assertive communication techniques for when you feel overwhelmed in class?
+
+User: That could help! I want to learn how to stand up for myself a bit better.
+
+Consultant: That’s a valuable skill to develop. We could practice ways to express your needs before or after class when things are less tense. How would that sound to you?
+
+User: I think that could work. It’d be less stressful than trying to talk in front of everyone.
+
+Consultant: Right! Building that communication skill could empower you. Before we finish today’s session, let’s summarize what we’ve discussed and how you can start applying these strategies until our next meeting.
+
+User: Sure! So, I’ll focus on geometry with online resources and practice assertive communication with my teacher outside of class.
+
+Consultant: Exactly! This will help you regain confidence in your math skills while also tackling your concerns about your teacher. As we move forward, what would it look like for you to reflect on these experiences and continue seeking engagement with math?
+
+User: I’ll try to keep a journal about my feelings after class. Writing it down might help me see my progress.
+
+Consultant: That sounds like a great plan! Journaling can provide clarity and help you recognize your growth and challenges. When we meet next time, we can review what you’ve discovered. 
+
+User: I’m looking forward to it! Thank you for your help today.
+
+Consultant: You’re very welcome, Wang! Remember, it’s a journey, and I believe in your ability to navigate this. I'm excited to hear about your progress. Take care until we meet again!
+###################
+Consultant: Hello Wang, I'm glad to see you today. I want to start by checking in with you about your feelings regarding your math class. How have things been since we last spoke?
+
+User: Hi! I've been trying to participate more in math class, but I still find it confusing at times. I’m really trying to adjust to the different teaching styles, but it feels overwhelming.
+
+Consultant: It sounds like you're putting in a lot of effort to adapt, which is great. Can you share a bit more about what specifically feels overwhelming or confusing during class?
+
+User: Well, sometimes when the teacher explains things in a way that seems different from what I'm used to, I just can't follow along. It makes me feel like I'm not good at math, and I get frustrated.
+
+Consultant: That’s understandable, feeling frustrated can be quite discouraging. It’s important to recognize those feelings. When you notice the teacher using a different style, what thoughts come to your mind?
+
+User: I often think, "Why can't I understand this?" and then I feel like I'm falling behind. It really makes me anxious about asking questions.
+
+Consultant: I see, so those thoughts lead to anxiety about participation. Let's explore that. What evidence do you have that you're falling behind, and is there any other perspective you could consider? 
+
+User: I guess I don't have concrete evidence. It's just a feeling. I mean, I do try to keep up with my assignments and test my knowledge, but in the moment, I tend to assume I'm the only one struggling.
+
+Consultant: That’s an important realization. It's easy to feel alone in those moments. If a friend were in your situation, what would you tell them about feeling confused but still trying to keep up?
+
+User: I would probably tell them that it’s okay to ask questions and that everyone learns differently. 
+
+Consultant: That’s a compassionate perspective. Maybe we can use that idea for yourself. How might your experience change if you allowed yourself to ask questions when you're confused?
+
+User: I think it would help me a lot. I might not feel so isolated, and it could clarify things for me.
+
+Consultant: Exactly! Seeking clarification can actually support your learning process. Let's discuss ways you can frame your questions when you feel lost, so you feel more equipped to engage in class. 
+
+User: That sounds helpful. I could start by summarizing what I understand before asking what I don’t grasp completely.
+
+Consultant: That’s a great strategy! Summarizing your understanding can pave the way for more productive questions. How do you think your relationship with the teacher might change if you approached them this way?
+
+User: I think it might help me connect better with them, and they might appreciate that I’m trying to understand.
+
+Consultant: Absolutely! This approach can foster a more collaborative relationship. Let’s brainstorm a few actual questions you could ask in class that would feel comfortable for you.
+
+User: Maybe I could ask for examples or if there are alternative ways to view a problem. 
+
+Consultant: Those are excellent ideas. Asking for examples can clarify concepts, and inquiring about alternative methods showcases your willingness to learn. Do you feel nervous about saying these in front of the class?
+
+User: A little bit. I worry that the other students will think I'm slow if I ask too many questions.
+
+Consultant: That’s a common concern. Remember, by asking questions, you’re actually contributing to your learning and potentially helping others who might feel the same way. Can you think of any situations in the past where asking questions led to positive outcomes?
+
+User: There was a time when I asked a question during a science class, and the teacher gave me a really helpful explanation. It actually helped me stay on track.
+
+Consultant: That’s a wonderful example! Reflecting on that positive experience could help ease your anxiety about asking questions in math. How about we set a goal for you to ask at least one question in the next class?
+
+User: I think I can do that. I’ll start with a simple question to build my confidence.
+
+Consultant: I love that plan! Starting small can create momentum. Before we wrap up, what are the key takeaways for you from today’s session that you can apply moving forward?
+
+User: I’ve learned that it’s okay to ask for help and that I can clarify my understanding through questions. Also, focusing on my progress makes me less anxious.
+
+Consultant: That's fantastic, Wang! Remember, progress takes time and practice. As we move forward, keep reminding yourself of these strategies. Would you like to discuss anything else before we conclude today?
+
+User: No, I feel good about our conversation. Thank you for the support!
+
+Consultant: You're very welcome! I’m proud of you for taking these steps. Next time, we can check in on how things went in class. Take care, and I’ll see you then!
+###################
+Consultant: Hello, Wang! I’m glad you’re here today. Let's discuss what you’ve been feeling regarding your communication with your math teacher. Can you share what has been bothering you lately?
+
+User: Hi! I’ve been feeling really confused about how to talk to my math teacher. I tried to ask about my grades, but I felt like the teacher was unapproachable or didn't really care. It made me anxious.
+
+Consultant: It sounds like you’re feeling anxious about how your teacher responds to you, especially when you reach out. Can you tell me more about what you felt during that conversation?
+
+User: Sure. When I approached him, I noticed his body language seemed closed off. I felt like I was bothering him. It made me doubt if I should ever talk to him again.
+
+Consultant: I can understand why that experience would make you hesitant to communicate in the future. Feeling dismissed can be really tough. Let’s explore what you’d like to achieve in your relationships with teachers, particularly with this math teacher.
+
+User: I want to feel more comfortable talking to him so I can ask questions without feeling anxious. I believe that if I can communicate better, I might even understand math better.
+
+Consultant: That’s a great goal! Improving your communication can definitely lead to better understanding. What specific challenges do you face when trying to communicate with him?
+
+User: I think I struggle with what to say and how to say it. I often worry about being too direct or coming off as annoying. 
+
+Consultant: It makes sense to be concerned about how you come across. Let’s think about ways to express your thoughts more comfortably. How do you usually start a conversation with someone?
+
+User: Usually, I just say "Hi" and then jump straight into my question. But in this case, that felt too abrupt, and I didn’t really set a tone for the conversation.
+
+Consultant: Setting a friendly tone can really help. What if you start with a compliment or a casual question about something related to the class before diving into your concerns? 
+
+User: That sounds like a good idea. Maybe I could ask about some recent math project or how he thinks the class is doing.
+
+Consultant: Exactly! That can ease the tension and make the conversation feel more mutual. You could also express your appreciation for his support. How does that strategy feel to you?
+
+User: It feels much better! I think starting with something positive would help make the conversation smoother. 
+
+Consultant: I'm glad to hear that! Now, let’s practice this approach. Can you pretend I’m your math teacher? Start the conversation how you would in that situation.
+
+User: Okay. *clears throat* “Hi, Mr. Lee! I really enjoyed the recent project on geometry. How do you think the class is managing with the material?” 
+
+Consultant: That was a great start! You opened with a friendly comment. Now, how would you transition into your concerns from there?
+
+User: Um, I could say something like, “I had a question about my latest grade, and I’m hoping to understand where I can improve.” Does that sound okay?
+
+Consultant: That sounds excellent! You’re being direct but still approachable. How do you feel about this conversation so far?
+
+User: I feel a lot less anxious now. It seems more manageable when I have a plan!
+
+Consultant: That’s wonderful to hear, Wang! Having a plan can reduce anxiety significantly. Is there anything else you want to discuss or practice regarding your communication with your math teacher?
+
+User: I think I’m good for now, but I want to stress how important it is that I keep practicing this so I don't forget.
+
+Consultant: Absolutely, practice is key! Before we wrap up, let’s summarize what we’ve discussed today. You’ve learned to ease into conversations with positive remarks, and then express your concerns clearly. 
+
+User: Yes, and I feel more equipped to handle my anxiety about talking to him. 
+
+Consultant: That’s fantastic progress! As you venture into these conversations, remember to be patient with yourself. What do you think will help you maintain this newfound confidence?
+
+User: I think I’ll remind myself to focus on how the conversation could be a two-way street, instead of just worrying about his reaction.
+
+Consultant: That seems like a solid strategy, Wang. It will help to shift your mindset to a more collaborative approach. Is there a specific time you plan to try this with your math teacher?
+
+User: I think I will try it next week, after our next class. 
+
+Consultant: That sounds like a great plan. Imagine how you’ll feel after having that conversation! Remember, it’s about progress, not perfection. 
+
+User: I will keep that in mind! Thanks for helping me through this.
+
+Consultant: You’re very welcome! I believe in your ability to improve your communication. When we meet next, we can discuss how it went. Just remember that practice makes perfect. 
+
+User: I’m looking forward to sharing my experience next time. Thanks again!
+
+Consultant: See you next week! You’re doing great work, Wang!
+###################
+Consultant: Hello, Wang! I'm really glad to see you today. I hear you’ve been experiencing a boost in your confidence with math through collaborative learning. Could you tell me more about how that has been for you?
+
+User: Hi! Yes, I really feel more engaged in math lately. It's quite exciting to share ideas with my classmates, and I've even come up with some new ways to solve problems.
+
+Consultant: That sounds wonderful! Sharing ideas and collaborating can really deepen your understanding. What specific experiences have you had recently that made you feel more confident in math?
+
+User: Well, during a group study session, I presented a solution to a tricky problem, and my classmates seemed to appreciate it. That really encouraged me!
+
+Consultant: That’s a great moment to highlight! Having your classmates acknowledge your contributions can really enhance your confidence. How did that make you feel at that moment?
+
+User: I felt really proud and excited! It was nice to be recognized for my effort, and it motivated me to participate even more.
+
+Consultant: I'm glad to hear that! It sounds like you are finding joy in collaboration. Do you think there are any challenges you face when it comes to participating in these group sessions?
+
+User: Sometimes I worry that my ideas might not be good enough or that I might get something wrong. Even though I'm feeling better, that doubt still creeps in.
+
+Consultant: It's completely natural to have those doubts, especially in a group setting. Let’s explore those thoughts a bit. When you think, "my ideas might not be good enough," what kind of emotions does that trigger for you?
+
+User: I feel anxious and a bit embarrassed. I really don’t want to let my group down.
+
+Consultant: Those feelings of anxiety and embarrassment can hold us back. What if we challenged that thought? What evidence do you have that your ideas aren't good enough?
+
+User: I guess I don’t have solid evidence. I mean, my classmates liked my recent solution. But sometimes I just focus on the fear of making a mistake.
+
+Consultant: That's an important realization! It seems you're really doing well in those moments, yet the fear of errors can cloud your confidence. If a friend were in your situation, how would you advise them?
+
+User: I would probably tell them that everyone makes mistakes and it's okay to learn from them. I wouldn’t want them to feel anxious about it.
+
+Consultant: That’s great advice! It seems you’re able to offer kindness to others. Now, let’s turn that compassion toward yourself. What might happen if you started seeing mistakes as opportunities for growth instead?
+
+User: I think I would feel less pressure. It would be nice to view mistakes differently, instead of thinking they’re the end of the world.
+
+Consultant: Absolutely! Mistakes can provide valuable lessons. Would you be willing to experiment with this new perspective during your next group study session?
+
+User: Yes, I’d be open to trying that. I think it could help me relax a bit.
+
+Consultant: That’s a great step forward! To assist with this, are there specific strategies you can think of to remind yourself to embrace mistakes during the next session?
+
+User: I could write down a reminder or maybe say it out loud to myself before the session starts.
+
+Consultant: Those are excellent ideas! Having a physical reminder can help reinforce this new perspective. Also, how do you think your engagement in group learning can continue to improve your skills in math?
+
+User: I believe that by contributing more and sharing my thoughts, I’ll become better at problem-solving. The encouragement from my group also keeps me motivated.
+
+Consultant: It’s clear you’re experiencing growth by contributing and supporting one another. Let’s build on that! What are some ways you can further enhance those collaborative efforts?
+
+User: Perhaps I can suggest more group activities or set specific goals with my classmates. It would help keep everyone focused and engaged.
+
+Consultant: That's a brilliant idea, Wang! Setting goals can foster a sense of direction within the group. How do you feel about your ability to express this suggestion to your classmates?
+
+User: I think I can do it! I feel more confident about sharing my ideas now.
+
+Consultant: That’s fantastic! It sounds like your confidence is building. Remember, the more you practice expressing your thoughts, the more comfortable it will become. Let’s take a moment to recap your progress today. What are some key takeaways you’re leaving with?
+
+User: I learned that I can challenge my doubts and view mistakes positively. I also feel more ready to engage with my classmates.
+
+Consultant: Excellent insights! As we wrap up today, let’s think ahead. What strategies can you utilize to maintain this positive momentum in your math learning journey?
+
+User: I’ll remind myself that collaboration is valuable and focus on the supportive atmosphere. I can also keep reflecting on my achievements.
+
+Consultant: That sounds like a strong plan! I'm really impressed with your progress. Remember, it’s entirely normal to have ups and downs, but you’re on the right path. If there's anything you want to explore further in the future, I'm here to help. Take care, and keep up the good work!
+
+User: Thank you! I appreciate your support. I’m looking forward to applying what we discussed.
+###################
+Consultant: Hello, Wang! I'm really glad to see you today. How have you been feeling since our last session? 
+
+User: Hi! I've been really excited actually. I recently solved a complex math problem on my own, and it gave me a huge sense of accomplishment!
+
+Consultant: That’s fantastic to hear! It sounds like solving that problem really boosted your confidence in math. Can you tell me a bit more about how that experience felt for you?
+
+User: Sure! It felt like I was on top of the world. I've been struggling with some concepts, but this time I pushed through, and it worked. I think I finally understood it.
+
+Consultant: It sounds like this achievement has reinforced your belief in your problem-solving abilities. How do you think this success could influence your study habits or goals in math moving forward?
+
+User: I hope it means I can keep solving tough problems and maybe even help others with math too. I feel like I could accomplish a lot more now.
+
+Consultant: That’s a positive outlook! Helping others can also reinforce your own understanding. What specific goals do you want to set for yourself in math now?
+
+User: I’d like to aim for higher-level math concepts, maybe even tackle things I haven’t learned yet in class. I feel ready for the challenge.
+
+Consultant: It sounds like you want to push your boundaries. Let’s explore how you can set realistic goals that will help sustain your motivation. Have you thought about any particular areas of math you want to focus on?
+
+User: I think I want to work on calculus. It seems advanced, but I feel inspired after solving that problem, so I feel like I can give it a shot.
+
+Consultant: That's a great choice! Setting your sights on calculus shows ambition. What would a successful study plan for calculus look like for you?
+
+User: Maybe starting with fundamentals and then gradually moving to more complex topics. I’d like to do practice problems regularly and track my progress.
+
+Consultant: That’s a solid plan! Tracking your progress can really keep you motivated. How do you feel about using a journal or a digital tool to document your learning journey?
+
+User: I think that sounds useful! Writing things down helps me remember better and see how much I improve over time.
+
+Consultant: Absolutely! Regularly reflecting on your experiences, especially successes, can enhance your motivation. How do you plan to make time for this new study goal alongside your current subjects?
+
+User: I’ll create a schedule that includes dedicated time for math practice. I can also integrate it with my homework routine, so it’s less overwhelming.
+
+Consultant: That’s a smart approach! Scheduling will help maintain balance in your studies. As you work towards these goals, what strategies do you think might help if you encounter challenges along the way?
+
+User: I could reach out to my teacher or classmates for help, or even look for online resources. I think trying to remain positive will also help me when things get tough.
+
+Consultant: Those are excellent strategies! Staying connected with your support system and maintaining a positive attitude can make a significant difference. How do you feel now, thinking about these new goals and strategies?
+
+User: I feel more determined. This conversation is really inspiring! I think I can trust myself more to tackle tough math problems.
+
+Consultant: That’s wonderful to hear, Wang! Building that trust in yourself is key. As we wrap up today, what’s one takeaway from our conversation that you’d like to remember moving forward?
+
+User: I’d like to remember that overcoming challenges is possible, especially since I’ve done it once. And to keep pushing myself to learn more.
+
+Consultant: That’s a powerful takeaway, Wang. Remember, you have proven your capability, and you can continue to build on that success. I believe in your potential. If you ever need support along the way, don't hesitate to reach out.
+
+User: Thank you so much! I really appreciate this session and your guidance.
+
+Consultant: You’re very welcome! I’m glad I could help. Keep up the great work, and I look forward to hearing more about your progress next time. Take care!
+
+User: Will do! Thanks again. I'm excited about my math journey.
+###################
+Consultant: Hello Wang! I'm glad you're here for our session today. It sounds like you've made some significant progress in mathematics recently. How are you feeling about your goals now?
+
+User: Hi! Thanks for having me. I feel really confident after my recent success in the math competition. I’m excited but also a bit overwhelmed because I want to set new challenges for myself.
+
+Consultant: That's great to hear about your confidence! It’s common to feel overwhelmed when setting new challenges. Can you share what specific challenges you have in mind for your math studies?
+
+User: I’m thinking of aiming for a higher level of math like calculus and maybe participating in more competitions. But I’m not really sure how to approach these new goals.
+
+Consultant: Setting ambitious goals like that can be very motivating! To make them more achievable, let’s break them down using the SMART goal framework. Have you heard of it before?
+
+User: Not really, what does SMART stand for?
+
+Consultant: SMART stands for Specific, Measurable, Achievable, Relevant, and Time-bound. It's a helpful way to clarify your goals. For example, what could be a specific goal you want to set in mathematics?
+
+User: Maybe I could say I want to improve my calculus skills enough to solve common problems in a textbook.
+
+Consultant: That’s a solid specific goal! Now, how would you measure your progress towards mastering those calculus problems?
+
+User: I could keep track of the number of problems I solve each week or maybe try a few practice exams to see if I can complete them in a certain time.
+
+Consultant: Excellent idea! Keeping track of your problem-solving and timing can provide measurable progress. Now, do you think this goal is achievable given your current study habits and schedule?
+
+User: I think it is, but I may need to adjust my study routine to fit in more calculus practice.
+
+Consultant: That’s a good insight! Adjusting your routine shows you are committed to this goal. What relevant steps might you take to incorporate calculus into your studies?
+
+User: I could set aside specific times in the week dedicated to calculus practice and perhaps find online resources or study groups.
+
+Consultant: Those sound like actionable steps! Now, let’s talk about a timeframe. By when would you like to accomplish this goal of mastering calculus problems?
+
+User: I would like to feel comfortable with basic calculus concepts by the end of the semester. 
+
+Consultant: That's a clear time frame! So, your goal can be summarized as: "I want to improve my calculus skills enough to solve common problems in a textbook by practicing at least twice a week and aiming to feel comfortable with the concepts by the end of the semester." How does that sound to you?
+
+User: Yes, that sounds perfect! It feels much more structured and less overwhelming now.
+
+Consultant: I'm glad to hear that! As we wrap up, let’s talk about how you can maintain motivation throughout this process. What strategies do you think could help keep your enthusiasm alive?
+
+User: I think rewarding myself after completing practice problems or maybe studying in a fun environment could help.
+
+Consultant: Those are great strategies! Rewards can definitely enhance motivation. Is there anything else you think might assist you in staying on track?
+
+User: I might also check in with friends who are studying similar subjects to motivate each other.
+
+Consultant: Fantastic! Accountability is a powerful motivator. You’ve set some really strong goals today, Wang. To summarize, we’ve established a clear SMART goal for your studies, and we’ve identified some strategies to help maintain your motivation. How do you feel about this plan moving forward?
+
+User: I feel really good about it! It gives me a sense of direction. 
+
+Consultant: I’m so pleased to hear that! Remember, it’s completely normal to feel some pressure but having a plan can really help manage that. If you ever feel overwhelmed, don’t hesitate to reach out. You’re doing great, and I believe in your ability to achieve these goals!
+
+User: Thank you so much for your support! I’ll do my best to follow through with the plan.
+
+Consultant: You’re very welcome, Wang! I’m looking forward to hearing about your progress next time. Take care, and see you soon!
+
+User: Bye! I'm excited for what lies ahead!
+###################

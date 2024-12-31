@@ -1,0 +1,404 @@
+Consultant: Hello! It's great to see you today. How have you been feeling since our last session?
+
+User: Hi. I've been feeling really on edge, especially after that class meeting. Hearing about mental health issues made me worry a lot about my own state. I'm really concerned about the pressure I'm under with my studies and my relationships with others.
+
+Consultant: I understand that you're feeling overwhelmed by the pressure of your studies and worrying about your mental health. Can you tell me more about what specific thoughts or worries have been on your mind lately?
+
+User: I keep imagining that I might be developing a serious mental health issue. It feels like I can't escape this constant thought. Each time I sit down to study, I suddenly feel this panic, and it’s hard for me to focus.
+
+Consultant: It sounds like you've been dealing with some intense anxiety about not only your studies but also your mental health. When these feelings hit you during studying, what kind of thoughts are running through your mind at that moment?
+
+User: I often think that I'm not good enough and that I’m going to fail. I also worry that if I keep feeling like this, I could really end up with a mental illness, which terrifies me.
+
+Consultant: Those thoughts sound very distressing. You mentioned feeling that you're not good enough. Can you share a bit more about where these feelings might be coming from or if anything specific triggers them?
+
+User: I guess part of it comes from my background. I was always good in school, and now that I'm in college, I feel like the expectations are way higher. It’s like I have to prove myself all over again, and I’m scared I won't measure up.
+
+Consultant: It's completely understandable to feel that pressure, especially after having a history of success. The transition to college can be really challenging. What if we looked at those fears more closely? Are there any instances where you've succeeded, or maybe moments when you felt capable during this transition?
+
+User: Well, I did manage to get through my first exams with decent marks, but it doesn't feel like enough. I just keep thinking about the next ones and how I might fail.
+
+Consultant: It’s great to hear that you’ve had some successes! It's easy to focus on future worries, but let's challenge that thought. What evidence do you have that suggests you will fail? Can we think of any other possibilities?
+
+User: I mean, I don’t have direct evidence. It’s just this fear that creeps in whenever I think about studying. I suppose I could do better if I really tried.
+
+Consultant: That's a good realization. It sounds like there’s this fear leading you to assume the worst without solid proof. If a friend were in your position, what advice would you give them about facing such fears?
+
+User: I guess I would tell them to take things step by step and not to think too much about failing. Just focus on doing their best.
+
+Consultant: Exactly! That kind of perspective can be so helpful. Now, how might you apply that same advice to your situation? 
+
+User: Maybe I should just take a deep breath, focus on small tasks, and not let my mind spiral into those worst-case scenarios.
+
+Consultant: That sounds like a solid plan. Let’s also think about balancing your workload. Have you tried setting small, manageable goals for your studies? 
+
+User: I haven’t really done that. I just dive into studying without a clear plan, and that’s probably part of why I feel so overwhelmed.
+
+Consultant: It could be very beneficial to create a study schedule that breaks down your workload into smaller pieces. How do you feel about giving that a try together? 
+
+User: That sounds manageable. I think having a plan might help calm my nerves a bit.
+
+Consultant: Wonderful! We can explore what subjects you want to prioritize and how to allocate your time. This way, you can feel a sense of accomplishment without overwhelming yourself. 
+
+User: That makes sense. I often feel like I have to study everything at once, which just adds to my anxiety.
+
+Consultant: Remember, it’s not about covering everything all at once. It’s about progress, not perfection. How do you think you can build in some self-care into your schedule as well? 
+
+User: Maybe I could set aside time to relax or do things I enjoy. I haven’t really thought about that.
+
+Consultant: That’s a great insight! Incorporating activities you enjoy could help alleviate stress and improve overall well-being. What activities make you feel relaxed and happy?
+
+User: I like playing video games and hanging out with friends, but I feel guilty taking time away from studying.
+
+Consultant: It’s important to remind yourself that taking breaks for self-care can actually enhance your focus and productivity in the long run. How about we plan your schedule to include both study time and leisure activities?
+
+User: That could work. I need to learn to be okay with taking breaks and not feel guilty about it.
+
+Consultant: Absolutely! It’s about finding that balance. As we continue discussing these strategies, remember to be kind to yourself. It's a process, and it's okay to take things one step at a time. 
+
+User: Thank you. I feel a bit better just talking about this, but I’m still worried about everything piling up again.
+
+Consultant: It’s natural to have those worries, and discussing them can sometimes lessen their impact. Acknowledging your concerns is an important part of managing them. Let’s keep exploring how you can gradually improve your coping skills and awareness.
+
+User: I’d like that. I want to understand better how to handle this anxiety and maybe even learn more about how to manage my thoughts.
+
+Consultant: That’s a great goal. Understanding your thought patterns can empower you to take action when anxiety arises. Let's work together on identifying any cognitive distortions and finding strategies to counteract them.
+
+User: I’m ready to dive into that. I really hope this helps me get to a better place with my anxiety.
+
+Consultant: I’m confident that with time and practice, you can make progress. Remember, it’s about planting the seeds of change, and each session brings you closer to your goals. How are you feeling about our discussion today? 
+
+User: It gives me some hope. I realize I have tools I can use. I still feel the anxiety, but talking through it helps a lot.
+
+Consultant: That’s the spirit! Acknowledging your feelings and having tools to manage them can significantly reduce their impact. We’ll keep building on this together in our future sessions, focusing on your growth and understanding.
+
+User: Thank you. I appreciate your help. I think I’ll reflect on everything we discussed today and try to plan my study schedule tonight.
+
+Consultant: That sounds like a constructive plan! Take your time, and remember that I’m here to support you. We'll continue this journey together. Until next time!
+
+User: Until next time!
+###################
+Consultant: Hello An, I'm glad to see you again. How have you been feeling since our last session?
+
+User: Hi. Honestly, I’m still feeling quite anxious. The pressure from my courses, especially in Western Literary Theory and Chinese Grammar, has been really overwhelming. I find it hard to cope and just think about the final exams makes me panic.
+
+Consultant: I see. Exam pressure can indeed be quite challenging. It sounds like you're feeling quite stressed about your ability to manage the work. Let’s start by discussing more about your feelings. What specific thoughts go through your mind when you think about these exams?
+
+User: I often think I’m not good enough and that I’m going to fail. I feel like everyone else is coping well, and I’m just struggling to keep up.
+
+Consultant: That’s tough, An. It sounds like you’re really putting a lot of pressure on yourself. When you have those thoughts of not being good enough, how does that make you feel emotionally?
+
+User: It makes me feel really anxious and sometimes even hopeless. I also start to doubt my capabilities and wonder if I should just give up.
+
+Consultant: Thank you for sharing that with me. It’s understandable to feel anxious in challenging situations. Let's take a closer look at this thought of not being good enough. Can you identify any evidence that supports or contradicts this belief?
+
+User: I suppose I have done well in some subjects before, but I just focus on the fact that I'm struggling now. The past successes feel irrelevant when I'm faced with these difficult courses.
+
+Consultant: That’s an important insight, An. It seems like you are focusing on the current struggles rather than recognizing your past achievements. What if we looked at this from a different angle? How would you encourage a friend who is feeling the same way about their exams?
+
+User: I think I would tell them that it’s okay to struggle and to take it step by step. I would remind them of their previous successes and suggest they break things down into smaller tasks.
+
+Consultant: That’s a great perspective, An. Breaking things down is often a useful strategy. Let’s try to apply that to your own situation. What small steps can we identify to help you prepare for your courses and alleviate some of that anxiety?
+
+User: Maybe I could create a study schedule that divides my lessons into manageable sections? I’ve never done that before.
+
+Consultant: That’s an excellent idea! Creating a study schedule can help you feel more organized and less overwhelmed. How do you feel about making that plan and setting smaller tasks for yourself?
+
+User: It does sound reassuring. I think having a plan might make things less chaotic.
+
+Consultant: Great! Planning can bring clarity. Alongside that, let’s also explore some relaxation techniques to help with your anxiety and improve your sleep. Have you ever tried any relaxation exercises before?
+
+User: No, not really. I haven’t had the time or I didn’t think it would help.
+
+Consultant: It’s understandable. Sometimes it's hard to believe that simple techniques can make a difference. Would you be open to trying a basic breathing exercise that can help calm your nerves and support better sleep?
+
+User: Sure, I can give that a try.
+
+Consultant: Perfect! Let’s practice together. Take a deep breath in through your nose... hold it for a moment... and now slowly exhale through your mouth. Repeat this a few times while focusing on the rhythm of your breath. How does that feel?
+
+User: It feels a bit relaxing. I can see how it could help if I tried it regularly.
+
+Consultant: I’m glad to hear that! Regular practice can enhance its effect over time. How do you think you could incorporate this breathing exercise into your daily routine?
+
+User: I could do it before my study sessions and maybe before bed to help me wind down.
+
+Consultant: That sounds like a solid plan! Consistency is key for building new habits. Let's work together to set some specific goals for your study schedule and relaxation techniques. What would you like to achieve by our next meeting?
+
+User: I’d like to have a study schedule in place and try doing the breathing exercise daily, especially before bed.
+
+Consultant: That’s a fantastic goal. It’ll give you a framework to follow and hopefully decrease some of your anxiety. Remember, it’s about progress, not perfection. How do you feel about the direction we’re taking?
+
+User: I feel hopeful. It's a relief to talk about this, and I think these strategies could really help me.
+
+Consultant: I’m really glad to hear that, An. You’ve taken important steps by recognizing your thoughts and exploring strategies to manage your anxiety. Let’s summarize your goals: we’ll work on your study schedule and breathing exercises. How does that sound?
+
+User: It sounds great! I feel more equipped now.
+
+Consultant: That’s wonderful! I'm proud of you for taking these steps. Just remember to be kind to yourself during this process. We'll touch base again to see how things are going. If anything comes up before then, feel free to reach out.
+
+User: Thank you! I appreciate your support.
+
+Consultant: You’re welcome, An. It’s my pleasure to help. I look forward to hearing about your progress. Take care and see you next time!
+
+User: See you next time!
+###################
+Consultant: Hello, An. Welcome back to our session today! How have you been feeling since our last conversation?
+
+User: Hi. I've been okay, but I still feel this pressure regarding the upcoming final exams, especially with the Western Literary Theory course. It’s just really challenging for me, and I’m also feeling more frustrated with my social interactions lately.
+
+Consultant: I see. It sounds like the combination of academic pressure and social frustration has been quite overwhelming for you. Let’s dive into that a bit more. What specific thoughts or feelings come up when you think about your exams or interacting with others?
+
+User: When I think about the exams, I constantly worry that I won't understand the material well enough to do well. With social interactions, I often feel like I say the wrong things or that people don’t really want to talk to me.
+
+Consultant: Those worries sound quite heavy to carry. It’s understandable to feel that way under pressure. Can you share with me more about what thoughts you have during those moments of anxiety? For example, what goes through your mind when you feel like you're saying the wrong things?
+
+User: I usually think that people are judging me, or that they’re losing interest in the conversation because I’m not being interesting enough. It makes me want to just stop talking.
+
+Consultant: It sounds like there’s a lot of self-judgment happening. That can be tough. Let’s explore those thoughts together. Do you think there’s evidence to support the idea that people are judging you that harshly?
+
+User: I guess I don’t really know for sure. It’s just a feeling I have. Maybe I’m being too hard on myself?
+
+Consultant: It’s great that you’re reflecting on that. Many of us tend to be our own harshest critics. If a friend were feeling this way, what might you tell them about their thoughts and feelings?
+
+User: I would probably tell them that they’re being too critical of themselves and that most people are more forgiving than they think.
+
+Consultant: That's a compassionate perspective. Now, how might you apply that same compassion to yourself in these moments of doubt or anxiety? 
+
+User: I suppose I could try reminding myself that it’s okay to make mistakes in conversations and that people likely aren't judging as harshly as I think.
+
+Consultant: That's a wonderful start! We can work on developing some alternative thoughts to practice in those moments. Additionally, what are some activities or interactions you could plan that might help ease your stress before exams and give you more confidence in social situations?
+
+User: Maybe I could set up some study groups? I think being around others might help me with the courses. Socially, I could reach out to a few friends to catch up more often.
+
+Consultant: Those sound like excellent ideas! Engaging with others in a study group could provide both academic help and social support. It might also help shift your focus from anxiety to collaboration. How does that sound to you?
+
+User: It sounds good. I think I need that social interaction, but I'm still a bit hesitant to reach out.
+
+Consultant: That’s completely normal. It takes courage to step out of our comfort zones. What small step could you take to initiate that connection with someone?
+
+User: Maybe I could send a message to one of my classmates asking if they want to study together. It feels a bit scary, but I think I could do that.
+
+Consultant: Sending that message is a great plan! Remember, it’s just a request for collaboration. How can you remind yourself to stay positive about this interaction, regardless of the response?
+
+User: I could remind myself that it’s just one person, and even if they say no, it doesn't reflect my worth or ability to connect with others.
+
+Consultant: Perfect mindset! It’s a journey, and each step is a valuable experience. When you feel anxious about approaching someone, you could also take a moment to breathe deeply and reflect on the positive intentions behind your outreach. 
+
+User: That makes sense. Deep breathing helps calm me down. I’ll try to remember to do that.
+
+Consultant: That’s a great strategy! It’s important to acknowledge those feelings without letting them control you. Let’s also talk about your exam preparation. Have you thought about how to structure your study time to make it feel less overwhelming?
+
+User: I haven't really planned a strategy yet. I usually just try to study for long hours, which ends up exhausting me.
+
+Consultant: Long study hours can certainly contribute to burnout. How about we explore breaking down your study sessions into shorter, more manageable blocks? You could also include breaks in between to recharge.
+
+User: That could work! I can try studying in 25-minute blocks with a 5-minute break in between.
+
+Consultant: That technique is very effective! It’s called the Pomodoro Technique. It helps maintain focus and prevents fatigue. How does that sound for your preparation plan?
+
+User: I like that idea. It feels less daunting already. 
+
+Consultant: Fantastic! It’s about finding what works for you. As you start implementing these strategies, remember to reflect on your progress, no matter how small it may seem. It’s all part of bolstering your confidence. 
+
+User: That seems doable. I’ll definitely try to take note of my progress as I go along.
+
+Consultant: Excellent! As we wrap up our session today, let’s summarize what you’ve shared. You’re planning to reach out for study groups, practice self-compassion in social situations, and use the Pomodoro Technique for your studies. How are you feeling about these goals?
+
+User: I feel more optimistic about tackling both my studies and social interactions. I know it won’t be easy, but I’m willing to try.
+
+Consultant: That’s a positive attitude! Remember, it’s perfectly okay to have doubts; the key is to keep moving forward. I’m proud of the steps you're taking. Before we end for today, do you have any final thoughts or reflections?
+
+User: Just that I really appreciate your guidance. I feel a bit more equipped to handle things now.
+
+Consultant: I’m glad to hear that! You've made significant progress today. Keep practicing your new strategies, and remember that you can always return if you need further support. Take care, An, and I look forward to our next session! 
+
+User: Thanks, I will. See you next time!
+###################
+Consultant: Hello, An! Welcome to our session today. I'm glad you're here. I understand you've been trying to find more joy and support in your life through extracurricular activities. How have you been feeling about that lately?
+
+User: Hi! Thanks for having me. I've been feeling a bit anxious about balancing my studies with these new activities. I want to enjoy them, but sometimes I worry I'm just adding more stress to my life.
+
+Consultant: It sounds like you're excited about the activities but also feeling the pressure of managing your time. Can you tell me more about what specific thoughts come to your mind when you think about doing these activities alongside your studies?
+
+User: Well, I often think that if I can't keep up with my schoolwork, then I’m just wasting my time with these activities. I feel guilty whenever I take a break to do something fun.
+
+Consultant: That's an important insight, An. It seems like a conflict between wanting to enjoy your time and the pressure to perform academically. What feelings do those thoughts of guilt bring up for you?
+
+User: I feel overwhelmed and sometimes really anxious. It's like I can't enjoy things because I'm worrying about what I should be doing instead.
+
+Consultant: I understand how tough that can be. It's quite common for people to struggle with these feelings when trying to balance responsibilities and personal enjoyment. Let's explore those thoughts a bit further. You mentioned feeling guilty—how valid do you think that guilt is when you consider your well-being and personal development?
+
+User: I guess if I think about it, enjoying life and engaging in activities might actually help me perform better in school. But I still feel like I shouldn't take time away from studying, you know?
+
+Consultant: That’s a good realization, An. Enjoying extracurricular activities can indeed enhance your overall well-being and potentially your academic performance as well. What if we challenged that guilt? If you had a friend in your situation, what would you tell them about balancing fun and study time?
+
+User: I’d probably tell them that it’s important to find a balance and that taking breaks can help recharge your mind. But then I often feel like I can’t apply that advice to myself.
+
+Consultant: It’s common to be harder on ourselves than we would be on others. Let’s try to reframe this a bit. If taking a break can support your mental health, why not consider that time spent on enjoyable activities is also an investment in your academic success?
+
+User: That makes sense. I guess I’ve been so focused on my responsibilities that I forgot the benefits of taking breaks. I just need to remind myself of that more often.
+
+Consultant: Exactly! It’s all about finding that balance. Can you think of a small way to incorporate a fun activity into your routine this week without the guilt?
+
+User: Maybe I could set aside a couple of hours on the weekend for a club meeting or just hanging out with friends. But I still worry if my studies will suffer.
+
+Consultant: Setting aside that time sounds like a great start! Perhaps you can look at it as a reward for your hard work during the week. Additionally, how about planning specific study sessions to complement your breaks? This way, you might feel more in control and less anxious.
+
+User: That sounds reasonable. I can make a plan that includes study times and allows for breaks. I’ll try to keep an open mind and see how it goes.
+
+Consultant: That’s a wonderful approach, An! By structuring your time, you can manage your academics while also enjoying life. How are you feeling about these changes as you think about implementing them?
+
+User: I feel a bit more relieved. I think having a plan will help me feel less chaotic. It’s nice to remember that taking breaks can be a positive thing.
+
+Consultant: I'm glad to hear that! Relief and hope are great steps forward. What else can you do to support this new mindset as you proceed with both your studies and extracurricular activities?
+
+User: I could remind myself regularly that enjoying my life is just as important as studying. Maybe I’ll also talk to my friends about their experiences—they might have some good tips.
+
+Consultant: Those are excellent strategies! Engaging with friends can provide both support and new perspectives. It’s all about creating a supportive network around you. Is there anything else on your mind that you’d like to discuss today?
+
+User: I think I’ve shared a lot already. It’s just really helpful to talk this out. I’m excited to start putting this plan into action.
+
+Consultant: I’m glad to hear that! Remember to be kind to yourself during this transition. You’re doing a great job navigating these changes. As we wrap up today, what do you feel is your biggest takeaway from our conversation?
+
+User: I think the biggest takeaway is that balancing fun and study is possible, and that taking breaks can actually help me feel better and be more productive.
+
+Consultant: That’s a powerful realization, An! I’m proud of the progress you've made today. As you try out your plan, remember that it’s perfectly normal to adjust and recalibrate. I believe in your ability to manage this balance. If you need support in the future, don’t hesitate to reach out again. 
+
+User: Thank you so much for your guidance! I’ll make sure to keep in touch.
+
+Consultant: You’re welcome, An! I wish you all the best with your activities and studies. Take care and see you next time!
+###################
+Consultant: Hello, An! I'm glad to see you today. Let's start by discussing how you've been feeling recently. What would you like to share about your experiences with your studies and social interactions?
+
+User: Hi! I've been feeling more relaxed lately. Working with my classmates has really helped with the academic pressure. It feels good to get positive feedback from social activities too.
+
+Consultant: That sounds wonderful! It's great to hear that your interactions and collaborations have positively impacted your stress levels. Can you tell me more about specific situations where you felt this relief or positivity?
+
+User: Well, I worked on a group project last week, and everyone contributed well. We had a lot of constructive discussions, and I felt like my input was valued. That really boosted my confidence.
+
+Consultant: That’s a fantastic experience! It sounds like you found a supportive environment. How did that make you feel about participating in future group projects?
+
+User: I feel more motivated to join future projects now. I used to hesitate because I thought others might judge my ideas, but now I feel like I can contribute worthily.
+
+Consultant: It's great that you feel more motivated and valued. It seems you're starting to overcome those fears. What specific thoughts crossed your mind before joining discussions in the past, and how do you feel about them now?
+
+User: I used to think, "What if my ideas are silly?" But now I realize that everyone’s perspective is valuable, including mine. I’m starting to replace those thoughts with more positive ones.
+
+Consultant: That’s a big step forward! Recognizing the value of your own ideas is crucial. Let's explore how you can continue to challenge those negative thoughts when they arise. What techniques have worked for you so far?
+
+User: Talking to my friends and getting their support has helped. They've reassured me that it's okay to share my thoughts, no matter what they are.
+
+Consultant: That’s an excellent strategy! Having a supportive network is vital. How about when you're feeling anxious about sharing your thoughts? What do you think you could do in those moments to encourage yourself to speak up?
+
+User: I could try reminding myself of those positive experiences and maybe even breathe deeply to calm my nerves before speaking.
+
+Consultant: Breathing deeply is a wonderful practice! It can help ground you in those anxious moments. Let's talk about setting small goals for your next group project. What would help you feel more comfortable contributing?
+
+User: Maybe I could aim to share at least one idea in our first discussion. That seems achievable and would help me ease into it.
+
+Consultant: That sounds like a very doable plan! It’s a great way to gradually build your confidence. How would you feel about setting a reminder for yourself to do that?
+
+User: I can set a note on my phone to remind me to speak up. I think that will help me hold myself accountable.
+
+Consultant: A phone reminder is a fantastic tool! Remember to celebrate that accomplishment, no matter how small it feels. As we continue these sessions, how can I support you in maintaining this positive momentum in both your studies and social interactions?
+
+User: I think it would help if we can regularly check in about my progress. Just talking it through makes me feel better.
+
+Consultant: Absolutely! Regular check-ins will allow us to track your progress and adjust any strategies as needed. What are some specific concerns you still have about your studies or social experiences that we could address today?
+
+User: I’m still worried about my overall study efficiency as exams are approaching. Sometimes, I feel unsure if I’m studying the right topics or methods.
+
+Consultant: It’s understandable to feel that way with exams coming up. Let’s talk about how you can create an effective study plan. What subjects or topics do you feel most anxious about?
+
+User: I’m particularly anxious about math. It’s always been challenging for me, and I’m worried I won't have enough time to grasp everything before the exam.
+
+Consultant: Math can certainly be daunting. Have you ever considered breaking down the material into smaller sections to tackle each one at a time? 
+
+User: No, I haven’t thought about that. I usually try to cover too much in one go and end up feeling overwhelmed.
+
+Consultant: Breaking it down is a great strategy! By focusing on one section at a time, you can build your understanding without getting overwhelmed. How about creating a timeline for studying each topic leading up to your exam?
+
+User: That could really help! I can outline what to study each day so I won’t feel rushed.
+
+Consultant: That sounds like an effective approach! Let’s set some specific time slots for your study sessions. How many days do you have until your exam?
+
+User: I have about two weeks left.
+
+Consultant: Perfect! With that timeframe, you can assign specific topics to each day. It may also help to include some review time at the end of each week. How does that sound?
+
+User: That sounds really good! It gives me a clear focus, and I can adjust if needed.
+
+Consultant: Exactly! You have a flexible plan in place. Before we finish today's session, is there anything else you'd like to discuss or explore further?
+
+User: I just want to make sure I remember all of this and keep my confidence up. 
+
+Consultant: You’re doing wonderfully, An. Keeping positive thoughts and supportive reminders will help maintain that confidence. Remember to treat yourself kindly and recognize your growth. Our next meeting can be a great time to assess how your study plan is working. 
+
+User: Thank you! I appreciate all your help and suggestions. I feel much more positive about approaching both my studies and socializing now.
+
+Consultant: I’m so glad to hear that! It’s been a pleasure working with you today. Keep embracing these strategies, and I look forward to hearing about your progress in our next session. Take care!
+###################
+Consultant: Hello, An! I'm glad you're here today for our session. Since we last spoke, how have you been feeling about your progress and the changes you've made in your life?
+
+User: Hi! I've felt really good about things lately. My grades have improved, I've made new friends, and I'm managing my sleep better. I’m quite proud of my progress.
+
+Consultant: That’s wonderful to hear! It sounds like you’ve made significant strides in various areas. What specific aspects of your life do you feel most excited about right now?
+
+User: I’m mostly excited about my social life! I’ve met some great people, and I enjoy spending time with them. It feels really fulfilling.
+
+Consultant: Building those connections can be so enriching. How do these new relationships affect your overall mood and outlook on life?
+
+User: They really boost my mood! Being around them makes me feel more confident and less alone. It's nice to have a support system now.
+
+Consultant: It’s fantastic to have a support system in place. Sharing experiences and feelings with others can have a positive impact on mental health. Are there any moments or activities with your friends that stand out to you?
+
+User: Yes, we went hiking last weekend. It was a great break from studying, and I felt so relaxed and happy being in nature with them.
+
+Consultant: That sounds like a lovely experience! Engaging in activities that bring you joy is essential for maintaining a positive mindset. How have you been able to balance your studies and social life lately?
+
+User: Honestly, it’s been a bit challenging. Sometimes I feel guilty taking breaks to hang out, but I know I need to recharge. I’ve been trying to find a better balance.
+
+Consultant: It's understandable to feel that way. Finding balance can be tough, especially with the pressures of academic life. What strategies have you tried to help manage your time?
+
+User: I’ve been making schedules for my study sessions and planning social activities around them. It's not perfect, but it helps me prioritize.
+
+Consultant: That’s a proactive approach, An! Scheduling is a great tool. How do you feel about the effectiveness of this strategy for you right now?
+
+User: I think it works well for the most part, but I sometimes get distracted or miss my study goals. I’m still figuring out what works best for me.
+
+Consultant: It sounds like you're actively reflecting on your progress, which is a positive habit. What challenges do you face when you find yourself distracted during study time?
+
+User: I get easily sidetracked by my phone or thoughts about what my friends are doing. It’s tough to stay focused.
+
+Consultant: Distractions can indeed be challenging. Have you considered any specific techniques or practices to minimize those distractions while studying?
+
+User: I’ve thought about turning my phone off or using apps that limit my usage, but I find it hard to stay committed to those changes.
+
+Consultant: It’s common to struggle with commitment to those changes. What do you think holds you back from following through on those techniques?
+
+User: I guess I worry about missing out on messages or not being connected with my friends. It feels tough to disconnect completely.
+
+Consultant: That’s a valid concern, wanting to stay connected. How about we explore a balance between staying connected and focusing on your studies? What if you set specific times to check your phone vs. your study time?
+
+User: That sounds like it could work! Maybe I could allocate some time after each study session to check in with my friends.
+
+Consultant: That sounds like a great compromise! Setting boundaries can help you feel connected while still focusing on your studies. Would you like to implement this plan for your next study session?
+
+User: Yes, I’m willing to try that out and see how it goes. I hope it helps me stay focused!
+
+Consultant: Great! It’s about trial and error to find what fits best for you. Moving forward, how do you plan to celebrate or acknowledge the progress you make along the way?
+
+User: I think I’ll reward myself after completing my study goals—maybe a treat or a fun outing with friends! 
+
+Consultant: That’s a fantastic idea! Celebrating your achievements, no matter how small, reinforces the positive changes you've made. As we wrap up today, what feelings or thoughts are you taking away from our conversation?
+
+User: I feel encouraged and optimistic about managing my time better. It’s reassuring to know I have support and can keep improving. 
+
+Consultant: I'm glad to hear that, An! Remember, recognizing your progress is key. Let’s keep focusing on maintaining that positive mindset. Do you think you'd like to schedule our next session to continue discussing these strategies and reflections?
+
+User: Yes, I’d really like that! I want to keep working on this.
+
+Consultant: Wonderful! I look forward to our next session. You’ve made impressive progress, and I believe you’re on the right path. Take care until then!
+
+User: Thank you! I appreciate your support.
+###################

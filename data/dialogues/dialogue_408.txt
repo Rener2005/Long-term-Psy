@@ -1,0 +1,386 @@
+Consultant: Hi Jessica, I’m glad you decided to join us today. How are you feeling about being here right now?
+
+User: I don’t know. I still think this is all pointless. I mean, I’m only here because I have to be. It feels like a waste of time.
+
+Consultant: I understand that it might feel that way. It’s completely normal to have reluctance, especially when it feels like you don’t have much choice. Can you tell me a bit about what you’re hoping to achieve from our time together?
+
+User: I guess I just want to avoid getting kicked out of school. My parents are already upset, and I don’t want them to be more disappointed in me.
+
+Consultant: That sounds really tough. It seems like there’s a lot of pressure on you right now. Let’s explore some ways we might help you feel more in control of your situation. What do you think your behavior at school looks like that might be causing these issues?
+
+User: I don’t know… I just get bored in class. I don’t feel like participating. And sometimes I just don’t care about the rules.
+
+Consultant: It makes sense that feeling bored can make it hard to engage. I appreciate you sharing that with me. Can you think of any specific situations where you felt like you weren't following the rules? How did you feel in those moments?
+
+User: I remember getting called out for not paying attention in class. I just wanted to do my own thing. It wasn’t even that important to me, but I don’t like being told what to do.
+
+Consultant: That feeling of wanting to assert your independence is really common, especially at your age. But it seems like that independence has led to some consequences that you’re worried about, like getting warnings from teachers. Could we explore how those moments make you feel?
+
+User: Honestly, I just feel annoyed. I don’t think my teachers understand me, and they just focus on the bad stuff. It feels like they’re being unfair.
+
+Consultant: It’s understandable to feel frustrated when you feel misunderstood. Let’s talk about some of those feelings—perhaps we can identify thoughts that come up when you're feeling annoyed. What typically goes through your mind in those moments?
+
+User: I usually think they are just being strict for no reason. Like, I’m trying my best to stay out of trouble, but they still make a big deal out of everything.
+
+Consultant: That sounds really challenging. So, your thoughts suggest that you feel your actions aren’t recognized despite your efforts. Let’s consider—what evidence do you have that they are not seeing your attempts to improve?
+
+User: Well, sometimes I do try to pay attention, and I think I’m doing okay, but they don’t give me credit for it. They just keep focusing on what I’m doing wrong.
+
+Consultant: It seems like you’re feeling a bit trapped where your efforts are overlooked. If a friend were in your position, what advice might you give them about how to approach those situations with their teachers?
+
+User: I guess I would tell them to just talk to the teacher about how they feel and maybe ask for help. But I’m not sure if that would work for me.
+
+Consultant: That’s a thoughtful suggestion! It shows you have insight into how open communication could help. Would you be willing to try discussing your feelings with your teachers? It could give them a chance to see your perspective as well.
+
+User: Maybe. But I still doubt it would make a difference. They’re just going to see me as a troublemaker.
+
+Consultant: I hear you—that's a valid concern. It might feel a bit tough to approach them, especially if you believe they already have a fixed idea of who you are. What if we explored how you could present your perspective in a way that feels comfortable for you?
+
+User: I don’t know… I guess I could try to say something when I’m not in trouble. But what if I mess it up?
+
+Consultant: It’s great that you’re considering timing. Remember, it’s perfectly okay to make mistakes; that’s part of learning. Would practicing what you want to say help you feel a bit more prepared?
+
+User: I suppose I could write it down first. Then I wouldn't forget what I want to say.
+
+Consultant: That sounds like an excellent strategy! Writing things down can help clarify your thoughts and make you feel more confident when you speak. Would you like to brainstorm some ideas about what you might want to express to your teachers?
+
+User: I think I need help with that. I tend to just ramble when I try to explain things.
+
+Consultant: No problem at all! Let’s try to focus on a key message. Perhaps starting with how you feel about being in class might be a good point. Then mention how you want to do better. How does that sound to you?
+
+User: That could work. I could say that I want to be more involved but sometimes get lost in class.
+
+Consultant: Exactly! You’re acknowledging your desire for improvement as well as being honest about your feelings. It can show them you’re open to feedback and willing to work on it. How does this approach make you feel?
+
+User: I guess it feels a bit less intimidating than I thought. It’s nice to know I can say something without being in trouble.
+
+Consultant: That’s a great realization! Taking proactive steps, even small ones, can make a huge difference. As we move forward, let’s keep building strategies that empower you during your time at school. Do you feel like there’s anything specific you’d like to focus on for our next session?
+
+User: I’d like to talk more about what to say and maybe how to handle things if it doesn’t go well.
+
+Consultant: Absolutely! We can definitely work on that together. It’s all about finding comfort and resilience in communication. I appreciate your openness today. Remember, change takes time, and I’m here to support you along the way.
+
+User: Thanks. I still think it’s silly, but I guess it’s better than nothing.
+
+Consultant: I appreciate your honesty. Every small step counts. You’ve engaged well today, and that’s already a positive change. We can always refine this process together. Looking forward to seeing you next time!
+###################
+Consultant: Hi Jessica! I'm glad to see you again today. How have you been since our last session?
+
+User: Hi. Honestly, I haven't felt much different. I still think this whole counseling thing is a bit pointless. I mean, just because I’m here doesn’t mean my teachers will stop criticizing me.
+
+Consultant: I hear you, and it’s understandable to feel skeptical, especially if you've faced criticism recently. Let’s talk about those experiences. What happened in class that made you feel this way?
+
+User: Well, during my last class, I got called out by my teacher again for not paying attention. It was really embarrassing, and I just don’t see how talking helps with that.
+
+Consultant: That sounds really uncomfortable, and I appreciate you sharing that with me. It can be tough when you feel singled out. Can we explore what was going through your mind at that moment? What thoughts popped up when your teacher criticized you?
+
+User: I just thought, “Here we go again." I feel like no matter what I do, it's never good enough, and that just makes me more anxious. 
+
+Consultant: It seems like you have a thought pattern where you feel you’re not meeting expectations, which can create more anxiety. Let’s unpack that a little. Is there a specific thought that makes you feel that way when you're in class?
+
+User: I guess I keep thinking everyone else is doing better than me. They probably see me as a slacker or someone who isn’t trying.
+
+Consultant: That’s a powerful thought. It sounds like you might be comparing yourself to others, which can be really overwhelming. Can we think about how valid that comparison is? What evidence do you really have that others see you that way?
+
+User: I don’t know. I just assume that’s what they think because they seem to get it. I feel like I’m always behind.
+
+Consultant: It’s common to feel that way, especially in a competitive environment. However, let’s consider an alternative perspective. If a friend felt that way, how would you encourage them to think about their situation?
+
+User: I’d probably tell them that it’s okay to not be perfect and that everyone has their struggles.
+
+Consultant: Exactly! It’s very compassionate of you to think this way about others. Perhaps you can try to apply that same understanding to yourself. Would you be willing to experiment with this kinder self-talk and see if it changes your perspective in class?
+
+User: Maybe. I mean, it can't hurt to try, right?
+
+Consultant: Absolutely! Small changes can make a big difference over time. Let’s consider some specific situations where you could practice this kinder self-talk when you feel criticized. Can you think of a time this week when you might try it?
+
+User: I have a class tomorrow where I usually struggle, so I can try that self-talk then. 
+
+Consultant: That sounds like a good plan! Remember to catch those negative thoughts and challenge them gently. How do you feel about keeping track of those moments and what thoughts arise?
+
+User: I could do that. I usually just brush it off, but writing it down might help me realize something.
+
+Consultant: That's a great approach, Jessica! It allows you to reflect on your thoughts and feelings and identify patterns. How would you feel if we set a goal for you to share some of those reflections with me in our next session?
+
+User: I guess that could work. I’m not sure it’ll change anything, but I’ll give it a shot.
+
+Consultant: I appreciate your willingness to try. Sometimes, just noticing your thoughts can create a shift. Would you like to think of any small, manageable actions you can take to express yourself more positively during class as well?
+
+User: Maybe I can also try to ask questions if I don’t understand something instead of just sitting there feeling lost.
+
+Consultant: That’s an excellent idea, Jessica! Asking questions not only helps you but also shows your teachers that you’re engaged. Creating that interaction might change how they see you and will help you feel more confident in the classroom.
+
+User: Yeah, I hadn’t thought about that part. That might actually help me feel less anxious.
+
+Consultant: Exactly! It’s all about taking those small steps toward feeling more in control. Let’s summarize what we’ve talked about today. You’re planning to try kinder self-talk and engage more in class by asking questions. How does that sound to you?
+
+User: Sounds good! I hope I remember it all when I’m actually in class.
+
+Consultant: I believe you will! And remember, it’s totally okay to start small and ease into these changes. You’re showing progress by just being here and thinking about these strategies. Is there anything else you’d like to share before we wrap up?
+
+User: I just hope I can actually make a change. It feels a bit daunting.
+
+Consultant: It’s normal to feel that way, but you’re already taking steps to challenge those feelings. Change doesn’t happen overnight, but each session builds on the last. I'm proud of you for being open to this journey.
+
+User: Thanks. I guess it’s nice to have someone to talk to about it.
+
+Consultant: You’re welcome, Jessica! I’m always here to support you, and we’ll continue to work through this together. I look forward to hearing about your progress next time. Take care!
+
+User: Thanks! I’ll see you next time.
+###################
+Consultant: Hello, Jessica! I'm glad you're here for today's session. I know you've been making some positive changes lately. How are you feeling about it?
+
+User: Hi. I don’t know. I guess it’s okay that I got some praise from my teacher, but I still think this whole counseling thing is a bit pointless.
+
+Consultant: It sounds like you're feeling a mix of achievements and skepticism. Praise from your teacher is a significant step! What do you think contributed to this improvement in your behavior?
+
+User: Well, I started trying to pay more attention in class because I didn't want to get in trouble anymore. But I still feel like I'm just pretending to be good.
+
+Consultant: It’s understandable to feel that way. Changing behavior can sometimes feel inauthentic, especially when there's external pressure. Can you tell me more about the specific actions you took that led to this praise?
+
+User: I guess I raised my hand more often and tried to stay quiet during lessons. I didn't want to distract others or get in trouble like before.
+
+Consultant: That’s great to hear! You actively participated and thought about how your actions affect others. What effect did these changes have on how you feel about school and your peers?
+
+User: It felt kind of good to actually be acknowledged. But at the same time, I worry that my classmates think I'm just trying to show off or that I don't really belong with them.
+
+Consultant: It’s common to worry about how others perceive us, especially when making changes. You mentioned feeling acknowledged—did this praise affect your confidence?
+
+User: A little bit, I suppose. But I still feel like I’m not really connecting with my classmates. They seem to have their own groups, and I feel like I’m on the outside looking in.
+
+Consultant: That can be tough. Feeling disconnected can increase anxiety about fitting in. What are some thoughts you have about reaching out and connecting with your classmates?
+
+User: I think it’s scary. What if they don't want to talk to me or think I’m weird? I’m not sure how to approach them.
+
+Consultant: It’s normal to feel scared about reaching out. It might help to consider starting small. What if you tried initiating a conversation in a low-pressure setting, like a shared class project?
+
+User: That sounds less intimidating, but I still fear they might reject me. Then I’d feel even worse about myself.
+
+Consultant: Rejection can be really painful, and it’s understandable to fear that. Can we explore what you would say to yourself if a friend were in this situation? How would you encourage them?
+
+User: I guess I’d tell them that if they try and it doesn’t work, that's okay too. At least they are trying, right?
+
+Consultant: Exactly! It’s about taking the step and being proud of trying, regardless of the outcome. How might you apply that same thought to your own situation?
+
+User: I could remind myself that it’s okay to try talking to them even if they don’t respond the way I hope. It’s worth a shot.
+
+Consultant: Yes! That mindset can help reduce the pressure. To build on that, let’s think about setting a small goal related to reaching out. What might be a realistic first step for you?
+
+User: Maybe I could just say hi to someone in class tomorrow. That doesn’t seem too hard.
+
+Consultant: Starting with "hi" is a fantastic goal! It’s a simple yet effective way to break the ice. How do you feel about committing to that for our next session?
+
+User: I think I can do that. It's just a greeting. I’ll try!
+
+Consultant: Awesome, Jessica! I’m proud of you for being open to trying this out. Remember, no matter the outcome, that effort is valuable. Let’s also reflect on the positive changes you’ve made so far. 
+
+User: Thanks. I feel like I’ve been making progress even though it’s not easy.
+
+Consultant: Progress can often feel slow, but recognizing it is important. You’ve shown yourself that you have the ability to change. What’s one thing you’d like to focus on improving next?
+
+User: I guess I want to feel less anxious when I'm around my peers. I just want to fit in better.
+
+Consultant: That’s a great goal. Building connections can help with that anxiety. As you navigate these interactions, how can we work together to ensure you feel supported?
+
+User: Maybe we could come up with some more strategies for conversations? That would be helpful.
+
+Consultant: Absolutely! We can develop some conversational starters or topics to discuss. What interests you about your classmates? Any shared activities or classes you enjoy?
+
+User: A lot of them like the same music as me. I could bring that up!
+
+Consultant: Perfect! Music is a great conversation starter. You could ask them about their favorite songs or bands. How do you think that might help ease your anxiety?
+
+User: It would give me something common to talk about, and maybe it would help me feel more relaxed.
+
+Consultant: Yes, finding common ground can definitely help ease tension. It can transform an intimidating situation into one where you can engage more naturally. How do you feel about exploring this strategy further?
+
+User: I’m feeling a bit more hopeful about it now. Thanks for the suggestions!
+
+Consultant: I’m glad to hear that! Remember, it’s about progress and trying new things at your own pace. For our next session, let’s discuss how your greeting and music conversations went. Does that sound good?
+
+User: Yes, that sounds good. I’ll give it a shot!
+
+Consultant: Wonderful! I look forward to hearing all about your experiences. You’ve been incredibly open today, and that’s commendable. See you next time!
+
+User: Bye! Thanks!
+###################
+Consultant: Hello Jessica! Welcome to our session today. I know this is a required step for you, but I hope we can make this a productive time. How are you feeling about being here?
+
+User: Hi. To be honest, I don’t really think I need this. I don't get what talking to someone about my problems will change.
+
+Consultant: I understand that you might be skeptical about this process, and that’s completely okay. Sometimes, sharing your thoughts with someone can provide a different perspective. What’s been on your mind lately that feels overwhelming?
+
+User: Well, I’ve had some issues with my classmates. It’s been stressful, and I worry it might mess up my school life. It’s frustrating.
+
+Consultant: It sounds like you're dealing with some difficult relationships. That stress must be weighing on you. Can you tell me a bit more about what happened with your classmates?
+
+User: There was this argument over a group project. I feel misunderstood, like they don’t get my point of view, and now it just feels awkward.
+
+Consultant: That must feel really uncomfortable, especially when you’re trying to accomplish something as a team. How did that argument make you feel at the time?
+
+User: I felt really anxious and kind of angry. I guess I just don’t know how to express my feelings without it turning into a fight.
+
+Consultant: It's understandable to feel anxious in those situations. It can be tough to communicate effectively, especially during conflicts. What do you think would help you express your feelings better?
+
+User: I don’t know. Maybe if I could just talk without people interrupting me or cutting me off. But I feel like they just don’t listen.
+
+Consultant: It sounds like being heard is really important to you. Let’s explore some ways you could share your thoughts in a way that encourages others to listen. How do you feel about trying some role-playing today where we practice different communication approaches?
+
+User: Role-playing? Really? That sounds kind of silly, but I guess it can’t hurt to try.
+
+Consultant: It might feel a bit silly at first, but sometimes practicing how we say things can make a world of difference. Let’s give it a shot! Can you think of a recent situation where you wanted to express yourself but felt it didn't go well?
+
+User: Sure, there was a moment after the argument when I tried to explain my side, but I feel like I just got cut off again.
+
+Consultant: That’s a great example. In your role-play, we can practice how to keep your statement clear and assertive. For instance, you can start by saying something like, “I feel upset when my ideas aren’t acknowledged.” How does that sound?
+
+User: That actually sounds kind of okay. I could try saying something like that.
+
+Consultant: Wonderful! Let’s practice that. Imagine I’m one of your classmates. Go ahead and start with your statement.
+
+User: Okay... “I feel upset when my ideas aren’t acknowledged.” 
+
+Consultant: That’s a strong start! How did it feel to say that?
+
+User: It felt a bit scary, but also freeing to just put it out there.
+
+Consultant: That’s very insightful, Jessica. It’s a step towards expressing yourself confidently. What do you think your classmates might respond to you after saying something like that?
+
+User: I guess they might pause and listen a bit more. But what if they don’t?
+
+Consultant: That's a valid concern, and it's important to acknowledge that. Sometimes people need time to digest what’s been said. If they don’t respond as you hope, we can come up with a backup plan for that scenario. How about focusing on your emotions first, then asking for their feedback?
+
+User: So, like telling them how I feel and then asking if they understand where I'm coming from?
+
+Consultant: Exactly! You could say, “I’m feeling anxious about this situation, and I’d really like to hear your thoughts.” This approach encourages a more open dialogue. 
+
+User: That sounds more manageable. I think they'd be more likely to talk back then.
+
+Consultant: I'm glad to hear that! It’s all about fostering a better environment for communication. As we practice these skills, how do you envision yourself using them in the future?
+
+User: I hope it helps me with not only this situation but also with others. I just want to feel less anxiety when I’m around my classmates.
+
+Consultant: That’s a fantastic goal, Jessica. Building your communication skills can definitely help reduce your anxiety. How about we review some key points at the end of our session today, to reinforce what you've learned?
+
+User: Yeah, I’d like that. It’ll help me remember what to say.
+
+Consultant: Great! We can encapsulate your strategies for expressing yourself and managing any potential conflicts moving forward. Is there anything else on your mind today?
+
+User: No, I think I just need to keep practicing. I feel a little better about it now, actually.
+
+Consultant: I’m really glad to hear that you feel a bit better! Remember, this is a process, and every step you take is progress. Today, we’ve started building your confidence. I look forward to continuing this journey with you.
+
+User: Thanks! I actually appreciate this a bit more now. It’s nice to talk about it.
+
+Consultant: Of course, and thank you for being open to this experience. I believe you’ll make great strides in improving your interactions. Let’s keep going on this path together.
+###################
+Consultant: Hello, Jessica! I'm glad you're here with me today. I’d like to start by chatting about how you’ve been feeling lately. What has been on your mind?
+
+User: Hi. I guess I've been okay. I mean, I've been trying out some new communication skills that I learned, and it feels nice to get better responses from friends. But sometimes, I still feel a bit out of place.
+
+Consultant: That sounds like a positive step! It's great to hear that you’re receiving better feedback from your friends. Can you share a specific situation where you felt more confident using those skills?
+
+User: Um, well, at lunch the other day, I started a conversation with a couple of classmates I usually don't talk to much. It felt good, but I was also nervous about how they might react.
+
+Consultant: Starting a conversation with classmates is a commendable effort! It’s normal to feel nervous in new social situations. How did you manage those nerves before you approached them?
+
+User: I tried to remind myself that they might be just as nervous. I focused on what I wanted to say, but I still felt this nagging doubt.
+
+Consultant: That’s a great strategy—thinking about their feelings can definitely ease your own nerves. What kind of doubts were nagging at you during that moment?
+
+User: I was worried they wouldn't be interested in talking to me or think I’m boring. It made me hesitate for a moment.
+
+Consultant: Those thoughts can be quite heavy. Would you consider these feelings to be an exaggeration of the actual situation? For example, how likely do you think it is that they would think poorly of you?
+
+User: I guess it’s not very likely. They’ve been friendly enough, but my mind just makes things seem worse than they are.
+
+Consultant: It’s common for our minds to blow things out of proportion, especially in social settings. Since you had a positive interaction with them, how might you challenge those negative thoughts in the future?
+
+User: Maybe I can remind myself of that success next time, and think about how they were actually engaged in our conversation.
+
+Consultant: Absolutely! Reminding yourself of positive experiences can help reinforce your confidence. Let’s think about setting a few goals for your social interactions moving forward. What would you like to achieve in your conversations with others?
+
+User: I want to try talking to new people more regularly and maybe even join a club or something. It could help me meet different friends.
+
+Consultant: That sounds like an excellent goal, Jessica! Engaging in a club could really expand your opportunities to connect. How would you like to start taking actionable steps toward this goal?
+
+User: I could look for clubs that match my interests at school. I could also challenge myself to start conversations with at least one new person each week.
+
+Consultant: Those are fantastic ideas! Setting a specific action plan helps make it feel more doable. How might you feel after successfully completing those steps?
+
+User: I think I’d feel proud and a bit more at home at school. It would make me feel more confident in myself.
+
+Consultant: That’s a lovely realization! Building that confidence is key. It’s all about taking small steps. How would you like to celebrate your progress along the way?
+
+User: Maybe I could treat myself to something nice when I reach a certain goal or just acknowledge it with my friends.
+
+Consultant: Celebrating your achievements, no matter how small, is really important! It helps reinforce the positive changes. As we wrap up today, what do you think has been the most significant takeaway from our session?
+
+User: I guess I really see now that I can manage my thoughts and feelings better. I feel optimistic about my social goals.
+
+Consultant: That’s wonderful to hear! Remember, you have the tools to navigate through these feelings. Keep reinforcing those positive interactions. If you encounter challenges, just reach out and reflect on what you've learned today.
+
+User: Thank you! I appreciate this discussion and feel more prepared to face my social goals.
+
+Consultant: You’re very welcome, Jessica! I’m proud of the progress you’ve made. Remember, I’m here to support you anytime. Looking forward to our next session!
+
+User: Me too! Thanks again.
+###################
+Consultant: Hello, Jessica! I'm glad to see you again. Today, I would like to talk about the progress you've made in our sessions. How are you feeling about your experiences since we last met?
+
+User: Hi. Honestly, I was a bit skeptical about these sessions at first, but I’ve noticed some changes in myself. I feel like I’m managing my emotions a little better and my attitude towards school has improved.
+
+Consultant: That’s wonderful to hear! It sounds like you’re feeling more positive about your ability to manage your emotions and tackle school challenges. Can you share an example of a specific situation where you've noticed this change?
+
+User: Well, just last week, I had a disagreement with a teacher, and instead of getting defensive or angry, I managed to stay calm and discuss my viewpoint respectfully. I was proud of that.
+
+Consultant: That’s an excellent example of your growth, Jessica! Staying calm in a tense situation shows that you’re developing effective communication skills and emotional regulation. How did you feel after handling the situation in that way?
+
+User: Honestly, I felt relieved and a bit more confident. It was nice to resolve it without making things worse.
+
+Consultant: Feeling relieved and gaining confidence are both very positive outcomes. It sounds like you’re starting to trust in your ability to handle difficult situations. What other areas do you feel you’d like to continue improving in moving forward?
+
+User: I think I want to focus on staying motivated in my studies. Sometimes I still feel overwhelmed with schoolwork, which makes it hard to focus.
+
+Consultant: It's great that you want to work on your motivation and focus. Overwhelm can be a common challenge, especially in a large school. What strategies have you found helpful in managing your workload so far?
+
+User: I’ve tried breaking my assignments into smaller tasks. It helps a bit, but sometimes I still procrastinate.
+
+Consultant: Breaking tasks into smaller pieces is a strong strategy! Procrastination can be tricky, though. What do you think causes you to procrastinate despite knowing it could help to start early?
+
+User: I guess sometimes I feel like the tasks are too big or boring. I find it hard to get started.
+
+Consultant: That makes sense. It’s common to feel stuck when faced with large or uninspiring tasks. Would you be open to exploring some techniques to make starting these tasks easier and perhaps even more enjoyable?
+
+User: Sure, I’m open to that. I just don’t know where to start.
+
+Consultant: One approach we could try is setting specific, achievable goals for each studying session and incorporating short breaks or rewards afterward. How does that sound to you?
+
+User: That sounds doable! If I can treat myself after getting through a task, I think that could motivate me.
+
+Consultant: Great! It’s all about finding what works for you. In addition, you might want to consider creating a list of subjects or tasks you enjoy and integrating them into your study routine. Would that help you maintain your interest?
+
+User: Yes, definitely! I love art, so maybe I could incorporate some creative projects related to my assignments.
+
+Consultant: I love that idea! Mixing in your passion for art could make studying feel more enjoyable and less burdensome. As we move forward, how do you want to track your progress on these new strategies?
+
+User: I think keeping a journal might help. I can write down what strategies I use, how I feel about them, and what works best for me.
+
+Consultant: A journal is an excellent tool for self-reflection and tracking your progress! It allows you to acknowledge your achievements and adjust strategies if needed. Reflecting on your journey can be very helpful. How have you felt about the changes you’ve implemented so far?
+
+User: I feel good about them. It’s nice to see my efforts paying off. 
+
+Consultant: That’s fantastic to hear, Jessica! It sounds like you’re gaining confidence in your ability to manage both your tasks and your emotions. As we approach the end of our session, what do you think your next steps should be based on what we've discussed today?
+
+User: I think I’ll start by implementing those new study strategies and keeping a journal. I should also remind myself to keep calm like I did with the teacher if I face any confrontations.
+
+Consultant: Those are wonderful next steps! Remember to celebrate your successes, no matter how small. You’ve shown great dedication to your progress. As we finish our session today, what have you learned about yourself through this process?
+
+User: I’ve learned that I’m capable of managing difficult situations better than I thought, and that I can find ways to make studying more enjoyable.
+
+Consultant: That’s a significant realization, Jessica! It’s important to acknowledge your capabilities and the progress you've made. I'm confident that you will continue to manage challenges successfully. Today wraps up our current sessions—how do you feel about concluding this phase of your journey?
+
+User: I feel proud of the progress I made. Thank you for guiding me through it.
+
+Consultant: You should be proud! You've worked hard, and your dedication shows. If you ever need additional support in the future, know that you’re always welcome to return. Wishing you all the best in your future endeavors. Take care!
+###################

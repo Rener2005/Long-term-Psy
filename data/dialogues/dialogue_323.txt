@@ -1,0 +1,388 @@
+Consultant: Hello, Zhang Wei! I'm glad you could join me today. How have you been feeling lately, especially with the work challenges you've mentioned?
+
+User: Hi! Honestly, I've been feeling really overwhelmed. The project delays and issues with my team have been weighing heavily on my mind. I can't seem to shake off the anxiety.
+
+Consultant: I hear you. It sounds like the pressure from work and the difficulties with your team are causing you a lot of stress. Can you tell me more about how these issues are affecting your day-to-day life?
+
+User: Sure. I often find it hard to concentrate, and I feel restless. Some nights, I lie awake thinking about work. It's frustrating because I want to do well, but I just can't focus.
+
+Consultant: That sounds really tough, Zhang Wei. It seems like this anxiety is quite persistent and affecting your ability to focus on your tasks. What thoughts come to your mind when you're in those moments of feeling restless or anxious?
+
+User: I think about how disappointed my boss will be if I don’t deliver on time. I worry that I might not be cut out for this job, and that makes me feel even more anxious.
+
+Consultant: It’s understandable to feel concerned about your job performance and the expectations that come with it. Let’s explore those thoughts a bit. When you think, "I might not be cut out for this job," how does that make you feel about your work?
+
+User: It makes me feel inadequate and increases my stress. I start to think that maybe I should consider a different career.
+
+Consultant: It sounds like you're grappling with feelings of inadequacy. It's quite common to have such thoughts under pressure. Let's challenge this idea a little: what evidence do you have to support the belief that you're not suited for your job?
+
+User: I guess I don't have actual evidence. I mean, I've done well on some projects before, but these recent problems really make me doubt myself.
+
+Consultant: It’s good that you can recognize your past successes. Sometimes, difficult situations can cloud our judgment. If a friend were in your position, what advice would you give them about their capabilities?
+
+User: I would probably tell them to not be too hard on themselves and remember their strengths. But it’s harder to believe that for myself.
+
+Consultant: It's often easier to extend kindness to others than to ourselves. Let's try to reframe this thought: instead of saying, "I'm not cut out for this job," maybe we could say, "I'm facing challenges right now, but I've succeeded before and can find ways to improve." How does that sound to you?
+
+User: That sounds better. I think I can try to remind myself of my successes, but it's still difficult sometimes.
+
+Consultant: It's completely normal to feel that way, especially when you're under stress. Along with recognizing your successes, let’s think about some steps you can take to handle the stress better. Have you tried any relaxation techniques to help manage your anxiety?
+
+User: Not really. I haven't thought much about that. I've just tried to push through the stress by working harder.
+
+Consultant: It’s common to think more work is the solution, but sometimes it can lead to burnout. How about we explore some simple relaxation techniques together? Even a few minutes each day could help you regain some calm.
+
+User: That might be worth trying. What do you suggest?
+
+Consultant: We can start with breathing exercises. Just taking a few deep breaths can help reduce anxiety. Would you like to try a simple breathing technique now?
+
+User: Sure, I can give that a shot.
+
+Consultant: Great! Let’s take a deep breath in through your nose, hold it for a moment, and then slowly exhale through your mouth. Let’s do that together a couple of times. Inhale deeply... hold... now exhale slowly. How does that feel?
+
+User: It feels a bit calming, actually. I think I needed that.
+
+Consultant: I’m glad to hear that! Remember, it’s a small but effective way to manage anxiety. Incorporating this into your daily routine could help you find moments of peace amidst the chaos. Would you be open to setting aside just five minutes each day for this practice?
+
+User: Yes, I think I can do that. I’ll give it a try.
+
+Consultant: That's a wonderful step! As you begin to implement these techniques, it would also be helpful to keep a journal to jot down your thoughts and feelings. This can help you identify patterns in your anxiety and the situations that trigger it. What do you think?
+
+User: That makes sense. I sometimes have so many thoughts that it's hard to keep track of them. Writing them down could help organize things.
+
+Consultant: Absolutely! Journaling is a great way to process your emotions and thoughts. It can also provide insight into your feelings over time. Remember, it’s about progress, not perfection. What would be your next steps this week toward managing your anxiety?
+
+User: I’ll work on the breathing exercises daily and start journaling my thoughts. 
+
+Consultant: That sounds like a solid plan, Zhang Wei! I’m really proud of you for taking these steps. Let’s also touch base next time on how these methods worked for you. How are you feeling about our session today?
+
+User: I feel a bit more hopeful. Acknowledging my feelings and having some tools to manage them makes a big difference.
+
+Consultant: That’s great to hear! Remember, change takes time, but you’re on the right path. If you feel overwhelmed, don’t hesitate to reach out. I look forward to hearing about your progress in our next session. 
+
+User: Thank you! I appreciate your help and understanding.
+
+Consultant: You’re very welcome, Zhang Wei. Take care of yourself, and I look forward to seeing you next time!
+###################
+Consultant: Hello, Zhang Wei! I'm glad you're here for today's session. How have you been feeling lately with the increased pressure at work?
+
+User: Hi! I've been feeling really anxious. The project's pressure is getting heavier, and I find it hard to unwind. It's affecting my sleep, and I'm worried it might impact my overall well-being.
+
+Consultant: I see. It sounds like the pressure from your projects is really weighing on you and affecting both your sleep and your daily life. What specific aspects of this pressure are bothering you the most?
+
+User: I think it's mostly the deadlines and the feeling that I'm constantly being watched, like my work is always under evaluation. I can’t seem to escape that pressure.
+
+Consultant: That sounds really challenging. Feeling constantly evaluated can create a lot of anxiety. Have you noticed how these feelings influence your thoughts about your work during the day?
+
+User: Yes, I think they make me second-guess myself more than usual. I worry about making mistakes, which just adds to my anxiety.
+
+Consultant: It’s understandable to feel that way when the stakes are high. Can you share what specific thoughts come to your mind when you think about making mistakes? How does that affect your emotions?
+
+User: I think things like, "If I make a mistake, I’ll disappoint my team," or "I could lose my job." These thoughts really stress me out and make it hard to focus.
+
+Consultant: Those thoughts sound quite intense. It seems like you fear upsetting your team or facing job insecurity. What do you think would happen if you did make a mistake? Could there be different outcomes than you fear?
+
+User: I guess there could be! I mean, everyone makes mistakes sometimes, right? But my mind just jumps to the worst-case scenario every time.
+
+Consultant: Exactly! It’s common for our minds to go to the worst-case scenario, but it may not reflect reality. Could we try to explore some alternative thoughts or responses to those fears? What would you say to a friend in your position?
+
+User: I would probably tell them that everyone makes mistakes and that they can learn from them. But I struggle to apply that advice to myself.
+
+Consultant: It's interesting how we can be kinder to our friends than to ourselves. Let’s try to reframe your thoughts. If mistakes are a part of learning, how might you view them differently in your own work context?
+
+User: Maybe I could see them as opportunities to improve rather than just failures? That sounds more reasonable.
+
+Consultant: That’s a great start! Viewing mistakes as learning opportunities can reduce anxiety. How might this shift in perspective help you feel more at ease during work?
+
+User: I think it could help me take things less personally and allow me to approach tasks with more confidence. I wouldn't be so afraid of making mistakes.
+
+Consultant: That sounds positive! So, how can we develop a plan to help you practice this perspective during challenging times at work? 
+
+User: I could remind myself to breathe and take a step back whenever I feel overwhelmed. Maybe even write down positive affirmations to counteract my negative thoughts.
+
+Consultant: That’s a solid plan! Writing down affirmations can be very helpful. Would you like to brainstorm a few affirmations that resonate with your new perspective?
+
+User: Yes! Maybe something like, "Mistakes are a chance to grow," or "I am capable of learning from my challenges"?
+
+Consultant: Those affirmations are excellent! You can use them when anxiety creeps in. How do you feel about incorporating these affirmations into your daily routine?
+
+User: I think it will be helpful. I could say them to myself in the morning before starting work and anytime I feel anxious.
+
+Consultant: That’s a wonderful approach. Alongside affirmations, what else can you do to help balance work pressure with relaxation at the end of your day?
+
+User: I’d like to try setting a clearer boundary between work and personal time, like not checking emails after work hours. 
+
+Consultant: That sounds like a very effective boundary! How might that change your evenings and sleep?
+
+User: If I don’t check emails, hopefully, I can actually relax and prepare for the next day without feeling so stressed.
+
+Consultant: That’s definitely the goal! By setting those boundaries, you’re giving yourself the chance to recharge. How do you feel about your ability to implement these changes?
+
+User: I’m feeling okay about it! I think setting those limits will be a big help. 
+
+Consultant: That's great to hear, Zhang Wei! As we wrap up our session today, let’s reflect on how far you’ve come. What do you see as the most significant takeaway from our conversation? 
+
+User: I think my biggest takeaway is realizing that I need to be kinder to myself and that mistakes are part of growth. Setting boundaries will also help me manage stress better.
+
+Consultant: Absolutely! It’s important to remember that everyone struggles, and it’s okay to take care of yourself. With these new strategies, you’re on the right path to improving your overall quality of life. Remember, you can always come back if you need further support. 
+
+User: Thank you! I’ll keep that in mind. I appreciate all your help today. 
+
+Consultant: You’re very welcome, Zhang Wei! Take care and good luck with implementing your new strategies. Remember, you have the tools to manage stress more effectively now.
+###################
+Consultant: Hello, Zhang Wei! I'm glad to see you for our session today. How have you been feeling since we last spoke?
+
+User: Hi! I've been trying to manage my work stress better. I realized I need to set clearer boundaries between work and personal life, but it's still a bit tricky for me.
+
+Consultant: That’s a positive insight, Zhang Wei. Recognizing the need for boundaries is an important first step. Can you share what makes it tricky for you to maintain those boundaries?
+
+User: Well, I often find myself bringing work home and feeling guilty if I don't stay late or work on weekends. It’s like I can’t fully disconnect from my job.
+
+Consultant: It sounds like the pressure to work continuously is quite overwhelming. How does that affect your personal time and activities outside of work?
+
+User: I barely have time for socializing or even exercising. When I do have a moment to relax, I feel torn between catching up on work or actually doing something for myself.
+
+Consultant: That feeling of being torn is understandable. It indicates that your needs are being overshadowed by work demands. What would it look like for you to prioritize personal time more effectively?
+
+User: I suppose I'd like to have specific times set for work and also for myself—maybe allocate an hour or two after work to unwind without any work distractions.
+
+Consultant: That’s a great strategy! Setting aside dedicated time for yourself is crucial. How do you feel about planning some specific activities during that personal time?
+
+User: I think that could really help! I used to enjoy jogging and catching up with friends, but I haven’t done much of that lately.
+
+Consultant: Reintroducing those activities sounds promising. What would it take for you to start incorporating jogging and socializing back into your routine?
+
+User: I think I could start with jogging twice a week, maybe on weekend mornings. As for friends, perhaps I can plan a get-together once every couple of weeks.
+
+Consultant: That's a wonderful plan, Zhang Wei! Setting achievable goals can ease the transition. How do you feel about scheduling this plan and keeping yourself accountable?
+
+User: I feel more motivated now. Maybe I can set reminders on my phone or jot it down on a calendar to stay on track.
+
+Consultant: Using reminders is a practical approach! It can help reinforce your commitment to those activities. What concerns do you have about sticking to this new plan?
+
+User: I worry about falling back into old habits, especially when work gets busy again. I really don’t want to give up on my personal time.
+
+Consultant: That's a valid concern. Reflecting on that, what strategies can we brainstorm to help you resist the temptation to fall back into old patterns?
+
+User: Maybe I can identify warning signs when I’m working too much and create backup plans—like deciding in advance to stop working at a certain time.
+
+Consultant: Absolutely, identifying warning signs is crucial. How about we try developing a checklist of these signs together, along with some action steps you can take when you notice them?
+
+User: Yes, that sounds helpful! I think I would benefit from having clear reminders of my priorities.
+
+Consultant: Great! Let's say one of your warning signs is if you find yourself working late into the evening. What could be a good action step for that?
+
+User: If that happens, I could step outside for a short walk or call a friend to chat. That might help me reset my mind.
+
+Consultant: That’s a great action step, Zhang Wei! Taking a break to shift your focus can also help reinforce those boundaries. How do you feel about implementing that?
+
+User: I like that idea. It gives me a way to reconnect with myself and not just work.
+
+Consultant: Exactly! Do you think you'll be able to start using this strategy this week?
+
+User: Yes, I’ll definitely give it a try. I feel more hopeful about keeping a balance between work and my personal life now.
+
+Consultant: I’m really glad to hear that! As we start moving forward, what have you learned about yourself through this process?
+
+User: I’ve learned that I actually can make time for myself and that my happiness matters too. It’s just about sticking to those boundaries.
+
+Consultant: That’s a powerful realization! It’s important to prioritize your well-being. How would you like to remind yourself of this when you face challenges in the future?
+
+User: I could write it down as a personal mantra or maybe even keep a journal of my progress and feelings about this balance.
+
+Consultant: I love that idea! Journaling can be a great tool for reflection. As we wrap up our session, do you feel prepared to implement these strategies moving forward?
+
+User: Yes, I feel ready. I appreciate the guidance—it's reassuring to have a plan in place.
+
+Consultant: I’m glad to hear that, Zhang Wei! Let’s touch base again soon to see how you’re doing with these changes. Remember, it’s okay to seek support whenever you need it.
+
+User: Thank you! I appreciate your support and the strategies we've talked about. I'll see you next time!
+
+Consultant: Take care, Zhang Wei! Looking forward to our next session.
+###################
+Consultant: Hi Zhang Wei! I'm glad to see you again. How have you been since our last session?
+
+User: Hi! I've been feeling a bit better, actually. I've started joining my friends for some sports activities, and it's been helping me manage my anxiety. 
+
+Consultant: That's wonderful to hear! Engaging in sports and social activities can be a great way to relieve stress. Could you share more about how these activities have impacted your anxiety?
+
+User: Sure! I've noticed that after playing basketball or going for a run, I feel more relaxed and less overwhelmed. It's like a breath of fresh air for me.
+
+Consultant: It sounds like you've found a healthy outlet for your feelings. What aspects of these activities do you think contribute most to your sense of relief?
+
+User: I think both the physical exercise and the social interaction are important. Being around friends while doing something active really lifts my mood.
+
+Consultant: That's a great insight! So, the combination of exercise and socializing is key for you. Have you thought about how to incorporate these activities into your routine in a more structured way?
+
+User: Yes, that's what I'm hoping to discuss today. I want to develop a consistent plan that helps me manage my stress effectively.
+
+Consultant: That’s a fantastic goal! Let's explore what a structured routine might look like for you. What’s your current schedule like, and how do you think you could fit in these activities?
+
+User: I usually work from 9 to 6, and I have some free time in the evenings and weekends. I think I could set aside a couple of evenings during the week for sports with friends.
+
+Consultant: That sounds like a solid plan. What about on weekends? How could you utilize that time to enhance your stress management?
+
+User: On weekends, I could maybe join a local sports club or do some outdoor activities like hiking. Being in nature usually helps too.
+
+Consultant: Great idea! Combining outdoor activities with structured sports can be very beneficial. If we look at specific goals, how often do you want to engage in these activities each week?
+
+User: I think committing to at least two sports sessions and one outdoor activity a week would be a good start.
+
+Consultant: That sounds like a realistic and achievable goal. How does that commitment make you feel?
+
+User: I feel positive about it! It seems manageable, and I think it could really help me maintain my mood.
+
+Consultant: I love your enthusiasm. Let’s also think about some potential barriers. What challenges do you anticipate in sticking to this plan?
+
+User: I guess I might get tempted to skip activities, especially after a long workday. Sometimes I just want to relax at home instead.
+
+Consultant: That’s a common challenge, but being aware of it is the first step to overcoming it. How might you motivate yourself on those days when you feel too tired?
+
+User: Maybe I could remind myself how good I feel after exercising or set up a reward for myself once I complete my sessions.
+
+Consultant: That’s an excellent strategy! Associating a reward with your efforts can really help reinforce your commitment. What kind of rewards do you think will motivate you?
+
+User: I could treat myself to a nice meal or a movie after a week of sticking to my plan.
+
+Consultant: That sounds like a wonderful incentive! Establishing those rewards will help you stay on track. How else can we reinforce this new habit in your daily life?
+
+User: I could try to journal about my feelings after each activity, so I can see the positive changes reflected in writing.
+
+Consultant: Journaling is a productive way to track your progress and feelings. It can also serve as a motivational boost. When do you plan to start this new routine?
+
+User: I think I'll start with two sports sessions next week and try to go hiking on the weekend.
+
+Consultant: That sounds like a perfect plan! For our next session, perhaps you could bring your journal and share your experiences with me. How does that sound?
+
+User: I’ll definitely do that! I'm looking forward to seeing how this all goes.
+
+Consultant: I'm excited for you! Remember, this is a journey, and it’s okay to have ups and downs. We’ll work through it together. 
+
+User: Thank you! I appreciate your support.
+
+Consultant: You're very welcome, Zhang Wei. It's been great to see your progress today. Don’t hesitate to reach out if you need assistance before our next session. 
+
+User: I will. See you next time!
+
+Consultant: Bye for now! Take care, and I look forward to hearing about your experiences.
+###################
+Consultant: Hello, Zhang Wei! I'm glad you're here today. Let's talk about how you've been doing with your new habits and the changes you've experienced recently. 
+
+User: Hi! I've been feeling positive about my sleep quality lately. The meditation and breathing exercises really help me unwind before bed. 
+
+Consultant: That’s wonderful to hear! It sounds like you've found some effective ways to improve your rest. How do you feel about the overall impact these practices have had on your daily life?
+
+User: I feel less anxious during the day. Before, I’d often find it hard to focus at work. Now, with better sleep and some relaxation methods, I’m more productive and calm. 
+
+Consultant: It’s great that you’re noticing these improvements! Increased productivity and calmness can lead to a more positive outlook. What specific adjustments or activities do you think have contributed the most to this positive change?
+
+User: I think the combination of sports and meditation has been key. Exercising releases a lot of pent-up energy, and meditation helps me clear my mind. 
+
+Consultant: That sounds like a powerful combination! Engaging in physical activity can significantly reduce stress. How are you feeling about maintaining this routine moving forward?
+
+User: I'm optimistic about it, but sometimes I worry I might lose motivation, especially when work gets overwhelming. 
+
+Consultant: It’s completely understandable to have those concerns. It’s important to build a plan that keeps you engaged even during busy times. What strategies do you think could help you stay motivated?
+
+User: Maybe I could set small, achievable goals for my sports and meditation practices. Instead of pressuring myself to do a lot, I could just focus on consistency. 
+
+Consultant: That’s a great idea! Setting small goals can make routines feel more manageable. Have you thought about some specific goals you might want to set for yourself?
+
+User: I could aim to meditate for five minutes each morning and try to exercise at least three times a week. 
+
+Consultant: Those sound like very achievable goals. How do you plan to track your progress to stay accountable?
+
+User: I could use a journal or an app to log my activities and reflect on how I feel afterward. 
+
+Consultant: Using a journal can be an excellent way to notice changes in your feelings and behaviors. As you reflect on your activities, what positive effects do you hope to document?
+
+User: I hope to see improvements in my mood and stress levels, and maybe even recognize if there are any triggers that make it hard to stick to my plans. 
+
+Consultant: That’s an insightful outlook! Identifying triggers can help you navigate challenges better. Do you have any particular triggers in mind that you've experienced recently?
+
+User: I often feel stressed when deadlines are approaching, which makes me want to skip my exercise or meditation. 
+
+Consultant: Recognizing that stress should trigger your relaxation tools rather than push them away is a significant insight! What do you think could help you remember to prioritize your habits during those times?
+
+User: Maybe I could set reminders on my phone or schedule specific times for my meditation and workouts. 
+
+Consultant: Scheduling those times can create a routine, which is really helpful. Would you be willing to try this for a week and see how it affects your stress management?
+
+User: Yes, I’d definitely be willing to try that! I think it could help keep me accountable.
+
+Consultant: Excellent! After this week, I’d love to hear about how those changes worked for you. It can also be helpful to reflect on how your mood is affected by these activities. 
+
+User: I’ll keep that in mind. I really want to see how sticking to the plan impacts my stress levels.
+
+Consultant: That sounds promising! Let’s also think about some enjoyable activities you can incorporate alongside exercise and meditation. What interests do you have that you might want to explore?
+
+User: I enjoy reading and watching films. Maybe I could set aside time for those as well for relaxation.
+
+Consultant: That could be a great addition! Balancing your active habits with enjoyable pastimes can help you recharge. How do you think incorporating these activities will further help with your overall stress management?
+
+User: It’ll give me something to look forward to and help me unwind completely. I find that I need time to disconnect as well.
+
+Consultant: Absolutely, it's essential to have that downtime. As we wrap up today, what would you say is the most significant takeaway from our conversation?
+
+User: I think having a structured plan that includes both exercise and relaxation activities is crucial for my mental well-being. 
+
+Consultant: That’s a fantastic insight! You’ve developed a strong foundation to help manage your stress more effectively. Remember to stay gentle with yourself through this process. 
+
+User: Thank you! I appreciate your support and this conversation. I feel more ready to take these next steps. 
+
+Consultant: You're very welcome, Zhang Wei! I look forward to hearing how things progress next time. Take care until then!
+###################
+Consultant: Hello, Zhang! I'm glad you're here for our session today. How have you been feeling since our last conversation?
+
+User: Hi! I've been feeling quite good, actually. My sleep quality has improved a lot, and I've been managing my stress better. I'm really hoping to enjoy my time off with that short trip I have planned.
+
+Consultant: That sounds wonderful! It's great to hear that you're feeling optimistic about your upcoming leisure time. Can you tell me a bit more about what you've been doing to manage your stress effectively?
+
+User: Well, I've been trying to stick to a routine, and I've been reflecting on my thoughts whenever I start feeling overwhelmed. It has really helped me stay grounded.
+
+Consultant: That's an excellent approach, Zhang. Having a routine can provide stability, and reflecting on your thoughts allows you to identify what's contributing to your stress. Have you encountered any specific challenges recently, even with these positive changes?
+
+User: Not really, but sometimes I worry that I might fall back into old habits once I get back to work. I want to ensure I maintain this progress.
+
+Consultant: It's completely normal to have those concerns, especially after making progress. Let's explore this a bit more. What specific old habits are you worried about returning to?
+
+User: I guess I'm concerned about my tendency to procrastinate or get easily distracted by work-related stress. When I’m busy, I tend to push aside personal time for myself.
+
+Consultant: That’s a valid concern. Balancing work and personal time is crucial for maintaining mental health. When you think about these habits, what do you think triggers them?
+
+User: I think it’s usually when deadlines are approaching, and the pressure mounts. It feels like I have to work harder and longer, often neglecting my well-being.
+
+Consultant: It makes sense that increased pressure would lead to those feelings. Can we reflect on those moments? What thoughts come to your mind when you start feeling overwhelmed by deadlines?
+
+User: I tend to think that if I don’t push myself harder, I’ll fall behind or disappoint my team. It’s really that fear of failure.
+
+Consultant: I see. That fear of failure can create a lot of pressure. Let’s challenge that thought a bit: what evidence do you have that not working harder would lead to falling behind or disappointing your team? 
+
+User: I suppose I don’t have concrete evidence. It’s more of a feeling that I’ve had for a long time. But I guess I could consider my team's support when I communicate with them.
+
+Consultant: Absolutely! It can be helpful to remember that your team likely wants to support you, rather than put you under unnecessary pressure. How might this perspective change how you approach upcoming deadlines?
+
+User: Maybe I could be more open about my workload and prioritize my time better. That could prevent me from feeling overwhelmed.
+
+Consultant: That sounds like a constructive plan! Prioritizing and being open about your workload can help you manage stress better. Along with that, what strategies can you employ to ensure you dedicate time for yourself when work pressures intensify?
+
+User: I could schedule breaks and remind myself that personal time is just as important as work time. Setting boundaries might help, too.
+
+Consultant: Yes! Setting boundaries is an essential skill. Can we think about some specific activities you can plan during your breaks that would recharge you?
+
+User: I think I could take short walks, read a book, or even pick up a hobby I've neglected, like drawing. Those things bring me joy.
+
+Consultant: Those activities sound wonderful! They can serve as great outlets to recharge your mind and spirit. In our final session, we’ll solidify these strategies. For now, let’s discuss how you’ll implement these changes. 
+
+User: I think I could start small, maybe by scheduling a short walk during my lunch break this week and see how it feels.
+
+Consultant: That's a great start! Starting small can make it easier to integrate these changes into your routine. How about we check in during our next session to discuss how that experiment went?
+
+User: That works for me! I'm feeling hopeful about applying these changes.
+
+Consultant: I’m glad to hear that, Zhang. Remember, it’s all about progress and finding what works best for you. I look forward to hearing about your experiences next time. 
+
+User: Thank you! I appreciate your support and the guidance. I’ll see you next time!
+
+Consultant: You’re very welcome! Take care, and enjoy your upcoming trip. See you soon!
+###################

@@ -1,0 +1,416 @@
+Consultant: Hello! I'm glad you're here today. Let’s talk about what's been going on with you recently. How have you been feeling about things at school?
+
+User: Hi. It's just been really frustrating. I keep getting into fights with my classmates. I think I'm just standing up for my friends. The teachers punish me for it, but I feel proud for backing them up. 
+
+Consultant: I can see how you feel proud of having your friends' backs. It must be tough to feel like you're being punished for something you believe is right. Can you tell me more about what happens during these fights?
+
+User: Well, sometimes they get picked on, and I just can’t stand it. I jump in to help them, and then it leads to us all getting into trouble. But I don’t think it’s fair that I’m the one who gets punished.
+
+Consultant: It sounds like you really value loyalty to your friends, but it seems to create problems for you at school. How do you feel when the teachers say you’re in trouble?
+
+User: I feel really mad! Like, why do they always blame me? It’s not only me; my friends were part of it too! 
+
+Consultant: That makes sense. Feeling angry about being blamed can be frustrating, especially when it feels unfair. Have you ever thought about what being blamed means for you and your friendships?
+
+User: I don’t know... It just makes me think that maybe they don’t understand what being a good friend is.
+
+Consultant: That's an interesting point. You see friendship as standing up for each other, which is important. But what about when standing up leads you to trouble? How do you feel about that part?
+
+User: I guess it doesn't feel great. I just don’t want to look weak by not supporting my friends.
+
+Consultant: I understand. You want to feel strong and loyal. It can be challenging to find a way to support your friends without risking trouble for yourself. Is there another way you think you could show that loyalty without getting into fights?
+
+User: I’m not sure... Maybe I could talk to them instead when I see someone being mean?
+
+Consultant: That's a great idea! Talking it out can sometimes be even more powerful than fighting. How do you think your friends would respond if you approached a situation that way?
+
+User: They might be surprised. They might not think talking is a big deal, but it could help.
+
+Consultant: Absolutely! Starting a conversation could change the situation. It shows that you care about them and want to help in a way that doesn't lead to trouble. What do you think might make it difficult to do that?
+
+User: I really get angry sometimes, and it’s hard to control that. 
+
+Consultant: Anger can be overwhelming, especially in the heat of the moment. It’s understandable. Would you be willing to explore some strategies to help you manage that anger when it arises?
+
+User: Yeah, I would want to try that. I don’t like getting so angry.
+
+Consultant: Great! Let’s think about some simple techniques. When you start to feel angry, what do you usually do in that moment?
+
+User: I just want to shout or hit something. 
+
+Consultant: That’s a common reaction. Instead of acting on that impulse, we can work on giving yourself a moment to pause. Perhaps take deep breaths or count to ten before responding. How does that sound?
+
+User: I could try that. I suppose it might help me cool down a little.
+
+Consultant: Absolutely, it can give you a moment to think more about how you want to respond. It might also help you feel more in control. What do you think you would do next time you feel that anger building up?
+
+User: If I can remember to breathe, I might be able to talk instead of fight.
+
+Consultant: That’s a solid plan! Remembering to breathe and taking a moment can really change how you approach the situation. Besides that, what other areas in your life would you like to improve emotionally or socially?
+
+User: I just want to get along better with the other kids. I don’t want to be known as the angry kid.
+
+Consultant: That’s a valuable goal. It shows that you care about how others see you. What do you believe would help you get along better with your classmates?
+
+User: Maybe being more open to playing games with them instead of just jumping in when something happens.
+
+Consultant: That's a fantastic approach! Building friendships through play can create a more positive atmosphere. What kinds of games do you enjoy that could help you connect with them?
+
+User: I like soccer and video games. I could invite them to play together.
+
+Consultant: Perfect! Inviting them to play soccer or video games can open up opportunities for friendship without conflict. How do you feel about reaching out to them?
+
+User: I feel a bit nervous, but I think I can do it if I try.
+
+Consultant: It's normal to feel nervous when trying something new. Just remember, by taking this step, you're choosing a positive way to connect. What will be your first step?
+
+User: I'll ask a couple of kids during lunch if they want to play soccer after school.
+
+Consultant: That sounds like an excellent first step! I’m proud of you for wanting to make these changes. How do you think you'll feel doing that?
+
+User: If they say yes, I’ll feel really good. I’ll have more friends and maybe not fight as much.
+
+Consultant: That’s a wonderful feeling to look forward to. Just remember, you’re taking control of your emotions and relationships, and that’s powerful. As we wrap up our session, what is one thing you’ll take away from our conversation today?
+
+User: I think I’ll focus on talking things out instead of fighting, and I’ll try to play more with others.
+
+Consultant: That’s a great takeaway! You’re ready to take positive steps towards improving your friendships and managing your emotions. If you keep working on this, I believe you’ll see changes. I’m here to support you whenever you need it. 
+
+User: Thank you! I feel a bit better already. I appreciate your help. 
+
+Consultant: You’re very welcome! I’m glad to hear that. Remember, you’re not alone in this. Let’s plan to meet again to see how things are going. Take care!
+###################
+Consultant: Hello there! I'm really glad you could come in today. I’d love to hear how things have been going for you lately. 
+
+User: Hi. Things have been rough. I got into a fight with my brother at home, and my parents ended up arguing even more because of it.
+
+Consultant: It sounds like that situation added a lot of tension at home. I can imagine that must feel overwhelming. Can you share what was going through your mind during the fight with your brother?
+
+User: I just got really angry. It felt like he was pushing my buttons, and I couldn’t control myself. I hate feeling like this.
+
+Consultant: Feeling that anger must be really tough for you. It’s understandable to feel frustrated with your brother. When those feelings arise, do you notice any other emotions accompanying that anger? 
+
+User: I guess I feel a bit scared and sad afterwards, but mostly it’s just anger. 
+
+Consultant: That's insightful. It seems like underneath the anger, there are other feelings, like fear and sadness. What do you think triggers your anger with your brother specifically?
+
+User: He always calls me names and tries to make me look stupid in front of others. 
+
+Consultant: That sounds hurtful, and it’s natural to react in anger when someone is disrespecting you. But it might help to think about ways to respond that don’t lead to fighting. Have you tried any strategies when you feel that anger building up?
+
+User: Not really. I usually just explode instead of thinking about it.
+
+Consultant: That’s common, especially when emotions run high. Let's explore together ways to recognize when you're starting to feel that anger. Once you can notice it earlier, you might be able to find other ways to manage that reaction. Does that sound okay to you?
+
+User: Yeah, I think so. I really want to change this. 
+
+Consultant: Great! One technique we can talk about is taking a moment to breathe deeply before reacting. Would you be open to trying that when you feel anger coming on?
+
+User: Maybe. I get so worked up that it’s hard to remember to breathe.
+
+Consultant: I understand that it’s challenging. How about we create a specific plan together? For example, when you start to feel that anger, you could count to five while taking deep breaths. Would you be willing to give that a try?
+
+User: I can try that. But what if I still get angry?
+
+Consultant: That's a fair concern. If you find that the breathing doesn’t help and you still feel angry, we can also think about other actions you can take, like stepping away from the situation for a moment. What's important is that you give yourself permission to take a break before reacting.
+
+User: That makes sense. I could just walk away.
+
+Consultant: Yes, walking away is a great start! It gives you a chance to cool off. Can you think of a different response you'd like to try next time you feel angry?
+
+User: Maybe I can just tell him I don’t like what he says and walk away?
+
+Consultant: That sounds like a constructive approach! Expressing your feelings verbally before stepping away could help you feel a bit more in control. How do you feel about practicing saying that?
+
+User: I feel a bit nervous about confronting him, but I’ll give it a try.
+
+Consultant: It’s totally normal to feel nervous, but practicing can help. When we confront our feelings, it's often a step toward better communication. Beyond this, do you feel like there are any other aspects of the family situation that are affecting you?
+
+User: My parents are always fighting too. It makes everything worse.
+
+Consultant: That must be really difficult for you. When there's a lot of conflict in the home, it can feel like you’re carrying heavy weight. How do you usually cope with those feelings?
+
+User: I don’t know… I just try to ignore it. 
+
+Consultant: Ignoring it can sometimes feel easier, but it might also build up feelings over time. We can work together on recognizing when you're feeling overwhelmed by home life. How do you think you might express those feelings in a healthier way?
+
+User: Maybe I could draw or write about it. 
+
+Consultant: That's wonderful! Creative outlets like drawing or writing can be very therapeutic. Setting aside some time for that could help you process those feelings. How do you think you would feel after expressing yourself this way?
+
+User: I think it would help calm me down a bit.
+
+Consultant: I believe it could too. Exploring your feelings through art or writing is an effective way to release some of that tension. I’d love to hear how it goes for you next time. 
+
+User: Thanks, I will try that.
+
+Consultant: Absolutely! Remember, it's all about taking small steps towards understanding and managing your feelings. Is there anything else you’d like to talk about today?
+
+User: I think I’m okay for now. I feel a little more hopeful, actually.
+
+Consultant: I'm glad to hear that! It's a positive step forward. As we wrap up today, let's remember the techniques we've discussed and how you can apply them. Keep practicing those strategies, and remember I’m here for you whenever you need support.
+
+User: Thanks, I appreciate it. I’ll try to remember all this.
+
+Consultant: Anytime! You’ve done an amazing job today. I look forward to hearing about your progress next time. Take care!
+###################
+Consultant: Hi there! I'm really glad to see you today. You've been given a new role as the deputy leader in your school group, right? How are you feeling about it?
+
+User: Yes, I was surprised they chose me! At first, I felt happy, but now I’m really anxious. I don’t think I can handle the responsibility.
+
+Consultant: It sounds like you’re feeling a mix of excitement and anxiety about this new role. Can you tell me more about what's making you feel anxious?
+
+User: I feel like everyone expects me to be good at it, but I don’t think I am. What if I mess up? That thought really scares me.
+
+Consultant: I can see how those thoughts about failing can create a lot of pressure. It’s normal to feel this way when taking on something new. What specific thoughts go through your mind when you think about possibly messing up?
+
+User: I keep thinking, "What if they laugh at me?" or "What if I can't make the group work well together?" It makes me feel really tense and angry sometimes.
+
+Consultant: Those thoughts sound really distressing. It’s understandable to want to avoid situations where you might feel embarrassed or out of control. When you feel that tension, what do you usually do next?
+
+User: Sometimes, I just get angry and clash with my friends, or I feel like I want to give up.
+
+Consultant: It seems like those feelings of anger and frustration come out in your interactions with friends. When you feel that anger rising, do you notice any other feelings happening beneath that?
+
+User: I guess I feel really insecure. I’m worried people won’t look at me the same way if I fail.
+
+Consultant: That insecurity can be tough! It's like there's a fear of losing approval from others. Let’s think about it—how do you think others would react if something didn’t go as planned? Do you think they would judge you harshly?
+
+User: Maybe not. I mean, everyone makes mistakes sometimes. But I just can’t stop worrying about it.
+
+Consultant: That's a very good insight! Everyone does make mistakes, and it's part of learning. If a friend was in your position, what might you tell them to help ease their worries?
+
+User: I’d probably say it’s okay to make mistakes and just try your best. But I don’t really believe that for myself.
+
+Consultant: It’s great that you can think that way for a friend. Let's practice applying that same kindness to yourself. Would it be helpful to create a positive mantra you could remind yourself of before group activities?
+
+User: A mantra? Like something I can repeat to myself? I guess that could work. 
+
+Consultant: Absolutely! It could be something simple, like "I am capable of leading," or "Mistakes are part of learning." What resonates with you when you think about affirmations like that?
+
+User: Maybe "I can do this," sounds good. I want to believe that. 
+
+Consultant: "I can do this" is a powerful choice! Repeating that phrase can help shift your mindset bit by bit. Along with that, what small steps can you take in your group role to help build your confidence?
+
+User: I could try to speak up more during our meetings and share my ideas, even if I’m scared.
+
+Consultant: That sounds like a strong plan! Taking those small steps can really reinforce your confidence. How do you think you would feel after sharing your ideas with your group?
+
+User: I think I might feel proud of myself if I actually do it.
+
+Consultant: That pride you feel would be a wonderful reward for taking action! Let's think of ways to practice sharing your ideas in a supportive environment. How about starting with friends you trust?
+
+User: Yeah, I could try that. Maybe I can practice with them first.
+
+Consultant: That’s a great idea! Practicing with friends you trust can help ease those nerves. How about setting a small goal for your next group meeting, like sharing one idea? 
+
+User: I can do that! Just one idea sounds manageable. 
+
+Consultant: Perfect! Remember to remind yourself of your mantra before you present. How do you feel about the steps we’ve discussed today?
+
+User: I feel a little more hopeful, like maybe I can really do this.
+
+Consultant: That’s wonderful to hear! It's all about taking those small steps. As we work together, I encourage you to keep reflecting on your progress. What will be your main focus until our next meeting?
+
+User: I think I want to practice sharing ideas and using my mantra.
+
+Consultant: That sounds like a solid plan! You're making tangible progress. I'm looking forward to hearing about your experiences next time. You've got this!
+
+User: Thanks! I feel better already just talking about it. I appreciate your help.
+
+Consultant: I’m really glad! Remember, each step counts, and I’ll be here to support you. See you next time!
+###################
+Consultant: Hello there! I'm really pleased to see you today. It seems like you've been experiencing some positive changes lately. Can you tell me more about how you’ve been feeling?
+
+User: Hi! Yeah, actually, I've been feeling pretty good. My teacher and some friends complimented me on a project I did, and it made me happy. I was surprised, but it felt nice to be recognized.
+
+Consultant: That’s wonderful to hear! Getting recognition can be such a boost. How did it feel when you received those compliments? Did it change how you view yourself or your abilities?
+
+User: It felt really great! I didn’t think I could do anything well, but now I feel like maybe I can do better in school if I try. It makes me want to work harder.
+
+Consultant: It's amazing how recognition can motivate us. It sounds like you're starting to see your potential. What specific areas in school do you think you’d like to focus on to continue improving?
+
+User: I think I’d like to do better in math. It’s always been hard for me, but maybe if I pay more attention, I can get it.
+
+Consultant: That sounds like a solid plan! Setting small goals in math could be really helpful. What’s one small goal you could set for yourself this week to help you with math?
+
+User: I could try to do one extra math worksheet every day after school. That would be a start!
+
+Consultant: That’s a fantastic goal! Committing to just one extra worksheet a day can make a big difference over time. How will you reward yourself when you complete that goal?
+
+User: Maybe I could allow myself some extra video game time, or have a treat if I finish all the worksheets for the week.
+
+Consultant: That sounds like a great way to reinforce your progress! Treating yourself can really help keep you motivated. Have you noticed any changes in your interactions with friends since feeling more positive about your work?
+
+User: Well, I’ve been trying to stay calm when I play games with my friends. I used to get really frustrated and angry when things didn’t go well.
+
+Consultant: That’s an important change! Staying calm in frustrating situations can really help your friendships. What do you think has helped you stay calmer during those moments?
+
+User: I guess I’m just trying to remember how good it felt when I got compliments. It helps me to remember that I can be good at things if I keep trying.
+
+Consultant: That’s a strong connection to make! Holding onto those positive feelings can be really powerful. If you find yourself getting frustrated again, what could you tell yourself to help stay calm?
+
+User: I could remind myself that it’s just a game and that I can always try again. I could also take a break if I need to cool down.
+
+Consultant: That’s a smart approach! Taking a break can give you time to relax and reset your emotions. I’d love to explore more about how we can apply this positive mindset to other situations. Are there any current situations that make you feel challenged?
+
+User: Sometimes I still argue with my siblings. They can be really annoying, and I get angry easily.
+
+Consultant: That’s understandable. Sibling dynamics can be tough! How about we create a plan together to handle those moments when you feel angry with them? What do you think would help?
+
+User: Maybe I could try counting to ten before I react. That might help me to think instead of getting mad right away.
+
+Consultant: Great idea! Counting to ten can give you the pause needed to think things over. Let’s also think of some fun activities you can do together to strengthen your bond. What’s something you all enjoy?
+
+User: We like playing soccer together. Maybe I could invite them to play more often. 
+
+Consultant: That’s a wonderful way to connect! Playing soccer can not only help with your relationships but also give you an outlet to use some of that energy positively. How do you feel about that approach?
+
+User: It makes me feel better. I think it might help me not get so mad if I spend more time with them doing something fun.
+
+Consultant: Exactly! Focusing on positive interactions can definitely lower frustration levels. How can we ensure you stick to this plan, especially when things get tough?
+
+User: I could write down my goals and keep them somewhere I see them every day. That might help remind me what I want to work on.
+
+Consultant: That’s an excellent strategy! Having a visible reminder can help reinforce your commitment. As we wrap up today, let’s reflect on your progress. What do you think is the most valuable takeaway from our conversation?
+
+User: I think learning how to stay calm and set goals is really helpful. I feel like I can handle things better now.
+
+Consultant: I’m really proud of you for recognizing your growth! Remember, if you stay focused on those positive behaviors and keep setting goals, you can continue to improve in many areas. I believe in you, and I'm here to support you whenever you need it!
+
+User: Thanks! I feel really good about everything we talked about today. I’ll definitely work on my goals.
+
+Consultant: You’re very welcome! I’m excited to hear about your progress next time. Remember the steps we discussed, and don’t hesitate to reach out if you need support along the way. See you soon!
+###################
+Consultant: Hi there! I'm glad to see you today. I heard about your recent success in the community cleanup activity. How are you feeling about that?
+
+User: Hi! I feel really good about it. I worked well with the neighbor's kid, and it felt great to be recognized by the community. I wish I could have more experiences like that.
+
+Consultant: That's wonderful to hear! It sounds like that experience brought you a lot of joy and a sense of accomplishment. What do you think made the cooperation with your neighbor's kid so successful?
+
+User: I guess we just worked together well. We both knew what needed to be done, and it didn’t feel forced. It was fun, too!
+
+Consultant: It sounds like you found a balance between working together and enjoying the process. How can we build on this experience to help you find similar opportunities in other areas of your life?
+
+User: I'm not sure. Maybe I can try to play games with others or join a sports team? But what if I get frustrated or angry during those activities?
+
+Consultant: Those are great ideas! It's natural to feel worried about frustration. Remember, it’s about practicing cooperation and communication. What steps can you take to manage your anger or frustration in those situations?
+
+User: I could take deep breaths, I think. Or maybe I can talk to someone if I start to feel angry. It’s just hard to remember to do that when I’m upset.
+
+Consultant: That’s a solid plan! Deep breathing and talking to someone can really help. Let’s practice some strategies that could remind you to use these techniques when you start feeling overwhelmed. Would you like to try that?
+
+User: Sure! It might help to have something to remind me when I get upset.
+
+Consultant: Great! We can create a little reminder you can use during activities. How about a simple phrase you can tell yourself, like "I can stay calm and work together"?
+
+User: I like that! “I can stay calm and work together.” I’ll try to remember it.
+
+Consultant: Fantastic! And when you use that phrase, how do you think it might change your behavior in a group setting?
+
+User: I think I’ll feel less angry and more focused on what we’re doing together. Maybe I won’t snap at others so easily.
+
+Consultant: That’s a positive shift! Finding that focus can really help your interactions with others. What other situations can you think of where you might use this reminder?
+
+User: Maybe when I’m playing video games with friends. Sometimes I get really mad when I lose.
+
+Consultant: Excellent example! Using your reminder during video games could help you enjoy the experience more and keep your friendships strong. What strategies can we develop for those gaming moments?
+
+User: I could take a break when I feel really angry or, again, tell myself to stay calm. I think I can also talk to my friends about it.
+
+Consultant: Those sound like very effective strategies! Taking breaks and communicating with friends can help you manage your feelings. How do you feel about your ability to handle future situations now?
+
+User: I feel more confident! I think I can actually use these techniques. It feels nice to have a plan.
+
+Consultant: I’m glad to hear that! You’re setting yourself up for success by having a plan. Reflecting on your growth, what aspects of your progress do you feel most proud of?
+
+User: I’m proud that I can actually think about this and try to be better. It makes me happy to think I can change.
+
+Consultant: That's a significant realization! Acknowledging your ability to change is a big step forward. Looking ahead, how do you envision using your skills in everyday life?
+
+User: I want to keep working with other kids and not be so angry. Maybe I can even help my dad to be better too.
+
+Consultant: That’s a beautiful intention! Using your skills to support others is a great way to strengthen your positive experiences. As we wrap up today’s session, how do you plan to maintain this optimistic outlook moving forward?
+
+User: I’ll focus on my reminders and try to find more activities to do with others. I want to keep being happy!
+
+Consultant: That sounds like a wonderful plan! You’re cultivating a mindset of positivity and collaboration. Remember, you can always return to these strategies when you face challenges. I'm proud of how far you’ve come. 
+
+User: Thank you! I appreciate your help. I feel like I can do this!
+
+Consultant: You're very welcome! It's been a pleasure working with you. Always remember that positive changes take time, and you're already on the right path. If you ever need guidance, I’m here for you. 
+
+User: I will remember that. See you next time!
+
+Consultant: Looking forward to our next session! Take care!
+###################
+Consultant: Hello! I'm really glad to see you here today. It sounds like you've been making some positive changes recently. How are you feeling about everything that's been happening lately?
+
+User: Hi! Yeah, I feel a bit proud of myself. I did well on my final exams, and I think I'm starting to handle my emotions better. It's nice to see some progress.
+
+Consultant: That's wonderful to hear! You should definitely be proud of your accomplishments. Can you share more about how you feel you've been handling your emotions lately?
+
+User: I guess I’ve been getting less angry when things don’t go my way. I used to want to fight with others often, but now I’m trying to stay calm instead. 
+
+Consultant: That's a significant change! Staying calm instead of reacting with anger shows great growth on your part. What strategies have you been using to help you stay calm during tough situations?
+
+User: I’ve been taking deep breaths and trying to think about how my actions affect my friends. It sometimes helps to just walk away instead of arguing.
+
+Consultant: Those are excellent strategies! Taking deep breaths and stepping away can really help create a calm environment for yourself. How have your friends reacted to these changes?
+
+User: They seem to appreciate it. I feel like I'm connecting with them better when I'm not angry. It feels good to have more fun, instead of fighting all the time.
+
+Consultant: That’s fantastic! Building better connections with your friends is so important. It must feel good to have more enjoyable experiences with them. Do you think these changes have affected your family interactions as well?
+
+User: Sometimes. I think my mom notices that I’m not fighting as much with my siblings. But my dad still drinks a lot, and that can make things hard at home.
+
+Consultant: It sounds like you're working hard to create a positive atmosphere around you, even with the challenges at home. How do you cope with your feelings about your dad’s drinking?
+
+User: It makes me feel sad and sometimes angry. I wish he could be like he used to be. Sometimes I just try to ignore it and play video games to distract myself.
+
+Consultant: It’s completely understandable to feel sad and angry about that situation. Finding distractions like video games can help to some extent, but it may also be beneficial to express what you’re feeling. Have you considered talking to someone about those feelings?
+
+User: Not really. I don’t want to bother anyone with my problems, especially at home. 
+
+Consultant: I appreciate that you’re being considerate of others, but it’s also important to take care of yourself. Sharing your feelings with someone you trust can help alleviate some of that sadness. Would you be open to exploring who in your life you might feel comfortable talking to?
+
+User: I guess I could talk to my mom. She might understand me.
+
+Consultant: That sounds like a good idea! Your mom might have some insights and can provide support. What do you think you would tell her if you chose to talk about your feelings?
+
+User: I would probably tell her how sad I feel about Dad and how it affects me. I just want her to understand that it's hard for me.
+
+Consultant: That’s a brave approach. Expressing your feelings will help her understand your perspective. It’s an important step. How do you think you’ll feel once you've shared those feelings with her?
+
+User: I think it would make me feel relieved. Like I’m not carrying all of that alone anymore.
+
+Consultant: Absolutely, sharing can often lighten the emotional load. It sounds like you’re becoming more aware of your emotions and how to address them. As you continue this journey, what other positive changes would you like to see in your life?
+
+User: I want to keep improving my mood and maybe do better in school. I think if I can handle my feelings, I can focus more on my studies.
+
+Consultant: That’s a great goal! Focusing on your emotions can definitely help with your concentration on school. What steps can you take to ensure your feelings don’t get in the way of your academic progress?
+
+User: I could set a schedule for my studies and stick to it. Maybe reward myself after finishing tasks?
+
+Consultant: Excellent idea! Setting a study schedule and rewarding yourself can boost your motivation. What kind of rewards do you think would work best for you?
+
+User: Maybe some extra game time or watching my favorite show after completing tasks.
+
+Consultant: Those sound like fun rewards! Incorporating those into your schedule can give you something to look forward to while you study hard. Are there any other tools or supports you think could help you achieve this balance between your feelings and your studies?
+
+User: I could try journaling too. It might help me sort out my thoughts and feelings.
+
+Consultant: Journaling is a wonderful tool! It can provide a safe space for you to express yourself and reflect on your feelings. How do you feel about starting a journaling practice?
+
+User: I think I’d like to try it. It sounds like it might really help me.
+
+Consultant: That’s a positive step! As we wrap up today, what do you feel has been the most helpful part of our conversation?
+
+User: I feel like I have some good ideas now about how to handle my feelings and make progress in school. 
+
+Consultant: I’m so glad to hear that! You’ve made great strides today. Remember, you have the tools and support to continue growing. If you ever feel overwhelmed, don’t hesitate to reach out again. You’re doing really well!
+
+User: Thank you! I appreciate it. I’ll definitely keep these strategies in mind.
+
+Consultant: You're welcome! I'm proud of how far you've come. Take care, and I wish you all the best in your journey ahead.
+###################

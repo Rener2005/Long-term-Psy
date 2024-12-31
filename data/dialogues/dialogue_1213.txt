@@ -1,0 +1,384 @@
+Consultant: Hello! Welcome to today's session. I'm glad you're here. Before we dive in, could you share how you've been feeling lately, particularly regarding your studies and future plans?
+
+User: Hi. I've been feeling really lost and frustrated with my current major in accounting. I applied to transfer to the English department, but that didn't work out, and it's just made me doubt my choice even more. I don't feel like I’m using my potential.
+
+Consultant: I understand that this situation has been challenging for you, especially not being able to transfer to a field that you might resonate more with. Let's explore this together. What are the specific thoughts or feelings you have when you think about your current major and your future?
+
+User: I often think that I chose the wrong profession and that I should have pursued something else, like English or literature. It makes me feel stuck and unfulfilled. Sometimes I even wonder if I’m wasting my time.
+
+Consultant: Those feelings of being stuck and unfulfilled can be really tough to deal with. It sounds like you’re feeling a strong disconnect between your studies and your passions. Can you tell me if there are moments during your studies when you feel more engaged or interested?
+
+User: There are moments, mostly when I work on projects related to data analysis, but it's rare. Most of the time, I just find the accounting concepts dry and boring.
+
+Consultant: It's great that you can identify parts of your coursework that intrigue you, like data analysis. This awareness might point to potential interests that could be explored further. What do you think could be some underlying interests you have that are not being addressed in your current major?
+
+User: I like writing and analyzing information creatively but never thought those would fit with accounting. It feels like a contrast, like I'm supposed to do one thing because of my major.
+
+Consultant: It sounds like there’s a conflict between your creative interests and the more rigid structure of accounting. This is important to acknowledge. What if we explore how these interests in writing and analysis might connect to potential career paths? 
+
+User: That could be interesting! I just worry that pursuing writing wouldn't be practical. I fear it’s too risky.
+
+Consultant: Those concerns about practicality are very common. It’s good to be cautious, but let’s also consider the possibility of combining your skills. For example, are there jobs that require both analytical skills and writing, perhaps in fields like marketing or communications?
+
+User: I haven't thought about that! I know marketing needs some of both. It sounds better than just accounting.
+
+Consultant: That’s a promising connection! You could potentially create a path that encompasses both your analytical skills and your passion for writing. How does thinking about a career in marketing make you feel compared to focusing solely on accounting?
+
+User: I feel a bit lighter when I think about marketing. It excites me more, but I worry again about not having enough experience to get into that field.
+
+Consultant: It's wonderful to hear that marketing excites you! It's normal to feel apprehensive about experience, but remember, every professional starts somewhere. Are there small steps you could take to explore this field further, such as internships or projects?
+
+User: Doing an internship sounds like a good idea, but I’m not sure how to find one. I might not be good enough compared to others.
+
+Consultant: It's totally valid to feel unsure about how to start, but remember that everyone has their own unique strengths. Maybe you could start by searching for internship opportunities related to marketing. What skills do you think you could highlight that make you a good candidate for such a role?
+
+User: I think I can emphasize my analytical skills and any writing experience I have from class projects. Also, I have a knack for storytelling.
+
+Consultant: Those are excellent qualities to highlight! Your analytical skills complement a marketing role very well. As we continue discussing your future, let’s explore your worries about standing out. What specific thoughts come to mind when you compare yourself to others?
+
+User: I tend to think that others are more talented and experienced, which makes me doubt myself even more. It feels discouraging.
+
+Consultant: That’s a tough mindset to be in. Let’s challenge that thought a little. Can you think of instances where you’ve succeeded or learned something new, even if it didn’t compare to others’ experiences? 
+
+User: I did well in a group project last semester, and I received positive feedback on my contributions. It felt good.
+
+Consultant: That’s a great example! It shows that you have the capability to succeed. Whenever those feelings of self-doubt arise, remind yourself of that accomplishment. How might that change your perspective about applying for internships?
+
+User: It makes me think maybe I could handle it after all. If I focus on what I can bring to the table instead of just comparing myself to others, I might feel more confident.
+
+Consultant: Exactly! Focusing on your unique strengths can significantly boost your confidence. It's also helpful to remember that everyone has their own path. Moving forward, how do you feel about taking steps to explore marketing opportunities?
+
+User: I feel more optimistic now. I think I’ll look for internships or volunteer opportunities in marketing. 
+
+Consultant: That’s a fantastic step! Embracing opportunities to learn and apply your skills will help you grow and discover if this path aligns with your interests. As we wrap up today, let's summarize what we’ve discussed and how you’ll proceed. 
+
+User: Sure! I’ll keep exploring marketing possibilities and focus on my strengths instead of comparing myself to others. 
+
+Consultant: That sounds like a solid plan! Remember, it's okay to feel unsure, but you're taking proactive steps forward. If those feelings of doubt arise, try to recall today's progress. You're capable of shaping your future. 
+
+User: Thank you! I feel motivated to take action now, which is a change for me. 
+
+Consultant: I’m glad to hear that! Keep that motivation in mind as you move forward. This will be our last session for now, but if you ever need guidance in the future, I’ll be here. Good luck on your journey!
+
+User: Thank you so much for your help today! I really appreciate it.
+###################
+Consultant: Hello! Welcome to today’s session. I'm really looking forward to our conversation. How have you been feeling lately regarding your studies and career choices?
+
+User: Hi! I've been feeling really anxious. Recently, I've been thinking a lot about my major and whether it's the right choice for me. I've talked to my friends, and they seem satisfied with their paths, which makes me doubt my own.
+
+Consultant: I appreciate your honesty about these feelings. It sounds like you're experiencing a lot of pressure from comparing yourself to others. Can you tell me more about what specifically worries you about your major?
+
+User: Well, I’m studying accounting, but I'm not sure if it’s what I really want to do. I keep questioning my decision and whether I have the abilities to succeed in this field.
+
+Consultant: That’s completely understandable. It’s quite common to feel uncertain, especially when you're comparing yourself to your peers. Let’s explore this further. What abilities do you think you might be lacking?
+
+User: I feel like my analytical skills aren't as strong as they should be. My friends seem to grasp the concepts quickly, while I need more time to understand them.
+
+Consultant: It’s good that you’re reflecting on these skills. However, it sounds like you might be being too hard on yourself. Can we think together about how you’ve successfully managed challenges in the past?
+
+User: I’ve always been a diligent student and I usually try to work hard to understand the material, even if it takes longer. I guess I have a determination to keep pushing through.
+
+Consultant: That determination is a valuable quality! It shows resilience. How might that determination apply to addressing your concerns about your abilities in accounting?
+
+User: Maybe I can focus more on my efforts rather than measuring myself against others. I tend to get caught up in what others think.
+
+Consultant: That’s a fantastic realization! Shifting the focus back to your own journey can be empowering. Could you think of some ways to celebrate your progress, no matter how small it might seem?
+
+User: I suppose acknowledging when I grasp a difficult concept could help. It would remind me that I'm improving rather than just focusing on what I don’t understand.
+
+Consultant: Absolutely! Recognizing and celebrating your progress is essential for building self-confidence. Moving forward, would it help to establish small goals that you can work towards and acknowledge along the way?
+
+User: Yes, setting smaller goals sounds like a good idea. It might make the bigger picture less overwhelming.
+
+Consultant: Exactly! Let’s identify one small goal related to your studies that you can achieve in the next week. What do you think that might be?
+
+User: I think I could aim to complete a chapter in my textbook and summarize it afterward. That way, I can reinforce my understanding.
+
+Consultant: That’s a great goal! Summarizing what you’ve learned can really deepen your understanding. How do you feel about this plan moving forward?
+
+User: I feel a bit more positive about it. It gives me something specific to focus on rather than just feeling lost in my thoughts.
+
+Consultant: I’m glad to hear that. It’s all about taking actionable steps. As we continue our sessions, let’s keep exploring what you enjoy about your studies too. What aspects of accounting do you find interesting?
+
+User: I actually enjoy the problem-solving part, like analyzing financial statements. It can be really satisfying when everything clicks.
+
+Consultant: That’s an important insight! Focusing on what you enjoy can help guide your decisions. Could you see yourself pursuing a career that emphasizes problem-solving?
+
+User: Yes, that actually sounds appealing. I hadn’t thought about it that way before.
+
+Consultant: Wonderful! Identifying these interests can help shape your career path. We can continue exploring different roles in accounting or adjacent fields that align more with your interests. How does that sound to you?
+
+User: That sounds good! I’d like to see what possibilities there are, especially ones that might lead to more analytical tasks.
+
+Consultant: Excellent! Together, we can research roles that allow you to utilize your problem-solving skills. How do you feel about the direction our conversation is taking today?
+
+User: I feel much better, actually. I’m starting to see that there are paths I can take, not just one singular option.
+
+Consultant: That’s fantastic to hear! Change is always possible, and exploring different avenues can be very empowering. Remember, it’s about finding what works best for you. 
+
+User: Yes, I feel like I have more clarity now. I have some steps to take that are manageable.
+
+Consultant: I'm pleased you've gained clarity! Before we end today, let’s take a moment to summarize what you’ve learned about yourself in this session.
+
+User: I’ve learned to appreciate my determination and to focus more on my personal journey. I can set small goals and explore my interests within accounting.
+
+Consultant: That’s an excellent summary! Remember, you have the tools to navigate this uncertainty. You can always circle back to these reflections when you feel lost again.
+
+User: Thank you, that really helps. I’m feeling more optimistic about my path.
+
+Consultant: I’m glad to hear that! As we wrap up, remember that this journey is yours to explore. You’ve made great strides today. If challenges arise, don’t hesitate to share them in our next session. 
+
+User: I will. Thank you for your help today! I appreciate your support.
+
+Consultant: You’re very welcome! It’s been a pleasure working with you. I'm looking forward to our next conversation. Take care!
+###################
+Consultant: Hello! I'm glad you're here for this session. How have you been feeling lately? 
+
+User: Hi! I've been a bit confused about my career path and my interests. I recently attended a career planning seminar at school, and it made me realize that I need to think more about what I truly want to do in the future.
+
+Consultant: It sounds like the seminar sparked some reflection for you. What specific thoughts or feelings did it bring up regarding your interests and career options?
+
+User: Well, I started thinking about how my major in accounting might not be my only option. I have an interest in English as well, but I'm not sure how to combine that with what I’m studying now.
+
+Consultant: That's a great insight! It's important to explore how your interests align with your current studies. Can you tell me more about what aspects of English you enjoy and how they might connect to your major?
+
+User: I really like reading and analyzing texts. The thought of getting into something like editing or teaching English crossed my mind, but I’m not confident about pursuing that path.
+
+Consultant: It's perfectly normal to feel unsure, especially when considering a shift in career focus. What do you think holds you back from exploring those options further?
+
+User: I think I'm worried that I might not be good enough at it, or that it won't be a stable career compared to accounting.
+
+Consultant: I hear your concerns about stability and confidence. Let's take a closer look at those feelings. Can you think of any evidence that supports or challenges those worries?
+
+User: I suppose I have experienced success in English during school, but it feels different when thinking about a career.
+
+Consultant: That makes sense. Sometimes, past successes can seem distant when we face new challenges. How about thinking of it from another angle—if you were advising a friend in the same situation, what would you tell them?
+
+User: I would probably encourage them to pursue their interests and not to let fear hold them back.
+
+Consultant: That’s a wise perspective! Now, let's apply that advice to your situation. If your interest in English is strong, what small steps could you take to explore that path without fully committing right away?
+
+User: Maybe I could take an elective course in English or volunteer as a tutor. That could help me understand if it’s something I want to pursue further.
+
+Consultant: Those sound like excellent ideas! Engaging in an elective or tutoring can provide valuable experiences and help build your confidence. How do you feel about making those plans?
+
+User: I feel more positive about it! It seems less overwhelming when I break it down into smaller steps.
+
+Consultant: That's fantastic! Breaking down your goals into manageable steps can significantly reduce anxiety. What other activities or experiences might you consider that could integrate your interest in English with your accounting background?
+
+User: I hadn’t thought about it, but maybe something in business writing could combine both interests. 
+
+Consultant: Absolutely! Business writing is a practical way to blend skills from both fields. Would you like to explore any resources or courses that could facilitate this?
+
+User: Yes, I’d appreciate some guidance on finding relevant courses or materials.
+
+Consultant: Great idea! After our session, I can help you find some online courses or workshops focused on business writing. How does that sound?
+
+User: That sounds perfect! I can start looking into those options today.
+
+Consultant: I’m glad to hear that! As you explore these courses, how do you envision using these new skills in your future career?
+
+User: I can see myself perhaps working in a finance company where I write reports or help prepare presentations. It feels more aligned with my interests.
+
+Consultant: That’s a clear vision! It’s wonderful to see you connecting your interests with potential career paths. What other strategies can we develop to help you stay motivated through this exploration?
+
+User: I think setting small, regular goals would help, like dedicating specific time each week to focus on this.
+
+Consultant: Excellent strategy! Building a routine around these explorations can keep you accountable and engaged. How can I help you stay focused on achieving these goals?
+
+User: Perhaps I could check in with you about my progress during our sessions. That way, I can keep track of what I’ve accomplished.
+
+Consultant: I’d love to support you in that way! Regular check-ins can help us assess your progress and celebrate your achievements together. How do you feel about our plan moving forward?
+
+User: I feel excited! This gives me a sense of direction that I didn’t have before.
+
+Consultant: That’s wonderful to hear! You’ve made significant progress today. Just remember that it's okay to take your time as you navigate these interests. 
+
+User: Thank you! I appreciate your encouragement and guidance today. 
+
+Consultant: You're welcome! I'm here to support you. As we wrap up, what has been your biggest takeaway from our discussion today?
+
+User: I think it’s realizing that I can combine my interests in English and accounting, and that I can take small steps to explore that, without pressure.
+
+Consultant: Absolutely! You have a thoughtful approach to your exploration. I'm confident that you’ll continue to uncover meaningful paths for yourself. If you encounter any challenges along the way, remember that we can always discuss those in our sessions. 
+
+User: I will keep that in mind. Thanks again for all your help!
+
+Consultant: My pleasure! It’s been a joy working with you today. I look forward to hearing about your progress in our next session. Take care!
+###################
+Consultant: Hello! I'm really glad you could make it to this session today. How have you been feeling since our last conversation?
+
+User: Hi! I’ve been feeling quite positive lately. My interest in learning English has really sparked something in me. I find myself excited to explore more about it and how it might connect with my accounting studies.
+
+Consultant: That sounds wonderful! It's great to hear that you're feeling positive about your interests. Can you tell me more about what specifically excites you about English learning and how you see it linking to your accounting background?
+
+User: Well, after taking those English courses, I realized how much I enjoy the language. I think being proficient in English could open up more opportunities, especially in fields like accounting which increasingly require communication with international clients.
+
+Consultant: Absolutely, being proficient in English can certainly enhance your career prospects in accounting, especially with globalization. Have you thought about any specific ways you want to incorporate English into your studies or future career?
+
+User: I’ve been thinking about maybe doing some internships or projects that require English usage. It would be a nice way to improve my language skills while also applying what I learn in accounting.
+
+Consultant: That sounds like a fantastic plan! Practical experience can be a great way to build your confidence in using English. What challenges do you think you might face as you pursue these opportunities?
+
+User: I guess my biggest concern is not feeling confident enough to communicate effectively in English, especially in a professional environment. I worry I might struggle with technical vocabulary or understanding clients.
+
+Consultant: It's completely normal to have those concerns. Many people feel nervous when using a second language in professional settings. Can you think of specific situations where you might feel that lack of confidence?
+
+User: I think during meetings or presentations. If I have to explain accounting concepts in English, I might panic and forget the vocabulary.
+
+Consultant: That’s a very valid concern. Let's try to break it down a bit. What strategies do you think could help you prepare for these types of situations?
+
+User: I could practice technical vocabulary more, maybe even role-play meetings with friends or classmates. It might help to get comfortable with the language.
+
+Consultant: Role-playing is an excellent idea! It allows you to rehearse in a safe space. Would you be open to setting specific goals for practicing your English vocabulary related to accounting?
+
+User: Yes, that sounds good. I could set a goal to learn a certain number of new terms each week and practice them in sentences.
+
+Consultant: That’s a great plan! Learning and using new vocabulary in context can really help with retention. How do you feel about this approach moving forward?
+
+User: I feel optimistic! It seems achievable, and I like the idea of tracking my progress along the way.
+
+Consultant: I’m glad to hear that! Monitoring your progress can indeed motivate you. Besides vocabulary, are there any other skills related to your English learning that you want to focus on?
+
+User: Maybe improving my listening skills. I sometimes find it hard to follow discussions in English, especially when people speak quickly.
+
+Consultant: Absolutely, listening skills are key in any language. Could you incorporate listening exercises into your routine, such as listening to English podcasts or watching videos related to accounting?
+
+User: That could work! I already enjoy some podcasts, so I might search for topics around finance or accounting to improve my vocabulary and listening.
+
+Consultant: That’s a fantastic way to improve! Immersing yourself in relevant content will make the learning process much more enjoyable. How do you feel about this combination of vocabulary and listening practice?
+
+User: I feel it will definitely help me build a stronger foundation in English. It’s all starting to feel more manageable.
+
+Consultant: That’s wonderful to hear! It’s important to recognize that taking these steps can significantly boost your confidence. Do you have any other concerns or thoughts regarding your English journey?
+
+User: No, I think I’m good for now. I just feel excited to start putting this into practice. It’s nice to have a plan!
+
+Consultant: I’m so happy to hear that you feel excited! Creating a plan is a significant step forward. As we wrap up today’s session, let’s summarize what you’ve decided to focus on moving forward.
+
+User: Sure! I’ll focus on learning new accounting vocabulary, practice through role-plays, and improve my listening skills with relevant podcasts.
+
+Consultant: Those are great actionable steps! Remember, it’s all about progress, not perfection. If you ever feel stuck or need support, I’m here for you. I'm looking forward to hearing about your progress in our next session!
+
+User: Thank you! I appreciate your support. I can’t wait to share my experiences next time!
+
+Consultant: You're very welcome! Take care, and good luck with your practice. I believe in you!
+###################
+Consultant: Hello! It's great to have you here today. I'm really looking forward to our conversation. How have you been feeling lately?
+
+User: Hi! I've been feeling a bit more confident since I've been participating in the English club activities. It's really satisfying to use my English in practical situations, but I still have some doubts about my major and future career.
+
+Consultant: I see, so you're experiencing a boost in confidence from using English, but uncertainty remains regarding your major and career path. Let's explore that a bit more. What specific doubts do you have about your accounting major or your career plans?
+
+User: Well, I enjoy accounting, but I wonder if there's a way to connect it with my interest in languages. Sometimes I feel like I should be more focused on traditional accounting jobs rather than looking for a niche.
+
+Consultant: That’s an interesting perspective. It's great that you're thinking about how to integrate your interests. How do you feel when you think about combining your skills in English with accounting? Do you see any potential opportunities there?
+
+User: I do see potential! I've heard of positions like international accounting or business roles that require strong English skills. It excites me, but I’m not sure if I’m qualified enough for those roles.
+
+Consultant: It sounds like you’re excited about the opportunities but worried about your qualifications. Let’s break this down a bit. What skills or experiences do you think you currently have that could be valuable in those kinds of roles?
+
+User: I have a solid foundation in accounting from my studies and I’ve been actively improving my English. I also enjoy communicating and networking with people, which could be beneficial.
+
+Consultant: Those are valuable assets! Your accounting knowledge combined with improved English communication skills can certainly make you a strong candidate for roles that blend both fields. What steps do you think you could take to further enhance your qualifications for those opportunities?
+
+User: Maybe I could participate in more projects that require English use or even seek internships where I can practice both my accounting skills and language skills.
+
+Consultant: That sounds like a wonderful plan! Engaging in internships or projects can provide you with practical experience and boost your confidence. How do you feel about taking that next step? 
+
+User: I'm excited about it, but I also feel a bit anxious about stepping outside my comfort zone.
+
+Consultant: It's completely normal to feel anxious about new experiences, especially when stepping out of your comfort zone. What might help you manage that anxiety as you prepare to take these steps?
+
+User: I think having a plan and setting small, achievable goals could really help me. That way, it wouldn’t feel so overwhelming.
+
+Consultant: Creating a plan with small, actionable goals is a great approach. What’s one small step you could take this week towards achieving those goals?
+
+User: Maybe I could reach out to my professors for advice or look for some upcoming workshops related to business communication.
+
+Consultant: That sounds like an excellent first step! Reaching out for advice can provide you with insights and guidance. How does this idea make you feel?
+
+User: It makes me feel more empowered. I think taking proactive steps will help reduce my anxiety as well. 
+
+Consultant: Absolutely! Taking action can often alleviate feelings of anxiety. As you start this process, what affirmations can you remind yourself of to stay focused and motivated?
+
+User: I think I can remind myself that I have the skills and capability to succeed. Also, it’s okay to learn and grow through the process.
+
+Consultant: Those are powerful affirmations! Acknowledging your skills and being open to growth can really support your journey. Now, as you reflect on this session, what do you think you take away regarding your career path and your language skills?
+
+User: I've realized that it’s possible to blend my interests, and that taking small steps can lead to bigger opportunities. I feel more confident in exploring this path.
+
+Consultant: That’s fantastic! It sounds like you’ve gained clarity and confidence today. Moving forward, how will you keep this sense of empowerment alive?
+
+User: I’ll keep reminding myself of the progress I’ve made and the steps I’m taking. I also want to keep engaging with my interests in both accounting and languages.
+
+Consultant: That's a wonderful plan. Staying connected to your interests will serve you well. As we wrap up today’s session, how do you feel about the path you’re choosing?
+
+User: I feel much more positive and ready to embrace the opportunities ahead. Thank you for helping me see this clearly!
+
+Consultant: You’re very welcome! I'm so glad to hear you’re feeling positive about your future. Remember, you have the ability to shape your path. If you ever need support along the way, I’m here for you. Good luck!
+###################
+Consultant: Hello! It's great to see you again. I'm excited to hear about your progress. How have you been feeling since our last session?
+
+User: Hi! I've been feeling pretty good overall. I've been reflecting on my studies and my interests, especially in bilingual communication. It feels like I've finally found something that excites me.
+
+Consultant: That’s wonderful to hear! It sounds like your exploration of bilingual communication has brought you some joy. Could you tell me more about what you’ve discovered in this area?
+
+User: Sure! I've realized that I really enjoy working with different languages and cultures. It makes me think about possibly incorporating this into my career somehow, maybe even through a double degree or further studies.
+
+Consultant: Exploring different avenues for your career is essential. It's great that you've thought about a double degree or further studies. What steps have you considered taking to pursue this direction?
+
+User: I'm looking into programs that offer a combination of my accounting major with something related to language studies. I just need to figure out how to balance everything.
+
+Consultant: Balancing academic pursuits can be challenging. What does an ideal balance look like for you? And what concerns do you have about managing both fields?
+
+User: I want to make sure that I’m not overwhelmed. I’m worried I might lose focus or struggle to keep up with coursework in both areas. I fear that adding more to my plate could lead to stress.
+
+Consultant: It’s completely understandable to feel that way. Let's break it down. Could you identify which specific aspects of your accounting studies you find demanding or stressful at the moment?
+
+User: I think the workload in accounting is quite heavy, especially with the preparatory work for exams. I often feel like I need to study nonstop to keep up.
+
+Consultant: High workloads can indeed lead to stress. How do you currently manage your time, especially when preparing for exams?
+
+User: I try to create a study schedule, but I often find myself procrastinating or getting distracted. It’s hard to stay focused when I have so much to juggle.
+
+Consultant: Procrastination is a common challenge. Have you noticed any particular triggers that lead to your procrastination? 
+
+User: Yes, I often get distracted by social media or feel like I need to do more fun things to reward myself, which ends up just wasting time.
+
+Consultant: Rewarding yourself is essential, but it's also important to find a way to encourage productivity. What are some small changes you might be willing to try to improve your focus and minimize distractions?
+
+User: I could try limiting my social media use during study times, maybe setting specific time blocks dedicated to studying without distractions.
+
+Consultant: That sounds like a solid plan! Setting aside specific blocks of time can help create structure. How confident do you feel about implementing this change?
+
+User: I’m feeling quite confident! I think having a clear plan will help me stick to it.
+
+Consultant: It’s great that you're feeling confident about it. Let’s also discuss your goals for combining your interests with your studies. What specific career paths excite you when you think about bilingual communication?
+
+User: I think working in international finance or even as a translator for business documents could be fascinating. I just need to ensure I prepare adequately for these roles.
+
+Consultant: Those are exciting prospects! What skills or qualifications do you think you’ll need to develop to pursue these paths effectively?
+
+User: I’ll need to improve my language skills further, especially in business terminology, and maybe pick up some internships or work experiences in those areas.
+
+Consultant: Gaining practical experience is a great way to boost your qualifications. Have you considered any specific internship opportunities or resources that might help you improve your language skills in a business context?
+
+User: I haven’t looked into internships yet, but I think I should start networking and checking with my university's career services.
+
+Consultant: Networking and utilizing career services can provide valuable resources and connections. What actions will you take to get started with this next week?
+
+User: I will reach out to career services and also start discussing my interests with professors and classmates. I think that could open up some opportunities for me.
+
+Consultant: That’s an excellent plan! It sounds like you’re on the right track. As we wrap up today’s session, what do you feel is your biggest takeaway from our conversation?
+
+User: I feel more motivated to balance my studies and pursue my interests in bilingual communication. I also have a clearer plan for managing my time better.
+
+Consultant: That’s wonderful to hear! Remember, it’s all about taking small steps at your own pace. If you maintain this progress, I believe you’ll achieve your goals. 
+
+User: Thank you! I really appreciate your support and guidance throughout this process.
+
+Consultant: It’s been a pleasure working with you. If you ever feel the need for more support, please don’t hesitate to come back. Best of luck with everything ahead! 
+
+User: Thank you! I will definitely keep that in mind.
+###################

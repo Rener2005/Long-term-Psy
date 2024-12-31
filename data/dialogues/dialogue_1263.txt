@@ -1,0 +1,428 @@
+Consultant: Hello, Beibei! I'm glad you're here today. How are you feeling about starting kindergarten?
+
+User: Hi. I'm really scared. I don’t like it there. It's so different and I want to be with my uncle and aunt.
+
+Consultant: It sounds like you're feeling really anxious about being in a new place and being away from your uncle and aunt. What do you think makes kindergarten feel so scary for you?
+
+User: It’s just so many kids and the teachers are strangers. I don’t know what to do!
+
+Consultant: That makes a lot of sense. New situations with unfamiliar people can feel overwhelming. Can you tell me more about what happens when you're there? 
+
+User: I cry a lot, and then I just want to go home. I don’t want to play with the other kids.
+
+Consultant: Crying is a normal way to express how you're feeling. When you feel that way, it can be hard to think about playing or making friends. What do you wish would happen when you're at kindergarten?
+
+User: I wish I could see my uncle or aunt. They make me feel safe.
+
+Consultant: Feeling safe is very important. Your uncle and aunt help you feel comfortable. What if we tried to find ways to help you feel a little safer in kindergarten, like bringing a small toy or picture of them with you?
+
+User: I like that idea! A picture of them might help.
+
+Consultant: That's great! Holding onto that picture might bring you some comfort. Additionally, let’s think of fun activities that could help you get used to the kids and teachers. What games do you like to play?
+
+User: I like playing dress-up and making crafts!
+
+Consultant: Dress-up and crafts sound like a lot of fun! Maybe we can think of ways to talk to some of the other kids about those activities. How would you feel about inviting a classmate to join you in playing dress-up one day?
+
+User: I don’t know. What if they don’t want to play with me?
+
+Consultant: It's okay to feel worried about that. Sometimes kids may not want to play right away, but you can try asking them. You might be surprised! What if you practice asking a friend or family member to play first?
+
+User: I guess I could try that with my teddy bear!
+
+Consultant: Practicing with your teddy bear sounds like a fun idea! It can help make asking others feel less scary. After you try that, how do you think you would feel about playing with other kids?
+
+User: Maybe a little less scared. 
+
+Consultant: That's a good step forward, Beibei! Building that confidence can make a difference. Let's also think about how you can tell your teachers if you’re feeling anxious. What do you think they could do to help you feel better?
+
+User: Maybe they could hug me or tell me I can go home?
+
+Consultant: Those are great ideas! Teachers can provide support. You could also let them know how you're feeling. Would you like to practice what you might say to them?
+
+User: I can say I'm scared and need a hug?
+
+Consultant: Absolutely! That's a brave thing to say, and it can help them understand how to support you. How do you feel about practicing that in kindergarten?
+
+User: I think I can try it. 
+
+Consultant: That's wonderful to hear! Remember, everyone feels nervous sometimes, and it's perfectly okay to ask for help. What do you want to do next time you go to kindergarten? 
+
+User: I want to try to talk to the teacher and show her my picture!
+
+Consultant: That sounds like a fantastic plan! Sharing your picture can show your teacher who makes you feel safe. If she knows about your feelings, she can help you better. How do you think you will feel after doing that?
+
+User: I think I might feel a little better!
+
+Consultant: That's a positive way to look at it, Beibei! Every small step counts. Remember, it’s okay to feel uncertain at first. As you practice these little actions, you'll grow more comfortable. 
+
+User: I hope so. 
+
+Consultant: And I'm here to support you through this. Let's keep working together to build your confidence, little by little. Would you like to share anything else that's on your mind today?
+
+User: I’m still worried about being away from my uncle and aunt.
+
+Consultant: It's completely normal to feel worried about them. Let's think of a special way to stay connected with them during the day. Maybe you could write them a little note or draw a picture to show them how much you miss them.
+
+User: That sounds nice! I would like to draw.
+
+Consultant: Drawing is a fantastic way to express your feelings! You can show your drawing to them when you see them again. This might help you feel closer to them even when you’re at kindergarten. 
+
+User: I think I can do that!
+
+Consultant: I'm really proud of you, Beibei! You’re taking positive steps. Just remember, it’s okay to have feelings of uncertainty, and with each step, you’re becoming braver.
+
+User: Thank you! I'll try harder. 
+
+Consultant: You’re doing wonderfully, Beibei. Remember, we’ll continue to explore new ways to help you feel secure and open in kindergarten. Are there any last thoughts you want to share today?
+
+User: I feel a bit more hopeful now.
+
+Consultant: That's fantastic to hear! Feeling hopeful is a great sign. I'm looking forward to our next session where we can keep working on this together. Remember, it's a journey, and I'm here with you every step of the way. 
+
+User: Thank you! 
+
+Consultant: You’re welcome! Take care, Beibei, and keep thinking positively!
+###################
+Consultant: Hi there, 贝贝! I'm really glad you’re here today. How are you feeling about going to kindergarten lately?
+
+User: I don’t really like it. I feel scared when I see other kids and the teacher. I miss my uncle and aunt.
+
+Consultant: It sounds like you really miss your uncle and aunt, and that’s totally understandable. What do you feel when you're at kindergarten with the teacher and other kids?
+
+User: I feel really nervous, like I want to cry. I don't want to play with the other kids.
+
+Consultant: Those feelings can be really tough to handle. It’s okay to feel that way. Sometimes new places can be overwhelming. Can you tell me more about what makes you feel nervous at kindergarten?
+
+User: I don't know them, and the teacher is different from my uncle and aunt. I want to go home.
+
+Consultant: It makes sense that you want to go home when things feel unfamiliar. We can work together to help you feel more comfortable there. Maybe we can think of some fun things about kindergarten. What do you think might be enjoyable if you give it a try?
+
+User: Maybe playing with toys? But what if other kids don’t want to play with me?
+
+Consultant: Playing with toys sounds like a great start! And it’s normal to worry about how other kids will feel. Sometimes, they might just be shy too. We can practice some ways to ask others to play. How does that sound?
+
+User: It sounds okay, but I'm still scared to talk to them.
+
+Consultant: It's completely normal to feel scared. What if we practiced saying hello to a toy first? You could pretend one of your toys is a friend. How do you think that would feel?
+
+User: That might be fun. I could show my toy how to say hello!
+
+Consultant: That’s a wonderful idea! Imagining a fun interaction can help. When you feel ready, you can try saying hello to a classmate. Remember, it’s okay to take small steps. What do you think would be the next step to feel more at ease in your class?
+
+User: Maybe I can try playing with a toy when I get to school first.
+
+Consultant: Absolutely! That’s a perfect plan. Focusing on the toy can help you feel comfortable. And, if you see another kid nearby, maybe you could invite them to play with your toy too. Would you like to give that a try?
+
+User: Yes, I think I will try that!
+
+Consultant: I’m proud of you! It sounds like you're ready to face this challenge. Remember, it might take time, and that’s perfectly okay. Is there something special about your toy that you want to share with your classmates?
+
+User: My toy is a teddy bear, and he loves to play tea party!
+
+Consultant: That sounds adorable! You can share the teddy bear's love for tea parties with your classmates. It might be a great conversation starter! How do you think the other kids would react?
+
+User: Maybe they will want to play tea party too!
+
+Consultant: That’s a great possibility! Sharing what makes your bear special might make it easier to connect with others. Can we think about maybe rewarding yourself when you try this? What would make you feel good?
+
+User: I like stickers! If I say hello to someone, I want a sticker.
+
+Consultant: Stickers are a fantastic reward! How about this: every time you try saying hello or playing with someone, you get a sticker. That way, you can see your progress! How does that sound to you?
+
+User: That sounds fun! I want lots of stickers!
+
+Consultant: I believe you can earn lots of stickers! Each small step counts, and I’m here to cheer you on. How do you feel thinking about your plan for tomorrow?
+
+User: I feel a little happier thinking about it.
+
+Consultant: That’s wonderful to hear, 贝贝! Feeling happier is a good sign. Remember, if you feel nervous, you can take a deep breath and give your teddy bear a hug. Would you like to share how you feel about your teddy bear being there with you at school?
+
+User: I love my teddy bear! It makes me feel safe.
+
+Consultant: That’s beautiful! Your teddy bear is a great source of comfort. Keep him close to remind you that you’re safe and loved. When we meet next time, I can't wait to hear all about your adventures in kindergarten. You’re doing amazing work, and I’m so proud of you! 
+
+User: Thank you! I want to tell you everything!
+
+Consultant: I’m looking forward to hearing all about it,贝贝! Remember, you are brave for facing these new situations. See you next time!
+
+User: Bye! Thank you, see you!
+###################
+Consultant: Hello, Beibei! I'm so glad to see you today. How have you been feeling about your time at kindergarten lately?
+
+User: Hi! I’ve been feeling a little better. I enjoyed playing some games with my friends, but sometimes I still feel shy around them.
+
+Consultant: That’s great to hear you’ve enjoyed playing games! It's perfectly normal to feel a bit shy. Can you tell me more about those moments when you feel shy? What do you think makes you feel that way?
+
+User: I think I worry that they won't want to play with me or that I might be silly. But sometimes I want to join in, especially when they laugh and seem to have fun.
+
+Consultant: It's understandable to feel that way, especially since being part of a group can be a little daunting. When you want to join in but feel shy, how do you usually respond? 
+
+User: I sometimes just watch and don’t say anything. I wish I could speak up more, but I feel like my voice gets stuck.
+
+Consultant: Watching can be a safe way to observe, but it sounds like you want to share your ideas, too. What do you think would happen if you tried to say something the next time you felt that way?
+
+User: I guess they might include me, but I’m scared they won't listen. 
+
+Consultant: That fear of not being listened to is common, Beibei. Let’s think about it: if a friend in your class wanted to join in but felt scared, what would you tell them? 
+
+User: I’d tell them it’s okay to try! I think it would be nice if I could remember that, too.
+
+Consultant: Exactly! You can cheer yourself on just like you would for a friend. How about we come up with a little phrase or a fun way you can remind yourself to be brave when it’s time to join in?
+
+User: Maybe I could say “It’s okay to try!” in my head before I talk to them.
+
+Consultant: That sounds wonderful! “It’s okay to try” is a great reminder. How do you feel about using that next time you're in a group?
+
+User: I think it might help! I’ll give it a try.
+
+Consultant: I believe in you, Beibei! Let's also talk about what kinds of games or activities you like the most. Can you share which ones make you feel excited to join in?
+
+User: I really like playing with blocks and pretending to build things. It’s fun!
+
+Consultant: Building with blocks sounds like a fantastic way to engage with your friends! Next time, do you think you could invite someone to help you build something together? 
+
+User: Yes, I can ask someone if they want to help build a tower!
+
+Consultant: That’s a fantastic idea! Collaborating with a friend can make the experience even more enjoyable. How do you think it would feel to ask someone to join you?
+
+User: I think it might be fun! If they say yes, we can make something cool together.
+
+Consultant: Absolutely! And if they say yes, that could make you feel really proud of taking that step. What about if they say no? How can we handle that?
+
+User: I guess I could try not to feel too sad and maybe ask someone else later.
+
+Consultant: That’s a perfect plan! Remember, not everyone can play all the time, and that’s okay. You can always try again with someone else. How does thinking about that make you feel?
+
+User: It makes me feel a little better. I can keep trying!
+
+Consultant: I’m glad to hear that! Remember, each time you try, you're practicing your skills and building confidence. What is one goal you’d like to set for yourself before our next session?
+
+User: I want to try talking to at least one friend every day during playtime!
+
+Consultant: That’s a wonderful goal! Trying to talk to at least one friend each day will help you feel more comfortable. I can't wait to hear how it goes. 
+
+User: Me too! I hope it goes well; I really want to have fun!
+
+Consultant: I believe you will have fun. Let’s focus on celebrating those moments, no matter how small. We’ll talk about your experiences next time. 
+
+User: Okay! I’m excited to share!
+
+Consultant: I’m excited too! You are doing a fantastic job, Beibei, and remember, every little step you take is important. I’ll see you next time!
+
+User: Bye! See you!
+###################
+Consultant: Hello, Beibei! I'm so happy to see you today. How have you been feeling about your time at kindergarten since our last session?
+
+User: Hi! I've been feeling a bit better. I participated in a group performance last week, and it was really fun. I liked showing what I could do.
+
+Consultant: That's wonderful to hear! It sounds like participating in the performance gave you some joy. How did you feel during the performance? 
+
+User: I was a little nervous at first, but then I felt happy when I was on stage. I liked dancing and singing with my friends.
+
+Consultant: It’s great that you could overcome your nerves and enjoy the performance! What do you think made you feel happier when you were performing with your friends?
+
+User: I think it was nice to be with my friends. I felt like we were all having fun together.
+
+Consultant: Connection with friends can be such a powerful feeling! Now, can you tell me how you felt about being on stage, sharing your talent with everyone?
+
+User: I felt proud of myself! I liked that my uncle and aunt were watching me. I wanted to make them happy.
+
+Consultant: That's a fantastic feeling, Beibei! Wanting to make your family proud is very special. Do you think it changed how you see yourself in front of others?
+
+User: Yes, I think I felt more brave. I want to perform again.
+
+Consultant: I love that! Wanting to perform again shows that your confidence is growing. What are some other things you would like to try in the next performance?
+
+User: Maybe I can try to sing a solo or do a dance by myself. I want to see if I can do it!
+
+Consultant: That sounds like a great plan! Trying new things can help you grow even more. How do you feel about expressing your feelings during your performances, like showing your happiness or excitement?
+
+User: I want to show how happy I feel. I think it would be fun!
+
+Consultant: Absolutely, expressing your feelings can make your performance even more special. We can practice some ways to help you show your emotions on stage if you'd like.
+
+User: Yes! I want to learn how to be better!
+
+Consultant: That's the spirit, Beibei! What if you practiced smiling or using your hands to express your feelings while you dance or sing? 
+
+User: That would be fun! I can practice that at home.
+
+Consultant: Perfect! Practicing at home is a great way to prepare for your next performance. Can you think of a time when you felt excited and wanted to share that excitement with others?
+
+User: Maybe when I got a new toy. I wanted to show it to everyone and play together.
+
+Consultant: That’s a great example! Sharing happiness about your new toy is similar to sharing your feelings during a performance. How do you think you can remind yourself to feel that excitement on stage?
+
+User: I could think about how much fun it is to perform and how happy it makes me feel.
+
+Consultant: That's a wonderful idea! Focusing on the joy of performing can help you feel more confident. If you ever start feeling nervous, you can think about your excitement instead. How does that sound?
+
+User: That sounds good. I can do that!
+
+Consultant: I'm sure you can, Beibei! Let's keep building that confidence together. What’s something you enjoyed about the last performance that you want to keep doing?
+
+User: I liked how my friends cheered for me. It made me feel happy.
+
+Consultant: Friends cheering for you can be so encouraging! We can focus on enjoying those supportive moments. Can you tell me how you might help your friends feel supported during a performance, too?
+
+User: I can cheer for them and smile at them!
+
+Consultant: Yes! Being a supportive friend is very important. I think that will make everyone enjoy the performance even more. Remember, every performance is a chance to express yourself and connect with others.
+
+User: I want to practice a lot so I can feel really good next time!
+
+Consultant: That's a great mindset, Beibei! With all your practice and excitement, I believe you'll shine in your next performance. How do you feel about our plans for the next session?
+
+User: I'm excited! I want to share what I practiced!
+
+Consultant: Perfect! I can’t wait to hear about what you've practiced. Remember, expressing your emotions is a beautiful thing, and I'm here to help you every step of the way. 
+
+User: Thank you! I feel happy to talk about this.
+
+Consultant: You’re very welcome, Beibei! It’s my pleasure to support you. Keep that happiness in your heart, and I’m looking forward to our next session!
+###################
+Consultant: Hi Beibei! I'm so glad to see you today. How have you been feeling since our last session?
+
+User: Hi! I've been feeling pretty good. Since we played those games, I feel more confident expressing myself. I can share my thoughts better now!
+
+Consultant: That’s wonderful to hear! It sounds like those activities really helped you feel more comfortable sharing your feelings. Can you tell me more about a time when you expressed yourself recently?
+
+User: Well, at school during playtime, I told my friends how I felt about the story we were acting out. I felt happy when they listened to me!
+
+Consultant: It must have been exciting to share your thoughts with your friends! How did it feel to have them pay attention to what you said?
+
+User: It felt really good! I like when people listen. I feel like they understand me more.
+
+Consultant: That's a beautiful feeling, Beibei. Feeling understood can make a big difference in how we connect with others. Have you noticed any other changes in how you express your feelings at home or at school?
+
+User: I try to tell my uncle and aunt how I feel when I'm happy or sad. Sometimes they ask me more questions, and I like it!
+
+Consultant: That’s great to hear! Asking questions shows they care about what you’re feeling. How do you feel when they do that?
+
+User: I feel important. Like my feelings matter to them.
+
+Consultant: Absolutely, your feelings are very important! It sounds like you’re building a great way of connecting with your family and friends. What activities do you think helped you become more comfortable expressing yourself?
+
+User: The role-playing games were fun! I could be different characters and show different feelings!
+
+Consultant: Role-playing can indeed be a fun way to explore emotions. It’s like practicing how to express yourself in different situations. Do you have a favorite character that you played?
+
+User: Yes! I liked being the princess. She was brave and always helped her friends.
+
+Consultant: A brave princess sounds like an inspiring character! How did being the princess help you express your own feelings?
+
+User: I think because the princess could say what she felt. I tried to do that too!
+
+Consultant: That's a wonderful connection you made! It seems you learned that you can be brave like the princess when expressing your feelings. What do you think would help you keep being brave in your real life?
+
+User: Maybe I can practice more with my friends and family, so I don’t feel shy!
+
+Consultant: Practicing with friends and family is a great idea! It’s like training your heart to be brave. Are there any specific situations where you feel shy about expressing yourself?
+
+User: Sometimes in new groups, I feel shy. Like when I have to meet new kids.
+
+Consultant: It’s perfectly okay to feel shy in new situations. How do you think you can use what you've learned to feel more comfortable when meeting new kids?
+
+User: I could remember being the princess! Or maybe I can ask them about their favorite games.
+
+Consultant: That sounds like a fantastic plan! Asking about their favorite games could be a great icebreaker. What do you think about practicing those approaches together?
+
+User: Yes, I would like that! It sounds fun!
+
+Consultant: Wonderful! Let's make a plan for how you can practice this. In the coming days, how about you try to talk to at least one new kid and share your favorite game with them?
+
+User: I can try that! I’ll tell them about my favorite toy.
+
+Consultant: That sounds perfect! Sharing your favorite toy is a great way to make a connection. After you do that, we can talk about how it went in our next session. How does that sound?
+
+User: I’m excited! I hope it goes well.
+
+Consultant: I'm sure it will, Beibei! Remember, being brave is about taking small steps. Lastly, how do you feel about your progress and what you've learned so far?
+
+User: I feel happy! I think I can be even braver.
+
+Consultant: That’s an incredible mindset, Beibei! You’re doing so well. I'm proud of you for being brave and sharing your feelings. Let’s keep building on that confidence together!
+
+User: Thank you! I really enjoy talking about this.
+
+Consultant: I enjoy our conversations too! Let’s make sure to keep practicing. If you ever feel uncertain, just remember how far you’ve come. You are becoming really good at expressing yourself!
+
+User: I will remember that! Thank you for helping me.
+
+Consultant: You’re very welcome, Beibei! Let’s continue this journey together. In our next session, we can assess how you’ve adapted to new environments. Keep shining bright!
+
+User: Bye! I’m looking forward to it!
+
+Consultant: Bye, Beibei! See you next time!
+###################
+Consultant: Hello! I'm so glad to see you today. How have you been feeling about your time in kindergarten lately?
+
+User: Hello! I've been feeling good, actually. I often talk about kindergarten at home, and I think I'm starting to get used to it. I really like playing with my friends there.
+
+Consultant: That’s wonderful to hear, Beibei! It sounds like you’re making progress in adapting to your new environment. Can you tell me more about what you enjoy most about your friends at kindergarten?
+
+User: I like playing games with them, especially tag! It’s so much fun to run around and laugh together.
+
+Consultant: It sounds like you have a lot of fun playing tag with your friends! How does playing with them make you feel when you're at kindergarten?
+
+User: I feel really happy! Sometimes I forget about missing my uncle and aunt when I’m playing.
+
+Consultant: That’s great that you’re finding joy in playing with your friends. Missing your uncle and aunt is completely normal, but it’s encouraging to hear that you’re enjoying your time there. Have you talked to your uncle and aunt about your experiences at kindergarten?
+
+User: Yes, I tell them about my day and the games we play. They seem happy that I'm making new friends.
+
+Consultant: Communication with them is a wonderful way to share your experiences! It sounds like they support you well. How do you feel about sharing more new things with them in the future?
+
+User: I think I want to tell them everything! It makes me feel good when they listen.
+
+Consultant: That’s a lovely approach, Beibei. Sharing your experiences can help you feel connected to your family as well. What other activities in kindergarten are you looking forward to?
+
+User: I can't wait for painting time! I love using all the colors.
+
+Consultant: Painting sounds like a fantastic way to express yourself! How does it make you feel when you create your art?
+
+User: It makes me feel proud. I like showing my paintings to everyone!
+
+Consultant: Feeling proud of your work is wonderful, and sharing it with others adds to that joy. Have your teachers noticed your paintings? 
+
+User: Yes, they said I have a good imagination!
+
+Consultant: That's an amazing compliment! It seems like your creativity is shining through. Do you feel encouraged by their praise?
+
+User: Yes, it makes me want to paint more and more!
+
+Consultant: I can see how encouraging that feedback is for you. Let’s think about ways you can continue to develop that creativity and also feel comfortable sharing your feelings about kindergarten. How do you think you might do that?
+
+User: Maybe I can ask them to let me paint more and show my friends!
+
+Consultant: That’s an excellent idea! Taking the initiative to ask will not only help you express yourself but also build your confidence. What other support do you think will help you keep thriving in kindergarten?
+
+User: I think it will help if my uncle and aunt keep asking me about my day and come to see my paintings!
+
+Consultant: Having your uncle and aunt involved is a great support system. Their interest in your experiences can strengthen your bond with them and encourage you further. Is there anything else that makes you feel supported at kindergarten?
+
+User: I like when the teachers praise us when we do well; it makes me happy.
+
+Consultant: That praise is very important and can create a positive atmosphere for you to thrive. Since you’re feeling stable and adapting well, let's also think about any challenges or worries you might have in the future. Is there anything you anticipate might be difficult?
+
+User: I sometimes think about what I would do if I get sad or miss my uncle and aunt.
+
+Consultant: It’s completely normal to have worries about missing them. One way to handle those feelings is to think of ways to comfort yourself when they come up. What do you think might help you feel better when you start to feel sad?
+
+User: I can think about the fun things at kindergarten or draw a picture for them!
+
+Consultant: Those are fantastic strategies! Using creativity and positive memories can help lift your spirits. Lastly, as we talk about your progress and your positive outlook, do you feel ready to share these insights with your family?
+
+User: Yes, I want to tell them everything we talked about today!
+
+Consultant: That’s a wonderful goal! Sharing what you’ve learned will help reinforce the positive changes you’ve made. As we wrap up today’s session, let’s celebrate how far you’ve come in adapting and thriving in kindergarten. You’ve done an amazing job, and your openness to growth is inspiring!
+
+User: Thank you! I’m really happy about what I'm doing!
+
+Consultant: I’m so glad to hear that, Beibei! Remember, you can always reach out and share your feelings, and your family will be there to support you. If you ever need to talk again, I’m here for you. 
+
+User: Thank you! I will come back if I want to talk more.
+
+Consultant: You're always welcome here. Take care, Beibei, and keep enjoying your time at kindergarten!
+###################

@@ -1,0 +1,386 @@
+Consultant: Hello, Li! I'm glad you're here for this session. How have you been feeling since our last conversation?
+
+User: Hi. Honestly, I still feel quite anxious. The new work environment is overwhelming, and I often find myself doubting whether I can handle it. I’m also worried about how to connect with new colleagues.
+
+Consultant: It’s completely understandable to feel this way, especially after a work transition. Let’s take a moment to explore some of those feelings. What specific thoughts run through your mind when you think about your new work environment?
+
+User: I keep thinking that I might not fit in, or that I will fail at my tasks. I worry that everyone is more capable than I am. 
+
+Consultant: Those thoughts must be quite heavy to carry. They make sense given the situation. How do these thoughts make you feel about yourself and your ability to adapt to this new setting?
+
+User: They make me feel insecure and stressed. Sometimes I just want to avoid going to work altogether because it feels so daunting.
+
+Consultant: It sounds like you’re caught in a cycle of negative thinking that’s increasing your anxiety and prompting avoidance. Could there be any evidence to support or challenge the idea that you won't fit in or succeed?
+
+User: I guess there are some positive feedbacks from my previous work, but it often gets overshadowed by my current doubts.
+
+Consultant: That’s a good point. Sometimes we forget the positive experiences we’ve had because we focus so much on our fears. What if you try to remind yourself of those strengths and achievements you have? How might that change how you feel about your new role?
+
+User: Maybe focusing on what I’ve accomplished could help me feel a bit more confident. But it’s hard to shift my focus.
+
+Consultant: That’s understandable, shifting focus takes practice. Would it help to create a list of your achievements and strengths? We could look at that together in our next sessions to remind you of the positive aspects you bring to this new role.
+
+User: That sounds like a good idea. I think I need a reminder of what I'm capable of.
+
+Consultant: Great! Let’s keep working on building that list. In addition, I'm curious about how you've been approaching your interactions with your new colleagues. How comfortable do you feel in starting conversations with them?
+
+User: It’s challenging. I often hesitate to initiate conversations because I fear they won't be interested or that I'll embarrass myself.
+
+Consultant: It’s common to feel apprehensive about initiating new relationships. Let's explore this. What’s the worst-case scenario you envision might happen if you try to engage with them?
+
+User: I suppose I fear they might ignore me or think poorly of me.
+
+Consultant: That’s a tough fear to deal with. Now let’s reframe this—if a colleague approached you, what would your reaction be? How would you feel toward them?
+
+User: I’d likely appreciate their effort and be happy to talk. I wouldn’t judge them negatively at all.
+
+Consultant: Exactly! Often, we project our fears onto others. What if you tried to approach your colleagues with the understanding that they might appreciate your effort just like you would appreciate theirs?
+
+User: I suppose that makes sense. I can see their perspective more clearly now.
+
+Consultant: I'm glad that resonates with you. Let’s set small, achievable goals for reaching out. Perhaps you can start with a casual greeting or a small talk. How does that sound to you?
+
+User: That sounds doable! I can try that.
+
+Consultant: Fantastic! Remember, each small interaction builds your confidence. As we navigate through your concerns, what other strategies do you think might help ease your anxiety about adapting to this new environment?
+
+User: I think planning out my work and having a clearer structure might help. I tend to feel overwhelmed when things seem chaotic.
+
+Consultant: Structuring your tasks is a solid strategy. How about we work together to create a weekly plan for your tasks to reduce that feeling of chaos? 
+
+User: Yes, that sounds helpful. I often get lost in what I need to do.
+
+Consultant: Wonderful! Having a visual reference can provide a sense of control. As we plan, do you find certain tasks particularly daunting? 
+
+User: Meetings make me anxious, especially when I have to speak in front of others.
+
+Consultant: That’s understandable. How do you usually prepare yourself before a meeting, and what thoughts come to mind during those times?
+
+User: I try to prepare but end up feeling overwhelmed right before I have to speak. I often doubt what I want to say.
+
+Consultant: It might help to remember that everyone feels nervous sometimes, even seasoned speakers. What if you practiced calming techniques or rehearsed key points ahead of time? 
+
+User: I can see how that might ease my nerves. Practice could definitely help me feel more prepared.
+
+Consultant: Exactly! Let’s incorporate these techniques into our discussions moving forward. Finally, as we wrap up today, what’s one insight or strategy you’d like to take with you from our conversation?
+
+User: I think working on my communication with colleagues and reminding myself of my successes will be my main focus this week.
+
+Consultant: That sounds like a solid plan, Li! Remember, it’s a process, and you’re doing great in recognizing areas to work on. I look forward to hearing about your experiences in our next session. 
+
+User: Thank you! I appreciate your help and support. I’ll see you next time. 
+
+Consultant: You’re welcome! Take care, and I look forward to our next discussion.
+###################
+Consultant: Hello, I'm glad you came in today. How have you been feeling since our last session?
+
+User: Hi. I've been trying to adjust to my new job, but it’s still really challenging. I feel confused and a bit uneasy, especially when interacting with new colleagues. 
+
+Consultant: It sounds like you're experiencing some discomfort in building relationships at work. Can you tell me more about what's making those interactions difficult for you?
+
+User: Well, I often find that when I try to connect, there are misunderstandings. I seem to say the wrong things or miss cues, and it leaves me feeling frustrated and isolated.
+
+Consultant: I understand how frustrating that can be. When misunderstandings occur, what thoughts run through your mind? 
+
+User: I think maybe I’m not cut out for this job or that people don't really want to connect with me. It makes me feel like I'm not good enough.
+
+Consultant: Those thoughts can be quite heavy to carry. Let’s explore them further. When you think, "I'm not cut out for this job," what emotions do you feel?
+
+User: I feel anxious and a bit hopeless. It’s like a voice in my head keeps questioning my worth.
+
+Consultant: It sounds like these thoughts are really impacting your self-esteem. Can we challenge that voice together? What evidence do you have that suggests you aren’t good enough?
+
+User: I guess there isn’t much proof. Just a few awkward moments that stand out in my mind.
+
+Consultant: It’s quite common for a few negative experiences to overshadow positive ones. If a friend shared similar thoughts, what would you advise them to consider?
+
+User: I’d probably tell them to focus on their strengths and remember that everyone has a learning curve.
+
+Consultant: That’s a great perspective! Let’s apply that to your situation. What strengths do you bring to the table in your new job?
+
+User: I have experience in my field, and I’m usually quite organized and responsible.
+
+Consultant: Those are excellent assets! How can you remind yourself of these strengths when you start to feel overwhelmed by negative thoughts?
+
+User: Maybe I could keep a list of my achievements and positive feedback from others.
+
+Consultant: That sounds like a constructive idea! Now, in terms of building connections with your coworkers, have you tried any specific strategies or approaches?
+
+User: I’ve attempted to engage more in conversations, but I often feel unsure about what to say or how to relate.
+
+Consultant: Engaging in conversations can be tricky. What if we focus on active listening as a way to ease into these interactions? How do you feel about that?
+
+User: That makes sense. If I listen more, I might find it easier to relate and respond naturally.
+
+Consultant: Definitely! Active listening can help you foster connections. What steps could you take to practice this during your next conversations?
+
+User: I suppose I could focus on asking questions and really paying attention to their responses instead of worrying about what I’m going to say next.
+
+Consultant: That's a strong approach! By being genuinely curious, you shift some of the pressure off yourself. How does that idea make you feel about your next interaction?
+
+User: A bit more confident, actually. It feels less daunting if I’m concentrating on them.
+
+Consultant: That’s wonderful to hear! As we finish today’s session, let’s outline a small goal for you regarding these interactions over the next week. What would you like to focus on?
+
+User: I want to make at least one real connection with a colleague by actively listening and engaging in conversation.
+
+Consultant: That’s a clear and achievable goal! Remember to reflect on your progress throughout the week. We can discuss how it went next time. Do you have anything else you want to talk about today?
+
+User: No, I think that covers it for now. I appreciate your help and suggestions.
+
+Consultant: I’m glad to hear that, and I look forward to hearing about your progress. Remember, building these skills takes time, so be patient with yourself. See you next time!
+###################
+Consultant: Hello, Li! I'm glad to see you for our session today. Last time, we discussed your feelings of pressure and confusion regarding your work performance and career direction. How have you been feeling since then?
+
+User: Hi. I've been thinking a lot about my situation. I'm still feeling quite lost and stressed about my job. The misunderstanding with my boss really shook my confidence.
+
+Consultant: That sounds really challenging, Li. It’s understandable to feel shaken after such an experience. Can you share more about the misunderstanding and how it affected your feelings towards work?
+
+User: Well, I thought I was doing well, but my boss gave me feedback that was very critical. It made me question my abilities and what I should be doing next in my career. 
+
+Consultant: I see. That feedback made you feel uncertain about your abilities, which is completely natural. What thoughts were running through your mind when you received that feedback? 
+
+User: I kept thinking that I might not be cut out for this job. Maybe I should just look for something completely different. 
+
+Consultant: Those thoughts can be quite heavy, and it's understandable to feel that way. But let’s explore that a bit. What evidence do you have that you’re not suited for this job, and have you considered any alternative perspectives?
+
+User: I guess I don't really have solid evidence. It’s more of an emotional reaction to the feedback. Deep down, I still want to succeed in this field. 
+
+Consultant: That's a significant realization, Li. It sounds like there might be a conflict between your desire to succeed and the fears stemming from that feedback. How does that make you feel when you think about wanting to succeed in your field?
+
+User: It makes me feel a bit hopeful but also anxious about the effort needed to prove myself.
+
+Consultant: Hope is a great feeling to hold on to! It seems like there's a part of you that still believes in your capabilities. What steps could we explore to help you regain confidence and clarity about your career path?
+
+User: I think I need to reflect on what I truly want and what my values are. Maybe list my strengths and see how they align with my current job.
+
+Consultant: That sounds like a productive approach! Reflecting on your values and strengths is key in shaping your career direction. What specific values are important to you in your work life?
+
+User: I value creativity and job stability. I want to work in an environment where I can express my ideas but also feel secure.
+
+Consultant: Those are important values! Now, let’s connect those values with your strengths. What strengths do you believe you possess that can support your desire for creativity and stability?
+
+User: I think I'm good at problem-solving and collaborating with others. I can develop ideas well when I work with a team.
+
+Consultant: That's fantastic! Problem-solving and collaboration are valuable strengths, especially in creative environments. Based on these reflections, what kind of roles or opportunities might align with both your values and strengths?
+
+User: Maybe I should consider roles that allow for team-based projects or opportunities to be involved in creative problem-solving. 
+
+Consultant: That’s a great insight, Li. Focusing on roles that engage your strengths could lead to greater satisfaction. What specific steps can you take to start exploring these kinds of opportunities?
+
+User: I could start networking with colleagues in other departments or even look into workshops that focus on creative problem-solving. 
+
+Consultant: Those sound like excellent steps forward! Networking can open doors to new possibilities, and workshops can help you sharpen those skills. How do you feel about taking these actions?
+
+User: I feel a bit excited about it, but I still have that lingering fear of failure.
+
+Consultant: It’s completely normal to feel that fear, especially when stepping outside your comfort zone. Let’s discuss how we can manage that fear. Could practicing small steps help you build confidence before taking larger actions?
+
+User: Yes, practicing smaller actions seems more manageable. Maybe I could start by reaching out to a colleague I trust for advice.
+
+Consultant: That’s a wise plan! Engaging with someone you trust can provide support and valuable insights. What do you hope to gain from that conversation?
+
+User: I want to understand how they navigated similar situations and see if they have any advice for me.
+
+Consultant: That sounds like a beneficial conversation, and it’s also a way to reinforce your sense of connection at work. As you prepare for this discussion, how can you remind yourself of your strengths and the progress you've already made?
+
+User: I could keep a journal where I list out my positive experiences and accomplishments. That way I can reflect on what I’ve done well.
+
+Consultant: A journal can be a wonderful tool! It not only helps reinforce positive thinking but can also serve as a reminder of your journey. How do you feel about integrating journaling into your routine?
+
+User: It feels good. I think it can help me track my progress and keep my confidence up.
+
+Consultant: Absolutely! Tracking your progress is essential. As we wrap up today’s session, what key takeaway do you have that you want to focus on moving forward?
+
+User: I want to prioritize reflecting on my values, strengths, and taking actionable steps to explore new opportunities.
+
+Consultant: That’s a strong takeaway, Li! Remember that it’s a process, and I believe in your ability to navigate this journey. I look forward to hearing about your progress in our next session.
+###################
+Consultant: Hello, Li! I'm glad to see you today. How have you been feeling since our last session, especially with the insights you've gained from visiting the career consultant?
+
+User: Hi! I've been feeling a bit better, actually. I have some ideas about my career path now, but I'm still very hesitant about taking the next steps. It’s hard to translate those ideas into actions.
+
+Consultant: It's great to hear that you're feeling somewhat better and that you have some clarity regarding your career. Let's talk more about those ideas. Can you share what thoughts or plans you have in mind regarding your career goals?
+
+User: Well, I’ve thought about possibly changing my job to something more aligned with my interests. But I'm not sure what that looks like or how to even start searching for new opportunities.
+
+Consultant: Understanding what aligns with your interests is a significant first step. It sounds like you want to make a change, which is encouraging. However, it’s normal to feel overwhelmed. What do you think is holding you back from starting this search?
+
+User: I think it's a mix of fear and uncertainty. What if I don’t find something suitable? Or what if the change doesn’t go well? I guess I’m worried about making the wrong decision.
+
+Consultant: Those feelings are entirely valid, and it’s common to feel such fears when contemplating a career change. Let’s try to unpack this a bit. What evidence do you have that supports these fears? Can you recall a time when you've made a decision that led to a positive outcome?
+
+User: I can think of some past experiences. For instance, when I switched roles a few years back, I was really nervous, but I ended up enjoying the new position a lot. It made me realize I can adapt.
+
+Consultant: That’s a valuable reflection! It sounds like you have the ability to adapt and thrive in new situations. Since you’ve had a positive experience before, could we explore what specific steps you could take this time to move forward with your career change?
+
+User: I guess I could start by researching potential job roles that fit my interests. Maybe even reaching out to people in those fields to learn more.
+
+Consultant: Excellent idea! Researching and networking are proactive steps you can take. Let’s outline a short-term plan to help you take these actions. How about setting a specific goal for yourself this week regarding this research?
+
+User: Sure. I could aim to find at least three potential job roles and connect with someone in each role to discuss their experiences.
+
+Consultant: That sounds like a solid plan! Connecting with others can provide valuable insights and alleviate some of that uncertainty. How do you feel about setting that as your goal for this week?
+
+User: I feel a bit excited about it. I think it could help clear some of that fog I've been feeling regarding my options.
+
+Consultant: That's fantastic to hear, Li! Excitement is a positive sign. To keep this momentum, what specific actions will you take to ensure you follow through with your research and connections?
+
+User: I’ll carve out some dedicated time each day to do this research and send out messages to people. Maybe I can set reminders on my phone to keep myself accountable.
+
+Consultant: Great approach! Setting reminders is an effective way to stay committed. How confident do you feel about following through with this plan?
+
+User: I feel more confident now, especially since I have a clear action plan. I think having steps makes it less overwhelming.
+
+Consultant: That’s a great realization! When we break things down into manageable steps, it often feels less daunting. If you encounter any obstacles or doubts while implementing this plan, how might you handle them?
+
+User: Maybe I can remind myself of my past successes and that it's okay to feel uncertain. I could also talk to a friend or someone supportive if I feel stuck.
+
+Consultant: That’s an excellent strategy! Reaffirming your past successes and reaching out for support can help you stay motivated. Let’s summarize what you’ll do this week to ensure you have a clear path forward.
+
+User: Okay, so I will research three potential job roles, get in touch with people in those fields, set reminders, and reach out for support if I need it.
+
+Consultant: That sounds like a comprehensive plan, Li! I’m proud of you for taking these steps. How do you feel about your progress today?
+
+User: I feel accomplished and more hopeful about my future. It's nice to have a plan in place that I can actually follow.
+
+Consultant: I’m so glad to hear that! Feeling accomplished is a wonderful sign of your progress. As we wrap up today, what insights or takeaways do you have that you’d like to carry forward?
+
+User: I think the biggest takeaway is that I can adapt and that breaking things down into small steps really helps. I’m looking forward to moving forward.
+
+Consultant: That’s a fantastic realization, Li! You've made significant progress today, and I believe you’ll carry this momentum into your actions. Remember, I’m here to support you whenever you need it. Keep me updated on your journey, and take care!
+
+User: Thank you! I will keep you updated. See you next time!
+
+Consultant: See you, Li! Take care and best of luck with your plans!
+###################
+Consultant: Hello, it's great to see you again! I'm really looking forward to our session today. How have you been feeling since our last conversation?
+
+User: Hi! I've been feeling quite good actually. I've been following through on my plans with the encouragement from my family. It feels like I'm making progress.
+
+Consultant: That's wonderful to hear! It's important to have that support system. Can you tell me more about what specific progress you've noticed since we talked last time?
+
+User: Well, I've been more consistent in working on my goals and I've started to feel a sense of achievement. I feel more confident in myself now.
+
+Consultant: That's a significant achievement! Building confidence can really change how we approach challenges. What does this newfound confidence allow you to do that you may have hesitated to do before?
+
+User: I think it helps me take initiative more often. Before, I would hold back out of fear of failing, but now I’m more willing to put myself out there.
+
+Consultant: That's fantastic! Taking initiative is a huge step forward. Can you think of a specific instance recently where you took the initiative and it worked out well?
+
+User: Yes! I volunteered for a project at work, which I would have avoided in the past. It felt really good to contribute and see my ideas appreciated.
+
+Consultant: That’s an impressive move! It seems that you've created a positive feedback loop. How did that experience impact your feelings about future projects or challenges?
+
+User: It made me feel like taking risks isn’t so scary after all. I was surprised at how much I enjoyed being involved and valued.
+
+Consultant: It’s enlightening to realize that risks can lead to positive experiences. What do you think contributed most to this shift in your mentality about taking risks?
+
+User: I think it’s mainly the support from my family and the realization that failing isn’t the end—it’s a chance to learn.
+
+Consultant: Exactly! Understanding that failure is a part of growth can liberate you. Let’s focus on enhancing this positive mindset. What kind of positive self-talk do you find works best for you when facing challenges?
+
+User: I tell myself that I can handle whatever comes my way. I remind myself of past successes.
+
+Consultant: That’s a powerful affirmation! When you remind yourself of your past successes, how does it make you feel in the moment when facing a new challenge?
+
+User: It calms my nerves a bit. I feel more prepared to face whatever it is.
+
+Consultant: That’s excellent. Building on that, we can explore some ways to reinforce this positive self-talk even more. Would you be open to trying some new techniques for this?
+
+User: Sure, I'm open to trying new things!
+
+Consultant: Great! One technique we could utilize is creating personalized affirmations. These are statements that resonate with you. What would be a few words or lines you would feel empowered by?
+
+User: Maybe something like, "I am capable and I learn from every experience."
+
+Consultant: That’s a perfect start! How about we work on a plan to incorporate this affirmation into your daily routine? For instance, you could say it in the morning or whenever you feel anxious.
+
+User: That sounds like a good idea! I’ll try to repeat it every morning.
+
+Consultant: Wonderful! Consistency is key here. Additionally, let’s think about strategies to maintain your positive mindset when things don’t go as planned. How would you usually respond in those situations?
+
+User: I used to dwell on the negative aspects, but I’m learning to focus on what I can do next.
+
+Consultant: That's an important shift. When you find yourself dwelling on the negatives, what techniques might you employ to redirect those thoughts?
+
+User: I could remind myself of my achievements again, or maybe write down things I could improve instead of just feeling stuck.
+
+Consultant: That's an effective approach! Writing down potential improvements helps create a sense of action rather than just feeling overwhelmed. How does that idea resonate with you?
+
+User: It feels proactive, which I like. I could create a list of things to work on.
+
+Consultant: Absolutely! Engaging with your challenges through writing can be empowering. Let’s consider setting some small, achievable goals based on this list. What’s one area you’d like to focus on first?
+
+User: I think I’d like to improve my time management skills. Sometimes I struggle to balance everything.
+
+Consultant: Time management is a great focus. What’s one small step you could take to improve your time management right away?
+
+User: I could start by planning my week out on Sundays to have a clearer picture.
+
+Consultant: That’s an excellent idea! Planning in advance can create a sense of structure. How can you keep yourself accountable for this plan?
+
+User: I could share my schedule with a family member or a friend so they can ask me about it.
+
+Consultant: That sounds like a solid commitment! Having someone to check in with can really help strengthen your follow-through. As we wrap up, what feelings do you have about the progress we've discussed today?
+
+User: I feel really hopeful. It’s nice to see how far I’ve come and to have a better understanding of myself.
+
+Consultant: I'm glad to hear that! Your awareness and proactivity are clear signs of growth. Remember, you have the tools to maintain this momentum. I believe in your ability to keep moving forward. Until next time, take care!
+
+User: Thank you! I appreciate your help. I’ll see you next time!
+###################
+Consultant: Hello! I'm glad you're here today, Li. Let's take a moment to reflect on your journey so far and how you've been feeling about your recent achievements. How would you describe your overall experience in this new stage of your career?
+
+User: Hi! I feel pretty good about it, actually. I've hit my midway goals and received recognition for my work, which feels rewarding. It gives me a sense of control over my future challenges.
+
+Consultant: That's fantastic to hear! Your recognition and sense of control are important indicators of your progress. Can you share more about what specific changes you've noticed in yourself during this process?
+
+User: Sure! I've become more confident in my abilities and feel like I'm making meaningful contributions. I also think my relationships with my colleagues and family are better than ever.
+
+Consultant: Confidence and improved relationships are wonderful outcomes. It sounds like you've structured your work and personal life quite well. Have there been any particular strategies or habits that you've adopted which you feel have supported this growth?
+
+User: I started setting clearer goals for myself and also made it a point to communicate more openly with my colleagues. This has helped reduce misunderstandings and build a supportive environment.
+
+Consultant: Clear goals and open communication are key components to a successful work dynamic. It's great that you're recognizing the importance of these strategies. Are there any challenges you foresee as you continue to develop in your career?
+
+User: I worry about keeping up the momentum, especially as I take on more responsibilities. Sometimes I feel anxious about whether I can maintain this performance level.
+
+Consultant: It's completely normal to have concerns about sustaining your success, especially when facing new responsibilities. Let's explore this anxiety a little deeper. What thoughts cross your mind when you become anxious about your performance?
+
+User: I often think that I might fail or not meet expectations. It’s like there's a constant pressure to always deliver my best.
+
+Consultant: Those thoughts can definitely weigh heavily on you. Let’s challenge that a bit. What evidence do you have that supports those fears? Have there been instances where you felt you didn't meet expectations?
+
+User: I can’t pinpoint a specific failure. Most of the time, I think I do well; it’s just this nagging fear that occasionally pops up.
+
+Consultant: It’s insightful that you recognize the fear doesn't seem to have a concrete basis. If a friend were in your position, how do you think you would advise them to handle these thoughts?
+
+User: I’d probably tell them that it’s okay to have some fears, but it’s also important to focus on positive outcomes and past successes.
+
+Consultant: That’s a wise perspective. Focusing on your successes can help shift your mindset. Let’s imagine a situation where you successfully manage your new responsibilities; what does that look like for you?
+
+User: I see myself having regular check-ins with my team and making sure everyone is on the same page. It would feel collaborative and productive.
+
+Consultant: That sounds like a solid plan! Collaboration can really help in alleviating the pressure. How can you implement these check-ins going forward to build a supportive network while managing your responsibilities?
+
+User: Perhaps setting up weekly meetings would be a good start. This way we'd all stay aligned, and I won't feel overwhelmed trying to figure things out alone. 
+
+Consultant: That sounds like a proactive step! Regular check-ins will help foster communication and collaboration. How do you feel about integrating this strategy into your routine?
+
+User: I feel optimistic about it. The thought of having that kind of support makes things feel less daunting.
+
+Consultant: That’s great to hear! It’s empowering to know you have a supportive network. As you move forward, how will you remind yourself of your capabilities and past successes when those anxious thoughts creep back in?
+
+User: I think I could keep a journal to write down my achievements and positive feedback. That way, I can revisit it whenever needed.
+
+Consultant: A journal sounds like a wonderful idea! It can serve as a tangible reminder of your progress and successes. Is there anything else you feel you want to address before we conclude today's session?
+
+User: I think we’ve covered most of my concerns. I feel more equipped to handle the upcoming responsibilities.
+
+Consultant: I’m glad to hear that, Li. To summarize, you’ve recognized your achievements, identified strategies to maintain your confidence, and have a plan in place to support your ongoing journey. Remember, challenges are part of growth. You've developed many skills that will support you along the way. 
+
+User: Thank you! I really appreciate this session. It’s been helpful to talk through everything.
+
+Consultant: It was my pleasure, Li! You’ve made great strides, and I believe you’ll continue to succeed. Remember, if you ever feel overwhelmed, you can always revisit these strategies. Wishing you the best moving forward!
+###################

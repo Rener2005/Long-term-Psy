@@ -1,0 +1,414 @@
+Consultant: Hello, Xiaowen! I’m glad to see you today. How have you been feeling since our last session?
+
+User: Hi! I've been feeling really frustrated. At school, I got into a big argument with my classmate and the teacher during our duty. I don’t understand why I keep getting so angry.
+
+Consultant: It sounds like you've been experiencing a lot of anger and frustration, especially in school situations. Can you tell me more about what happened during the duty that upset you?
+
+User: Well, we had to divide tasks for the group and my classmate didn’t follow what we agreed on. I felt like he was ignoring my opinion, and then I exploded at him. I just couldn’t control my anger.
+
+Consultant: I see. It feels like your classmate's actions made you feel dismissed, which led to that strong reaction. What thoughts went through your mind in that moment when you felt your anger rising?
+
+User: I thought he was being disrespectful, and that made me angry. I felt like no one cared about what I had to say.
+
+Consultant: It sounds like you felt disrespected and misunderstood. When you felt that way, what emotions did you experience besides anger?
+
+User: I felt really sad and lonely too. Like, no one gets me and I’m always the one who has to stand up for myself.
+
+Consultant: That must be very tough, feeling sad and lonely while also dealing with anger. Let’s talk about the moments leading up to your outburst. Can you identify any signs or feelings that indicated your anger was building up?
+
+User: I could feel my heart racing, and my hands got really sweaty. I should have noticed that I was getting too worked up.
+
+Consultant: Recognizing those physical signs is a great first step. What do you think could help you manage those feelings before they escalate to anger?
+
+User: Maybe if I took a few deep breaths or counted to ten, it might help calm me down.
+
+Consultant: That sounds like a good strategy! Deep breathing and counting can be very effective ways to manage your emotions. Would you like to try a short practice of that together now?
+
+User: Sure, I’d like that!
+
+Consultant: Let's take a deep breath in together... and out... Good. Now let's count to ten slowly. Ready? One, two, three... How do you feel after that?
+
+User: I feel a bit calmer. It helps to focus on something else for a second.
+
+Consultant: I'm glad to hear that! Focusing on your breath can create a pause when you start to feel overwhelmed. Let’s think about how you can apply this technique in situations at school. What might you do next time you feel that same anger rising?
+
+User: I could remember to breathe and count before saying anything. That sounds like a good idea.
+
+Consultant: Absolutely, taking that moment to breathe can change how you respond. Now, let’s explore how you can handle feedback from teachers better. You mentioned feeling that their criticism was unfair—what thoughts come to mind when you hear their critiques?
+
+User: I just feel really attacked. It’s like they don’t understand the whole situation.
+
+Consultant: It’s understandable to feel that way. When you feel attacked, it might be harder to hear constructive feedback. What if we considered a different perspective on their feedback? What might your teachers be trying to achieve?
+
+User: Maybe they just want to help me improve, but I don’t see it that way in the moment.
+
+Consultant: That’s a valuable insight! If you can approach their words as an attempt to help, how might that change your reaction?
+
+User: I guess I could try to listen more and not react so quickly. Maybe they see things I don’t.
+
+Consultant: Exactly! By giving yourself a moment to pause and consider their perspective, you can respond more thoughtfully. Can we discuss a specific example where you received criticism from a teacher recently?
+
+User: Sure! Last week, my teacher said I needed to work on my group project more effectively. I thought it was unfair because I felt like I was doing my part.
+
+Consultant: It sounds like hearing that made you feel frustrated. What thoughts ran through your head when the teacher said that?
+
+User: I thought, “Why don’t they see how hard I’m trying? This is just unfair!”
+
+Consultant: Those thoughts can feel very real and uncomfortable. What if we challenge that thought? Is it possible that your teacher does see your effort but is encouraging you to grow?
+
+User: I guess that could be true... It’s hard for me to think like that in the moment.
+
+Consultant: It certainly is. Challenging those thoughts takes practice. What do you think could help you remember to do that when you’re feeling criticized?
+
+User: Maybe writing down what they say and reflecting on it later could help me see their perspective more clearly.
+
+Consultant: That's a great idea! Reflecting on feedback later allows you to process it without the immediate emotion. As we wrap up today, how do you feel about the strategies we've discussed?
+
+User: I feel more hopeful. I think practicing these techniques can really help me at school.
+
+Consultant: I'm glad to hear that, Xiaowen! Remember, it's okay to take time to learn and practice these new strategies. Our next session can focus on your experiences using them. How does that sound?
+
+User: That sounds good! I’m looking forward to it.
+
+Consultant: Great! I’m looking forward to hearing how things go for you. Take care until we meet again!
+###################
+Consultant: Hello, Xiaowen! I'm really glad to see you today. I understand you've had a tough time recently. Can we start by talking about what happened in class with your teacher?
+
+User: Hello. Yeah, I got really mad when the teacher criticized me for not doing my homework. I felt like it was so unfair, and I just lost it in class. 
+
+Consultant: It sounds like you felt overwhelmed by their criticism. Can you tell me more about what was going through your mind at that moment? What were the thoughts that made you feel that way?
+
+User: I kept thinking that my teacher doesn’t understand me at all. I felt alone and like everyone was looking at me. It made me so angry. 
+
+Consultant: That makes sense. Feeling misunderstood can be really frustrating. What do you think those thoughts of being alone and misunderstood did to your emotions during that moment?
+
+User: They made me feel even more upset and I didn't know how to handle it. I just wanted to throw my stuff and shout.
+
+Consultant: I see. So your thoughts led to those angry feelings and actions. Now, what do you think might have happened if you had reacted differently? 
+
+User: Maybe I wouldn't have made a scene and could have just talked to the teacher later instead. 
+
+Consultant: That’s a great insight! It seems like you recognize that a different approach might be more helpful. How do you feel about exploring some ways to react when you receive feedback that feels negative to you?
+
+User: I’d like that, but I don’t know if I can change how I feel in the moment.
+
+Consultant: I understand that it can feel challenging. But with practice, we can work on strategies to help you change how you respond. Can we brainstorm together some ideas of what you could think or say to yourself when criticism comes your way?
+
+User: Okay. Maybe I could remind myself that everyone makes mistakes?
+
+Consultant: Absolutely! That's a positive thought. Reminding yourself that making mistakes is part of growing can help you take a step back. What else could you tell yourself in that moment?
+
+User: I guess I could tell myself that the teacher is just trying to help me. 
+
+Consultant: That's another excellent thought! By shifting your perspective to consider the teacher's intention, it may help you feel less attacked. Now, let’s do a little role-playing. How about I play the teacher, and you can practice your response when I give you some feedback?
+
+User: Sure, let’s try it!
+
+Consultant: Alright! *pretends to be the teacher* "Xiaowen, I noticed you didn't complete your homework, and I’m really disappointed. What do you have to say about that?"
+
+User: *takes a breath* "I understand, and I'm sorry. I had some troubles with it. Can we talk about what I can do better next time?" 
+
+Consultant: That was fantastic! You expressed your feelings calmly and showed a willingness to improve. How did that feel for you?
+
+User: It felt good! I didn’t yell or anything, just talked.
+
+Consultant: Exactly! That’s a positive shift. Now, can you think of a situation where you might be able to use this new approach in the future?
+
+User: Maybe if I get criticized in sports practice or something. 
+
+Consultant: That's a great application! Remember, practicing this kind of self-talk regularly can help you manage those strong feelings even better. What do you think could be your next steps after this session to keep practicing?
+
+User: I could try this in school and also tell my friends about it so they can help me remember.
+
+Consultant: Involving your friends is a wonderful idea! Sharing your goals with them can create a support system for you. Before we wrap up today, let's recap the strategies you've learned. 
+
+User: I learned to see that everyone makes mistakes, and that teachers want to help. I can talk calmly instead of getting mad.
+
+Consultant: Exactly! Those are powerful tools. Remember, it's common to feel frustrated sometimes, but how you continue to respond can make a significant difference. Do you feel more confident about handling criticism now?
+
+User: Yes, I think so. I want to try it out!
+
+Consultant: That’s the spirit! It’s all about practice, and I believe you can do it. As we conclude today’s session, think about how you'll maintain this newfound approach. Next time, we can discuss how it went. You’ve made great progress!
+
+User: Thank you! I’m looking forward to trying this.
+
+Consultant: You're very welcome, Xiaowen! Remember, I’m here to support you whenever you need it. Take care until next time!
+###################
+Consultant: Hello, Xiaowen! It's great to see you today. I know we've talked about some challenges you've been facing. How have things been since our last session?
+
+User: Hi. Things have been okay, I guess. But I still feel like I get upset too easily, especially when things don't go my way. Just the other day, I had an argument with a classmate during gym class because of a misunderstanding.
+
+Consultant: I see. It sounds like that misunderstanding really affected you. Can you tell me more about what happened and how it made you feel at that moment?
+
+User: Well, I thought I was following the rules, but he accused me of breaking them. I got really angry and couldn't think straight. After that, I felt embarrassed and frustrated that I let it get to me.
+
+Consultant: It sounds like that moment was really tough for you, and those emotions escalated quickly. What thoughts were running through your mind during the argument?
+
+User: I just kept thinking he was being unfair. I felt like nobody understood my side, and I just wanted to shout.
+
+Consultant: It's completely normal to feel defensive when we think others are being unfair to us. But let's explore this a bit further—what do you think might happen if you tried to express your feelings differently in those situations?
+
+User: Maybe it would be better if I stayed calm and tried to explain myself instead of just getting angry. But I don't know how to change that in the moment.
+
+Consultant: It's good that you recognize that! Staying calm can help others hear your perspective better. One way we can practice this is through role-playing. How about we simulate that gym class situation? You can be yourself, and I'll play your classmate. This way, we can work on different ways to communicate.
+
+User: That sounds okay. I'll give it a try.
+
+Consultant: Great! So let's imagine you're in that gym class again, and the misunderstanding happens. Start by telling me what you would say to me as your classmate.
+
+User: I’d say something like, "I didn’t mean to break the rules. Can we talk about what happened?" 
+
+Consultant: That's a solid start! You're opening the door for communication. How do you think I might respond to that?
+
+User: Maybe I’d say, "I thought you were trying to cheat." And then we could argue again.
+
+Consultant: Yes, that's a possible reaction. But what if instead of reacting with anger, you responded with curiosity? You could ask, "What made you think that?" This way, you keep the conversation open and start to understand each other's perspectives.
+
+User: That could work. I really want to avoid shouting at people.
+
+Consultant: That’s a positive goal! Remember, it's about finding common ground. How do you feel about trying that approach in real life?
+
+User: I think I can try it next time. But I still worry that I won't keep my cool when I need to.
+
+Consultant: It's okay to feel that way. Managing emotions takes practice. One helpful technique is to take a deep breath before reacting. How does that sound to you?
+
+User: Taking a breath sounds like a good tip. I’ll try that.
+
+Consultant: Awesome! Let’s also think about how you can create a supportive environment. Could you have a chat with your friends beforehand about how you all handle disagreements?
+
+User: Yeah, that might help. If they know I’m trying to be calmer, they might help me too.
+
+Consultant: Exactly! Talking about it can build understanding and teamwork. Next, let’s talk about how your current feelings of anxiety about your mom’s absence may affect your interactions at school. How have you been feeling about that lately?
+
+User: It makes me feel a bit unsafe. Like, what if she doesn't come back soon? That worries me, and sometimes I take it out on others.
+
+Consultant: That feeling of insecurity can definitely impact your patience and emotional control. How do you usually cope when those anxious thoughts about your mom come up?
+
+User: I usually just try to distract myself, but it doesn’t really help in the long run.
+
+Consultant: Distracting ourselves can be a temporary fix. Let’s explore some constructive ways to cope with those feelings, like journaling or sharing your feelings with someone you trust. What do you think?
+
+User: That could work. Writing might help me sort out my thoughts.
+
+Consultant: Great choice! Writing can be a powerful tool for expressing emotions. It allows you to reflect on your feelings without needing anyone else to respond right away. 
+
+User: I’ll give that a try. 
+
+Consultant: Perfect! We’ll check in on how that goes. Before we finish today's session, let's summarize what we've discussed. You’re going to practice staying calm during conflicts, trying deep breaths, and talking with your friends. Plus, you'll start journaling about your feelings related to your mom’s absence.
+
+User: Yes, that sounds like a solid plan!
+
+Consultant: Wonderful, Xiaowen! Remember, it’s about progress, not perfection. As we wrap up, how are you feeling about everything we've talked about today?
+
+User: I feel a bit more hopeful, actually. It's good to have a plan.
+
+Consultant: I’m really glad to hear that. Remember, it's okay to ask for help when you need it. If feelings about your mom’s absence come up, we're here to navigate through it together next time. See you then!
+
+User: See you next time! Thank you!
+###################
+Consultant: Hello, Xiaowen! I'm glad you're here for this session. How have you been feeling lately, especially with your mom being away for work?
+
+User: Hi! I’ve been feeling really anxious. I can’t stop thinking about how long she’s going to be gone. It’s hard to feel comfortable.
+
+Consultant: It’s completely understandable to feel anxious with such a change in your routine. Let’s talk a bit more about your feelings. What exactly makes you feel uncomfortable when your mom is away?
+
+User: I don't know... I just feel like something bad might happen, and I get this tight feeling in my chest. I also get angry easily, especially if things don’t go how I want them to.
+
+Consultant: That sounds really tough, Xiaowen. It seems like your worry about your mom not being there is mixing with your feelings of anger and tightness. Can you remember a moment recently when you felt particularly anxious or angry? What thoughts were going through your mind then?
+
+User: Yeah, there was a time when my grandma said we might not see her for a while. I thought, "What if she doesn’t come back soon?" It just made me really upset.
+
+Consultant: It’s a lot to handle when you hear something like that. So, when you thought "What if she doesn’t come back soon?" how did that make you feel?
+
+User: It made me feel scared and sad. I even yelled at my grandma for no reason because I was frustrated.
+
+Consultant: It’s normal to have strong feelings, especially in uncertain situations like this one. What do you think would happen if your mom takes longer to return than you want? 
+
+User: I keep thinking I might be alone all the time or something might happen to her.
+
+Consultant: Those thoughts must be very distressing. Let’s take a closer look at them. Do you think there could be other explanations for the situation? For example, how often do you see your mom when she’s working away?
+
+User: Usually, she comes back a lot. But I guess I just focus on the worst-case scenarios in my head.
+
+Consultant: That’s very insightful, Xiaowen. It sounds like you might be caught up in some negative thinking patterns. What do you think would happen if you tried to challenge those worst-case thoughts? For instance, what advice would you give a friend if they were feeling the same way?
+
+User: I guess I would tell them not to worry too much and think about how they can stay busy or find ways to feel better.
+
+Consultant: That’s a great perspective! So, staying busy and focusing on the positive could help. What are some activities you enjoy that could serve as distractions when you start feeling anxious?
+
+User: I like drawing and playing video games. Those make me feel better.
+
+Consultant: Perfect! How about we plan to incorporate more drawing or gaming into your routine when you start feeling anxious? That could be a way to manage those feelings and take your mind off things.
+
+User: Yeah, I think that could work! 
+
+Consultant: That’s a great start! Now, let’s also practice some relaxation techniques together. Have you ever tried deep breathing or any relaxation exercises?
+
+User: I haven’t really done that before. 
+
+Consultant: No problem! Let me guide you. We can do a simple deep breathing exercise together. Close your eyes and take a slow, deep breath in through your nose... hold it for a moment... and then exhale slowly through your mouth. Let’s do that a few times.
+
+User: *breathes deeply* It feels a little better already.
+
+Consultant: I’m glad to hear that! This is a useful tool you can use whenever you start feeling anxious. To help you manage your emotions, would you be open to practicing this when your feelings start to rise?
+
+User: Yes, I can definitely try that!
+
+Consultant: That’s a wonderful mindset! Remember, it’s about small steps. Now, let’s think about your feelings around social interactions. Do you feel nervous when you’re around others, like at school?
+
+User: Sometimes I do. I’m scared people won’t like me or that I’ll say something stupid.
+
+Consultant: Many people feel that way. Let’s explore this further. What do you think could happen if you were to make a mistake in front of others?
+
+User: I guess I’d feel embarrassed, but maybe it wouldn’t be as bad as I think.
+
+Consultant: That’s a good insight! Often our fears of embarrassment are bigger in our minds. How can we remind ourselves that it’s okay to make mistakes during social interactions?
+
+User: Maybe I can tell myself that everyone makes mistakes and it’s normal? 
+
+Consultant: Yes! That's a great affirmation! Creating a new script in your mind can help reduce that fear. What about setting a small goal to interact a bit more with your classmates this week?
+
+User: I could try to talk to someone new in class. 
+
+Consultant: That’s a fantastic idea! Taking small steps like that can help build your confidence. How do you feel about giving it a shot?
+
+User: I feel a bit nervous but also excited, I think I can do it!
+
+Consultant: That’s the spirit, Xiaowen! Just remember to use your breathing techniques and remind yourself that it’s okay to make mistakes. Progress takes time, and it’s perfectly okay to feel nervous. How do you feel about today’s session?
+
+User: I feel like I learned some good ways to handle my feelings. I’m really going to try the breathing and the drawing.
+
+Consultant: I’m really proud of you for being open to trying new strategies! Remember, you’re not alone in this. You can reach out anytime. I look forward to hearing about your progress in our next session. 
+
+User: Thank you! I’ll see you next time!
+###################
+Consultant: Hello, Xiaowen! I'm glad to see you today. How have you been feeling since our last session?
+
+User: Hi! I've been feeling a bit better, I guess. I tried participating in some extracurricular activities, and some of my classmates said I did a good job. But sometimes, I still feel nervous when I'm around new people.
+
+Consultant: That's a great step forward, Xiaowen! It's wonderful to hear that you received positive feedback from your classmates. Can you tell me more about what specific feelings come up when you're in those social situations?
+
+User: Well, when I meet new people, I get this tight feeling in my chest, and I start thinking that they won’t like me or that I might embarrass myself.
+
+Consultant: It sounds like you're experiencing some anxiety when meeting new people. What do you think those thoughts are doing to your experience in these activities?
+
+User: They make me want to avoid talking to new people. I sometimes just stand there and don't know what to say.
+
+Consultant: I understand. It seems like those thoughts are holding you back from fully enjoying the interactions. Have you ever noticed any moments during these activities when you felt more relaxed or confident?
+
+User: Yeah, during the art class, I felt pretty good when we were working on a project together. I made a joke, and people laughed!
+
+Consultant: That's fantastic! Making a joke and getting a positive response is a great sign of connecting with others. How did you feel in that moment compared to when you're anxious?
+
+User: I felt happy and part of the group. It was like all my worries disappeared for a bit.
+
+Consultant: That's a powerful feeling! It shows you can connect with others and that those anxiety-provoking thoughts don't have to take over. Let's explore how we can build on that experience. What do you think helped you feel comfortable in that moment?
+
+User: Maybe it was because we were all working on something fun together, and I wasn't just expected to talk.
+
+Consultant: That makes a lot of sense. Engaging in activities can help create a more relaxed environment. How about we think of techniques or strategies to help you feel more comfortable when you're facing those social situations without the project to focus on?
+
+User: That sounds good! I want to be able to talk to people even when we're not doing something.
+
+Consultant: One technique we can try is deep breathing. It can help calm those anxious feelings before you approach new social interactions. Would you like to try a simple breathing exercise now together?
+
+User: Sure! I’ve heard about deep breathing before, but I’ve never really tried it.
+
+Consultant: Great! Let’s take a deep breath in through your nose... hold it for a moment... and now breathe out slowly through your mouth. How did that feel?
+
+User: It felt relaxing. I think I could use that when I start feeling anxious.
+
+Consultant: Absolutely! Practicing deep breathing can create a sense of calm. Remember to use it when you begin to feel that tightness in your chest. Now, let’s think about some simple social goals you can set for yourself in your next activity. What would you like to achieve?
+
+User: Maybe I could try saying hello to someone new? That feels manageable.
+
+Consultant: That sounds like a perfect goal, Xiaowen! Just a simple "hello" can open up a conversation. How might you remind yourself to do that?
+
+User: I could write it down before I go to the activity, so I remember.
+
+Consultant: Writing it down is a wonderful idea! It will serve as a reminder of what you want to accomplish. How do you feel about the progress you've made so far in dealing with your social anxiety?
+
+User: I feel encouraged, even if I still get nervous sometimes. I think I can keep improving.
+
+Consultant: That's the spirit! It’s okay to feel nervous; it's a part of the process. You’ve already done so well by recognizing your feelings and wanting to take steps forward. Before we wrap up, is there anything else you'd like to discuss or any concerns you have?
+
+User: Just that I hope I can keep using the breathing technique and saying hello to people. I want to keep feeling better.
+
+Consultant: Absolutely, Xiaowen! Commitment to those practices will definitely help. As we end today's session, let's summarize what you've learned and your plans moving forward. Engaging more in activities and using deep breathing to manage anxiety are great steps. 
+
+User: Yes, I will definitely remember that!
+
+Consultant: I'm proud of you, Xiaowen. Remember, it's a journey, and you’re on the right path. Keep practicing, and we can discuss your progress in our next session. If you feel overwhelmed, remember you’re always welcome to reach out. Take care!
+
+User: Thank you, I will! See you next time!
+###################
+Consultant: Hello Xiao Wen! It's great to see you again. How have you been feeling since our last session?
+
+User: Hi! I think I've been doing a bit better. I managed to express my feelings better, especially after spending time with my dad. But sometimes I still get angry, especially at school.
+
+Consultant: That's a positive step forward, and I'm glad to hear about the time you spent with your dad. It's normal to still feel some anger sometimes. Can you tell me what typically triggers that anger for you at school?
+
+User: It usually happens when I feel like a teacher is being unfair or when my classmates don’t listen to me. I just can't seem to control it when I'm frustrated.
+
+Consultant: It sounds like feeling unfairly treated and not being heard can really affect you. When you feel that frustration building up, what kind of thoughts come to your mind?
+
+User: I often think that nobody cares about my feelings. Then I just snap and end up saying things I regret.
+
+Consultant: That’s understandable, feeling like your feelings aren't valued can be really hard. Let’s take a moment to explore that thought—"nobody cares about my feelings." How true do you believe that thought is, and could there be other ways to view the situation?
+
+User: I guess sometimes my mom and grandma do care. It’s just hard to remember that when I’m angry.
+
+Consultant: It's great that you can recognize that! Let’s try to focus on that perspective. When you start to feel angry, could you remind yourself that your mom and grandma care about you? Would that help in those moments?
+
+User: Maybe it would help, but I don’t know if I can remember to do that when I'm really mad.
+
+Consultant: That’s a valid concern. It might be helpful to practice a simple reminder phrase or a calming technique when you feel that anger rising. Would you be open to trying that?
+
+User: Yes, I’d like to try that. What kind of technique do you suggest?
+
+Consultant: One technique could be taking deep breaths and repeating a calming phrase like “It’s okay to feel angry, but I can choose how to respond.” Would you be willing to practice that when you feel anger building up?
+
+User: I think I could try that. Deep breaths seem easy enough.
+
+Consultant: That's a fantastic start! Deep breathing can really help calm your body down. Now, let's talk about the positive changes you’ve experienced recently, like spending time with your dad. How has that made you feel overall?
+
+User: I felt happy, like I could be myself. It was nice to have fun with him, and it’s different from how things were before.
+
+Consultant: That sounds wonderful, Xiao Wen! Feeling comfortable and joyful in your relationship with your dad is a significant achievement. How do you think you can continue nurturing that relationship moving forward?
+
+User: I can talk to him more when we meet, and maybe I can share how things are going at school. 
+
+Consultant: That sounds like a great plan. Open communication can strengthen your bond. If you encounter any difficulties in expressing yourself, what could you do to support that communication?
+
+User: I could think about what I want to say in advance or even write it down. 
+
+Consultant: I love that idea! Writing down your thoughts can make it easier to express yourself clearly. As we continue, how do you feel about the progress you've made so far in managing your emotions and relationships?
+
+User: I feel like I’m getting better, but I still worry about losing control sometimes.
+
+Consultant: It's completely normal to have that worry. It's a part of learning and growing. Remember, the goal here is to build more strategies to manage those feelings. What do you think would help you maintain your progress even when you face challenges?
+
+User: I think if I keep using the techniques we've talked about and maybe have reminders for myself, it could help.
+
+Consultant: That’s a solid strategy. Having reminders in place can really support you when things get tough. Is there anything else you think you might encounter in the future that could challenge you?
+
+User: Maybe if my classmates get really loud or rude, I might struggle to stay calm.
+
+Consultant: That’s a possible trigger indeed. Would it help if we discuss more specific strategies to cope in such situations? For example, physically stepping away for a moment could give you space to calm down.
+
+User: Yes, stepping away sounds good! I’ll try to do that if it happens.
+
+Consultant: That's a proactive approach! Remember, it's okay to take a moment for yourself. As we wrap up today, how do you feel about the tools and techniques we’ve discussed? Do they seem manageable to you?
+
+User: Yes, they seem manageable! I feel more confident about handling my emotions now.
+
+Consultant: That’s fantastic to hear, Xiao Wen! You've made remarkable progress. As we conclude our session today, remember to practice the breathing techniques and maintain communication with your family. I believe you can keep nurturing these positive changes. 
+
+User: Thank you! I’ll do my best, and I really appreciate your help.
+
+Consultant: You're very welcome! It's been great working together. Remember, I’m here if you ever feel you need support again. Take care!
+
+User: Bye! 
+
+Consultant: Goodbye!
+###################

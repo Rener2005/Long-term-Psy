@@ -1,0 +1,382 @@
+Consultant: Hello, welcome to our session today! I'm here to help you with what you’re currently feeling. Can you tell me more about how things have been for you since we last spoke?
+
+User: Hi. I've been really struggling with my studies lately. I just feel so overwhelmed with the new subjects and assignments. I can't focus at all, and I'm not even turning in my homework.
+
+Consultant: I see. It sounds like you're feeling a lot of pressure from school, especially with the new curriculum. That can be tough. Can you share what specifically feels overwhelming about your classes?
+
+User: Everything seems harder than before. I don't understand some of the new concepts, and it feels like my classmates grasp everything much quicker than I do. I feel lost in class.
+
+Consultant: Feeling lost can certainly contribute to that lack of interest in learning. What thoughts go through your mind when you find yourself not understanding the material?
+
+User: I often think that I’m just not smart enough. It makes me want to give up completely, and I start daydreaming instead of paying attention.
+
+Consultant: It sounds like those thoughts about not being smart enough are really holding you back. When you say you start daydreaming, what feelings come up for you in those moments?
+
+User: I guess I feel kind of empty? Like I'm just drifting along without any direction. It's frustrating.
+
+Consultant: That frustration is completely understandable. It can be tough to feel like you're drifting. Let’s explore those feelings more. What do you think contributes to you feeling empty when you're in class?
+
+User: I think it's because I don't see the point in what we're learning. It feels irrelevant to me, and I just want to do things I actually enjoy, like playing games.
+
+Consultant: Your feelings make sense. It sounds like you’re struggling to connect with what’s being taught. What would it look like for you to find more meaning in your studies?
+
+User: I guess if I could relate the subjects to something I care about, like real-life situations or even gaming, it might help.
+
+Consultant: That’s a great insight! Relating your studies to your interests could make them feel more relevant. Can you think of a subject or project where you could draw that connection?
+
+User: Maybe in math, if we talked about game design or coding, I would be more interested. But right now, I just can't even think about it.
+
+Consultant: It’s excellent that you’ve identified a potential link to your interest in gaming. Considering your feelings of being overwhelmed, what do you think would help you start engaging with your math assignments again?
+
+User: I think breaking down the assignments into smaller steps would help. But even then, getting started feels like climbing a huge mountain.
+
+Consultant: That’s a helpful realization. Starting small can make it feel less daunting. How about we establish some achievable small goals together for your math assignments? What’s a small step you could take this week?
+
+User: I could try to review just one math topic for 10 minutes. That feels manageable.
+
+Consultant: That sounds like a fantastic plan! It’s a small and achievable step that can help you regain some control. How do you think you might feel after completing that 10-minute review?
+
+User: It might feel good to check something off my list, even if it’s small. I could use that as motivation to keep going.
+
+Consultant: Absolutely! Small victories can lead to greater motivation. Let’s focus on celebrating those small wins together. Moving forward, how do you plan to remind yourself to stick with this goal throughout the week?
+
+User: I could set a reminder on my phone or put a sticky note on my desk. That way, I won’t forget.
+
+Consultant: Great idea! Keeping those reminders visible can definitely support you. Before we finish today, is there anything else you’d like to discuss or any lingering feelings you want to address?
+
+User: I think I just need to figure out how to keep my focus during class. It’s hard when I feel so down and distracted.
+
+Consultant: It's understandable to struggle with focus when you're feeling down. Perhaps we could explore some techniques to enhance your concentration in the next session. Would you find that helpful?
+
+User: Yes, definitely! I want to learn how to stay engaged during lessons.
+
+Consultant: Excellent! We’ll work on that together. Remember, the path to improvement can take time, but each small step counts. As we wrap up today’s session, what’s one takeaway you want to hold onto until we meet again?
+
+User: I want to remember that starting small is okay. If I can take those little steps, maybe I can find my way back to enjoying school.
+
+Consultant: That’s a powerful takeaway, and I believe you can do it! I look forward to hearing about your progress next time. Take care, and see you soon!
+###################
+Consultant: Hello, Xiao Zhang! I'm glad you're here today. How have you been feeling lately since our last session?
+
+User: Hi! I've been feeling pretty low. After the parents' meeting, I just felt ignored. It's hard to concentrate on my studies, and I don't really want to go to school anymore.
+
+Consultant: I hear you. It sounds like you’re feeling neglected, especially since your parents couldn't attend the meeting. This has caused both frustration and a lack of motivation toward your studies. Can you tell me more about how this feeling affects your day-to-day life?
+
+User: Well, I just feel like no one cares. I can’t focus in class, and I’d rather just stay at home. Studying feels pointless.
+
+Consultant: That's understandable, feeling like no one cares can be really disheartening. It seems that this thought of being ignored is influencing how you view school and studying. Can you share what thoughts come to your mind when you think about going to school?
+
+User: When I think about school, I just feel anxious. I worry that I won't do well, and I feel like my teachers don't pay attention to me either.
+
+Consultant: It's tough when you feel like all eyes are on you and you're not measuring up. Let's explore this thought a bit—what evidence do you have that teachers are not paying attention to you? Could there be other perspectives to consider?
+
+User: I don't know. It just feels that way because I don't talk to them much. It's like I’m invisible.
+
+Consultant: I appreciate your honesty, Xiao Zhang. It's easy to feel invisible when you’re not participating actively. Sometimes, our feelings can skew our perception. Have you noticed any interactions with teachers or classmates where you felt differently, perhaps more acknowledged?
+
+User: Maybe… Sometimes, when I do participate, they do respond. But most of the time, I just don't want to raise my hand or join in.
+
+Consultant: That’s a step in the right direction! Acknowledgment can come in different forms. What if you start by sharing one thought or idea in class—do you think that could change the way you feel about being overlooked?
+
+User: I guess so. But what if I say something wrong or no one listens to me?
+
+Consultant: That fear is completely normal! It's common to worry about being judged. Let’s think of it this way—if a friend were in your position, what would you tell them about taking that small step? 
+
+User: I would probably tell them it’s okay to try, and that no one is perfect.
+
+Consultant: Exactly! Embracing imperfection can be a powerful tool. It’s about the effort you put in, not just the result. How about setting a goal for our next session? Could we aim for you to share at least one thought in class this week?
+
+User: I can try. I'll see if I can say something, but it still feels intimidating.
+
+Consultant: That’s a very honest feeling. Let’s break it down. What do you think could help make it less intimidating when you’re in the classroom? 
+
+User: Maybe if I practice what I want to say beforehand, it might help.
+
+Consultant: That sounds like a wonderful strategy! Practicing beforehand can build your confidence. Additionally, how about we explore ways to cope with that anxious feeling before class, so it doesn't overwhelm you?
+
+User: Yeah, that would be useful. I hate feeling so nervous.
+
+Consultant: I understand. Let’s develop a coping strategy together. What’s something that usually calms you down or makes you feel safe, like a deep breath or thinking of a happy place?
+
+User: I like listening to music before class. It makes me feel better.
+
+Consultant: Music can be a great way to soothe nerves! Maybe you could create a small routine—listen to a favorite song before school or during breaks. How does that sound?
+
+User: That sounds good. I think I’ll try that.
+
+Consultant: Great! I’m excited for you to give it a shot. We’ll also talk more about your feelings toward your parents next time. Do you think it would help if you tried to communicate how you feel with them, too?
+
+User: I’ve thought about it. I guess it could help, but I still feel awkward bringing it up.
+
+Consultant: It’s natural to feel awkward, especially with family. We can discuss how to express those feelings together. Just remember, sharing your thoughts could lead to a better understanding with them. 
+
+User: Yeah, you’re right. I should try to find a way.
+
+Consultant: Exactly! Let's make it a goal for you to come up with a few sentences about how you feel toward your parents for our next session. That way, you’ll have something to start with.
+
+User: Okay, I can do that. I think it would be good to talk to them.
+
+Consultant: I’m proud of you for being open to this. Let’s check in on how that goes next time. Remember, little steps are meaningful. 
+
+User: Thanks! I hope I can do it.
+
+Consultant: I believe in you, Xiao Zhang! You’re making progress each day. We’ll debrief more on these topics next time. If you need support before then, don’t hesitate to reach out.
+
+User: I will, thanks again!
+
+Consultant: You’re welcome! Take care, and I look forward to our next session.
+###################
+Consultant: Hello, Xiao Zhang! I'm glad to see you today. How have you been feeling since our last session?
+
+User: Hi. I'm still feeling quite shy about socializing. I recently participated in a school team activity, but I didn't really engage with anyone. I just felt out of place.
+
+Consultant: It sounds like that experience was challenging for you. It's understandable to feel uncomfortable in social situations, especially when you're trying to participate in group activities. Can you tell me more about what was going through your mind during that activity?
+
+User: I kept thinking that people wouldn't want to talk to me or that I would say something silly. So, I just kind of stayed quiet and let others take the lead.
+
+Consultant: Those thoughts can be really discouraging. It seems like there might be fears of judgment that are holding you back. Do you think those worries affected how you interacted with others?
+
+User: Definitely. I just felt really anxious about speaking up. I think if I could get over that fear, I could join in more.
+
+Consultant: That's a great insight, Xiao Zhang. Facing those fears is an important step. What do you think could help you feel more comfortable speaking up in such situations?
+
+User: Maybe if I practiced before going into a group activity? I could think of a few things to say beforehand.
+
+Consultant: Practicing sounds like a solid strategy! Preparing a few conversation starters can really help ease that anxiety. What kind of conversations do you think you could prepare for the next time you’re in a group?
+
+User: I guess I could ask people about their hobbies or talk about school. But I worry they won't find it interesting.
+
+Consultant: It's natural to worry about how others perceive you, but remember that everyone has their own interests and enjoying a conversation is about sharing and listening. What if you practiced with me right now? We could role-play a conversation based on what you’d want to say.
+
+User: That might be helpful! I could try asking you about your hobbies.
+
+Consultant: Sure, I'm happy to play along! Go ahead, ask me anything you’d like.
+
+User: So, what hobbies do you have?
+
+Consultant: Great start! I enjoy reading and hiking. I find it relaxing to be in nature and discover new books. How about you—what hobbies do you have?
+
+User: I like playing video games, but I haven't shared that with anyone at school. 
+
+Consultant: That’s a fantastic hobby! Many people enjoy talking about video games. Think about how you might bring that up in a conversation. You could connect with someone who might feel the same way! How does it feel to share that with me?
+
+User: It feels nice to talk about it. I think I could mention it if someone else brings it up.
+
+Consultant: That's a great approach! And if they don’t bring it up, you might consider mentioning it yourself. This can help you feel more involved. What do you think could be a good first step when you're in a group next time?
+
+User: I guess I could just try to make a comment or share something about my hobby, even if I'm nervous.
+
+Consultant: Absolutely! Just taking that chance to speak up is a huge step forward. Celebrating small successes can also help build your confidence over time. If you try this in your next group activity, how do you think that might affect your mood and willingness to participate?
+
+User: I think it might make me feel more confident. If I can just say one thing, maybe I’ll feel okay to join in more.
+
+Consultant: That's a positive outlook! Your willingness to engage can gradually improve your confidence. Let’s set a goal for your next week—perhaps you could aim to share at least one thing about yourself in any group setting. How does that sound?
+
+User: That sounds manageable. I can try that!
+
+Consultant: Wonderful! Remember, it’s completely normal to feel nervous, but each small step you take can lead to bigger changes. How are you feeling about our discussion today?
+
+User: I feel more hopeful. It helps to talk about it. I think I can try to be more involved next time.
+
+Consultant: I’m glad to hear that. You're showing a real willingness to work on this. As we wrap up today, can you think of something specific you learned or realized that might help you going forward?
+
+User: I learned that it’s okay to be nervous and that I can prepare ahead to feel more confident.
+
+Consultant: Exactly! Preparing and acknowledging your feelings can be powerful tools. I believe you have great potential to improve your participation. Remember, if you ever feel overwhelmed, you can always reach out. I'm looking forward to our next session together. You're doing really well!
+
+User: Thank you! I appreciate your help. I feel more ready to face these challenges now.
+
+Consultant: You're very welcome, Xiao Zhang! Keep building on this momentum, and I’ll see you next time. Take care!
+###################
+Consultant: Hello, Xiao Zhang! I'm glad to see you today. I remember we talked about your new interest in the math interest group. How have you been feeling about that lately?
+
+User: Hi. I've actually been feeling pretty good! I get excited when we solve math problems in the group. It’s really fun, unlike how I felt about other subjects.
+
+Consultant: That's great to hear! It sounds like you're finding joy in math, which is a positive shift. What specifically do you enjoy about solving math problems?
+
+User: I like how there are clear answers and steps to follow. It feels nice to get things right, especially since I usually struggle with other subjects.
+
+Consultant: It’s wonderful that you’ve identified what you like about math! Having clear answers can definitely give a sense of accomplishment. How do you think this excitement for math could affect your approach to other subjects?
+
+User: I think if I can enjoy math, maybe I can also find something interesting in other subjects. But I still feel unsure sometimes.
+
+Consultant: It's perfectly normal to feel unsure when exploring new interests in other subjects. What would you say is holding you back from discovering those interests? 
+
+User: I guess I worry that I won’t be able to understand them or that they might be too boring.
+
+Consultant: Those thoughts are understandable, but they might be a bit negative. Can we explore some of those worries a little more? What makes you think understanding other subjects would be difficult?
+
+User: Well, I’ve always thought that subjects like science and history are just memorizing facts, and that’s not fun at all. 
+
+Consultant: I see. It sounds like you’re associating those subjects with just memorization, which can be tiring. What if we reframe those subjects as puzzles or stories? Is there anything in those areas that sparks a bit of curiosity for you?
+
+User: Maybe… I do sometimes find interesting stories in history, especially when they involve battles or inventions.
+
+Consultant: That's a great start! History has a lot of fascinating stories and connections to real-life events. How might you approach history like a detective solving a mystery? 
+
+User: That means I could look for the “why” behind events, right? That actually sounds a bit more interesting.
+
+Consultant: Exactly! Looking for the “why” can help make history more engaging. What if you chose one historical event that interests you and researched it a bit more? 
+
+User: I could try that. Maybe I can start with a battle or something that led to big changes. 
+
+Consultant: That sounds like a solid plan! Also, think about how this approach can help you feel more confident in learning. How do you think tackling history in this manner could boost your confidence overall? 
+
+User: If I find something I like, I might feel more confident about asking questions in class and actually participating.
+
+Consultant: Yes! Engaging with topics that intrigue you will likely build your confidence. It’s also valid to stick with what you enjoy in math while exploring these new interests, too. How do you feel about balancing both?
+
+User: I feel good about that! I want to keep up with math and see if I can find some fun in history, too.
+
+Consultant: I'm really glad to hear that, Xiao Zhang! Balancing different subjects will help you maintain enthusiasm for learning. How about we set a goal? You could try to spend a little time each week researching something in history. Does that sound doable?
+
+User: Yes, I can do that. I’ll take it step by step, starting small.
+
+Consultant: That’s the spirit! Smaller steps can lead to more significant progress. How will you remind yourself to explore this new interest each week?
+
+User: Maybe I can set a specific day for it, like Wednesday evenings after school. 
+
+Consultant: That sounds like a great strategy! Having a set time will help you create a routine. Remember, it’s all about discovering what you enjoy. How are you feeling about all this now?
+
+User: I feel more excited! I can’t wait to see what I’ll learn about history.
+
+Consultant: That's fantastic, Xiao Zhang! It’s wonderful to see your excitement. I believe this is a good step towards maintaining your confidence and curiosity as a learner. Before we finish, do you have any last thoughts or concerns you want to share?
+
+User: Just that I hope I can stay motivated and not get distracted by other stuff. 
+
+Consultant: Motivation can be tough, but remember why you’re taking these steps. You’ve already made progress, and you have the ability to keep it up. If distractions come up, just remind yourself of the thrill of learning. You've got this!
+
+User: Thank you! I appreciate your support.
+
+Consultant: You're very welcome! I'm looking forward to hearing how your exploration goes. Remember, it’s all about enjoying the journey of learning. Until next time, take care!
+###################
+Consultant: Hello, Xiao Zhang! It's great to see you again. I remember that you were feeling more confident after completing your math group project. How have you been since then?
+
+User: Hi! I’ve been feeling pretty good. I was surprised and proud of my contribution to the project. I even thought about trying more group activities, but I'm still a bit hesitant.
+
+Consultant: That’s wonderful to hear that you felt proud! It’s completely normal to feel hesitant about trying new things. Can you tell me more about what’s making you hesitant?
+
+User: I guess I'm just worried that I might not be as good as others in those activities. I don't want to embarrass myself.
+
+Consultant: I understand that fear of not performing well can hold you back. Let’s consider this: what evidence do you have about your abilities when comparing yourself to others? 
+
+User: I don’t have much evidence, to be honest. I just think about how I usually keep to myself and don’t have a lot of experience in group settings. 
+
+Consultant: It sounds like you may be giving more weight to your past experiences rather than your recent success. What if you acknowledged the fact that you successfully contributed to your math project? How could this new experience inform your view of yourself in group activities?
+
+User: I guess it shows that I can do well in a group if I give it a try. But what if my next experience isn’t as good?
+
+Consultant: It’s natural to worry about outcomes, but remember, each experience is a chance to learn. If something doesn’t go as planned, how could you frame it in a way that would still make it valuable?
+
+User: I suppose I could think of it as a learning experience. Like, even if I don’t do well, I might learn something new or figure out what to improve next time.
+
+Consultant: Exactly! That’s a fantastic mindset to have—seeing it as an opportunity to grow. What kind of group activities are you considering trying?
+
+User: I thought about joining a study group for science. I find the subject challenging, so I think it would help me.
+
+Consultant: Joining a study group sounds like a great idea! What do you think would help you feel more comfortable participating in that group?
+
+User: Maybe preparing some questions beforehand could help. It would give me something to contribute.
+
+Consultant: That's an excellent strategy! Preparing questions can not only help you engage but also build your confidence. How about we set a small goal for you before the next group meeting?
+
+User: Sure! I could write down a few questions about the topics we're supposed to cover.
+
+Consultant: That sounds perfect! After the meeting, you can reflect on how it went. How do you feel about tracking your progress in this way?
+
+User: I think keeping track of how I feel each time will help me see if I’m improving.
+
+Consultant: Absolutely! Reflection is a key part of learning. Let’s also consider how you can celebrate each time you step out of your comfort zone, no matter the outcome.
+
+User: That would be nice! I could treat myself afterward, like getting my favorite snack or watching a show.
+
+Consultant: Great idea! Small rewards can reinforce positive behaviors. How do you feel about taking these steps moving forward?
+
+User: I feel more excited about it. It seems less daunting now that I have a plan.
+
+Consultant: I'm glad to hear that! It's all about building those small steps. As you try these new experiences, remember to acknowledge your progress, no matter how small.
+
+User: I will. I really want to keep this positive momentum going.
+
+Consultant: That's a great attitude! Let's think about how you can apply this approach to other subjects that seem challenging. 
+
+User: Right! I think I might also want to look into joining a club related to science, like a science fair or project club.
+
+Consultant: That’s a fantastic initiative! Clubs can provide both social interaction and practical experience. What are your thoughts on reaching out to someone from your class about it?
+
+User: I could ask my friend who’s really into science. If he’s interested, it might be easier for me to join.
+
+Consultant: Excellent strategy! Having support from a friend can make it more enjoyable and less intimidating. How are you feeling about all these ideas we’ve discussed?
+
+User: I feel more confident and ready to step out of my comfort zone. I appreciate all the suggestions!
+
+Consultant: That's wonderful to hear, Xiao Zhang! As we wrap up today, let’s take a moment to reflect on your progress and how far you’ve come. What do you feel you’ve gained from our sessions?
+
+User: I’ve learned that it’s okay to step out of my comfort zone and that trying new things can be rewarding. 
+
+Consultant: That's a valuable insight! How do you think you can maintain this positive mindset in the future?
+
+User: I plan to keep setting small goals and celebrating my progress. I think it will help me stay on track.
+
+Consultant: That’s a solid plan! Remember, you’ve got the tools now to keep moving forward. If you ever need support, I’m here for you. 
+
+User: Thank you! I really feel more open to participating in new activities now. 
+
+Consultant: I'm so glad to hear that. Today marks a great milestone in your journey. Keep up the great work, and I wish you all the best in your upcoming adventures!
+###################
+Consultant: Hello, Xiao Zhang! It's great to see you again. I want to talk about how you've been since our last session. How are you feeling after your recent success in participating more in class?
+
+User: Hi! I'm feeling really good, to be honest. I was nervous when I spoke up, but getting positive feedback from my classmates and teachers made me feel more confident.
+
+Consultant: That sounds wonderful! Building confidence is such an important step. How do you think this experience has changed your perspective on participating in class activities?
+
+User: I guess it made me realize that sharing my ideas isn’t as scary as I thought. I feel like I can contribute and be heard.
+
+Consultant: Exactly! It’s fantastic that you’re embracing that feeling. Now, let’s reflect on the changes you’ve experienced. What are some specific ways you have noticed your social skills improving?
+
+User: I've started talking a bit more with my classmates, joining small groups for projects instead of working alone. It feels nice to connect with them.
+
+Consultant: That’s a significant improvement, Xiao Zhang. Connecting with your peers is a big deal, especially in school. How has this shift affected your overall school experience?
+
+User: It’s made school feel less isolating. I feel like I’m part of a group now, and it motivates me to do better in my studies.
+
+Consultant: That's a positive change! It’s great to hear that feeling connected boosts your motivation. Let’s talk about your academic performance. Have you noticed any differences in your study habits since you've become more socially engaged?
+
+User: A bit. I think I'm more attentive during classes and I try to ask questions when I don’t understand something. It helps me stay focused.
+
+Consultant: That's impressive, Xiao Zhang! Engaging during class is a powerful way to enhance your learning. What goals do you want to set to keep building on this progress?
+
+User: I want to keep participating in class discussions and maybe take on a leadership role in group projects. That would really help me grow.
+
+Consultant: Those are excellent goals! Taking on more responsibilities will definitely help you develop even further. How can I assist you in achieving these goals?
+
+User: Maybe we could discuss some strategies for speaking up more and feeling less anxious in group settings?
+
+Consultant: Absolutely. We can identify some practical strategies for you. Have you considered practicing what you want to say before speaking up in discussions?
+
+User: That sounds helpful! I usually get nervous when I don’t know what to say.
+
+Consultant: Practicing beforehand can ease that anxiety a lot. You could even jot down a few points you want to mention. How does that sound to you?
+
+User: That makes sense. I can give it a try and see how it goes.
+
+Consultant: Great! Another approach could be to focus on listening actively. Sometimes, contributing to a discussion can start with reflecting on what others say. Would you like to try that as well?
+
+User: Yes, I like that idea. Maybe if I focus on responding to others, it won't feel so intimidating.
+
+Consultant: Exactly! Engaging with your peers that way can help you feel more comfortable and involved. As we wrap up today, let’s talk about how you’ll track your progress moving forward.
+
+User: I can keep a journal to note how I feel before and after speaking up in class. That could keep me motivated!
+
+Consultant: That’s a fantastic idea! Journaling can really help you reflect on your experiences and build on your confidence. How do you feel about today's session?
+
+User: I feel really good! I’m excited to try out these strategies and see how they work.
+
+Consultant: I'm glad to hear that! Remember, it's all about taking small steps. Let's plan to catch up again soon to see how you're doing. You’re capable of great things!
+
+User: Thank you so much! I appreciate your support.
+
+Consultant: You’re very welcome, Xiao Zhang! Keep up the great work, and I look forward to our next session. Take care!
+
+User: You too! See you next time!
+###################

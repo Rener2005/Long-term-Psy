@@ -1,0 +1,410 @@
+Consultant: Hello, welcome! I'm glad you're here today. I want to start by understanding how you’re feeling after your recent experiences with your parents. How has everything been for you?
+
+User: Hi. I really don’t want to be here. I feel like my parents just don’t understand me. They forced me into this treatment, and I think it’s a complete betrayal.
+
+Consultant: I hear you. It sounds like you have a lot of anger about being in this situation, and I can see why you'd feel betrayed by your parents. Let's explore what specifically bothers you the most about this. Can you share more about that?
+
+User: I don't think I have a problem. I enjoy playing games, and it’s my escape. Why would I need to change that? 
+
+Consultant: It’s completely valid to want an escape, especially when things get tough. What do you feel playing games provides you that you might not find elsewhere in your life? 
+
+User: It’s just more fun than school. I don’t see the point in studying when I can just play. At least I feel satisfied when I’m gaming.
+
+Consultant: Fun and satisfaction are important. It’s great you know what you enjoy. But I’m curious, do you think playing games impacts other areas of your life? Like relationships or school performance?
+
+User: Honestly, I guess my grades are suffering, and I don’t really hang out with friends anymore. But it’s not a big deal. I’m okay with it.
+
+Consultant: It’s a lot to think about. You mentioned you’re okay with it, but are there moments when you wish things were different, like spending time with friends or being more engaged in school? 
+
+User: I don’t know. Sometimes I think it might be nice to hang out, but I’d rather just stay home and game. 
+
+Consultant: That makes sense. You find comfort in gaming, but it sounds like there's a part of you that also misses having connections with others. What would happen if you decided to meet up with friends again? 
+
+User: I guess I’d probably have fun, but I don’t want to give up gaming. I just don’t care for school and all of that stuff.
+
+Consultant: Balancing what you enjoy and your responsibilities can be tricky. Let’s try to look at this together—what if we think about one small change you could make to incorporate both gaming and socializing? What might that look like for you?
+
+User: I don’t know. Maybe I could game with friends instead of playing alone? 
+
+Consultant: That’s a great idea! Gaming with friends could help maintain your passion while also keeping those connections alive. How do you feel about setting a time for that and seeing how it goes?
+
+User: I guess that could work. But I still feel stuck on how I should handle school.
+
+Consultant: It’s understandable to feel stuck. If school feels overwhelming, what if we broke it down into smaller, manageable parts? Just a bit at a time can make it feel less daunting. How does that sound?
+
+User: I might be able to handle that. But school feels so pointless some days.
+
+Consultant: It's okay to feel that way. Let’s explore what specifically feels pointless about it. Are there particular subjects or tasks that you find the least motivating?
+
+User: I just find most of the subjects boring. It’s mostly just memorization and not really interesting stuff.
+
+Consultant: Boredom can make it hard to engage. What if you thought about the subjects that you do find interesting, even a little? Is there anything in your curriculum that sparks curiosity?
+
+User: I actually liked history a little bit. It’s kind of cool to learn about things that happened a long time ago.
+
+Consultant: That’s a fantastic start! History can provide a lot of context and learning about past events can be really engaging. How about we think of ways to connect that interest to your studies? 
+
+User: Maybe I could use historical games as motivation or learn about events related to games I like.
+
+Consultant: That sounds brilliant! Combining your interests with education can make learning feel much more relevant. Would you be willing to try this strategy for your history subject and see how it works?
+
+User: Yeah, I could give that a shot. But what if I just end up back to gaming all the time?
+
+Consultant: It’s a valid concern. To help you stay balanced, we could create a schedule together. It can include time for both studying and gaming. Would that help you feel more in control?
+
+User: A schedule might help. But I still feel really annoyed with my parents.
+
+Consultant: It’s understandable to feel frustrated with your parents, especially when they push for changes. Have you thought about talking to them about how you feel? It might help clear the air.
+
+User: I haven’t, but maybe I could try. I just worry they wouldn’t understand.
+
+Consultant: It's a brave step to consider talking to them. You could share your thoughts on why you enjoy gaming and express how you feel about the treatment. How does that sound?
+
+User: I guess that wouldn’t hurt. I still don’t want them to think they’re right, though.
+
+Consultant: That’s fair! You can express your feelings while making it clear that you need to find your own path. How about setting a goal to talk to them this week, maybe about both gaming and school?
+
+User: Yeah, I could try that. It might help me feel less angry, I guess.
+
+Consultant: That sounds like a positive step. Remember, it’s about sharing your feelings and creating understanding. Let’s also keep working on your schedule and incorporating your interests. How do you feel about where we’re headed so far?
+
+User: It feels like I might actually get somewhere. I’m still not sure, but I’m open to trying.
+
+Consultant: That’s a great mindset to have! Progress often starts with small steps. We can revisit how things go next time. I appreciate your openness today. Looking forward to hearing about your experiences!
+
+User: Thanks. I guess I'll think about it. See you next time.
+###################
+Consultant: Hello, Xiao Teng! I'm glad you're here today. I know we've been discussing some important topics recently. How have you been feeling since our last session?
+
+User: Hi. I've been thinking a lot about what we talked about. I still feel annoyed with my parents and caught up in my gaming, but I notice that I’ve also started to think about how it’s affecting my school and friends.
+
+Consultant: It's a positive step that you're starting to reflect on these things. Can you share more about how gaming is affecting your relationships and studies?
+
+User: Well, I guess I’ve realized that when I play games all day, I ignore my homework, and I don't hang out with my friends anymore. It feels like I’m drifting away from everyone, but I can’t help but play.
+
+Consultant: That sounds tough. It's understandable to feel that way, especially when gaming can provide an escape. However, recognizing its impact on your life is a big step. How do you feel about that realization?
+
+User: I feel a bit conflicted. On one hand, I like gaming because it's fun, but on the other hand, I miss hanging out with my friends and getting good grades.
+
+Consultant: It’s completely normal to feel torn. Let’s try to explore that a bit more. When you think of not playing games, what thoughts or feelings come up for you?
+
+User: I just feel scared that I’ll miss out on the excitement of the games. I worry that if I stop, I won’t have anything to enjoy.
+
+Consultant: That fear is valid. It sounds like gaming has become a source of enjoyment for you. What if we examined alternative ways to find excitement or fulfillment outside of gaming?
+
+User: I guess I don’t really know what else to do. School feels boring, and I don’t have many hobbies.
+
+Consultant: That’s a great insight, Xiao Teng. Exploring new hobbies can be a way to replace gaming and still have fun. Can we brainstorm some activities you might like to try?
+
+User: Maybe I could try some sports or find some new friends to hang out with? But I’m not sure if I’d really enjoy them.
+
+Consultant: Trying out these activities could be a good start. It might feel uncomfortable at first, but you could discover new interests and connect with others. Would you be open to setting a small goal around that?
+
+User: Sure, I could try joining a sports team or going out with friends one day a week. But what if I don’t enjoy it?
+
+Consultant: That’s a legitimate concern. Remember, trying something doesn’t mean committing to it forever. You could approach it as an experiment. How does that idea sit with you?
+
+User: It makes sense, but I just think it might be more fun to game instead. 
+
+Consultant: It’s completely fine to enjoy gaming! The goal isn’t to eliminate it completely but rather to balance it with other activities. Finding that balance can help to reduce the conflicts in your feelings. How do you feel about mixing gaming with other interests?
+
+User: I guess it would be nice to have some balance. I just worry I won’t want to play games less.
+
+Consultant: That’s understandable. We often fear losing something we enjoy. Instead of seeing it as reducing gaming, what if we frame it as expanding your experiences? Would that help ease your fear a bit?
+
+User: Yeah, that sounds better. Maybe I can still game, but I’m also trying other things.
+
+Consultant: Exactly! By introducing new activities, you might find that your desire for gaming shifts as you discover what else you enjoy. How do you think you could get started with this?
+
+User: I could ask around about sports teams at school and see what’s available. 
+
+Consultant: That’s a fantastic idea! Gathering information first can help ease anxiety. You might find a sport or activity that genuinely excites you. When do you think you could begin asking about that?
+
+User: Maybe tomorrow, I can ask during lunch or after school.
+
+Consultant: Perfect! Taking that step can feel empowering. As you engage with new interests, remember to check in with your feelings about gaming as well. How are you feeling about this plan overall?
+
+User: I’m feeling okay about it. I still have some worries, but I think trying new things could be exciting.
+
+Consultant: That’s a healthy perspective. Embracing uncertainty can lead to positive changes. Next time, we can talk more about how those experiences go and any feelings they bring up. Remember, it's a journey, and I'm here to support you every step of the way.
+
+User: Thank you! I appreciate your help with all this.
+
+Consultant: You're very welcome, Xiao Teng. I'm glad we could explore this today. I'm looking forward to hearing about your progress. Have a great day ahead!
+###################
+Consultant: Hello, Xiao Teng! I'm glad you're here today. I’d like to start by discussing how you've been feeling recently and what has been on your mind.
+
+User: Hi. I've been feeling kind of mixed, I guess. I've tried to participate in some group activities, but I still feel resistant to stepping away from my games. It's hard for me to get involved.
+
+Consultant: It sounds like you’re experiencing some internal conflict between wanting to engage with others and feeling drawn back into gaming. Can you share more about what you felt during those group activities?
+
+User: Well, I felt a bit uncomfortable being around other people. It’s like, I want to try, but I also really don't want to leave my games. It feels safer there.
+
+Consultant: That makes sense. It’s understandable to feel uneasy in social situations, especially when you have a strong attachment to gaming. What do you think it is about being in a group that makes you uneasy?
+
+User: I guess I'm not used to it. I feel like everyone’s judging me or that I’ll mess up somehow. With gaming, I know what to expect, but with real-life interactions, it feels unpredictable.
+
+Consultant: It sounds like you're feeling anxious about how others perceive you in those situations. Those feelings can be really overwhelming. Can you tell me more about those thoughts of judgment—what exactly goes through your mind when you’re in those situations?
+
+User: I keep thinking that maybe I’m not cool enough or that I’ll look stupid in front of everyone. Those thoughts make me want to just avoid the group entirely.
+
+Consultant: It seems like those thoughts are quite powerful and make you want to retreat to the comfort of gaming. Let’s explore those feelings together. What evidence do you have that people would judge you negatively if you joined in?
+
+User: I don't really have solid proof, but I just feel like it's true. Sometimes, my friends make jokes, and I worry they'll joke about me too if I mess up.
+
+Consultant: Your feelings are very valid, but it’s important to challenge those thoughts. What might a friend say to you if you were in their shoes? How do you think they would view your participation in the group?
+
+User: I think they’d be supportive, maybe even happy that I tried to join in. They’ve never really judged me harshly before.
+
+Consultant: That’s a great insight! It sounds like there’s an opportunity to replace those negative thoughts with something more positive. Would it help to remind yourself of this during group activities?
+
+User: Yeah, I guess that could help. I just need to remember that my friends are actually on my side.
+
+Consultant: Exactly! Shifting your focus to the support of your friends can be a powerful tool. Now, let's also address your gaming as you mentioned wanting to have some control over that. How do you currently manage the time you spend gaming?
+
+User: I honestly just play whenever I can. I don't really keep track, and sometimes I end up playing all night.
+
+Consultant: That makes it challenging to find balance. What if we set a specific plan for your gaming time? This could help you gradually shift your focus to other activities. What do you think about that idea?
+
+User: I think having a plan could help. I just don’t know how to start.
+
+Consultant: No problem! We can break it down together. How about we start by defining the maximum time you want to spend gaming each day? And then we can fill the rest of your time with different activities, like those group activities you want to try?
+
+User: That sounds like it could work. Maybe I can set a limit to, like, two hours a day or something.
+
+Consultant: That’s a reasonable start! Now, alongside that, let’s think of a couple of activities you could do during the time you free up. What are some things you might enjoy trying?
+
+User: I liked basketball when I was younger. Maybe I could join a team or just shoot some hoops with friends.
+
+Consultant: Basketball sounds like a fantastic idea! It combines physical activity with social interaction. Setting small goals, like shooting hoops a couple of times this week, could help you ease into it. How does that sound?
+
+User: Yeah, I think I could handle that. Just shooting hoops sounds fun, and it’s less pressure than being in a formal group.
+
+Consultant: Great! It’s all about taking small and manageable steps. How do you feel about balancing your gaming and these new activities? 
+
+User: I feel a bit more hopeful about it. If I can stick to that plan, it might help me feel better about joining in with people.
+
+Consultant: That’s a positive outlook! As we move on, it’s key to remember that setbacks can happen, and that’s okay. How might you handle moments when you feel tempted to revert back to your old gaming habits?
+
+User: I guess I can remind myself that I’m trying to build new habits. Maybe I could also talk to my friends about it, so they can support me.
+
+Consultant: Absolutely! Having that support is invaluable. It’s great that you’re considering reaching out. Reflecting on today’s discussion, what would you say your biggest takeaway is?
+
+User: I think my biggest takeaway is that I can manage my gaming time better and that it’s okay to take baby steps towards being more social.
+
+Consultant: Well said, Xiao Teng! You’ve made some significant realizations today. From our conversation, it seems you’re ready to start redefining your relationship with gaming and social activities. As our sessions conclude, remember that you have the tools to maintain this balance moving forward.
+
+User: Thanks! I really appreciate this. I feel more confident about what I can do now.
+
+Consultant: You're very welcome! I believe in your ability to implement these changes. If ever you need to revisit these topics or seek support again, don’t hesitate to reach out. Good luck, and take care!
+
+User: Thank you! I will definitely keep that in mind.
+###################
+Consultant: Hello Xiao Teng, welcome back! I'm glad to see you again. It sounds like there are some new interests in your studies lately. Can you share more about that?
+
+User: Hi. Yeah, I've been feeling like I want to learn new things. I used to not care about school at all, but now I think maybe I should try harder.
+
+Consultant: That’s a positive shift! It seems like you’re beginning to reconnect with your academic interests. What subjects are you feeling more drawn to right now?
+
+User: I think I’m starting to like math and science more. They always seemed boring before, but now I feel like I want to understand them better.
+
+Consultant: That's great to hear! Understanding those subjects can really open up new possibilities. What do you think changed for you to feel this way?
+
+User: I don’t know. Maybe I just realized that I need to have some goals instead of just playing games all the time. I want to do something meaningful.
+
+Consultant: That’s a very insightful realization! Setting goals can give you direction and purpose. What kind of academic goals are you interested in setting for yourself?
+
+User: I want to aim for good grades, maybe even join a club or something related to science to learn more outside of school.
+
+Consultant: Those sound like excellent goals! Joining a club can also help you meet people with similar interests. How do you think you can start working towards these goals?
+
+User: I think I need to manage my time better. I spend so much time gaming that I forget to study or do homework.
+
+Consultant: Time management is definitely a crucial skill. What are some ways you could start balancing your gaming and study time?
+
+User: Maybe I can set a schedule? Like limiting my game time to a couple of hours and using the rest for studying.
+
+Consultant: A schedule sounds like a solid plan! Creating clear boundaries can help you focus better on your academics. How do you feel about trying to create that schedule together?
+
+User: That sounds good! I need some help figuring out how to do it.
+
+Consultant: Of course! Let's break it down. How many hours a day do you think you can realistically dedicate to studying while still allowing some gaming time?
+
+User: I guess I could do around three hours of studying and maybe two hours of gaming. I don’t want to give up gaming completely.
+
+Consultant: It's great that you're willing to compromise! Setting aside time for both studying and gaming can make it more manageable. What subjects do you think you should focus on during those three hours?
+
+User: I should definitely spend more time on math and science, but maybe a little on language arts too, since my grades there aren’t so great.
+
+Consultant: That sounds like a balanced approach. Allocating specific times for math, science, and language arts will help you structure your studying better. How do you feel about starting this new schedule next week?
+
+User: I feel kind of nervous, but also excited. I just hope I don’t mess it up.
+
+Consultant: It’s completely normal to feel nervous about changes. Remember, it’s all about progress, not perfection. If something doesn’t go as planned, we can always adjust it together. Does that sound okay to you?
+
+User: Yeah, I like that. Having some flexibility would help.
+
+Consultant: Absolutely! Flexibility is key. Speaking of support, how's your relationship with your family right now? Have you thought about how they might help you in this journey?
+
+User: It’s not great, to be honest. I feel like they don't understand me, especially when it comes to school.
+
+Consultant: I get that. Communication can be difficult. What if we think of some ways you can express your new goals to them? It might help improve that understanding.
+
+User: I could try talking to them about my interests in math and science. Maybe they’d be more supportive if they saw I’m interested in learning.
+
+Consultant: That’s a fantastic idea! Sharing your goals with them could bridge some gaps. Would you feel comfortable initiating that conversation?
+
+User: I think I could try. It would be nice if they understood what I’m trying to do.
+
+Consultant: I believe they’ll appreciate your honesty and effort. Remember, you’re showing them a positive change. What steps do you think you can take to prepare for this conversation?
+
+User: Maybe I can write down what I want to say so I don’t forget. That way, I can be more focused.
+
+Consultant: Writing it down is an excellent strategy! It can help clarify your thoughts and reduce anxiety about the conversation. How do you feel about taking these steps, mixing in both academic and family goals?
+
+User: I feel more motivated, actually. It seems like I have a plan now. It’s nice to have something to look forward to.
+
+Consultant: That’s wonderful to hear, Xiao Teng! You’ve taken significant steps today, and it’s good to see you feeling motivated. Just remember, keep taking things one step at a time. How about we wrap up today by summarizing what you’re planning to do next?
+
+User: Sure! I’ll create a study schedule, try to manage my time better, and talk to my family about my new interests.
+
+Consultant: Amazing! You’ve got a clear path ahead. I’m proud of you for taking these initiatives. Let’s continue to explore how things go next time we meet. Remember, I’m here to support you!
+
+User: Thank you! I really appreciate your help. I’ll see you next time!
+
+Consultant: You’re welcome, Xiao Teng. Looking forward to our next session! Take care.
+###################
+Consultant: Hello, Xiao Teng! I'm glad to see you today. How have you been feeling recently, especially regarding your family relationships?
+
+User: Hi! I've been feeling a bit better actually. My parents are trying to understand my situation more, which is a nice change. But I still find it hard to express how I feel.
+
+Consultant: That's a positive step forward! It’s good to hear your parents are making an effort. Can you tell me a bit more about what specific feelings you find hard to express?
+
+User: I often feel angry and misunderstood. Even though they seem supportive now, I still think they won't really get what I'm going through.
+
+Consultant: It’s understandable to feel that way. Those feelings of anger and misunderstanding can be tough to navigate. What do you think would help you communicate your feelings to them more effectively?
+
+User: I guess if I could just share my thoughts without them interrupting or getting defensive, it might help. But I worry they won’t listen.
+
+Consultant: It sounds like you’re craving a safe space to express yourself openly. Creating that environment can be challenging. Would it help if we explore some strategies for having those conversations with them?
+
+User: Yeah, I think so. I don’t want to keep shutting them out, especially if they’re trying to be better.
+
+Consultant: That's a great perspective, Xiao Teng. Let's talk about a possible approach. One idea might be to have a family meeting where everyone can share their thoughts. How do you feel about suggesting this to your parents?
+
+User: I think that could work. Maybe if we all sit down together, it would feel less tense. But I worry about how they might react.
+
+Consultant: It’s natural to feel concerned about their reactions. What’s one concern you have in mind about how they might respond to the meeting?
+
+User: They might think I’m trying to blame them for everything, and I don’t want to make things worse.
+
+Consultant: That’s a valid concern. Framing it in a way that highlights your desire for better communication could be key. Perhaps you can start with how much you appreciate their support. What do you think?
+
+User: I could do that. Maybe I can also express how I feel when we argue, so they understand it’s not just about blaming.
+
+Consultant: That’s a wonderful approach! Expressing your feelings can help them see your perspective more clearly. How do you feel about practicing what you might say during the meeting?
+
+User: That sounds helpful. I’d like to have a plan so I’m not just stumbling over my words.
+
+Consultant: Absolutely! Let’s go through some phrases you might use to express your feelings effectively. For example, you can start with, “I feel upset when…” How does that sound to you?
+
+User: I like that. It sounds more personal and less accusatory. 
+
+Consultant: Exactly! This way, you’re focusing on your feelings, which can invite a more positive response. Is there a specific situation you’d like to practice talking about?
+
+User: Yes, there was a time when I had a bad grade, and I felt like they blamed me without understanding my struggles.
+
+Consultant: That’s a good example. You could say something like, “I felt really stressed about my grades, and it hurt when it seemed like you were blaming me instead of understanding.” How does that feel to express?
+
+User: It feels a bit scary but also relieving to say it out loud. 
+
+Consultant: It’s completely normal to feel anxious about it. How do you think you can manage that fear when the moment comes?
+
+User: Maybe I can take deep breaths and remind myself that I’m trying to improve things, not make them worse.
+
+Consultant: Deep breathing can be very effective. Also, remembering your goal of improving communication may help keep you focused. What else can you do to stay calm during the conversation?
+
+User: I could also think about their support, so I don’t just focus on the negative.
+
+Consultant: That’s an excellent strategy! Holding onto the positives can help balance the emotions during the discussion. How do you feel about your ability to have this conversation after practicing today?
+
+User: I feel more prepared and less anxious. I think I can try it!
+
+Consultant: That’s fantastic! I’m proud of you for taking these steps. Before we conclude today, what do you think will be your biggest takeaway from our session? 
+
+User: I realize that expressing my feelings isn’t just about blaming my parents, but about understanding each other.
+
+Consultant: That’s a profound insight, Xiao Teng. Understanding each other is the foundation of strong relationships. As we wrap up, let’s think about a follow-up plan. How often would you like to reflect on this progress with me?
+
+User: Maybe in a week or two? I want to see how this conversation goes first.
+
+Consultant: That sounds like a solid plan. Please remember that you’re making positive changes, and it’s okay to take it one step at a time. I look forward to hearing how the conversation goes. 
+
+User: Thank you! I appreciate all your support and guidance.
+
+Consultant: You're very welcome! Keep believing in yourself, and know that I’m here to help whenever you need it. Have a wonderful week ahead!
+###################
+Consultant: Hello, Xiao Teng! I'm glad to see you again today. It sounds like you've made some positive changes since we last met. How have you been feeling about your situation recently?
+
+User: Hi. I've been feeling better overall! I think my relationship with my family is improving, and I'm not spending as much time playing games. But sometimes, I still feel a bit lost about what I should do next.
+
+Consultant: It's great to hear that your family communication has improved and that you've reduced your gaming time. That's a significant step forward! Can you share a bit more about what specifically makes you feel lost? 
+
+User: Well, I’m not sure what I should focus on now. I used to only think about gaming, but now that I've tried to change, I don’t know what hobbies or interests I should explore. 
+
+Consultant: That's a normal feeling when transitioning to new habits and interests. Since you've made progress, it might be helpful to think about what you enjoyed doing before gaming became your main focus. What interests did you have outside of gaming?
+
+User: I used to like drawing and playing soccer with friends. But I haven’t done those in a while. 
+
+Consultant: Those sound like wonderful activities! Drawing and soccer could be great outlets for your creativity and energy. How do you feel about reintroducing those activities into your routine?
+
+User: I think I would like to try drawing again, but I'm concerned that I might not be good at it anymore. I don't want to feel disappointed.
+
+Consultant: It's completely understandable to feel that way. Sometimes, we set high expectations for ourselves. What if we approached drawing as a way to enjoy the process rather than focusing solely on the outcome? 
+
+User: That makes sense. I guess I can just draw for fun and not worry about how it turns out. 
+
+Consultant: Absolutely! Enjoying the act of creating can be very rewarding in itself. Additionally, would you feel comfortable setting aside some time each week to draw? 
+
+User: Maybe I could dedicate an hour on weekends to start. 
+
+Consultant: That sounds like a wonderful plan! Dedicating even a small amount of time to something you enjoy can have a positive impact on your mood. How do you think this might affect your feelings about other responsibilities like schoolwork?
+
+User: I think it might help! If I have something fun to look forward to, it could make school feel less overwhelming.
+
+Consultant: That’s a great insight, Xiao Teng! Finding balance in your activities can create a positive cycle. As we focus on maintaining these changes, we should also talk about any challenges you foresee. Any thoughts on that?
+
+User: I sometimes feel a bit of pressure from school, especially with grades. What if I can’t keep up with everything?
+
+Consultant: That’s a valid concern and one many people share. It could help to establish a schedule that divides your time between schoolwork and your new hobbies. What do you think about creating a balanced routine?
+
+User: Yeah, a routine sounds good. I could include time for studying, drawing, and maybe even soccer practice.
+
+Consultant: Exactly! Creating a structured routine can help manage your time more effectively. Would you like assistance in mapping out a potential weekly schedule?
+
+User: Yes, that would be helpful!
+
+Consultant: Great! Let’s think about a simple outline. For instance, you could prioritize your schoolwork during the weekdays and set specific days for drawing and soccer. How does that sound?
+
+User: That sounds pretty good! I like having a plan instead of just winging it every day.
+
+Consultant: I'm glad to hear that! Having a plan can provide you with a sense of control. Remember, it's okay to be flexible and adjust your plan as needed. How confident do you feel about sticking to this routine?
+
+User: I think I can do it. Having things planned out feels less stressful.
+
+Consultant: That's wonderful! Feeling less stressed is a great goal. As we wrap up today’s session, let's reflect on your progress and the steps you've identified. What do you see as your biggest achievement so far?
+
+User: I think my biggest achievement is talking more with my family and reducing my gaming time. It feels good.
+
+Consultant: You should feel proud of that! Those changes reflect your commitment to personal growth. As you continue on this path, remember the skills you've developed. What strategies can you carry forward to maintain your progress?
+
+User: I can keep my routine and remind myself to enjoy drawing without stress.
+
+Consultant: Absolutely! Enjoying the process is key to sustaining your interest. Before we finish, remember that I'm here for you if you need support in the future. How do you feel about our sessions together?
+
+User: I’ve found them really helpful. I appreciate having someone to talk to about all these changes.
+
+Consultant: I’m glad to hear that, Xiao Teng! You've shown remarkable strides in your progress. Today’s session wraps up nicely, and I wish you continued success in your journey. Feel free to come back anytime you need support. Take care!
+
+User: Thank you! I will!
+###################

@@ -1,0 +1,380 @@
+Consultant: Hello, welcome to our session today. I'm glad to see you again. How have you been feeling since our last meeting?
+
+User: Hi, I've been feeling really anxious. The pressure of my studies seems overwhelming, and the thought of possibly failing my exams is stressing me out.
+
+Consultant: I can understand how that feels. It sounds like you're under a lot of pressure, especially with the expectations you have for yourself and from your family. Could you share more about what specifically has been causing you to feel this way?
+
+User: Well, since starting university, I’ve realized that the workload is much heavier than I expected. I feel like I'm constantly trying to catch up, and I fear that my parents will be disappointed if I don't do well.
+
+Consultant: That’s a lot to handle, especially trying to meet both your own expectations and those of your family. How do you think these thoughts affect your feelings and actions when it comes to studying?
+
+User: When I start to think about failing, I get really anxious, and it’s hard to focus on my studies. I often end up just avoiding my work because I'm scared I won’t be able to do it.
+
+Consultant: Avoidance can sometimes feel like the easiest choice when faced with anxiety. Let's explore this further. You mentioned that you fear failure; can you describe a specific thought that runs through your mind when you start to feel overwhelmed?
+
+User: I often think things like, "I’m just not good enough," or "I’ll never be able to understand this material." These thoughts make me feel really down.
+
+Consultant: Those thoughts sound quite harsh and can definitely contribute to your anxiety and stress. Would you be open to examining how valid these beliefs are? For instance, is there evidence that supports or contradicts those thoughts?
+
+User: I guess I do have some times when I understood certain topics well and did well on a few quizzes. But those moments feel small compared to my fears of failing the exams.
+
+Consultant: It’s great that you can recognize those successes, even if they feel less significant at the moment. Let’s consider this—what would you tell a friend if they expressed similar thoughts about their abilities?
+
+User: I would probably remind them of the times they succeeded and encourage them to keep trying, despite the challenges.
+
+Consultant: That’s a compassionate and supportive approach! It sounds like you’re capable of offering kindness to others, but perhaps not as much to yourself. How might it feel to replace some of those negative thoughts with the encouragement you would give to a friend?
+
+User: I suppose that would help, but it’s hard to change how I think. I’m not sure if it will really make things better for me.
+
+Consultant: Change can be tough, and it's perfectly normal to feel unsure. We can start small. What if you tried to jot down a few positive affirmations or reminders of your abilities? This could be a way to counter those negative thoughts when they arise.
+
+User: That sounds like it could help. I could write down things I've done well to remind myself.
+
+Consultant: Exactly! It’s about building a more balanced perspective. Also, have you thought about creating a study plan to help manage your workload better? Sometimes having a structured approach can help reduce anxiety.
+
+User: I haven’t really thought about it. I just dive in and try to study everything at once, which is probably contributing to my stress.
+
+Consultant: That makes sense. A structured study plan might help you break things down into manageable pieces and give you a clearer path forward. Would you be willing to try creating a simple plan for your upcoming exams?
+
+User: I can try. Maybe if I outline what I need to study each week, it wouldn’t feel so overwhelming.
+
+Consultant: That's a great idea! Breaking it down into smaller tasks can certainly create a sense of accomplishment and control. When do you think you could start working on that plan?
+
+User: I could probably start tomorrow. I’ll write down the subjects I need to focus on and break them into smaller sections.
+
+Consultant: That sounds like a solid plan! As you work on this, remember to also incorporate short breaks to recharge. It’s important to take care of your mind and body during study sessions. 
+
+User: I usually skip breaks because I feel like I don’t have time, but you’re right. I’ll try to include them.
+
+Consultant: Great, it’s all about balance. And as you start this new approach, remind yourself that it's okay to seek support from classmates, too. Connecting with others can help lighten the load.
+
+User: I haven’t really interacted much with my classmates. I tend to keep to myself, but maybe I should try reaching out.
+
+Consultant: Absolutely! Building a support system can make a significant difference in how you cope. What’s one small step you could take to connect with someone in your class?
+
+User: I could maybe join a study group. That sounds less intimidating than just talking to someone one-on-one.
+
+Consultant: Joining a study group is a fantastic idea! It allows you to both learn from others and share your knowledge. As we wrap up today's session, what key strategies do you think will be most helpful for you moving forward?
+
+User: I think keeping a positive reminder list, creating a study plan, and trying to reach out to others for support will be helpful.
+
+Consultant: Those sound like excellent strategies! It's all about taking it one step at a time. Remember, it’s okay to have fears, but you also have the tools to manage them. I believe in your ability to navigate this.
+
+User: Thank you! I feel a bit more hopeful just talking about it. 
+
+Consultant: I'm glad to hear that! It’s been wonderful working with you today. Remember, you're not alone in this journey. If you need more support, don’t hesitate to reach out again. 
+
+User: I will. Thanks for your help today!
+###################
+Consultant: Hello, Xiao Zhao! I'm glad you're here for today's session. How have you been feeling since our last conversation?
+
+User: Hi. I feel a bit better, but I’m still really anxious about my studies. I keep worrying about failing my classes, and I'm not sure how to approach my classmates.
+
+Consultant: It's understandable to feel that anxiety, especially with the pressure of your studies. Let's explore this a bit more. Can you share what specific thoughts come to mind when you think about possibly failing your classes?
+
+User: I often think that if I fail, it means I'm not smart enough. And if I can't do well, I might disappoint my family, which makes me even more anxious.
+
+Consultant: It sounds like you're really putting a lot of pressure on yourself. The thought of disappointing your family seems to weigh heavily on you. How does this pressure affect your motivation to study?
+
+User: It makes studying feel overwhelming. Sometimes I just avoid my books entirely because I don't know where to start, and then I feel guilty for not studying.
+
+Consultant: That's a common reaction when feeling overwhelmed. Avoidance can provide temporary relief, but it sounds like it's making you feel more guilty in the long run. Let's think about this together. How would you feel if you allowed yourself to study in smaller, manageable chunks instead of trying to tackle everything at once?
+
+User: That sounds less intimidating. I suppose breaking things down could help. But I’m still afraid it wouldn’t be enough to catch up.
+
+Consultant: It's great to hear that breaking things down feels more manageable. Remember, progress doesn't always need to be fast; what's important is consistency. Can we discuss a possible study plan where you set smaller goals and gradually build up your confidence?
+
+User: Yes, I’d like that. I guess if I had a plan, I could feel less lost.
+
+Consultant: Wonderful! Let’s start by identifying some specific subjects or topics you need to focus on. What do you feel most anxious about right now?
+
+User: I’m really worried about my biology class. I feel like I'm falling behind.
+
+Consultant: Biology can definitely be challenging. How about we set a goal to spend a certain amount of time on biology each day? How many hours do you think you could realistically dedicate to it daily?
+
+User: Maybe an hour or two? I think I could handle that if I really focus.
+
+Consultant: That sounds like a solid start! How about we also incorporate some review sessions to check your progress? Would you be willing to set a time each week to reflect on what you’ve learned?
+
+User: Yes, reflecting sounds helpful. I'll try to write down what I understand and what I still need help with.
+
+Consultant: Perfect! Keeping a journal can help clarify your thoughts and track your progress. Now, shifting gears a bit, how do you feel about socializing with your classmates? Have you been able to connect with anyone?
+
+User: Not really. I still find it hard to talk to them, and I feel awkward when I try.
+
+Consultant: I can understand how that feels. It can be tough to initiate conversations. What if we explore some role-playing scenarios to practice different ways to start a conversation?
+
+User: That might help, but I’m nervous about it.
+
+Consultant: That’s completely normal! We can take it step by step, starting with some simple dialogues. If you were to approach a classmate, what might you say?
+
+User: Maybe I could just say, “Hi, I’m Xiao Zhao. Do you want to study together?”
+
+Consultant: That’s a great opening line! It’s friendly and direct. Would you feel comfortable trying that next time you see someone in class?
+
+User: I think I could try that. It feels less intimidating when I have something specific to say.
+
+Consultant: Absolutely! Having a clear intention can ease some of that nervousness. Remember, every little attempt counts as progress. How about we set a goal for you to approach one classmate this week?
+
+User: Okay, I’ll try to do that! I really want to improve.
+
+Consultant: That’s the spirit! It’s all about taking small steps. As we prepare for our next session, think about how it feels to take those steps and what support would be most helpful for you.
+
+User: I’ll keep that in mind. I hope I can report some progress next time!
+
+Consultant: I believe in you, Xiao Zhao! You're already taking important steps by being here and willing to work on these challenges. We’ll keep building on your success together. 
+
+User: Thank you! I feel a bit better about everything already.
+
+Consultant: That’s wonderful to hear! Just remember, progress can take time, and it’s okay to have ups and downs. I look forward to hearing all about your experiences in our next session!
+
+User: Me too! See you next time.
+
+Consultant: Take care, Xiao Zhao. See you soon!
+###################
+Consultant: Hello, Xiao Zhao! I'm glad you're back for our session. Last time, we talked about your initial confidence in social situations and how you've tried connecting with your classmates. How have you been feeling since then?
+
+User: Hi! I've been feeling a bit better about myself. I still have moments of doubt, but I've been trying to engage a little more with others, especially after that class activity.
+
+Consultant: That’s a positive step forward! It sounds like you’re beginning to feel more comfortable reaching out to others. Can you tell me more about what specifically has changed for you after that experience?
+
+User: Well, I received some compliments from classmates after speaking up, which really surprised me. It made me feel like my thoughts mattered, and I could actually connect with people.
+
+Consultant: I'm really glad to hear that! It seems that positive feedback helped boost your confidence. Now that you’ve seen how your interactions can be rewarding, what are your thoughts on your long-term career goals?
+
+User: Honestly, I'm still quite unsure. I have a passion for biology, but I don’t know how to connect that with a career yet. I feel overwhelmed at times, especially with so many options available.
+
+Consultant: It’s completely understandable to feel overwhelmed with choices. Exploring your interests further can help clarify your path. What aspects of biology do you find most engaging or exciting?
+
+User: I really enjoy learning about genetics and how they affect health. But I struggle to see how that could translate into a career.
+
+Consultant: Genetics is a fascinating field with many career opportunities! Have you considered roles in research, healthcare, or even genetic counseling? Identifying your interests can help narrow down your options.
+
+User: I hadn’t thought about genetic counseling. Helping people understand their health sounds appealing, but I worry about my ability to communicate effectively with them.
+
+Consultant: It’s great that you’re open to exploring new possibilities! Communication skills can be developed over time, especially with practice. What do you think might help you feel more confident in those interactions?
+
+User: Maybe if I could practice in smaller, low-pressure environments first, I would feel more comfortable eventually. 
+
+Consultant: That sounds like a smart strategy! Starting small can build your confidence gradually. Are there opportunities, like study groups or clubs, where you could practice without too much pressure?
+
+User: Yes, there is a biology club I could join! I just need to overcome my hesitation to actually go.
+
+Consultant: Joining the biology club could be a wonderful way to meet others with similar interests while enhancing your social skills. What steps do you think you could take to attend the next meeting?
+
+User: I could research when the next meeting is and perhaps invite a classmate I feel comfortable with to go together.
+
+Consultant: That’s a fantastic plan! Having a familiar person along can ease your anxiety. What benefits do you see in participating in the club for your academic journey?
+
+User: It could help me learn more about the field and also allow me to meet people I can collaborate with on projects. I think that would really help me academically.
+
+Consultant: Absolutely! Engaging with peers can foster motivation and support your learning. Alongside improving your social skills, what are some other ways you’d like to enhance your academic experience?
+
+User: I want to develop a study routine that fits my learning style better. Sometimes I get lost in too many distractions.
+
+Consultant: Establishing a personalized study routine can definitely help improve your focus and productivity. What strategies have you considered implementing to minimize distractions?
+
+User: I could set specific study hours and find a quieter place to work, perhaps a library. I also think taking short breaks might help.
+
+Consultant: Those sound like effective strategies! Creating a conducive study environment and balancing periods of work with breaks can enhance your focus. How do you feel about committing to this routine over the next few weeks?
+
+User: I think I can manage that. Having a structured plan feels reassuring, and I think it’ll help me build discipline.
+
+Consultant: That’s a positive mindset! Committing to a structured plan will help you build consistency. As we work towards your goals, it’s crucial to celebrate even the small wins. How will you acknowledge your progress along the way?
+
+User: I could keep a journal to track my achievements, no matter how small. That would remind me that I'm moving forward.
+
+Consultant: Keeping a journal is a wonderful idea! It can serve as a reflection tool and help you gain perspective on your growth. Before we wrap up, what’s one takeaway you have from today’s session?
+
+User: I think that even small steps are significant in my journey. Recognizing my strengths gives me confidence to keep trying.
+
+Consultant: That’s an insightful realization! Remember, every small step counts toward your growth. For our next session, consider reflecting on your experiences in the club and your study routine. I'm looking forward to hearing about your progress. 
+
+User: Thank you! I appreciate the support and guidance. I feel excited to take these steps.
+
+Consultant: You’re very welcome, Xiao Zhao! I'm confident you'll do great. Remember, it’s all about progress. I'll see you next time, and don’t hesitate to reach out if you need additional support.
+###################
+Consultant: Hello, Xiao Zhao! I'm really glad to see you today. How have you been feeling lately, especially after leading that group discussion?
+
+User: Hi! I’ve been feeling pretty good, actually. Leading the discussion was a bit scary at first, but I got some positive feedback from my classmates, which felt really nice. I think I’m starting to believe that I can actually contribute in group settings.
+
+Consultant: That's wonderful to hear! It sounds like that experience has boosted your confidence. Can you tell me more about what that positive feedback meant for you?
+
+User: It made me realize that I do have something valuable to share, and the validation from my classmates felt really encouraging. I want to keep improving my social skills and be more active in both academics and social situations.
+
+Consultant: It’s great that you’re recognizing your strengths and wanting to build on them. Let’s explore together what steps you could take to further enhance your social skills and confidence in these settings. What specific goals do you have in mind?
+
+User: I would love to participate in more group activities and maybe even lead another discussion. I think if I practice more, I will feel even more comfortable.
+
+Consultant: Practicing in more group settings sounds like an effective approach. How do you think you can prepare yourself for these future discussions to keep building your confidence?
+
+User: I could start by joining smaller study groups first, so I’d feel less pressure. I could also maybe write down some points I want to share ahead of time.
+
+Consultant: Those are excellent strategies! Joining smaller groups will allow you to ease into it, and preparing notes can help you feel more secure. What other ways might you reinforce your experiences to build on this success?
+
+User: I think I could keep a journal to write down my experiences after each group activity. Reflecting on what went well and what I could improve would be helpful.
+
+Consultant: Writing a journal is a great idea! It can help you process your thoughts and recognize your progress over time. What do you think you might write about after your next group activity?
+
+User: I would probably note down the positive interactions I had, any compliments I received, and how I felt during the activity. I think that would help solidify the positive feelings.
+
+Consultant: That sounds like a solid plan! Identifying positive interactions and your feelings about them will reinforce your self-esteem. Have you thought about other situations where you can apply these skills you’re developing?
+
+User: Yes! I want to engage more during lectures and maybe even ask questions. I’ve been hesitant to do that because I worry about what others might think.
+
+Consultant: It’s understandable to feel nervous about speaking up in class. Let’s think about how you can gradually approach this goal. What might be a good first step to get started?
+
+User: Maybe I could start by asking simple questions or sharing my thoughts on a topic in class discussions. I think if I do it gradually, it won't feel so overwhelming.
+
+Consultant: That sounds like a great approach. Starting with small contributions can significantly reduce anxiety and build your confidence over time. How do you think you’ll feel after trying this out?
+
+User: I think if I can manage to speak up, I’d feel really proud of myself. It might also encourage me to participate even more in the future.
+
+Consultant: Absolutely! Feeling proud of yourself will further motivate you to engage. Remember, each small step is progress. How can you remind yourself of this progress along the way?
+
+User: I could check back in with my journal after each class to see how much I’ve improved and acknowledge my efforts. That could help keep me motivated.
+
+Consultant: That’s a wonderful strategy! Keeping track of your progress will help reinforce your self-efficacy. As we wrap up today, what are the key takeaways you would like to focus on moving forward?
+
+User: I want to focus on joining more group activities, preparing notes, and starting to speak up in class. Keeping a journal will also be important for me.
+
+Consultant: Those sound like excellent goals, Xiao Zhao. You’re setting a strong foundation for your continued growth in both social and academic settings. I believe you will continue to make great strides. If you ever feel stuck, feel free to reach out again. You’re progressing wonderfully!
+
+User: Thank you! I really appreciate your support and guidance. I’m looking forward to trying these new strategies!
+
+Consultant: You're very welcome! I’m here to support you every step of the way. Best of luck with everything, and I can’t wait to hear about your progress next time we talk!
+###################
+Consultant: Hello, Xiao Zhao! I'm delighted to see you today. How have you been feeling since our last session? 
+
+User: Hi! I've been feeling pretty good, actually. I'm excited about the academic lecture I attended recently. It sparked a new interest in my major, and I really want to explore more knowledge outside of class.
+
+Consultant: That sounds wonderful! It's exciting to hear that you’re feeling inspired about your studies. What specifically about the lecture stood out to you and motivated this new interest?
+
+User: The lecturer was really passionate about biotechnology, and it made me realize how much potential there is in this field. I felt like I could contribute to something important, which made me want to learn more.
+
+Consultant: It's great to hear that you found the lecture so inspiring. Feeling like you can contribute can really boost your confidence and motivation. What kinds of resources or activities do you think could help you explore this interest further?
+
+User: I think attending more lectures and maybe joining study groups would help. I also want to read more articles and books related to biotechnology.
+
+Consultant: Those sound like fantastic steps! Engaging with fellow students and deeper study can really enhance your understanding. How do you feel about reaching out to others to form study groups or to find lectures?
+
+User: I feel a bit scared about it because I’m not very outgoing, but I know it could help me learn more. I guess I need to push myself a bit.
+
+Consultant: It's completely normal to feel a bit apprehensive about reaching out to others, especially if you consider yourself introverted. What do you think might help you take that first step?
+
+User: Maybe I could start online and find groups or forums where people share similar interests. It might be easier to start that way.
+
+Consultant: That's a brilliant idea! Online platforms can be a more comfortable way to connect with others. Have you thought about how to approach these online communities or what to say when you introduce yourself?
+
+User: Not really, but I guess I could just be honest about my interests and ask questions. I could also share my thoughts about what I learned in the lecture.
+
+Consultant: That sounds like a great strategy! Being genuine and sharing your thoughts can create meaningful connections. Do you think you can practice how you might introduce yourself before engaging with them?
+
+User: Yes, I think practicing would help. I might feel more confident if I had something prepared.
+
+Consultant: Absolutely! Preparation can be a great confidence booster. Why don’t we take a moment to outline what you might say when you reach out to these groups? 
+
+User: Sure! I could start with my name, how I’m a first-year student in bioengineering, and mention the lecture that got me interested.
+
+Consultant: That’s a solid start! This way, you’re sharing a bit about yourself and linking it to your interest, which can help spark conversations. What else would you like to add that reflects your eagerness to learn?
+
+User: I could mention that I’m keen on learning more about biotechnology and that I’m looking for resources and discussions related to it.
+
+Consultant: Perfect! Including that you’re looking to learn more shows your passion. How do you feel about this introduction now that we’ve outlined it together?
+
+User: I feel better about it! It seems more manageable and less intimidating.
+
+Consultant: I’m glad to hear that! Remember, taking small steps can lead to bigger changes. How do you envision this connecting with your future studies and goals?
+
+User: I hope that by engaging more with others, I can clarify my goals and maybe even discover new career options in biotechnologies!
+
+Consultant: That’s a brilliant mindset! Exploring your options and networking can open many doors. As we look ahead, what are some specific academic activities or milestones you would like to set for yourself? 
+
+User: I’d like to attend at least two more lectures this semester and maybe join a club related to bioengineering. 
+
+Consultant: Those are excellent goals! They align perfectly with your desire to engage and learn more. How confident do you feel about pursuing these goals?
+
+User: I feel quite confident now! After discussing it, I believe I can do it.
+
+Consultant: That’s fantastic progress, Xiao Zhao! It sounds like you're ready to take action. As we conclude our session, let's reflect on what we've discussed today and how you've grown. What do you feel is your biggest takeaway?
+
+User: I’ve realized that pushing myself to connect with others can really enhance my learning experience. I’m looking forward to taking these steps!
+
+Consultant: That’s wonderful to hear! You’ve recognized the importance of connection in your learning journey, and that’s a significant insight. How will you maintain this motivation moving forward?
+
+User: I’ll keep reminding myself of how beneficial it is to connect with like-minded people, and I won’t hesitate to reach out.
+
+Consultant: That’s an excellent strategy! I believe in your ability to achieve your goals. Today’s session was a great step toward your aspirations. I look forward to hearing about your progress! Remember, you can always come back if you need support or a space to talk.
+
+User: Thank you so much! I really appreciate your guidance. I feel much more prepared for the next steps now.
+
+Consultant: You’re very welcome, Xiao Zhao! I’m proud of the progress you’ve made. Take care, and best of luck with your academic journey!
+###################
+Consultant: Hello, Xiao Zhao! It's great to see you again. I’m excited to hear about your recent achievements and how you're feeling. Can you share what’s been on your mind since our last session?
+
+User: Hi! I feel really good because my research discussion group received praise from our instructor. It made me realize that my decision to study this major was the right one. I’m feeling more confident about my academic future.
+
+Consultant: That’s wonderful to hear! It sounds like the praise has boosted your confidence significantly. How does that recognition impact your view on your studies and future goals?
+
+User: I think it gives me the motivation to set my personal learning goals more actively. I want to deepen my understanding of the subject and maybe even think about projects I could lead. 
+
+Consultant: It's great that you're feeling motivated to take the initiative in your learning. What kind of projects are you considering, or what areas do you want to explore further?
+
+User: I’m really interested in biotechnology applications. I’d like to work on projects that can contribute to medical advancements or environmental solutions. 
+
+Consultant: Those sound like impactful fields! Exploring biotechnology can indeed lead to significant contributions. Have you already thought about any specific skills or knowledge areas you want to focus on for these projects?
+
+User: Yes, I think I need to improve my lab skills and learn more about data analysis in biology. I’m also interested in collaborating with others who share similar interests.
+
+Consultant: Collaborating with others who have similar interests can be very enriching. What steps can you take to connect with peers or join projects that align with your interests?
+
+User: I could join relevant clubs at the university or attend workshops. I think being proactive about meeting like-minded people would help.
+
+Consultant: That sounds like a solid plan. Engaging with clubs and workshops can enhance your skills and network. What barriers do you think you might encounter while trying to implement these steps?
+
+User: Sometimes, I feel shy about approaching new people or speaking up in groups. I worry about how I’ll come across.
+
+Consultant: It's completely normal to feel shy in new situations. How could you challenge that feeling of shyness when you’re in these environments?
+
+User: Maybe I could prepare some questions or topics to discuss in advance. That might help me feel more confident when I speak up.
+
+Consultant: Preparing in advance is a great strategy. It can help you feel more comfortable and engaged. Have you tried that in any past situations?
+
+User: I have prepared for presentations, and it did help me feel less anxious. 
+
+Consultant: That's an excellent skill! It seems like you've already set a good foundation for dealing with social situations. How can you apply what you learned from those experiences to your future interaction?
+
+User: I think I can remind myself of those successful moments. If I focus on the knowledge I can share rather than on my anxiety, it should help.
+
+Consultant: Absolutely! Recalling your successful experiences can empower you. Moving forward, how can you keep building your confidence in these social interactions?
+
+User: I could also practice speaking with classmates one-on-one first before jumping into group discussions. 
+
+Consultant: That’s a smart approach! Starting small can help you gradually build confidence. How do you feel about setting a specific goal for this week regarding social interactions?
+
+User: I’m thinking I could aim to talk to at least two classmates about our projects this week. 
+
+Consultant: That sounds like a manageable and productive goal. Once you accomplish that, how will you reflect on the experience?
+
+User: I plan to journal about how it felt afterward, what went well, and any challenges I faced. 
+
+Consultant: Journaling is a fantastic way to reflect on your experiences and emotions. Are there any specific thoughts or feelings you might expect to come up during this process?
+
+User: I might feel proud if I accomplish my goal, but I’m also worried I might feel rejected if things don’t go well. 
+
+Consultant: It's natural to have those worries. Let’s remind ourselves that not every interaction will go perfectly. How can you reassure yourself that rejection or discomfort is part of the learning process?
+
+User: I suppose I can think of it as a chance to improve for next time rather than a failure. 
+
+Consultant: Exactly! Viewing experiences as opportunities for growth is essential. As we wrap up today, what do you believe is your most significant takeaway from our discussion?
+
+User: I think it’s about recognizing my progress and setting achievable goals. I feel more empowered to step out of my comfort zone.
+
+Consultant: That's a powerful insight! You’ve made great strides. Remember, integrating these strategies into your routine can further enhance your confidence and growth. If challenges arise, what can you do to maintain your positive mindset?
+
+User: I’ll remind myself of my achievements and continue working on my social skills. 
+
+Consultant: Those are excellent strategies. It has been a pleasure working with you today, Xiao Zhao. You've developed valuable tools for your journey. If you ever feel the need for more support, know that I'm here for you. 
+
+User: Thank you! I really appreciate our sessions and feel much more optimistic about my future now!
+###################

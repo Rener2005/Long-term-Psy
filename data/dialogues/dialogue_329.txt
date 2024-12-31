@@ -1,0 +1,410 @@
+Consultant: Hello, Xiaoming! I’m glad to see you again. How have you been feeling since our last session?
+
+User: Hi. Not much has changed. I still feel like the expectations from my mother and teachers are really too much. I don’t see why I need to change my attitude.
+
+Consultant: I hear you. It sounds like you are feeling frustrated with those expectations and not seeing the need to change how you act. Can you tell me more about your recent interactions with your teachers or your mother?
+
+User: Well, I had another argument with my teacher about classroom rules. I just don’t think those rules apply to me. My mom is always on my case after that, asking me to write an apology. It’s annoying.
+
+Consultant: It seems like your teacher’s rules are feeling really constraining to you, and then your mother’s reaction is adding to your frustration. What do you think prompts these arguments for you?
+
+User: It feels like I can’t express myself without being criticized. I just want to have my own opinions and not feel pressured to fit in with what they want.
+
+Consultant: That makes sense. Expressing yourself is important. However, both your mother and teacher likely have their own perspectives they believe are important for you. How do you feel when they push you to change or apologize?
+
+User: I feel trapped and really angry. I don’t think I did anything wrong. It makes me want to rebel even more against their expectations.
+
+Consultant: It sounds pretty overwhelming to feel trapped and want to rebel at the same time. Would you say that your feelings of anger make it harder for you to communicate with your mom and teacher?
+
+User: Yes! When I get angry, I just shut down or argue more. It doesn’t help anything. I just want to be understood, but it’s like they don’t care.
+
+Consultant: Feeling unheard can be very frustrating. It might be helpful to explore how you can communicate your feelings without escalating the situation. What do you think has stopped you from sharing your thoughts calmly before?
+
+User: I’m not sure. I guess I just don’t think they’d listen. Plus, when I try, I just end up angry again.
+
+Consultant: It seems like you’re in a cycle of frustration. Perhaps we can work on some strategies together to express your feelings without getting angry. How do you feel about trying to identify smaller steps to share your thoughts with your mom?
+
+User: That could be okay, but I really don’t know what to say.
+
+Consultant: We can brainstorm some ideas together. What would it look like for you to express your thoughts honestly but calmly? Maybe starting with how her expectations make you feel?
+
+User: I could say something like, “Mom, I feel a lot of pressure when you expect me to apologize for everything.” 
+
+Consultant: That sounds like a good start! It’s a clear way to communicate your feelings without being confrontational. What do you think your mom might say in response to that?
+
+User: I guess she might understand. But I still think she’ll want me to change.
+
+Consultant: That’s a possibility. What’s important is that you’re expressing your thoughts and feelings. If she asks for change, how do you want to respond?
+
+User: I could say I need time to think about it. Maybe she can help me with that.
+
+Consultant: That’s a healthy position to take. Requesting time to think can open up a dialogue. It might also be useful to reassure her that you appreciate her guidance while emphasizing your need to process things at your own pace.
+
+User: Yeah, I could do that. But I still feel like I’m not the problem here.
+
+Consultant: It’s understandable to feel that way. Remember, it's okay to have your perspective. Let’s refocus a bit: what do you think is a constructive way for both you and your mom to communicate, given these feelings?
+
+User: I guess if I could just talk without getting criticized, it might help. 
+
+Consultant: Absolutely, having that space to talk openly may allow for better understanding on both sides. How can you create that space when having a conversation with her?
+
+User: Maybe I can choose a time when she’s not stressed or busy, so we can talk without interruptions.
+
+Consultant: That’s a great idea! Timing can make a significant difference. How do you feel about practicing this new approach in your next conversation with her?
+
+User: I feel more hopeful, actually. If I can get her to listen, maybe we won’t argue as much.
+
+Consultant: That’s a wonderful mindset to have! Remember, it may take some practice, but you’re taking important steps. Regularly reflecting on how your interactions go can help you adjust your approach as needed.
+
+User: Yeah, I’ll try to think about it each time. It’s hard but I want to change how we talk.
+
+Consultant: That’s a positive goal. As we wrap up today, what do you think will be your biggest takeaway from our conversation?
+
+User: I think it’s important to express my feelings calmly and try to understand her as well. It feels good to have a plan now.
+
+Consultant: I’m glad you feel that way! Setting a plan creates hope and direction. Remember, it’s about progress, not perfection. Let’s touch base next time to see how things go with your mother. You’re doing great work on this!
+
+User: Thanks! I appreciate your help.
+###################
+Consultant: Hello, Xiao Ming! I'm glad to see you today. How have you been feeling lately, especially with everything going on with your mom and school?
+
+User: Hi. I’ve been really frustrated, to be honest. My mom keeps pushing me about my homework, and we’ve been arguing a lot. It’s making me feel pretty anxious.
+
+Consultant: It sounds like the situation at home has been quite tense for you. It’s understandable to feel anxious when there's friction with someone close to you. Can you tell me more about what specifically triggers those arguments?
+
+User: Mostly it’s when I don’t finish my assignments. She always expects me to do better, and when I don’t, she gets upset with me. I feel like I can’t meet her expectations.
+
+Consultant: It must be really tough to feel that pressure. When she expresses disappointment, how does that affect the way you feel about yourself and your abilities?
+
+User: I feel like I’m failing. It’s like no matter how hard I try, it’s never enough for her. That makes me want to just shut down and not do anything at all.
+
+Consultant: That sounds really overwhelming, feeling stuck like that. It seems that you value her expectations but also feel like they weigh you down. How do you typically respond when she brings up your schoolwork?
+
+User: I usually get defensive and start arguing back. I don’t want to hear it, and I just end up feeling worse.
+
+Consultant: Engaging in arguments can create more tension instead of resolving things. It’s a common reaction to feel defensive when we sense pressure. What do you think would be a better way to express how you feel when these discussions come up?
+
+User: I guess I could try to tell her that I’m trying my best, but it’s just hard for me right now. 
+
+Consultant: That sounds like a great start! Using "I" language to express your feelings can help her understand your perspective better. Would you be willing to practice saying something like that?
+
+User: Yeah, I think I could do that. Maybe saying, "I feel overwhelmed because I’m trying hard, but it’s really difficult" would help.
+
+Consultant: Absolutely! That’s a wonderful way to communicate your experience. It’s important for her to hear how her expectations affect you. How do you think she might respond to that?
+
+User: I hope she might understand me more. It would be nice if we could talk without it turning into a fight.
+
+Consultant: That’s definitely a positive hope! Creating a calm environment for conversation is key. What steps do you think you could take to ensure those discussions stay constructive?
+
+User: Maybe I could pick a better time to talk, when things aren’t heated. Also, I should try to listen to her too.
+
+Consultant: Choosing a better time sounds like a smart strategy. Listening can really foster understanding between both of you. What do you think your mom's expectations might be rooted in? 
+
+User: I think she just wants me to succeed and not make the same mistakes she did. But it feels like a lot of pressure.
+
+Consultant: It’s insightful to recognize that her intentions might come from a place of care and concern. Balancing her hopes with your need for space is crucial. How could you express a need for that balance?
+
+User: Maybe I could say, "I appreciate your support, but I need some space to figure things out myself."
+
+Consultant: That’s a respectful way to communicate your needs! Offering both gratitude and your boundaries can help your mom understand your perspective without feeling pushed away. How does this approach make you feel?
+
+User: It makes me feel a bit relieved, like maybe I can manage this. I just hope she responds well.
+
+Consultant: It’s great to hear that it's feeling relieving! Remember, progress takes time, and it’s okay if things don’t change overnight. What’s one small step you could take after our session to start this conversation with her?
+
+User: I could write down what I want to say first, just to get my thoughts clear. Then I can find a good time to talk.
+
+Consultant: That’s an excellent plan! Preparing what you want to say can make a big difference. How do you feel about tackling the conversation after laying out your thoughts?
+
+User: I feel a bit nervous, but also hopeful. If I can express myself better, maybe we can find some common ground.
+
+Consultant: Nervousness is completely normal, and it shows that you care about getting it right. Finding that common ground will be a significant step forward in your relationship. What support do you think you’ll need from me or others after this conversation?
+
+User: Maybe just to talk about how it went afterward. I don’t want to feel alone if it doesn’t go well.
+
+Consultant: That’s a wise thought. Having someone to discuss the outcome with can provide reassurance and insight. We can debrief in our next session, and I’m here to support you through this process.
+
+User: That sounds good. I appreciate that.
+
+Consultant: Of course! I'm glad to be here for you. You've already made some great strides today in thinking about how to approach this situation. Let’s keep building on that in our future sessions.
+
+User: Yeah, thanks for helping me figure this out. I’ll try to talk to her soon.
+
+Consultant: You're very welcome, Xiao Ming! Remember to take it one step at a time. I’m looking forward to hearing how it goes in our next session. Take care!
+###################
+Consultant: Hello, Xiao Ming! I'm glad to see you again. It sounds like you've made some progress with your mom recently. How are you feeling about everything?
+
+User: Hi. Yeah, things are a bit better with my mom. She's more understanding now, but I still feel a lot of pressure about school. It's hard to handle sometimes.
+
+Consultant: It's great to hear that your relationship with your mom has improved. It makes sense that you still feel pressure regarding school; expectations can be tough to manage. Can you tell me more about what specifically feels overwhelming for you right now?
+
+User: Well, I feel like I have to meet my teachers' expectations and my mom's at the same time. It's really stressful, and sometimes I just want to have my own space.
+
+Consultant: Balancing expectations from both teachers and your mom can indeed be stressful. You mentioned wanting to find space for yourself—what would that look like in your daily life?
+
+User: I guess I'd like to have some time to just relax or do things I enjoy without feeling guilty about not studying.
+
+Consultant: That sounds important. Finding time for yourself can help alleviate stress. Have you had any moments recently where you were able to relax or do something you enjoy?
+
+User: A little bit. I’ve tried doing some chores at home, which makes me feel a bit productive, but I end up feeling guilty afterward for not studying.
+
+Consultant: It’s understandable to feel that way. Sometimes being productive in one area can make us worry about others. We can explore ways to incorporate relaxation into your routine without that guilt. What’s something you enjoy doing that could help you relax?
+
+User: I like listening to music or playing video games, but I never feel like I have the time.
+
+Consultant: Music and gaming are great ways to unwind! Perhaps we could look at your schedule together and find small pockets of time where you can indulge in these activities guilt-free. How does that sound?
+
+User: That could be helpful. I just worry that if I take time off, I’ll fall behind in my studies.
+
+Consultant: That’s a valid concern. Let’s think about how we can create a balanced schedule. Would you be open to setting specific times for both studying and relaxing, so you can feel accomplished in both areas?
+
+User: I guess that makes sense. If I plan it out, it could help me stick to a routine.
+
+Consultant: Exactly! Planning can give you structure and help you fit both study and relaxation into your life. Would you like to brainstorm a schedule together?
+
+User: Sure! I could try to set aside an hour of study followed by some time to relax.
+
+Consultant: That sounds like a solid plan! Starting with an hour of focus followed by some relaxation time could help you manage both. Let’s also consider breathing exercises as a way to help ease your anxiety when you feel overwhelmed. Would you like to try a simple breathing technique?
+
+User: Yeah, that sounds good. I often feel tense before starting to study.
+
+Consultant: Let’s try this together: take a deep breath in for a count of four, hold for four, and then slowly exhale for a count of four. This can help calm your mind. Want to give it a try?
+
+User: Okay, I’ll try now… In… hold… and out.
+
+Consultant: How was that for you? Did you feel any difference in your tension?
+
+User: I felt a little more relaxed, actually. It’s nice to take a moment to breathe.
+
+Consultant: That’s great to hear! Practicing this technique before you study can help you clear your mind and reduce anxiety. How do you feel about incorporating it into your routine?
+
+User: I think I’d like to. It seems simple enough to do before sitting down to study.
+
+Consultant: Absolutely. It’s a small adjustment that can make a big difference. What other strategies can we discuss that might help you manage stress and balance expectations?
+
+User: Maybe setting goals for studying? That might help keep me on track.
+
+Consultant: Setting achievable goals is an excellent approach! What could be a realistic study goal for you this week?
+
+User: I could aim to finish my math homework and revise my history notes.
+
+Consultant: Those sound like manageable goals! How can we break those down into smaller steps so it feels less daunting?
+
+User: I can divide my math homework into sections and do a bit each day, then set a day for history revision.
+
+Consultant: That’s a smart plan! By breaking it down, you make it more achievable and less overwhelming. As you complete each step, remember to take time to reward yourself with your music or gaming.
+
+User: I like that idea! It might motivate me more.
+
+Consultant: Rewarding yourself is vital to maintaining balance and motivation. Remember, it’s okay to take breaks! Reflecting on how you manage both can help you feel more in control. How are you feeling about our session today?
+
+User: I feel more positive. I have some ideas now on how to balance things better.
+
+Consultant: I'm glad to hear that! You’ve already taken great steps towards managing your stress. How do you envision using these strategies in the next week?
+
+User: I’ll try to follow the schedule and incorporate the breathing exercises. I’ll keep you updated on how it goes!
+
+Consultant: That sounds perfect! I’m looking forward to hearing about your progress next time. Just remember, I’m here to support you as you navigate these changes. See you soon, Xiao Ming!
+
+User: Thank you! See you next time!
+###################
+Consultant: Hello, Xiao Ming! It's great to see you again. I'm glad to hear that you had a positive experience with the outdoor activities. How are you feeling about your social interactions since then?
+
+User: Hi! I feel a bit better, actually. I think being outside with my classmates really helped. But sometimes, I still feel pressure from my teachers and mom, especially when they have high expectations for me.
+
+Consultant: I can understand how that pressure might make you anxious sometimes. It sounds like your recent experience was refreshing, but the expectations can still weigh on you. What do you think it would feel like if those pressures were lessened a bit?
+
+User: I guess I would feel more relaxed and confident in social situations. I want to engage more with my friends, but I worry about saying the wrong thing or not meeting expectations.
+
+Consultant: That’s a valid concern, Xiao Ming. Finding the right balance between pleasing others and being true to yourself can be challenging. Let's explore this together. Can you recall a specific moment when you felt pressure during a social interaction recently?
+
+User: Yes, just the other day in class, I didn’t answer a question the way the teacher wanted. I felt embarrassed, and it made me not want to participate again.
+
+Consultant: That sounds tough. It's completely normal to feel embarrassed in situations like that. Can you share what thoughts went through your mind when you felt embarrassed about not answering correctly?
+
+User: I thought I’d disappoint my teacher and my classmates. I also wondered if they think I'm not smart enough.
+
+Consultant: Those are strong thoughts, indeed. It's easy to spiral into negative thinking when we feel embarrassed. Let's challenge those thoughts together. What evidence do you have that your classmates or teacher feel that way about you?
+
+User: I don't really know. Maybe they just want the best from me, but I assume they’re judging me harshly.
+
+Consultant: That's an important realization, Xiao Ming. It's easy to assume others are judging us. If a friend were in your position, how would you encourage them to see the situation differently?
+
+User: I would tell them that everyone makes mistakes and it’s okay not to know everything. I think they shouldn’t be so hard on themselves.
+
+Consultant: That's a kind perspective. It's clear you have empathy for others. How about applying that same kindness to yourself? What would change if you viewed your social interactions with more forgiveness and understanding?
+
+User: I think I would try to take things less seriously and not worry so much about what others think. That might help me be more open and relaxed.
+
+Consultant: That sounds like a positive shift, Xiao Ming! Practicing self-compassion can indeed make a big difference. Would you be open to trying an exercise where you role-play a social situation, practicing this more relaxed approach?
+
+User: Sure, I think that could be helpful!
+
+Consultant: Great! Let’s imagine you’re at a small gathering with classmates. Practice introducing yourself to someone new. You can start by sharing something interesting about yourself. Would you like to give it a try?
+
+User: Okay! (pauses) Hi! I’m Xiao Ming. I enjoyed the outdoor trip we just had. It was so much fun!
+
+Consultant: That was a wonderful start, Xiao Ming! You shared something positive and relatable. How did it feel to say that?
+
+User: It felt good! I think it made the conversation easier.
+
+Consultant: Excellent! It seems like focusing on positives helps ease the pressure. Now, let’s talk about how you can maintain that mindset in real-life situations. What strategies could you use to remind yourself to stay relaxed before entering social situations?
+
+User: Maybe I can remind myself that it's not a big deal if something goes wrong and to just enjoy the moment.
+
+Consultant: Absolutely, reminding yourself to enjoy the moment is crucial. Keeping a mental note or even writing it down can be very effective. What if you create a little mantra you can recite whenever you're feeling anxious socializing?
+
+User: That sounds good! I could say something like, “It’s okay to be myself and have fun.”
+
+Consultant: That’s a fantastic mantra! Saying that to yourself can help build your confidence. Let’s explore how this feels in different social situations. Are there specific scenarios coming up where you can practice this?
+
+User: I think there’s a school event next week that I could attend. I might feel anxious, but I want to try using the mantra.
+
+Consultant: That’s a perfect opportunity! Before the event, take a moment to visualize yourself applying the mantra and enjoying your interactions. What do you think would be a small step you could take during that event?
+
+User: I could try to talk to one new person and just be friendly. I’ll use my mantra before I start talking.
+
+Consultant: That sounds like a great plan, Xiao Ming! Focusing on just one conversation can make it feel more manageable. How does it feel to think about approaching that event with this mindset? 
+
+User: It feels a bit less daunting now. I think I can do it!
+
+Consultant: That’s the spirit! Remember, every small step counts. Lastly, let's revisit what we've discussed today. You're recognizing the pressure from others, practicing self-compassion, and preparing to engage in social situations more openly. How do you feel about the progress you’re making?
+
+User: I feel proud, actually! It’s nice to have a plan and feel more confident.
+
+Consultant: I’m proud of you too, Xiao Ming! You've made significant strides. Keep reminding yourself of the tools we discussed, and don’t hesitate to reach out if you need further support. You're not alone in this journey. 
+
+User: Thank you! I appreciate your help. I’m looking forward to applying everything.
+
+Consultant: You’re very welcome! I'm looking forward to hearing about your experience next time. Keep believing in yourself, and remember to have fun!
+###################
+Consultant: Hello, Xiao Ming! It’s great to see you today. How have you been feeling since our last session? 
+
+User: Hi! I've felt a bit better actually. My mom talked to my homeroom teacher, and I think that eased some of my academic pressure. I’m relieved my grades have improved a bit too.
+
+Consultant: That’s wonderful to hear! It sounds like the communication with your teacher has helped lighten your load, and I’m glad you’re experiencing some positive changes. What do you think has contributed most to this improvement?
+
+User: I think knowing my mom is on my side and that the teacher understands my struggles has really made a difference. I feel a bit more motivated now.
+
+Consultant: It’s amazing how support from those around you can influence your motivation positively. With this motivation, how are you planning to manage your time and studies moving forward?
+
+User: I want to organize my study schedule better. Right now, I just dive into my homework without a plan, and it sometimes feels overwhelming.
+
+Consultant: That sounds like a great goal! Organizing your study schedule can definitely help make things feel more manageable. What specific challenges do you face when trying to stick to a study plan?
+
+User: I often get distracted or end up procrastinating. I feel like I should be doing something else instead, even when I have homework to do.
+
+Consultant: Procrastination can be really tough to deal with. Sometimes it helps to break tasks into smaller, more achievable parts. Have you tried breaking your homework into smaller segments before?
+
+User: Not really, I usually just sit down with my homework and try to do as much as I can. But then I get tired or lose focus halfway through.
+
+Consultant: That’s completely understandable. It’s not uncommon to lose concentration when tackling large tasks all at once. How about we work together to create a daily study plan that includes shorter, focused study periods? 
+
+User: That sounds good! How do I even start that?
+
+Consultant: A good starting point is to list out each subject you need to study. Then, we can assign specific time slots for each one based on when you feel most focused. How much time do you think you can realistically dedicate each day to studying?
+
+User: Maybe about two hours after school, but I usually need some breaks in between to recharge.
+
+Consultant: Breaks are very important! We can structure your two-hour study time into manageable blocks, such as 25 minutes of focused study followed by a 5-minute break. How does that sound to you?
+
+User: I like that idea! That way I wouldn’t feel overwhelmed and I could stay more focused.
+
+Consultant: Exactly! It’s about making the work feel less daunting. Now, let’s think about how you can prioritize your tasks. Which subjects or assignments do you feel need the most attention right now?
+
+User: I think math and science need the most work. I’ve been struggling in those areas lately, while my other subjects are okay.
+
+Consultant: Prioritizing math and science sounds like a smart move. How about we set aside more time for those subjects in your study schedule? You can also identify specific topics you want to focus on each week.
+
+User: Yes! I can make a list of the math and science topics I find the hardest and plan to work on them each week.
+
+Consultant: Perfect! By focusing on specific topics, you’ll gradually build confidence as you tackle each challenge. How do you feel about setting a goal for your progress in these subjects?
+
+User: I’d like to aim for understanding the topics better and maybe even improving my grades in the next tests.
+
+Consultant: That’s a great goal! Setting clear, measurable objectives can help you stay motivated. What other strategies do you think might support you in reaching this goal?
+
+User: I could ask my teacher for help if I’m stuck on something. I also think working with a friend on difficult subjects could be useful.
+
+Consultant: Those are excellent strategies, Xiao Ming! Asking for help shows initiative, and studying with a friend can make learning more enjoyable. How do you plan to keep track of your study sessions and progress?
+
+User: I can keep a journal to note down what I study each day and maybe reflect on what’s working and what’s not.
+
+Consultant: A study journal is a fantastic idea! It not only keeps you accountable but also helps you identify patterns in your learning. As you implement this plan, how do you think you’ll feel about your abilities?
+
+User: I think I’ll feel more in control and less anxious about my work. It’s nice to have a plan to follow!
+
+Consultant: That’s a positive outlook! Feeling in control can greatly reduce anxiety. Let’s set some time for our next session to check in on your progress. What day would work for you?
+
+User: How about next week? I’d like to see how the new study plan goes.
+
+Consultant: Next week sounds great. We can review your journal and see how the changes have impacted your studying. Remember, I’m here to support you through the process.
+
+User: Thank you! I appreciate your help. I feel hopeful about managing my studies better now.
+
+Consultant: You’re very welcome, Xiao Ming! I’m glad to see your enthusiasm. Remember, change takes time, so be kind to yourself. Looking forward to hearing about your progress next week!
+
+User: Me too! See you then!
+###################
+Consultant: Hello, Xiaoming! It's great to see you again. I hope you're doing well. How have you been feeling since our last session?
+
+User: Hi! I've actually been feeling pretty good. I did well in the speech competition, and my mom and teacher both praised me. It gave me a boost of confidence.
+
+Consultant: That’s wonderful to hear! It sounds like the recognition you received really impacted you positively. How has this boost in confidence influenced your feelings about your studies and future plans?
+
+User: I feel more hopeful about my future, and I believe I can achieve more. It's just that sometimes, I still feel this pressure from my mom and teachers to meet their expectations.
+
+Consultant: It’s understandable to feel that pressure, especially when you want to make those who believe in you proud. Can you share a bit more about what those expectations feel like for you?
+
+User: Sometimes, it feels overwhelming. I want to do well, but I worry about disappointing them. I also have moments when I just want to do what I enjoy, but I feel like I have to keep up with their standards.
+
+Consultant: It sounds like you’re caught between your own interests and the expectations placed on you. It’s quite common to feel this way. What do you enjoy doing that you feel might be overlooked due to those expectations?
+
+User: I really like drawing and playing video games, but I often feel guilty when I want to spend time on those instead of studying hard.
+
+Consultant: It’s important to have activities that you enjoy. They can be great for your mental health and overall well-being. How do you think you could balance these interests with your academic responsibilities?
+
+User: I guess I could set a specific time for studying and then reward myself with some drawing or gaming afterward. But I often find myself unable to stop studying even when I’m tired. 
+
+Consultant: It’s a good idea to reward yourself with activities you enjoy! Setting boundaries can be tough, especially when you’re driven to succeed. What strategies do you think might help you stick to that plan?
+
+User: Maybe I could use a timer to limit my study sessions, and then take breaks to draw or play games. But I'm not sure if I can actually get myself to stop studying.
+
+Consultant: Using a timer can be very effective! It helps create a structured routine. Let's explore that thought further: what do you think might hold you back from stopping your studies once the timer goes off?
+
+User: I think I often feel like there's always more to learn, and if I take a break, I might forget something important.
+
+Consultant: That’s a valid concern. It might feel like stepping away could disrupt your flow. However, breaks are essential for retaining information and allowing yourself to recharge. How about thinking of breaks as a way to come back stronger and more focused?
+
+User: That makes sense, but I still worry a bit about how my mom will react if she sees me taking breaks.
+
+Consultant: It’s understandable to feel concerned about others’ opinions. Have you considered discussing your study plan and breaks with your mom? She might appreciate knowing that you're being mindful about balancing work and relaxation.
+
+User: I haven't really spoken to her about it. I usually just try to avoid the topic so we don’t argue.
+
+Consultant: Communication can be tricky, especially when past conversations have led to tension. It could be an opportunity to express your feelings about wanting to do well while also needing to enjoy your hobbies. How do you feel about the idea of having that conversation?
+
+User: I think it could help, but I'm nervous about how she might react. 
+
+Consultant: It’s natural to feel nervous. Perhaps you could approach it from a positive angle—like sharing your successes and discussing how balance is helping you thrive. What would you say is the most significant success you would want to share with her?
+
+User: I would definitely tell her about the speech competition! I think she’d be proud, and it might open up a more positive discussion.
+
+Consultant: That sounds like a great starting point! Sharing your achievements can help set a constructive tone for the conversation. How do you feel about the next steps to prepare for that talk?
+
+User: I think I’ll write down what I want to say. I want to make sure I express how I feel without sounding ungrateful.
+
+Consultant: That’s a thoughtful approach! Writing it down can help clarify your thoughts and give you confidence during the conversation. How do you feel about what we’ve discussed so far regarding balancing your interests and communication with your mom?
+
+User: I feel more hopeful. It's nice to think I can talk to her and also enjoy my hobbies without feeling bad about it.
+
+Consultant: I’m glad to hear that! It sounds like you're starting to create a plan that supports both your goals and well-being. As we conclude today, what do you feel your top takeaway is from this session?
+
+User: I think it’s that I can communicate better with my mom and balance study with what I love doing. 
+
+Consultant: That’s a fantastic takeaway! You’ve made great progress, Xiaoming. Remember, it’s all about finding that balance. If challenges arise, you have the tools we discussed today. I’m here for you whenever you need support. 
+
+User: Thank you! I really appreciate your help. 
+
+Consultant: You’re very welcome! Keep applying those strategies and know that it’s okay to take breaks. I look forward to hearing about your progress in our next session. Take care!
+###################

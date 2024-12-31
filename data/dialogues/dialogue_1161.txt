@@ -1,0 +1,400 @@
+Consultant: Hello, Huang! I'm glad you're here today. Before we get started, I want to know how you've been feeling lately.
+
+User: Hi. Honestly, I've been feeling really anxious and lost. I've been struggling with my classes, and the pressure of graduation is weighing heavily on me. Plus, there's this financial burden…I owe quite a bit for my tuition, and I'm really worried about what my family will think if they find out.
+
+Consultant: I can see how tough that must be for you, juggling academic pressures along with financial issues. It's completely understandable to feel anxious in this situation. Could you tell me more about what specifically worries you regarding your future and academics?
+
+User: Well, I feel like I'm going to fail and disappoint everyone, especially my parents. I've failed a few courses, and now I'm really scared about not graduating on time. The thought of letting my parents down is heavy on my mind.
+
+Consultant: It sounds like you're carrying a lot of pressure from both your studies and your family's expectations. You mentioned feeling lost; what does that feel like for you on a daily basis?
+
+User: Every day feels like an uphill battle. I wake up feeling pressured and anxious, and I struggle to even start studying. I have so much to catch up on, but I just can't seem to get motivated.
+
+Consultant: Feeling overwhelmed can really make it hard to find that motivation. It’s like being stuck in a cycle of anxiety and avoidance. What do you think triggers your anxiety the most when it comes to studying or thinking about your future?
+
+User: I think it’s the fear of failure. Every time I try to study, I just keep thinking about how much I’ve already fallen behind and how I'm going to let everyone down. 
+
+Consultant: That fear of failure sounds really consuming. Let's take a moment to identify those thoughts. Could you share a specific thought that crosses your mind when you're feeling anxious about your studies?
+
+User: I often think, "I’m never going to catch up, and I’ll just end up failing." 
+
+Consultant: That thought seems to carry a lot of weight for you. How does it make you feel when you think, "I’m never going to catch up"?
+
+User: It makes me feel hopeless and really anxious. It just keeps spiraling. 
+
+Consultant: I get that. It feels like a heavy burden. Let’s explore this thought a bit more. Do you think there’s any evidence that supports it? Have you ever managed to catch up or improve before?
+
+User: Well, I did manage to pull through and pass some classes last semester, but this time it just feels different. 
+
+Consultant: That's an important observation! It shows that you do have the ability to improve. What if we reframed that thought? Instead of saying, “I’m never going to catch up,” what could be a more accurate or balanced thought?
+
+User: Maybe something like, “I can catch up if I take it step by step”?
+
+Consultant: Exactly! That’s a much more constructive way to look at it. Taking it step by step can create a sense of control. What small step do you think you could take today to start feeling less overwhelmed?
+
+User: I suppose I could create a study schedule for myself. 
+
+Consultant: That’s a fantastic idea! A study schedule can help break things down into manageable bites. What subjects do you think you should focus on first?
+
+User: I think I need to prioritize my art theory class because it's the one I'm struggling with the most.
+
+Consultant: Focusing on that class sounds like a solid plan. How many hours do you think you could set aside this week specifically for that subject?
+
+User: Maybe I could do two hours each day?
+
+Consultant: That sounds very reasonable! Setting aside those two hours each day can really add up. As you start working on this, how do you think that might help reduce your anxiety?
+
+User: I think if I stick to the schedule, I’ll feel more accomplished and less anxious about falling behind.
+
+Consultant: That’s a great insight! A sense of accomplishment can really change your feelings of anxiety. It’s all about progress over perfection. As you’re working through your schedule, how do you plan to handle any feelings of guilt if they come up about your family or financial situation?
+
+User: I guess I’ll need to remind myself that I’m doing my best and that it’s okay to be struggling right now.
+
+Consultant: Absolutely! It’s important to acknowledge your feelings but also recognize your efforts. As we move forward, let’s talk about how you can communicate with your family about your challenges. Would that be something you’d like to explore?
+
+User: Yes, I think it would help to talk about how to approach that conversation.
+
+Consultant: Great! It can be tough to open up, but being honest about your feelings might ease some of the pressure you feel. How do you think your family would react if you shared your struggles with them?
+
+User: I’m worried they’d be disappointed, but I hope they’d understand.
+
+Consultant: That concern is natural. Sometimes, our worries about how others will react can prevent us from being open. What if you approached the conversation by sharing your feelings and asking for their support rather than focusing solely on the academic or financial issues?
+
+User: That sounds like a good idea. I can express my concerns and how I feel about everything, and maybe ask for their advice.
+
+Consultant: Yes! That could open up a supportive dialogue. Remember, it's okay to lean on them for support. Now, as we start closing our session today, I want to reflect on the progress you've made. What are you feeling more hopeful about moving forward?
+
+User: I think I feel more equipped to handle my studies and communicate with my family now. 
+
+Consultant: That's wonderful to hear! Progress takes time, and it’s great that you’re approaching it step by step. How do you plan to keep yourself accountable?
+
+User: I could check in with myself daily to see if I'm sticking to the study schedule.
+
+Consultant: That sounds like an excellent strategy! Keeping track of your progress can help remind you of how far you’ve come. Remember, if you ever feel overwhelmed, you can always reach out for support. 
+
+User: Definitely! Thank you for your help today.
+
+Consultant: You’re very welcome, Huang! I'm proud of you for taking steps to manage your anxiety. Remember, I’m here whenever you need to talk again. Good luck with your study schedule!
+
+User: Thanks! I appreciate it.
+###################
+Consultant: Hello, Huang! I'm glad you are here for today’s session. How have you been feeling since our last discussion?
+
+User: Hi. Honestly, things have been pretty overwhelming. I had a fight with my girlfriend recently. She's really stressed about our future, and it seems that my inability to provide a stable lifestyle is making it worse. I feel guilty and anxious all the time.
+
+Consultant: It sounds like you're feeling a lot of pressure from your relationship and your current circumstances. You're struggling with anxiety and guilt regarding your ability to support your girlfriend and your future together. Can you tell me more about how that disagreement affected you?
+
+User: After the argument, I just felt lost. I couldn't focus on anything else. I’m worried about not being enough for her and also about what my family thinks. I keep blaming myself for everything.
+
+Consultant: It seems like you’re really burdened by these feelings of inadequacy and self-blame. It's understandable when you care about someone deeply and face external pressures. What thoughts go through your mind when you find yourself blaming yourself?
+
+User: I keep thinking that I’m a failure. I see my parents working hard, and I can't even make enough money to help them or provide for my girlfriend. It feels like I'm constantly letting everyone down.
+
+Consultant: Thank you for sharing that with me, Huang. It’s important to acknowledge those feelings, but let's take a moment to examine those thoughts. What evidence do you have that you are a failure? Could there be other perspectives to consider?
+
+User: Well, I guess I do have moments where I do well in my art, but it never feels like enough. I mean, I'm just a student. How can I compare that to my parents who are working in the fields every day?
+
+Consultant: It’s commendable that you recognize your achievements in art. It sounds like you might be setting very high standards for yourself. If a friend were in your situation, what would you tell them about their worth and their efforts?
+
+User: I would probably say they are doing their best and that it's okay to struggle sometimes. But I can’t seem to give myself that same advice.
+
+Consultant: That’s a very compassionate perspective. It shows you have the ability to be understanding toward others but find it harder to apply that same kindness to yourself. Let’s focus on some practical steps you can take. What about trying to communicate openly with your girlfriend about these pressures you feel? How do you think she would respond?
+
+User: I think she would understand if I really opened up to her, but I’m scared she’ll think I’m just making excuses for not providing enough.
+
+Consultant: It’s natural to feel fear around these conversations, but being honest about your feelings can strengthen your relationship. You might share how the financial pressure is affecting you, and that you want to work together on this. How do you think you could approach that conversation?
+
+User: Maybe I could start by telling her how worried I've been, and that I really care about our future. I could ask her how she feels about everything too.
+
+Consultant: That sounds like a strong approach! Initiating that kind of dialogue could help both of you feel more connected and understood. Now, besides talking to her, what other things could help you manage your feelings of anxiety and guilt?
+
+User: I guess I could try to focus on my studies and art more, to gain a better sense of control in my life. But it’s hard when I feel so low.
+
+Consultant: That’s a positive step! Focusing on your art could be a great way to channel your emotions constructively. What are some specific actions you could take to reinvigorate your study routine or art practice?
+
+User: I could set small daily goals for my art projects. Maybe even allocate some time each week to work on them without distractions.
+
+Consultant: Setting those small goals sounds like a practical plan! It can help build a sense of achievement, which might shift your emotional state. How do you feel about committing to that for the upcoming week?
+
+User: I feel good about it. It seems manageable, and I think it could help clear my head.
+
+Consultant: Great! I’m glad you feel positive about that. Also, remember to schedule some downtime for yourself. It’s important to balance work and rest. How do you plan to incorporate that into your week?
+
+User: I could take breaks while studying and maybe go for walks when I feel overwhelmed. That usually helps me.
+
+Consultant: That sounds like a solid strategy! Walking can really help you clear your mind and relieve stress. As you implement these changes, keep track of how they influence your mood and your relationship with your girlfriend. How are you feeling about our conversation today?
+
+User: It’s been really helpful. Talking about it all makes me feel lighter, and I’m starting to see a path forward. 
+
+Consultant: I’m happy to hear that! Remember, it's all about taking one step at a time. You’re doing well by reaching out and willing to reflect on your situation. Let's touch base next time to see how your efforts are progressing and how you’re feeling. 
+
+User: Yes, I’d like that. Thank you for your guidance!
+
+Consultant: You're welcome, Huang! I look forward to our next session. Take care until then!
+###################
+Consultant: Hello! I'm glad you're here for today's session. How have you been feeling recently, especially with your job search?
+
+User: Hi. Honestly, I've been feeling pretty defeated. I’ve applied for several part-time jobs to help with my expenses, but I keep getting rejected. It's frustrating, and I feel like I'm losing control over my life.
+
+Consultant: It sounds really tough, and I appreciate you sharing that with me. You mentioned feeling frustrated and losing control. Can you tell me more about how these rejections have been affecting you?
+
+User: Whenever I get a rejection, I just feel this heaviness. I start doubting my abilities and wonder if I'm ever going to find something. And then it spirals into worries about school, finances... everything.
+
+Consultant: It's understandable to feel overwhelmed by those thoughts and doubts. Let's explore those feelings a bit. When you receive a rejection, what specific thoughts go through your mind at that moment?
+
+User: I often think things like “I’m not good enough,” or “I’ll never find a job.” It’s like I can’t see any positive outcomes.
+
+Consultant: Those thoughts sound quite heavy and negative. I wonder, have you noticed how these thoughts impact how you feel emotionally and how you act in those situations?
+
+User: Yeah, when I think like that, I feel anxious and unmotivated. Sometimes, I stop applying altogether because I can't bear the thought of more rejection.
+
+Consultant: That makes sense. It's like you're trying to protect yourself from further disappointment, but that also prevents you from taking action. What if we tried to challenge those negative thoughts? What evidence do you have to support the idea that you aren’t good enough?
+
+User: I guess the rejections are one kind of evidence. But thinking about it, there must be many reasons for those decisions—like the number of applicants or who they prefer. It’s hard not to take it personally, though.
+
+Consultant: It can be hard, especially when rejection feels so personal, but it's important to recognize those other factors. If a friend were in your position, what would you advise them to think or feel about those rejections?
+
+User: I’d probably tell them that it’s not their fault and to keep trying. It's easier to say that to someone else, but I struggle to believe it myself.
+
+Consultant: You bring up a key point. There is often a difference in how we treat ourselves versus how we treat others. What do you think could help shift that perspective for you, so you can view your situation more kindly?
+
+User: Maybe I could remind myself that each rejection is a step towards finding the right fit, rather than a reflection of my worth. 
+
+Consultant: That's a positive shift in mindset! Another idea might be to set small, achievable goals when applying for jobs. Do you think breaking it down could help you feel less overwhelmed?
+
+User: Yes, I think having a smaller goal would be less daunting. Maybe I can aim to apply to just one job a day instead of stressing about applying to many at once.
+
+Consultant: That sounds like a great plan! Starting small can build your confidence gradually. Besides job applications, how about incorporating some activities you enjoy to balance things out and manage stress?
+
+User: That could help. I enjoy sketching and listening to music. I guess I’ve been so focused on job searching that I’ve forgotten to take breaks.
+
+Consultant: It's often easy to lose sight of what brings us joy when we feel pressure. Planning regular time for those activities could help you recharge. How do you feel about scheduling those into your week?
+
+User: That sounds good. I could draw in the evenings or listen to music while I work on applications. It might make the process feel less heavy.
+
+Consultant: Exactly! It’s about finding a rhythm that feels right for you. As you take steps to tackle job applications and incorporate enjoyable activities, how do you think your feelings might change over time?
+
+User: I hope that I’ll feel less anxious and more motivated to apply. It would be nice to enjoy those little things again, like drawing, without the weight of worry.
+
+Consultant: Yes, and finding balance is key! Remember, it’s okay to feel anxious sometimes, but you are taking important steps to regain control. What other strategies can you think of to keep your motivation up during this process?
+
+User: Perhaps I could keep a journal to track my applications and my feelings after each rejection. It might help me find patterns or just vent some frustrations.
+
+Consultant: That’s a fantastic idea! Journaling can be an effective way to process your thoughts and feelings. It also allows you to see progress over time, even if it feels slow. 
+
+User: I like that. It might encourage me to keep moving forward and see things more clearly.
+
+Consultant: Exactly! As we wrap up today, let’s summarize what you’ve gained from our conversation. You now have a clearer approach to facing rejections, incorporating enjoyable activities, and tracking your feelings. 
+
+User: Yes, I feel a bit lighter already. I have a plan to apply to one job a day, embrace my hobbies, and start journaling.
+
+Consultant: That’s excellent! As we move forward, keep in mind that setbacks are part of the journey, but you have the skills to navigate through challenges. If you find any of these strategies aren't working, we can always adjust and explore new ones.
+
+User: Thank you! I feel more hopeful now, even if the worries aren't entirely gone. 
+
+Consultant: You're welcome! Remember, it’s all about progress, not perfection. I believe in you, and I’m here to support you whenever you need. Look forward to our next session!
+###################
+Consultant: Hello, Huang! I'm glad to see you again. How have you been feeling since our last conversation?
+
+User: Hi. I feel a bit relieved after talking to my parents. They understood my struggles with school and finances, which made me feel supported. But I still worry about not finding effective solutions.
+
+Consultant: It’s great to hear that your conversation with your parents helped you feel more supported. You mentioned feeling relieved, but still having concerns—can you share what specific worries are lingering for you?
+
+User: Well, I’m still anxious about keeping up with my studies while managing my finances. Sometimes, I feel overwhelmed by the pressure to do well in both areas.
+
+Consultant: That sounds really challenging, Huang. Balancing academic demands with financial pressures can be tough. Let's explore that a bit more. What would it look like for you to feel more in control of your studies and finances?
+
+User: I think if I could create a clearer study plan and maybe find some financial aid or part-time work, I’d feel more at ease. But I'm not really sure how to start with that.
+
+Consultant: Establishing a clear plan sounds like a great first step! Let's break it down together. What are some goals you could set that would help you manage your studies and finances more effectively?
+
+User: Maybe I could start by dedicating certain hours each day strictly for studying. For finances, I guess I could research scholarships or jobs that fit my schedule.
+
+Consultant: Those are excellent goals, Huang! Setting specific study hours can create a routine, and researching scholarships and jobs could ease financial stress. How confident do you feel about starting to implement these changes?
+
+User: I feel somewhat confident, but I still have doubts. What if I don’t find any suitable jobs or scholarships? That thought worries me.
+
+Consultant: It’s completely normal to have those doubts, especially when it comes to finding a job or financial support. Let’s challenge that thought a little. What evidence do you have that you won't find the help you need? And are there alternative viewpoints to consider?
+
+User: I guess I don’t have any solid evidence; I just fear failure. I’ve heard of friends getting scholarships or jobs, but I just worry mine won’t work out.
+
+Consultant: It sounds like you’re dealing with a lot of “what if” thinking. How would you advise a friend in a similar situation—someone who fears not finding a job or scholarship? 
+
+User: I’d probably tell them to keep trying and not to give up. I guess I should apply that advice to myself.
+
+Consultant: Exactly, Huang! You’re already on the right track by recognizing this pattern. Let’s think of small actions you can take to stay motivated. What steps can you take this week to start applying for jobs or scholarships?
+
+User: Maybe I can spend a couple of hours each day looking for opportunities online. I could also reach out to the career center at school for advice. 
+
+Consultant: That sounds like a solid plan! Setting aside time each day and seeking help from the career center can provide you with more resources. How does that make you feel about the upcoming week?
+
+User: I feel a bit more hopeful, like I’m taking actual steps instead of just worrying. 
+
+Consultant: That’s a great shift! Taking action often makes us feel more in control. As we continue, let’s also focus on how to keep your confidence up during this process. What positive affirmations or thoughts can you tell yourself when doubts arise?
+
+User: I could remind myself that I've overcome challenges before and that I deserve support and success, just like anyone else.
+
+Consultant: That’s a powerful affirmation, Huang! Reminding yourself of your past successes and worth can help boost your confidence. Now, reflecting on the strategies we discussed today, what do you think your biggest takeaway is?
+
+User: I think my biggest takeaway is that I can break my worries into manageable steps and that seeking help is okay.
+
+Consultant: Absolutely! Breaking things down into smaller steps and being open to support can significantly reduce feelings of overwhelm. Before we wrap up, how do you feel about your progress today?
+
+User: I feel pretty good about it! I have a clearer sense of direction and some actionable plans.
+
+Consultant: I’m glad to hear that! Remember, it’s all about progress, not perfection. As we conclude today’s session, let’s think about how you can maintain the strides you've made. What will you do to ensure these strategies stay in your routine?
+
+User: I’ll set reminders for my study sessions and check in with myself to evaluate how I’m doing with my job and scholarship search.
+
+Consultant: That sounds like a solid approach! Checking in with yourself will help you stay aware of your progress. As we close today’s session, I want to acknowledge the efforts you’ve made. You’ve shown great determination, and I believe you can continue to move forward. Remember, I’m here to help whenever you need support. 
+
+User: Thank you! I really appreciate your guidance. I feel more optimistic about things.
+
+Consultant: You're very welcome, Huang! It's been rewarding to work through this with you. Don’t hesitate to return if you need help or just want to share your progress. Take care!
+###################
+Consultant: Hi there, it's great to see you again today! I'm glad you're here. How have you been feeling since our last session? 
+
+User: Hi! I've been feeling a bit better overall. I got that part-time job, which is a relief financially. But I still have some worries about school and my future.
+
+Consultant: It's good to hear that you're feeling a bit better and have secured a part-time job. That's a positive step. Can you share more about the worries that are on your mind regarding school and your future?
+
+User: Well, I'm just anxious about my grades and whether I'll be able to keep up with everything. Sometimes I doubt if I can succeed in my field.
+
+Consultant: I understand how that can be quite overwhelming. It sounds like you're feeling uncertain about your capabilities in your studies and your future career. What would success in your field look like to you?
+
+User: I guess if I could just pass my classes and maybe even excel in some projects, that would make me feel successful. I’d like to feel confident in my work too.
+
+Consultant: That’s a clear vision of success. Feeling confident in your work and excelling in your projects would surely be a great accomplishment. Are there specific areas in your studies where you feel less confident?
+
+User: Yes, mainly in my design classes. I often compare myself to my peers and wonder if I'm good enough. 
+
+Consultant: That comparison can be tough to deal with. It seems like it adds to your feelings of doubt. When you find yourself comparing yourself to others, what thoughts come to mind?
+
+User: I usually think that everyone else is more talented or creative than I am. It makes me feel like I'm not cut out for this.
+
+Consultant: Those thoughts can be really discouraging. What emotions do you experience when you think that way?
+
+User: I often feel anxious and a bit defeated. It's hard to push myself when I feel that way.
+
+Consultant: I can see how that would be very disheartening. Let's try to break down those thoughts. What evidence do you have that supports the idea that you're not talented or creative enough?
+
+User: Well, like I said, I just notice how other students present their work, and it seems so much better than mine. 
+
+Consultant: It sounds like you're focusing heavily on others' presentations. Is it possible that you might be overlooking your own efforts and progress?
+
+User: I guess I do focus a lot on what others are doing. Sometimes, I just feel like I’m not improving at all. 
+
+Consultant: It’s understandable to feel that way, especially in a creative field. But let’s reflect on your progress—what changes or improvements have you noticed in your work recently?
+
+User: I have been getting some positive feedback from my professors lately, and I did manage to finish a project that I thought was pretty good.
+
+Consultant: That's a wonderful sign of progress! Positive feedback indicates that you are indeed improving. Can we reframe your view by acknowledging these achievements rather than only comparing yourself to others?
+
+User: Yes, I think I can try to do that. 
+
+Consultant: Great! Focusing on your achievements can help build your confidence. Understanding that everyone has their unique path is important too. How about setting small goals for your studies that reflect your strengths?
+
+User: That sounds helpful. If I focus on achievable tasks, it might lessen the pressure I feel.
+
+Consultant: Absolutely! Smaller goals can lead to a greater sense of accomplishment. What specific goal would you like to set for yourself this week related to your design classes?
+
+User: I think I’ll aim to complete a draft of my next project ahead of time and ask for feedback from my professor.
+
+Consultant: That sounds like an excellent plan! Getting feedback will help reinforce your growth and ensure you're on the right track. How do you think you'll feel once you complete that goal?
+
+User: I think I'd feel relieved and a bit more sure of myself. 
+
+Consultant: That’s a positive mindset! Relief and confidence can go hand in hand. What's an additional step you can take to help yourself stay on track with this goal?
+
+User: Maybe I could schedule specific times to work on it so that I don’t leave it until the last minute.
+
+Consultant: Scheduling specific times is a pragmatic approach! It helps create a routine and can reduce last-minute stress. How do you feel about your ability to stick to this schedule?
+
+User: I believe I can do it if I commit to it. 
+
+Consultant: That's fantastic! Commitment is key. As you progress, remember to check in with yourself and recognize the effort you're putting in. It's all about building upon those small victories.
+
+User: Thank you! I really appreciate this encouragement. 
+
+Consultant: You’re very welcome! I'm thrilled to support you in this journey. As we wrap up today, let's reflect on what you've learned about yourself and your goals.
+
+User: I’ve realized that I can focus on my progress instead of comparing myself to others. Setting small goals seems really beneficial.
+
+Consultant: Exactly! Recognizing your achievements and setting manageable goals can significantly impact your confidence and overall outlook. How do you plan to maintain this positive mindset moving forward?
+
+User: I’ll remind myself to celebrate small victories and not to compare myself to others as much.
+
+Consultant: That’s a solid plan! Remember, you’re on your unique journey. I look forward to hearing how things progress in our next session. You’re doing great!
+
+User: Thanks! I’m feeling more hopeful about my studies and future now. 
+
+Consultant: I'm so glad to hear that! Keep believing in yourself. I look forward to our next conversation. Take care until then!
+###################
+Consultant: Hello, Huang! I'm glad to see you today. How have you been feeling since our last session?
+
+User: Hi! I feel like things are finally looking up for me. I've been able to approach my studies with more hope, and my future seems clearer. It's a relief, really.
+
+Consultant: That's wonderful to hear! It sounds like you've made significant progress and are starting to feel more optimistic about your academic journey and future. Can you tell me more about the steps you've taken that led to this positive change?
+
+User: Well, my teachers have been really supportive lately, offering extra help with my coursework, which has made it easier for me to grasp the material. I feel more motivated to study.
+
+Consultant: That support sounds invaluable! It's great that you're recognizing the efforts of your teachers and how they’ve contributed to your progress. How has this newfound motivation affected your daily routine or study habits?
+
+User: I've been more consistent with my study schedule. I've also been trying to manage my time better, so I don't feel overwhelmed. It's a big change from how I used to approach my studies.
+
+Consultant: It's impressive that you've established a consistent study schedule. Time management can make a significant difference in reducing stress. Reflecting on these changes, what specific achievements are you most proud of?
+
+User: I think I'm most proud of how I no longer panic before exams. I used to feel paralyzed, but now I can approach them with a calmer mindset. That gives me a sense of confidence.
+
+Consultant: That's a huge accomplishment! Recognizing that you can face exams calmly indicates substantial progress. How can we build on this newfound confidence as we plan for your long-term development?
+
+User: I would like to continue strengthening my study habits and maybe even take on some new challenges, like participating in group projects or extracurricular activities related to my art studies.
+
+Consultant: Those sound like excellent goals! Engaging in group projects and extracurricular activities can further enhance your learning experience and confidence. What specific challenges do you think you might face in pursuing these opportunities?
+
+User: Honestly, I sometimes worry about being judged by my peers or not being good enough. Those thoughts creep in at times, even if I'm feeling positive overall.
+
+Consultant: It’s perfectly natural to have those worries, especially in environments where you’re putting yourself out there. Let’s explore those thoughts together. When you have those feelings of self-doubt, what specific thoughts come to your mind?
+
+User: I often think, "What if they think my work is bad?" or "What if I can't keep up with everyone else?" It makes me hesitate to try new things.
+
+Consultant: Those thoughts can indeed be quite limiting. Let’s challenge them: what evidence do you have to support these worries? Is there a way to look at these thoughts from another perspective?
+
+User: I guess I don't have solid proof that they would think that. Actually, my teachers have been encouraging, and my classmates have given me positive feedback before.
+
+Consultant: Exactly! It sounds like you have a history of receiving support and encouragement. If a friend were in your position, how would you advise them to view those thoughts of self-doubt?
+
+User: I would tell them to focus on their progress and not be so hard on themselves. They should remember that everyone has to start somewhere.
+
+Consultant: That's a wise approach! Applying that same advice to yourself could help alleviate those fears. What alternative thoughts could you adopt when those worries arise in the future?
+
+User: Maybe I could remind myself that everyone improves with practice and that it’s okay to make mistakes along the way. 
+
+Consultant: Absolutely! Embracing the learning process can foster growth. As you look to participate in new opportunities, could we create a small action plan to help you approach these challenges with confidence?
+
+User: Yes, I think having a plan would help me feel more organized. What do you suggest?
+
+Consultant: How about starting with small, manageable steps? You could look for opportunities to join a study group first, or perhaps try sharing your work with a trusted classmate for feedback. Would these steps feel achievable for you?
+
+User: Yes, starting small sounds good. I think I could handle that. It feels less intimidating.
+
+Consultant: Great! By taking these gradual steps, you'll be able to build your confidence over time. How would you like to track your progress on this action plan?
+
+User: Maybe I could keep a journal where I note down my experiences and feelings as I take on new challenges. It would help me reflect on my growth.
+
+Consultant: A journal is an excellent idea! It can help you gain insights into your journey and celebrate your successes. How do you feel about the path we’ve discussed today?
+
+User: I feel optimistic! I really like the idea of challenging my self-doubt and embracing new experiences. It gives me a sense of purpose.
+
+Consultant: I'm glad to hear that! You’ve shown such resilience and willingness to grow. As we wrap up our session, let’s summarize what you want to focus on moving forward.
+
+User: I’ll focus on managing my time, participating in group projects, and keeping a journal to track my progress and feelings.
+
+Consultant: Those are fantastic goals! Remember, it’s okay to face challenges along the way, and you have the tools to manage them. If you ever feel overwhelmed, we can revisit these strategies. 
+
+User: Thank you! I really appreciate your guidance. I feel more prepared to tackle what lies ahead now.
+
+Consultant: You’re very welcome! I’m proud of the progress you've made, and I believe in your potential. This will be our last session for now, but know that you're equipped with valuable skills to manage your emotions and challenges. Please feel free to return whenever you need support. 
+
+User: I will! Thank you again for everything!
+###################

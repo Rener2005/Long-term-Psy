@@ -1,0 +1,374 @@
+Consultant: Hello, Liu! I'm glad to see you for our session today. I understand you've been feeling a bit anxious and upset recently. Can you tell me more about what's been on your mind?
+
+User: Hi, I feel really stressed, especially about math class. My teacher accused me of cheating, and I got into a lot of trouble. I feel embarrassed and it's making me dread going to class.
+
+Consultant: That sounds really tough, Liu. It's understandable to feel anxious when you've been criticized, especially in front of others. Can you share more about how this situation is affecting you?
+
+User: I just feel like my reputation is ruined. I used to enjoy math, but now I feel sick every time I think about it. I'm scared of facing my teacher again.
+
+Consultant: It’s completely natural to feel this way after such a harsh experience. It seems that the fear of judgment is creating a significant emotional barrier for you. What do you think has been the hardest part about this situation for you?
+
+User: I just feel so wronged. I didn’t cheat, and it feels unfair. I can't help but think about what he thinks of me now.
+
+Consultant: It sounds like you're feeling a lot of injustice from this experience. Being misunderstood can definitely be painful. Do you find that these thoughts about being judged affect how you perform in class or your ability to focus?
+
+User: Yes, definitely. Every time I sit in math class, I just get overwhelmed with anxiety. I can't concentrate on the lessons anymore, and I'm scared to ask questions.
+
+Consultant: That anxiety is like a weight pulling you down, making it hard to engage in the subject. Let's take a moment to explore those thoughts you have about how your teacher views you. Can you tell me what specific thoughts run through your mind when you think about facing him again?
+
+User: I keep thinking he’ll always see me as a cheater and nothing I do will change that. It feels like there's no way out of this label.
+
+Consultant: It’s understandable to feel trapped by those thoughts, Liu. But let's challenge that idea for a moment. Is there any evidence that supports the idea that your teacher sees you only as a cheater, rather than considering other possibilities?
+
+User: I mean, he didn’t even listen to my side of the story. But maybe he doesn't really know me that well. It's just really hard to be viewed like that.
+
+Consultant: It sounds like you’re acknowledging that he might not have a complete picture of who you are. It’s important to remember that one incident doesn’t define you. How might things change if you viewed this situation through a different lens, focusing on the possibility that it was just a misunderstanding?
+
+User: I guess I could see it that way... but it’s still hard to shake off that feeling of being judged.
+
+Consultant: Absolutely, changing perspectives takes time and effort. Let's think of some ways to approach your teacher if you feel ready. What if you could express how this misunderstanding has made you feel? How do you think he might respond?
+
+User: I don't know. I'm afraid he’ll just get angry again. But maybe if I explain my side calmly, he might understand?
+
+Consultant: That sounds like a positive approach, Liu! Starting with a calm explanation could open the door for a better understanding between you two. How about we practice some phrases you can use to express your feelings?
+
+User: That would help. I just wish I could be more confident when talking to him.
+
+Consultant: Building that confidence is a great goal. Let’s also work on some relaxation techniques that can help ease your anxiety before you talk to him. Have you tried any methods like deep breathing or visualization in stressful situations before?
+
+User: Not really. I’ve heard of deep breathing but haven’t actually tried it.
+
+Consultant: Deep breathing can be very effective! It helps calm your mind and body. Let’s practice it together. Inhale deeply through your nose for a count of four, hold for four, and then exhale slowly through your mouth for a count of four. Want to give it a try now?
+
+User: Okay, I’ll try. Inhale... hold... and exhale... (pauses) That actually feels a bit better.
+
+Consultant: Great job, Liu! With practice, this technique can become a helpful tool whenever you feel anxious. How do you feel about incorporating this before your next interaction with your teacher?
+
+User: I think I could do that. It might help calm my nerves a bit.
+
+Consultant: I'm glad to hear that! Remember, it's a process, and it's okay to take small steps. As we wrap up today, what are some key takeaways you can hold onto from our conversation?
+
+User: I learned that it’s okay to view this misunderstanding differently and that expressing my feelings might help. Also, I should try deep breathing to manage my anxiety.
+
+Consultant: Those are excellent insights, Liu! You’ve taken significant steps today toward easing your anxiety and improving your communication. Remember, it’s okay to take your time. Before our next session, consider practicing expressing your feelings with a friend or family member. 
+
+User: I will try that. Thank you for your help!
+
+Consultant: You're very welcome! I'm proud of your progress. If you find you need extra support, don’t hesitate to reach out. Looking forward to our next session!
+###################
+Consultant: Hello, Liu! I’m glad you’re here today. I understand that you’ve been feeling anxious about communicating with your math teacher. Could you tell me more about how you’ve been feeling lately?
+
+User: Hi. Yes, I’ve been really nervous. I wanted to talk to my math teacher about some things that were bothering me, but when I tried, I just got too tense and couldn’t say anything.
+
+Consultant: That sounds really tough, Liu. It’s completely normal to feel anxious in those situations. Can you share what specifically made you feel anxious when you thought about talking to your teacher?
+
+User: I was worried that she wouldn’t understand me or that she would think I was making excuses for my performance in class. It made me freeze up.
+
+Consultant: I see. You were afraid of being misunderstood, which led to a feeling of being stuck. Let's explore together what might happen if you did manage to communicate your thoughts. What do you hope to convey to your teacher?
+
+User: I just wanted to explain why I’ve been struggling and ask for more help. But I can’t seem to get the words out.
+
+Consultant: That’s a great goal, Liu. Wanting to articulate your struggles shows courage. What thoughts come to mind when you think about asking for help from your teacher?
+
+User: I keep thinking about how she might react negatively. What if she thinks I’m not trying hard enough? That really scares me.
+
+Consultant: It makes sense that you're worried about her reaction. But let’s take a moment to challenge that thought. Do you think your teacher might appreciate knowing your struggles so she can help you better?
+
+User: Maybe, but I just can’t shake the feeling that I’ll disappoint her.
+
+Consultant: It’s understandable to feel that way. What if we looked at it this way: by sharing your challenges with her, you’re actually showing that you care about improving? How does that perspective feel to you?
+
+User: I guess that makes sense. It’s like I would be trying to take responsibility for my learning.
+
+Consultant: Exactly! Taking responsibility is a strong step forward. Let’s practice how you might start that conversation. If you could say one thing to her, what would it be?
+
+User: I might say, “I’ve been having a hard time with some topics in math, and I'm struggling to keep up. Can you help me?”
+
+Consultant: That’s a great start! It’s clear and shows that you're seeking help. How does saying that out loud make you feel?
+
+User: I feel a little less tense now that I think about it. It sounds more manageable.
+
+Consultant: I'm glad to hear that! It sounds like you’re beginning to build some confidence. Let’s role-play this scenario. I’ll be your teacher, and you can practice what you want to say. Ready?
+
+User: Okay, I’ll try.
+
+Consultant: Alright! *As the teacher* “Hello, Liu. It’s nice to see you. How can I help you today?”
+
+User: “I’ve been having a hard time with some topics in math, and I'm struggling to keep up. Can you help me?”
+
+Consultant: *As the teacher* “Of course, Liu! I appreciate you coming to me about this. What specific topics are you struggling with?”
+
+User: *Pausing* I think I would just be surprised that she responded positively.
+
+Consultant: That’s a good insight! Remember, she’s there to help you. If you keep this communication open, it could lead to a supportive relationship. What do you think might be the next steps after this role-play?
+
+User: I guess I could write down my struggles in more detail before I talk to her, so I feel prepared.
+
+Consultant: That’s an excellent strategy! Preparing some notes can help ease your anxiety. As we finish our session today, how is your confidence about talking to your teacher changing?
+
+User: I feel more confident now. Although I’m still a bit nervous, I think I can handle it better than before.
+
+Consultant: That’s fantastic to hear, Liu! Remember, progress takes time, and it’s okay to feel a bit anxious. You’ve made great strides today. Is there anything else you’d like to discuss before we wrap up?
+
+User: No, I think we covered a lot. I appreciate your help!
+
+Consultant: I’m glad to hear that! Remember the strategies we discussed. Whenever you face a challenge, think about how you can communicate openly. I believe you can do this! Looking forward to our next session.
+###################
+Consultant: Hello, Liu! I'm really glad to see you for today's session. How have you been feeling about your math studies since we last talked?
+
+User: Hi! I’ve been feeling a bit better because my math scores have improved slightly, but I still feel a lot of pressure when I study. 
+
+Consultant: It's great to hear about your improvement, even if it's just a little! What kind of pressure are you feeling, and how does it affect your studying?
+
+User: I just feel like I need to perform better, especially with exams coming up. Even with small progress, I still worry that it won't be enough.
+
+Consultant: That concern is completely understandable. It sounds like there’s a part of you that recognizes your improvement, but another part is still anxious about it not being sufficient. Can you share what thoughts come to your mind when you feel that pressure?
+
+User: I often think, "What if I still fail?" or "Everyone else is doing better than me." These thoughts really make me doubt my abilities.
+
+Consultant: It seems like those thoughts might be quite overwhelming for you. Let’s explore them a bit. When you think, "What if I still fail?" what emotions does that thought bring up for you?
+
+User: I feel really anxious and worthless. It makes me not want to study at all because I fear the outcome.
+
+Consultant: Those feelings sound really tough to deal with. Can we examine that thought together? How likely do you think it is that you will actually fail your exams, considering the improvements you've made?
+
+User: I guess it's not very likely since I did improve, but that thought just takes over my mind.
+
+Consultant: That's a very insightful observation, Liu. It sounds like there is evidence to counter that worry. What might you say to a friend if they were feeling the same way about their studies?
+
+User: I would probably tell them to focus on their progress and not worry too much about comparison. 
+
+Consultant: That's an encouraging approach! It seems like you already have a positive mindset within you. How might incorporating that supportive voice in your thoughts change how you feel when studying math?
+
+User: I think it could help me feel less pressured and a bit more confident. Maybe I could remind myself that progress is what matters.
+
+Consultant: Absolutely! Focusing on your progress can make a significant difference. Let’s use that positive perspective to help you build a better study plan. Have you thought about some new strategies that could make studying more engaging or effective for you?
+
+User: I haven’t really tried anything new lately, but I think working with friends could help. 
+
+Consultant: That’s a fantastic idea! Collaborating with friends can bring fresh perspectives and make learning more enjoyable. How do you feel about setting up a study group with your classmates?
+
+User: I feel a bit anxious about that, but I think it could be good for me. 
+
+Consultant: It's normal to feel anxious about new experiences, but stepping out of your comfort zone can lead to great rewards. What small steps could you take to start reaching out to them?
+
+User: Maybe I could just ask a couple of classmates if they’d like to study together after school.
+
+Consultant: That sounds like a wise and manageable step. Remember, building those connections can not only help you learn better but also relieve some pressure by sharing the experience with others. Would you like to think of a plan to approach them?
+
+User: Yes, I think I could try to prepare a casual message to invite them, so it doesn't feel too stressful.
+
+Consultant: That’s an excellent approach! Keeping it casual can definitely make it less daunting. What kind of message do you think you might send?
+
+User: I might say something like, "Hey! I was thinking it would be nice to study math together next week. What do you think?” 
+
+Consultant: That sounds perfect! It's friendly and open. How do you feel about taking that step?
+
+User: I feel a bit excited, actually. It sounds nice to study together.
+
+Consultant: That excitement is a great sign! It seems like you’re opening up to new possibilities. As you prepare for your studies with your friends, remember to be kind to yourself and celebrate your progress. 
+
+User: I will try to remind myself of that. I really want to keep growing.
+
+Consultant: I believe in your ability to grow! As we wrap up today, let's reflect: What's your biggest takeaway from our session today?
+
+User: I think the biggest takeaway is that I can focus on my progress and be more open to studying with others. 
+
+Consultant: That’s a fantastic realization, Liu. Embracing new learning strategies and recognizing your achievements can truly help in your journey. If you face challenges, remember the strategies we've discussed today. I’m excited to hear about your experiences in our next session!
+
+User: Thank you! I feel more positive and ready to try new things now. 
+
+Consultant: You're very welcome! I’m proud of the progress you’ve made. Remember, I’m here to support you along the way. Looking forward to our next session!
+###################
+Consultant: Hello, Liu! I'm glad you're here today. How have you been feeling lately, especially regarding your learning and social interactions?
+
+User: Hi! I've been feeling a bit more open to group learning. I finally found a study partner that suits me. It feels much easier to ask questions and get help.
+
+Consultant: That's great to hear! Finding the right study partner can make a big difference. Can you tell me more about how this partnership is impacting your learning experience?
+
+User: It’s been really helpful. I feel less anxious during group sessions, and my partner is supportive. I actually look forward to our study times now.
+
+Consultant: It sounds like your partner has positively influenced your motivation and comfort in learning. What specific moments do you remember that made you feel especially encouraged during your study sessions?
+
+User: Well, there was this one time when I didn't understand a math problem. Instead of feeling frustrated, my partner patiently explained it to me, and I finally got it!
+
+Consultant: That's a wonderful moment! Being able to ask questions without fear is vital for learning. How did that make you feel about yourself and your ability to learn mathematics?
+
+User: I felt relieved and a bit more confident. It was nice to realize that I could learn with support. I wish I could have that feeling more often.
+
+Consultant: It's entirely normal to seek support, especially in a challenging subject like math. Since you mentioned feeling more confident, what thoughts come to mind when you think about your math teacher now?
+
+User: I used to feel really anxious around him because I was afraid he would think I'm not smart. But now, I feel like I can approach him more positively.
+
+Consultant: That’s a significant shift! Feeling more positive about approaching your teacher can foster a better relationship. What do you think would help maintain this positive attitude towards your teacher?
+
+User: I guess I could just remind myself that everyone makes mistakes and that asking questions is part of learning. I should try to see him as an ally rather than someone who's judging me.
+
+Consultant: That’s a fantastic perspective! Viewing your teacher as someone who is there to help can truly change the dynamic. How do you plan to approach your interactions with him moving forward?
+
+User: I think next time I’m confused in class, instead of staying quiet, I’ll raise my hand and ask him for help. 
+
+Consultant: That sounds like a great plan! Taking proactive steps can often lead to a better understanding of the material. How do you feel about taking that step?
+
+User: I feel a bit nervous but also excited. I really want to improve and not let my fears hold me back.
+
+Consultant: It’s completely natural to feel nervous when trying something new, but your excitement shows you’re ready for growth. What if you faced that nervousness with some positive affirmations before asking questions in class?
+
+User: That’s a good idea. I could remind myself that I’m doing my best and that asking questions helps everyone learn.
+
+Consultant: Excellent! Encouraging self-talk can significantly ease those nerves. Let’s brainstorm a few affirmations you can use before class. What would you like to tell yourself?
+
+User: Maybe something like, “I am capable of understanding this, and asking questions will help me learn.”
+
+Consultant: Perfect! Having that affirmation can be a powerful anchor for your confidence. How will you remind yourself to use this affirmation before class?
+
+User: I could write it on a sticky note and put it in my notebook so I see it when I open it.
+
+Consultant: That's a wonderful idea! Visually reminding yourself will reinforce those positive thoughts. As we wrap up, how do you feel about the progress you've made with your study partner and your mindset towards your teacher?
+
+User: I feel much better! It's nice to have someone to work with, and I feel more hopeful about my math class.
+
+Consultant: I'm glad to hear that, Liu! You've made significant strides in your mindset and relationships. Remember, these positive interactions and strategies will help you move forward. If you encounter challenges, don't hesitate to come back for support.
+
+User: Thank you so much! I'll definitely remember that. I appreciate your help in guiding me through this.
+
+Consultant: You’re very welcome! I'm proud of the work you’ve done. Keep practicing these strategies, and I wish you the best in your studies. Until next time!
+###################
+Consultant: Hello, Liu! I'm really glad you decided to come in today. How have you been feeling since our last session, especially regarding your conversation with your math teacher?
+
+User: Hi! I've actually been feeling a lot better. The talk helped clear up a lot of the misunderstandings. I used to feel anxious and upset around him, but now I find I'm more relaxed and even looking forward to math class.
+
+Consultant: That sounds like a significant positive change! Building that understanding must have felt really rewarding. Can you share more about what specifically changed for you after that conversation?
+
+User: Well, I realized that my teacher didn’t actually mean to upset me. I think I was overreacting and taking everything too personally. Now, I feel like I can approach him more easily if I have questions.
+
+Consultant: It's great that you’ve recognized that! Understanding the intentions behind someone's actions can really shift our perspective. How do you think this new attitude will help you in your studies?
+
+User: I hope it will make me more engaged in class. I'll feel less intimidated to ask questions, and maybe my grades will improve as a result. I want to start studying more effectively.
+
+Consultant: That sounds like a wonderful plan! Engaging with your teacher can definitely make a difference. Let’s talk about your study habits. What strategies do you currently use when preparing for your classes, and how do you feel about them?
+
+User: Honestly, I don’t have a fixed routine. Sometimes I just study a little bit before an exam, but I get distracted easily, and my focus isn’t great.
+
+Consultant: It’s common to struggle with focus, especially when there are distractions. Would you like to explore some techniques that might help improve your concentration while studying?
+
+User: Yes, I would! I think having a plan would help me stick to it better.
+
+Consultant: A plan sounds perfect. We can begin by thinking about your study environment. What kind of space do you usually study in, and do you think it's conducive to focusing?
+
+User: I mostly study in my room, but it can get messy, and there are a lot of distractions, like my phone and video games.
+
+Consultant: It makes sense that those distractions could pull your focus away. What if we brainstorm some ways to create a more conducive study environment?
+
+User: That could be helpful! Maybe I could keep my phone in another room while I study?
+
+Consultant: Absolutely! Keeping your phone away can significantly minimize distractions. You could also consider decluttering your study area. Would you be willing to try that this week?
+
+User: Yeah, I think I can do that. I’ll try to make my workspace more organized.
+
+Consultant: That sounds like a positive step! Once you create that space, let’s think about study breaks. How do you feel about taking short breaks during your study sessions?
+
+User: I usually just study until I can't focus anymore. I haven't really thought about breaks.
+
+Consultant: Taking breaks can actually enhance focus and retention. How about we set a timer for 25 minutes of focused study, followed by a 5-minute break? You can use that time to stretch or walk around a bit.
+
+User: That sounds doable! I think I could try that out.
+
+Consultant: Great! Just remember to be kind to yourself. If you find yourself slipping back into distractions, it’s okay. We can learn and adjust the plan as needed. How do you feel about this approach?
+
+User: I feel good about it. Having a plan makes it seem less overwhelming.
+
+Consultant: That’s wonderful to hear! Let’s reflect on what you’ve achieved so far in your sessions. Recognizing the improvement in your relationship with your math teacher and your willingness to change your study habits are significant steps forward.
+
+User: I see that now. I guess I’m actually making progress!
+
+Consultant: You definitely are! Progress can often feel slow, but every small change contributes to a larger outcome. What other strategies from our sessions do you think you might keep using to maintain this positive mindset?
+
+User: I think I’ll keep reminding myself that it’s okay to ask questions in class. I also want to stay organized.
+
+Consultant: Those sound like excellent strategies! Keeping a positive mindset and staying organized will surely help you along the way. As we start to wrap up, what do you feel has been your biggest takeaway from our sessions so far?
+
+User: I think my biggest takeaway is that communication can really help clear misunderstandings. I feel more confident about approaching challenges now.
+
+Consultant: That's a powerful insight, Liu! It’s wonderful to hear that you feel more confident. Remember, setbacks can happen, and it’s important to keep those communication lines open. 
+
+User: I will keep that in mind. Thank you so much for your help!
+
+Consultant: You're very welcome, Liu! I’m proud of the progress you've made. As we finish our sessions, I encourage you to keep using the tools you’ve gained. If you ever need further support, you always have a place to come back to. 
+
+User: Thank you! I appreciate it!
+
+Consultant: Take care, Liu! Keep up the great work, and remember to celebrate your progress. Goodbye for now!
+###################
+Consultant: Hello, Liu! I’m glad to see you today. How are you feeling after your mid-term exams? 
+
+User: Hi! I feel pretty good, actually. It was a relief to finish the exams, and my grades improved a lot. My parents and teachers praised me, which made me really happy.
+
+Consultant: That’s wonderful to hear, Liu! It sounds like your hard work paid off and it boosted your confidence. How do you feel about maintaining this positive momentum in your studies and emotions?
+
+User: I want to keep feeling this way. It’s nice to be recognized, and I don’t want to lose that motivation.
+
+Consultant: Absolutely, maintaining your motivation is essential. What strategies do you think will help you continue this positive trend in your studies?
+
+User: I’ve been trying to set small goals each week. I think that helps me stay focused and on track.
+
+Consultant: Setting small goals is a great approach! It allows you to celebrate progress regularly. Have you noticed any specific goals that have worked especially well for you?
+
+User: Yes, focusing on one subject at a time has really helped. I used to get overwhelmed if I thought about everything at once.
+
+Consultant: That’s a smart tactic, Liu. Breaking things down can reduce that feeling of being overwhelmed. How does focusing solely on one subject make you feel during your study sessions?
+
+User: It feels less stressful. I can really dive deep into what I’m studying instead of worrying about what’s next.
+
+Consultant: That’s great to hear! It sounds like you’ve found a method that works for you. Have there been moments recently when you felt your confidence waver, or have you been feeling stable throughout?
+
+User: I did feel a bit anxious before the exams, but once I started, I really felt in control. It’s just afterward that I wonder if I did well enough.
+
+Consultant: It’s completely normal to feel that way after a big event. What thoughts come to mind when you're in that state of wondering if you did well enough?
+
+User: I sometimes think, “What if I didn’t answer some questions correctly?” It makes me doubt myself a little.
+
+Consultant: It’s understandable to have those doubts. Let’s explore that thought a bit. What evidence do you have that would support the idea that you might not have done well?
+
+User: I guess I don’t have much evidence. I studied hard, and I did feel confident while taking the exams.
+
+Consultant: That’s a crucial realization, Liu. It seems like your hard work and preparation are significant indicators of success. If a friend were to tell you they were worried after an exam but did well in their studies, what advice would you give them?
+
+User: I’d probably tell them to focus on what they did well instead of worrying.
+
+Consultant: That’s excellent advice! So perhaps you can apply that to yourself too. Instead of fixating on doubts, remind yourself of the effort you put in and the progress you’ve made. How does that shift feel for you?
+
+User: It feels a bit reassuring. I think I can try to do that more often.
+
+Consultant: That sounds promising! Keeping a positive focus will not only help with your studies but also with your emotional well-being. Besides academic achievements, how are other aspects of your life going? 
+
+User: I’m getting along well with my friends. We often study together, which makes it more enjoyable.
+
+Consultant: That’s great! Having a supportive social circle is important. How do you feel when you’re studying with your friends compared to when you study alone?
+
+User: I feel much more relaxed. It’s nice to share ideas and get help if I don’t understand something.
+
+Consultant: It sounds like collaboration is beneficial for you. How do you think you could make the most of that collaboration while ensuring you also have time for individual study?
+
+User: Maybe I could set aside specific times for group study and ensure I also keep time for myself to review things solo.
+
+Consultant: That sounds like a balanced approach. Ensuring you have that mix will help reinforce what you learn with others. Now, as we wrap up, have you thought about any specific future goals you want to strive for, academically or personally?
+
+User: I’d like to maintain my grades and maybe explore some extracurricular activities, like joining a club.
+
+Consultant: That’s an excellent plan, Liu! Exploring interests outside of academics can enhance your skills and provide new experiences. How do you feel about balancing that with your study commitments?
+
+User: I think I can manage it. I really want to try new things, but I won’t let it interfere with my studies.
+
+Consultant: That’s a healthy mindset to have. It’s great to see your determination to keep improving. As our time is coming to an end, let’s reflect on what you’ve accomplished during our consultations. What do you feel has been your biggest takeaway?
+
+User: I feel like I’ve learned to focus on my strengths and stay motivated, even when doubts creep in.
+
+Consultant: That’s a valuable insight! Remember, it’s perfectly okay to have doubts, but focusing on your efforts will empower you. If you find yourself needing support in the future, don’t hesitate to reach out. You've made tremendous progress, and I’m proud of you.
+
+User: Thank you! I really appreciate your help. I feel ready to move forward.
+
+Consultant: You’re very welcome, Liu! I wish you all the best in maintaining your progress and exploring new opportunities. Take care!
+
+User: I will! Thanks again!
+###################

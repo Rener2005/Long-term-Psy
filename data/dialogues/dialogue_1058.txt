@@ -1,0 +1,400 @@
+Consultant: Hello, welcome to today's session! I'm here to support you. Can you share with me how you've been feeling lately, especially with your exams approaching?
+
+User: Hi. Lately, I've been really anxious about my upcoming exams. After failing a couple of simulations, I can't shake off this fear. I keep thinking about what will happen if I don’t do well, and it’s hard for me to concentrate.
+
+Consultant: It sounds like the pressure of your recent experiences is really affecting you. You’re worried about the consequences of not performing well. Let’s dive a bit deeper—when you think about these upcoming exams, what specific thoughts come to your mind?
+
+User: I often think that if I don’t do well, I’ll disappoint my mom and maybe ruin my chances for the future. It feels overwhelming.
+
+Consultant: That’s a lot of pressure to carry. It seems like you’re worried about not only disappointing your mom but also about the potential long-term impacts on your future. How does thinking about those potential outcomes make you feel in the moment?
+
+User: It makes me feel anxious and even a bit hopeless. Sometimes I just want to avoid studying altogether because it feels pointless when I think about failing.
+
+Consultant: Avoidance is a common response to anxiety, especially when the thought of failure feels so paralyzing. Let’s try to look at one of those thoughts more closely. You mentioned it feels pointless to study. Can we explore the evidence behind that thought together?
+
+User: I guess I feel that way because I didn’t do well in the last two simulations, so why would this time be different?
+
+Consultant: That’s understandable. It’s easy to generalize past experiences to the future. But let’s question that thought— is there any evidence that suggests you can improve with different strategies or preparation? 
+
+User: I suppose I could try studying differently, but I just doubt myself a lot now.
+
+Consultant: Self-doubt can be very strong, especially in high-pressure situations. If a friend were in your shoes, what would you tell them about the possibility of changing their study approaches for better results?
+
+User: I’d probably tell them to keep going and try different methods rather than just giving up. 
+
+Consultant: Exactly! It sounds like you know logically that trying different strategies could help. What might one of those new strategies look like for you?
+
+User: Maybe I could create a more structured study schedule? I haven’t really done that before. 
+
+Consultant: A structured study schedule sounds like a great idea! It can offer you a clearer path forward and help reduce anxiety by breaking things into smaller tasks. How about we work together to outline a simple study plan for you?
+
+User: That would help. I think if I know what I need to do each day, I might feel less lost.
+
+Consultant: Great! What subjects do you find the most challenging, and how much time would you like to dedicate to studying each day?
+
+User: Math and physics are the hardest for me. I think if I could set aside two hours each day for those, that would be good. 
+
+Consultant: That sounds like a solid plan! Two hours for math and physics each day is doable. Let’s also think about incorporating breaks to keep your mind fresh. How does that sound to you?
+
+User: I think taking breaks is necessary, especially since staring at books for too long makes me tired and more anxious.
+
+Consultant: Absolutely, breaks can help refresh your mind and improve your focus. How about we plan for a short break every 30 minutes during your study sessions?
+
+User: Yes, that sounds good! I imagine it’ll help to step away for a bit.
+
+Consultant: I’m glad you feel that way. Remember, it’s about finding a balance. Now, as we prepare for your study schedule, let’s talk about any feelings of self-doubt that might come up during your study sessions. How can we plan for those moments?
+
+User: Maybe I can remind myself that I am trying and that it’s okay to not be perfect.
+
+Consultant: That’s an excellent approach! Reminding yourself that progress is what matters can alleviate some of that pressure. We can also create a ‘success log’ where you jot down small victories or improvements during your study sessions to help reinforce that positive mindset. Would you be open to that?
+
+User: Yes, I think seeing my progress might help me feel better.
+
+Consultant: That’s wonderful! Keeping track of your successes can be very encouraging. As we wrap up today’s session, what do you think your biggest takeaway is regarding how to handle your anxiety as the exams approach?
+
+User: I think the biggest takeaway is that I can have a plan and that it’s okay to feel anxious. I can try to shift my thoughts and stay focused on my efforts.
+
+Consultant: Absolutely! Having a plan can empower you. Remember, it’s about taking it one step at a time. I’m proud of you for addressing this anxiety head-on. How do you feel about our session today?
+
+User: I feel relieved, actually. It helps to talk through things and have a plan.
+
+Consultant: I’m so glad to hear that! It’s normal to feel anxious, but with a positive mindset and practical strategies, you can make progress. Always remember, I'm here to support you, and I look forward to our next session. 
+
+User: Thanks! I’m looking forward to it too.
+###################
+Consultant: Hello, A! I'm glad you're here for today's session. How have you been feeling lately, especially with the upcoming exams?
+
+User: Hi. Honestly, I've been feeling really anxious. With the month-end exams approaching, I'm struggling to focus on my studies. I keep worrying about messing up again like I did in the past.
+
+Consultant: I can understand why you're feeling this way. You previously experienced anxiety during major exams, which is understandable given the pressure. Could you tell me more about what specific thoughts are going through your mind when you sit down to study?
+
+User: Sure. I often think about how if I don't do well, my mom will be really disappointed. I keep doubting my abilities and it makes it hard to concentrate.
+
+Consultant: It sounds like you're carrying a lot of pressure to meet your mother's expectations, and those doubts are making it difficult for you to focus on your studies. What emotions do you feel when those thoughts come up?
+
+User: I feel a mix of fear and frustration. Fear because I don’t want to let anyone down, and frustration because I know I can do better but I just can't get myself to study properly.
+
+Consultant: Those emotions must be really challenging to handle. Let's try to pinpoint that fear together. When you imagine not meeting those expectations, what specific thoughts run through your mind?
+
+User: I keep thinking that I'll disappoint my mom and that it will reflect badly on me. I also worry that I'll miss out on opportunities because of my grades.
+
+Consultant: That’s a lot to take in, and it’s understandable to fear disappointment and losing opportunities. However, let’s explore the thought that “if I don’t do well, my mom will be disappointed.” How true do you think that thought is? Is there another perspective?
+
+User: I suppose my mom has always been supportive, and it's more my interpretation than reality. She just wants me to do my best.
+
+Consultant: That's important insight! It seems like your perception of her expectations might be intensifying your anxiety. What would it feel like to replace that thought with something more realistic, like “my mom wants me to do my best, no matter the outcome”?
+
+User: It would probably feel a lot better. I think I'd feel less pressure if I reminded myself that she cares about my effort and well-being more than my grades.
+
+Consultant: Exactly! Shifting that mindset could significantly relieve some of the pressure you feel. Now, let's discuss some practical strategies. Have you tried any techniques to manage your anxiety before studies or during them?
+
+User: Not really. I just try to push through, but it doesn’t help much.
+
+Consultant: That’s understandable. Let’s work on some techniques. One effective method is deep breathing. Would you be willing to try a simple breathing exercise with me right now?
+
+User: Sure, I’d be willing to try that.
+
+Consultant: Great! Let’s take a deep breath in through your nose for a count of four, hold it for a count of four, and then exhale slowly through your mouth for a count of four. Ready? Let’s try it together.
+
+User: Okay, let’s do it.
+
+Consultant: Inhale… 1, 2, 3, 4… Hold… 1, 2, 3, 4… And exhale… 1, 2, 3, 4… How did that feel for you?
+
+User: It actually felt calming. I can see how doing that before studying would help.
+
+Consultant: I’m glad to hear that! Regularly practicing deep breathing can really help in moments of anxiety. Besides this, we can also set up short study sessions with breaks in between to keep your mind fresh. How does that sound to you?
+
+User: That sounds helpful. I think breaking it down into short sessions might make it easier for me to stay focused.
+
+Consultant: Excellent! How about we set a goal for your study sessions? You could aim for 25 minutes of focused study followed by a 5-minute break. Would you be able to commit to trying that this week?
+
+User: Yes, I think I can do that. It sounds manageable.
+
+Consultant: Fantastic! Let’s touch base on your feelings as you try this technique. I’d love to hear how it goes during our next session. Remember, it’s also okay to feel that fear; it’s about how we manage it. 
+
+User: Yeah, I think I’m starting to feel a little more in control already, just thinking about all this.
+
+Consultant: That’s really encouraging to hear! It’s important to celebrate those small gains. Before we wrap up, is there anything else you'd like to share or any other concerns you might have?
+
+User: I guess I'm just worried about how I’ll feel after the exams, no matter how I prepare. 
+
+Consultant: That’s a valid concern, A. Overthinking the results can add anxiety after the fact. Let’s work on a plan for managing those thoughts too. Perhaps we could reinforce the idea that your self-worth is not tied to your exam results?
+
+User: That would definitely help. I often feel like everything is riding on those grades.
+
+Consultant: I understand, and it’s a common feeling. Reminding yourself of your strengths and achievements outside exams could help create a more balanced view. We can develop some affirmations together that you can repeat to yourself. 
+
+User: I like that idea. It might help shift my mindset away from just focusing on grades.
+
+Consultant: Absolutely! We can review them in our next session. So, as we finish today, remember to practice your deep breathing and try the study sessions we discussed. You’re making great progress in understanding your feelings and how to cope with them.
+
+User: Thank you. I feel more hopeful now. I’ll keep working on these strategies.
+
+Consultant: You're very welcome, A! I’m proud of your willingness to confront these feelings and work on strategies. I'm looking forward to hearing about your progress in our next meeting. Take care!
+
+User: Thanks! I appreciate your help.
+###################
+Consultant: Hello, A! I'm glad to see you for our session today. I understand that you've been feeling anxious, especially with exams approaching. Can you share a bit more about what you've been experiencing lately?
+
+User: Hi. Yes, I definitely feel that anxiety creeping in, especially after the last monthly exam where I couldn’t perform as well as I hoped. It’s really frustrating because I know I can do better.
+
+Consultant: It sounds like you're feeling a lot of pressure, especially since you care about doing well. That brings up some important feelings of self-doubt, especially after an exam you didn't feel good about. What thoughts come to your mind when you think about that exam?
+
+User: I keep thinking about the questions I didn't answer well. I’m upset with myself and can’t shake the feeling that I really messed up. It feels like I just can't control my performance during exams.
+
+Consultant: I get it, A. It’s easy to focus on what went wrong, especially when you're feeling anxious. Can you tell me more about what specific thoughts you had during the exam that made you feel so anxious?
+
+User: During the exam, I kept thinking, "If I don’t do well, my mom will be so disappointed." It’s like that thought just took over, and I couldn’t focus on answering the questions.
+
+Consultant: That’s a tough place to be in, feeling like there's so much pressure. It sounds like that thought about your mother's disappointment really amplified your anxiety. How did that make you feel in the moment?
+
+User: It just made my heart race, and I felt very overwhelmed. I wish I could just push those thoughts aside and focus on my answers.
+
+Consultant: It’s understandable to want to push those thoughts away. Let’s explore that thought a little more. What evidence do you have that not doing well will lead to your mom being disappointed? Has she expressed that expectation directly?
+
+User: She does expect a lot from me academically, but she also says she just wants me to do my best. I guess I've just interpreted her expectations as pressure.
+
+Consultant: That's an important realization, A. It seems like you're mixing her expectations with a belief that failure equals disappointment. What else could her expectations mean, other than pressure to perform perfectly?
+
+User: Maybe they are just a way of showing that she cares? But I still feel the need to live up to them.
+
+Consultant: Exactly! She may want you to succeed because she cares about your future. Let’s think about how you can reframe that thought. Instead of “If I do poorly, my mom will be disappointed,” how about considering, “My mom wants me to try my best, and mistakes are part of learning”?
+
+User: That makes sense. I think I would feel less pressure thinking about it that way.
+
+Consultant: That's a great shift in perspective. Focusing on the effort rather than perfection allows you to manage your anxiety more effectively. What can you do when you feel that anxiety starting to creep in next time?
+
+User: Maybe I can remind myself of that rephrased thought and take some deep breaths to calm myself down?
+
+Consultant: Deep breathing is an excellent strategy! Incorporating that reminder can help keep you focused on creating a positive mindset during exams. Have you thought about any other strategies you could practice leading up to your next test?
+
+User: I could try to study in shorter intervals and build in breaks. It might help keep me from feeling overwhelmed while studying.
+
+Consultant: Absolutely! Breaking your study sessions into smaller, manageable chunks can reduce the pressure. Balancing your study time with breaks can help make the process less daunting. How do you feel about involving your mom in this process?
+
+User: I’m not sure. I think she would just worry more if I told her about my anxiety.
+
+Consultant: That’s a valid concern, and you know your mom best. However, opening up could help her understand what you're going through and could even lessen some of that pressure. You might phrase it as wanting support rather than worrying her.
+
+User: That might work. If I tell her that I need her encouragement, she might respond better than I expect.
+
+Consultant: It sounds like a positive approach. Sharing your feelings and needs can create more understanding in your relationship with her. As we wrap up today, what are your biggest takeaways from our conversation?
+
+User: I feel like I have some tools to manage my anxiety better, and I’m also going to try and communicate more openly with my mom.
+
+Consultant: That's wonderful to hear, A! Remember, it’s a process, and practicing these strategies will help reinforce your confidence over time. I believe you can do this, and I'm here to support you whenever you need guidance. How do you feel about your progress today?
+
+User: I feel hopeful! I didn't realize I had options before. Thank you for helping me see things differently.
+
+Consultant: I'm so glad you feel that way! It's a significant step forward. Remember, you're capable of managing this, and your willingness to explore these feelings already shows great strength. If you ever need assistance in the future, don’t hesitate to reach out. Take care!
+###################
+Consultant: Hello, Xiao A! I'm glad to see you today. How have you been feeling lately regarding your anxiety and studies?
+
+User: Hi. I've been feeling a bit better since I attended the mental health seminar at school. I learned some techniques for managing anxiety, but I still find it hard to communicate with my mom about my stress.
+
+Consultant: It's great to hear that you've gained some new insights! You mentioned wanting to talk to your mom about your stress—how do you think that conversation might go?
+
+User: I hope it will be positive. I want her to understand that my anxiety has been getting worse before exams, but I'm worried about disappointing her with my performance.
+
+Consultant: I can see how that would be a challenging conversation for you. It sounds like you feel pressure from her expectations, which adds to your anxiety. Can you share a little about what you'd like her to understand about your feelings?
+
+User: I'd like her to know that I’m trying hard, but sometimes the pressure makes me freeze. Just because I seem okay doesn’t mean I’m not struggling inside.
+
+Consultant: That’s an important message to convey. Would you feel comfortable expressing that sentiment to her? What might help you feel more prepared for that conversation?
+
+User: I think if I could practice what I want to say, I’d feel more confident. Maybe I could write it down first?
+
+Consultant: Writing down your thoughts can be a fantastic way to organize what you want to communicate! What key points would you include in that message to your mom?
+
+User: I would tell her about my anxiety and how it affects my studying. I’d also explain that I appreciate her support but need space to manage my stress without feeling judged.
+
+Consultant: Those are very clear and thoughtful points. It’s a good idea to express gratitude while also setting boundaries. How do you think she might respond to this message?
+
+User: I think she might be surprised at first, but she usually cares about my feelings. I hope she can understand.
+
+Consultant: That’s a positive outlook! It’s important to remember that this could open up a dialogue for better understanding. What do you think you could do if she reacts differently than you expect?
+
+User: If she doesn’t get it right away, I can try to stay calm and explain again. I don’t want to argue; I just want her to see things from my perspective.
+
+Consultant: That’s a great approach. Keeping calm and patient can really help maintain a constructive conversation. Would you like to role-play this conversation to practice it a bit?
+
+User: Yes, that would help! I’m nervous, but I think it would be good to try.
+
+Consultant: Great! I’ll play your mom, and you can start whenever you’re ready.
+
+User: Okay... Mom, I’ve been feeling really anxious about exams, and I need to share that with you. I hope you can understand that even when I don’t show it, I’m struggling.
+
+Consultant: I see. What do you mean by struggling? Is it about study habits or something else?
+
+User: Sometimes I feel overwhelmed by the expectations to perform well, and it makes it hard to focus. I’m working hard, but I wish there was less pressure.
+
+Consultant: I didn’t realize you felt that way. I just want you to do your best. How can I help you with that?
+
+User: Maybe we can talk more about how I’m feeling instead of just focusing on grades. It would help me a lot.
+
+Consultant: That’s an excellent point, Xiao A! It sounds like you’ve made a lot of progress in understanding how to express your feelings. How do you feel after practicing this?
+
+User: I feel a bit more confident. It helps to know what I want to say and how to say it without feeling guilty.
+
+Consultant: I'm glad to hear that! Having a clear message can really reduce anxiety in such situations. As you prepare for your upcoming exams, what strategies can you implement to maintain your emotional stability?
+
+User: I plan to include short breaks in my study schedule and practice mindfulness. I want to keep my stress levels manageable.
+
+Consultant: Those sound like effective strategies! Mindfulness can be really beneficial for reducing anxiety. Would you like to explore any specific mindfulness exercises together now?
+
+User: Yes, that would be helpful! I’m interested in anything that can keep me calm.
+
+Consultant: Let's try a simple breathing exercise. You can find a comfortable position, close your eyes, and take a deep breath in through your nose... Both breathing in deeply and exhaling slowly can ground you when you're feeling stressed. How does that feel for you?
+
+User: It feels calming. I think I could practice this before studying or during breaks.
+
+Consultant: Absolutely! It’s a great tool to integrate into your daily routine. Reflecting on our session today, what are the biggest takeaways you’d like to remember?
+
+User: I want to remember that I can communicate my feelings clearly and that I have tools to manage my anxiety.
+
+Consultant: Those are fantastic takeaways, Xiao A! Focusing on communication and coping strategies will greatly benefit you. As we conclude today’s session, how are you feeling about our progress?
+
+User: I feel hopeful. I think I can approach my mom and manage my anxiety better now.
+
+Consultant: That’s wonderful to hear! Remember, you’ve made significant strides today, and I’m here to support you when needed. Don’t hesitate to return if you want to discuss more.
+###################
+Consultant: Hello, A! I'm glad to see you in our session today. How has your week been, especially regarding your studies and preparation for exams?
+
+User: Hi! This week has been a bit better. I feel like my relationship with my mom has improved after we talked last time. She's been more understanding about my stress, which helps. But I still worry about the upcoming exams.
+
+Consultant: It's great to hear that your relationship with your mom has improved and that her support is helping you feel less overwhelmed. Let’s dive into your concerns about exams. What specific worries do you have regarding the upcoming tests?
+
+User: I just feel a bit nervous about whether I can perform well. Sometimes, I think about past experiences where I didn’t do as well as I hoped, and it makes me anxious about disappointing my mom.
+
+Consultant: It sounds like the fear of not meeting expectations is weighing on you. Can you tell me more about those past experiences? How did they affect you then, and how do they influence your feelings now?
+
+User: Well, during my last big exam, I felt really confident, but when the test started, my mind just went blank. I ended up underperforming, and I was really upset. Now, I worry that the same thing will happen again and that it’ll disappoint my mom.
+
+Consultant: That must have been incredibly frustrating for you. It’s understandable that such an experience would lead to anxiety about similar outcomes. What thoughts go through your mind when you think about the possibility of repeating that situation?
+
+User: I think things like, "What if I choke again?" or "I can't let my mom down." It really spirals, you know? I just feel like I can't fail again.
+
+Consultant: Those thoughts sound very intense and understandably nerve-wracking. Let’s take a moment to challenge those automatic thoughts. Is there evidence that supports these thoughts? For example, have you ever managed to succeed in challenging circumstances?
+
+User: I guess I have done well in other tests, but I just focus so much on the bad experiences when I think about the exams.
+
+Consultant: It's common to focus on negative experiences, especially when they are tied to our emotions. Think about a time when you did succeed despite feeling worried. How did you manage to overcome those feelings back then?
+
+User: In some exams, I just took a few deep breaths before starting, and it helped calm me down. After that, I could concentrate a bit better.
+
+Consultant: That’s a helpful strategy! Deep breathing can be a great tool to ease anxiety. Would you like to incorporate that into your exam preparation routine? It could help you feel more in control when those anxious thoughts arise.
+
+User: Yes, I can definitely do that. It makes sense to use breathing exercises to calm my nerves.
+
+Consultant: Excellent! Let’s also talk about your study strategies. How have you been planning your study sessions as exams approach?
+
+User: I try to stick to a schedule, but sometimes I feel lost on what to focus on or I feel pressured to cover everything.
+
+Consultant: Having a structured study plan is important. What if we create a prioritized list of subjects or topics to focus on rather than trying to cover everything at once? This way, you can reduce the pressure and feel more organized.
+
+User: That sounds helpful! If I have a clear idea of what to study, I think I’ll feel less overwhelmed.
+
+Consultant: Great! Can you identify a couple of subjects or topics that you feel are most crucial for you right now?
+
+User: I think math and chemistry are my top priorities. I just feel like I need to really understand the concepts in these areas.
+
+Consultant: Perfect! Let's create a plan to tackle math and chemistry first, and we can include specific goals for each study session. How many days do you have before your exams?
+
+User: I have about a week left.
+
+Consultant: Okay. With a week to go, we can set daily goals to focus on key concepts in both subjects. Would you feel comfortable dedicating certain hours each day to these topics?
+
+User: Yes, I think I can manage that. If I stay on track, it might help me feel more confident.
+
+Consultant: That’s the spirit! Let’s outline your daily study time and what topics you’ll cover. This will serve as a roadmap to keep you grounded as you study.
+
+User: Alright! I could study math on Monday and Wednesday and chemistry on Tuesday and Thursday. I’d like to review past papers too.
+
+Consultant: That sounds like a solid plan, A! Setting specific days for each subject and incorporating practice papers will definitely boost your confidence. How do you feel about this schedule?
+
+User: Honestly, I feel a bit relieved just having a plan laid out. It makes things seem more manageable.
+
+Consultant: I’m glad to hear that! Having a plan can alleviate a lot of anxiety. As you approach exam day, remember to apply the breathing exercises we discussed. Are there any other strategies you’d like to incorporate into your exam preparation?
+
+User: I think just reminding myself that I have prepared well will help. I need to focus on what I can control, not what might go wrong.
+
+Consultant: That’s a fantastic mindset, A! Focusing on your efforts rather than the outcomes can significantly affect how you approach your exams. Before we wrap up, what do you believe will be your biggest takeaway from our conversation today?
+
+User: I think I've learned how to better manage my anxiety and how to prepare effectively for my exams. Creating a plan and incorporating breathing exercises feel like steps I can take.
+
+Consultant: Absolutely! You've made great progress today in recognizing how to cope with your anxiety and enhance your study methods. I'm proud of the steps you've taken, and I believe you can carry these strategies forward. Do you feel ready to implement this plan?
+
+User: Yes, I feel much more prepared now. Thank you for your help!
+
+Consultant: You’re very welcome, A! Remember, you can always come back if you need more support. Good luck with your studies and exams!
+###################
+Consultant: Hello, I'm really glad to see you today! How have you been since our last session? 
+
+User: Hi! I've been feeling a bit mixed. I was disappointed with my exam results, but I think I've handled my anxiety a bit better overall. 
+
+Consultant: It's great to hear that you're recognizing improvements in your anxiety management. Can you share more about what specifically helped you cope better this time? 
+
+User: I've been trying to focus more on my study routines instead of just the exams. I also talked with my mom, which made me feel a little more supported. 
+
+Consultant: Talking to your mom sounds like it was beneficial for you. Support from family can make a big difference. Were there any specific strategies or techniques you used while preparing for your exams? 
+
+User: I tried to break my study sessions into smaller chunks, and I took short breaks to clear my mind. That helped me not feel overwhelmed. 
+
+Consultant: That’s a fantastic strategy! Breaking tasks into smaller parts can make them feel more manageable. How did that impact your feelings leading up to the exams? 
+
+User: I felt less stressed, honestly. I think having those breaks made me more focused. However, I still felt a bit nervous on exam day. 
+
+Consultant: It’s completely normal to feel nervous before an important event like an exam, especially considering how much is at stake for you. Can you describe what thoughts went through your mind on the exam day? 
+
+User: I kept thinking about failing and disappointing my mom. Those thoughts made me feel really anxious. 
+
+Consultant: Those thoughts sound quite intense. Let’s explore them a bit. What evidence do you have to support the idea that failing would be a disaster? Are there other ways to interpret those thoughts? 
+
+User: I guess failing isn’t the end of the world... I still have more opportunities to improve. 
+
+Consultant: That’s an important realization! It seems like there’s a more supportive narrative you can use. If a friend were in your position, how would you advise them to think about their fears? 
+
+User: I would tell them that it's okay to fail sometimes and that they can learn from it. They should keep trying. 
+
+Consultant: Excellent perspective. By extending kindness to others, you reveal an opportunity for self-compassion. How could you practice self-compassion in your own moments of anxiety? 
+
+User: Maybe by reminding myself that I’ve made progress and that it’s fine to make mistakes. 
+
+Consultant: That's a powerful approach. Recognizing growth and allowing for mistakes can alleviate some internal pressure. Moving forward, how can we create a plan to reinforce these supportive thoughts and strategies during future exams? 
+
+User: I think I could write down those positive thoughts before an exam and keep reminding myself of them. 
+
+Consultant: Writing down positive affirmations can be a great tool! How often do you think you should review those affirmations to keep them fresh in your mind? 
+
+User: Maybe daily or at least a few days before the exam? 
+
+Consultant: That sounds like a solid strategy! Regular reminders could bolster your confidence. Is there anything else you feel might be helpful as you prepare for future challenges? 
+
+User: I think practicing relaxation techniques could help. I heard about deep breathing and meditation. 
+
+Consultant: Absolutely, those techniques can greatly assist in calming your mind. Would you like to try incorporating deep breathing exercises into your routine leading up to exams? 
+
+User: Yes, I’d definitely like to try that. 
+
+Consultant: Great! We can set a goal for you to practice once a day for a few minutes. How do you feel about that plan? 
+
+User: That feels doable! I’m looking forward to trying it out. 
+
+Consultant: I’m proud of you for taking these steps. Before we wrap up today, let’s briefly summarize the progress you’ve made and the strategies you’ll carry forward. 
+
+User: Sure! I’ve learned to break my study sessions up, talk to my mom for support, write positive thoughts, and practice relaxation techniques. 
+
+Consultant: That’s a fantastic summary! You’ve equipped yourself with various tools to manage anxiety and foster a healthier mindset. What do you feel is your biggest takeaway from our sessions? 
+
+User: I think it’s the importance of being kind to myself and recognizing that it’s okay to not be perfect. 
+
+Consultant: Absolutely! Embracing imperfection is key to growth. As we conclude today’s session, remember you have the strategies to support yourself. If challenges arise, don’t hesitate to reach out. 
+
+User: Thank you so much! I really appreciate your support. 
+
+Consultant: You’re very welcome! It’s been a pleasure working with you, and I believe in your ability to continue managing these feelings. Take care and remember to celebrate your progress! 
+
+User: I will! Goodbye! 
+
+Consultant: Goodbye!
+###################

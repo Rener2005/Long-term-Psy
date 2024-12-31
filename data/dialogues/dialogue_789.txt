@@ -1,0 +1,430 @@
+Consultant: Hi there! It's great to see you today. I want to start by asking how you've been feeling recently. Is there anything specific on your mind you’d like to share?
+
+User: Hi. I don't know... I guess I've been feeling pretty down. After the divorce, everything seems different. I just sit in my room playing games all day. 
+
+Consultant: It sounds like you've been through a tough time with your parents’ divorce, and now you’re finding comfort in video games. Can you tell me more about what you think when you play those games?
+
+User: I just forget about everything. I feel good when I win, but when I lose, I just get angry. It makes me want to scream.
+
+Consultant: I hear you. Winning can feel great, and it can be frustrating when things don’t go your way. How do you feel when the games are over? Are there any emotions that stick with you afterward?
+
+User: I sometimes feel empty. Like I wasted time. But it’s better than facing my problems, I guess.
+
+Consultant: That sense of emptiness is important. It's understandable you want to avoid your problems if they make you feel down. What kind of problems are you hoping to escape from?
+
+User: It’s just... everything. School feels pointless right now, and I don’t really connect with my parents anymore. They don’t seem to care about what I think or feel.
+
+Consultant: It must be very lonely for you not to feel connected with your parents, especially during such a big change. How do you feel when you try to talk to them?
+
+User: I feel like they don’t listen. My dad is always busy, and my mom is focused on her business. They don’t have time for me or my feelings.
+
+Consultant: It sounds really tough to feel invisible and unheard. If you could talk to them about how you’re feeling, what would you want to say?
+
+User: I just want them to understand that I’m struggling. But I don’t know how to tell them without sounding stupid.
+
+Consultant: It’s brave of you to want to express your feelings. Many people find it difficult to share what they’re going through. What do you think stops you from reaching out to them?
+
+User: I guess I’m just afraid of being rejected. Like, what if they don’t care or think I’m just a kid overreacting?
+
+Consultant: That fear of rejection is completely valid. It can hold us back from expressing ourselves. Let’s explore what would happen if you took that step and shared your feelings with them. What’s the worst that could happen?
+
+User: They might yell at me or ignore me. I don’t want to make things worse.
+
+Consultant: I understand your concern. It’s natural to worry about how they might react. What if we tried to think of a different perspective? What could be a more positive outcome from sharing your feelings?
+
+User: Maybe they would listen, or at least try to understand? I don’t know... 
+
+Consultant: Yes, it's possible they might surprise you and react positively. How do you think it would feel to express your feelings, even if it doesn’t go as you hope?
+
+User: I think it might feel good to just get it off my chest, even if they don’t get it.
+
+Consultant: That's an important realization. Even just sharing your feelings can be a relief. Would you like to explore some ways to communicate your feelings to your parents more effectively?
+
+User: Sure, I guess. But I’m still feeling pretty unsure about it.
+
+Consultant: That uncertainty is normal. We could start by practicing what you might say. What would be a way to open the conversation with them?
+
+User: Maybe I could just say I want to talk about how I’ve been feeling lately? 
+
+Consultant: That sounds like a good start! How might you follow that up after you've opened the conversation?
+
+User: I could tell them I feel lonely and overwhelmed, especially with everything that’s happened.
+
+Consultant: That’s a great way to express yourself. Sharing your feelings can help them understand your perspective. What do you think would be a good next step if they respond positively?
+
+User: Maybe we could talk about how to make things better? I feel like we need to work on our relationship.
+
+Consultant: Absolutely! That’s a constructive approach. It’s about building that connection again. Do you have any ideas on activities that could help strengthen your bond with them?
+
+User: Perhaps we could spend some time together on weekends or even talk about school stuff?
+
+Consultant: Those sound like wonderful ideas! Spending quality time together can really help rebuild your connection. How do you feel about working on this with your parents?
+
+User: I’m a bit nervous, but I really want to try. I just hope they will listen.
+
+Consultant: I believe it’s worth a shot. Remember, it might not change overnight, but taking those steps can lead to improvements. How are you feeling about your situation now?
+
+User: I feel a little hopeful, actually. I still feel a bit lost, but I guess talking about this has helped.
+
+Consultant: I’m glad to hear that! It’s a big step towards managing your feelings and improving your situation. As we finish today, let’s discuss some strategies to help you feel more confident during those conversations.
+
+User: That sounds good. I really need that boost. 
+
+Consultant: Great! We’ll make a plan together for your next steps. Remember, it's okay to have doubts, but each step you take brings you closer to feeling more connected. I’m here to support you through this process.
+###################
+Consultant: Hello, G! I'm glad to see you today. How have you been feeling since our last session, especially about the changes you wanted to make regarding your gaming and studies?
+
+User: Hi. Honestly, it's been hard. I really want to spend less time on games and focus more on my studies and family, but I find it difficult. My parents keep reminding me, and it just adds to the pressure.
+
+Consultant: It sounds like you're feeling a lot of pressure from your parents while trying to make these changes. Can you tell me more about what specific changes you hope to achieve when it comes to your gaming and studying?
+
+User: I want to stop feeling like I need to game all the time. I want to be able to talk to my parents without arguing and also keep up with my schoolwork. 
+
+Consultant: That’s a great goal, G. So, you’re hoping to feel more in control of your time with gaming and improve communication with your parents. What challenges do you face when you try to reduce your gaming time?
+
+User: When I try to cut down on games, I feel really anxious. The idea of not playing makes me restless, and I start thinking about how much I’ll miss out on with my friends. 
+
+Consultant: It makes sense that you would feel anxious about that. Gaming can feel like a way to connect with friends. Can you describe what thoughts go through your mind when you think about stopping gaming?
+
+User: I keep thinking that if I stop playing, I'll be bored and lonely, and I won't have anything fun to do anymore. I feel like I would just be stuck with my schoolwork.
+
+Consultant: Those thoughts can seem very powerful, G. Let's explore them a bit. What evidence do you have that stopping gaming would lead to boredom and loneliness? Have you experienced any moments where you found joy or fun outside of gaming?
+
+User: Hmm, sometimes I enjoy hanging out with my friends at school, but it's not the same as playing games together. I guess I do have fun when I play basketball with them.
+
+Consultant: That’s an important insight! It sounds like you have other activities that can also provide enjoyment. How might you incorporate some of these activities into your schedule to replace gaming a bit?
+
+User: I could try to set specific days to play basketball with friends after school. I think that could help. 
+
+Consultant: That sounds like a wonderful idea! This could help you connect with your friends and enjoy different experiences. If you found that balance, how do you think it would affect your feelings toward gaming and your studies?
+
+User: I think it would make me feel less anxious. I'd be doing something productive and fun, and maybe my parents wouldn’t bother me as much.
+
+Consultant: Yes, finding that balance could definitely alleviate some of that anxiety. Now, when you talk to your parents about wanting to change, what do you think would be the best way to approach the conversation?
+
+User: Maybe I could also talk about my interest in basketball and how I want to manage my time better. If I explain that to them, they might understand.
+
+Consultant: That’s a thoughtful approach, G. Showing them your plan could help them see you’re taking responsibility. What kind of support do you think you might need from your parents during this process?
+
+User: I think if they could just trust me for a bit and let me show them I can manage my time, it would help. 
+
+Consultant: Absolutely, trust is crucial. Letting them know that you're motivated to balance your responsibilities can pave the way for that support. What will you say to them to express this when the moment arrives?
+
+User: I could say something like, "I want to improve my studies and my time with friends. I’m going to play basketball more and try to manage my gaming time."
+
+Consultant: That sounds very clear and honest, G! Practice makes perfect, so maybe you could even rehearse this with someone you trust. As you think about this, how does it make you feel about the changes you’re planning to make?
+
+User: I feel a little more confident now. If I have a plan, then maybe I can stick to it.
+
+Consultant: That's an excellent step forward! Confidence is important. Now, let’s also talk about how you can manage any setbacks or feelings of discomfort as you start this journey. What strategies do you think you could use if you feel overwhelmed?
+
+User: I could take deep breaths to calm down, or maybe distract myself by listening to music or going outside.
+
+Consultant: Those are great strategies! Practicing deep breathing can help center you, and music or fresh air can definitely lift your spirits. As we work toward your goals, let’s make sure you have some coping strategies in place. 
+
+User: I think that will help a lot, yeah. I just want to feel more balanced overall.
+
+Consultant: Balance is key, and you're clearly motivated to achieve it. As we wrap up today, let’s summarize what you have planned. Can you share the main strategies you will implement moving forward?
+
+User: Right! I’ll try to play basketball more, talk to my parents about my goals, and manage my gaming time better. I’ll also use breathing exercises when I feel anxious.
+
+Consultant: That’s an excellent plan, G! You’re on the right path towards creating a healthier balance in your life. Remember, it's okay if things take time and adjustments are needed. How do you feel about the direction you're heading?
+
+User: I feel hopeful! I really want to try and see how it goes.
+
+Consultant: That's wonderful to hear! Hope is a powerful motivator. If you encounter challenges along the way, remember that it's all part of the process, and I'm here to support you. Until next time, take care of yourself, and enjoy those moments with your friends and family. 
+
+User: Thanks! I appreciate the support. I’ll see you next session!
+###################
+Consultant: Hello there! I'm happy to see you today. I'm really interested to hear how you've been feeling lately, especially after the class activity you attended. Can you tell me more about that experience?
+
+User: Hi! The class activity was actually pretty fun. I felt more connected with my classmates. It was nice to see everyone having a good time together. I didn't think I would like it so much.
+
+Consultant: It sounds like you had a wonderful time and enjoyed being part of the group. Feeling more connected with your classmates is a positive experience. How did that make you feel compared to how you usually feel at school?
+
+User: Yeah, it was different. Usually, I just sit quietly, and I don't really talk to people. But in that activity, I felt a little happier. I guess I miss having fun with others.
+
+Consultant: I'm glad to hear that you felt happier during the activity! It seems like social interactions might be something you're starting to appreciate. Can you reflect on what specifically made that experience enjoyable for you?
+
+User: I think it was just being around people and sharing jokes. When I laughed with them, I forgot about everything else, even my family issues. 
+
+Consultant: Laughter and connection can really provide an escape from our worries. It's great that you were able to enjoy that moment. When you think about your family issues, how do you feel now compared to before the activity?
+
+User: I still feel bothered by my parents’ divorce. Sometimes I get angry or sad about it. I guess it’s hard to ignore those feelings.
+
+Consultant: That makes complete sense. It’s okay to have mixed feelings about your family situation. In our session, we can explore ways to manage these feelings while also leveraging the joy you experienced during the activity. How would you feel about that?
+
+User: I’d like that. I want to feel good more often, but I don’t know how to handle things at home.
+
+Consultant: Absolutely, finding ways to feel better is important. Let's focus on how to take those positive feelings from your interaction with your classmates and apply them to your family life. Have you thought about how to share those positive experiences with your family?
+
+User: I haven’t really thought about it. I guess I’m not sure how to talk to them without getting upset.
+
+Consultant: That’s understandable. Sometimes sharing good experiences can feel tricky, especially if there has been tension. We can practice how you might approach them calmly. What do you think might be a good opening for sharing something that made you happy recently?
+
+User: Maybe I can tell them about the activity? But what if they don’t care?
+
+Consultant: Sharing your experience can be a great start, and who knows—they might surprise you with their interest. If you present it positively, it can open a door to better conversations. What do you hope might happen when you share this with them?
+
+User: I guess I hope they’ll be happy to hear it and not argue about anything for a moment.
+
+Consultant: That’s a very reasonable hope! Creating those moments of connection could help ease some tension. If they respond positively, it might create a space for more enjoyable conversations in the future. How does that idea feel to you?
+
+User: It feels good to think of it that way. I just need to try to stay calm and not let my concerns take over.
+
+Consultant: Exactly! Staying calm can help you communicate better. Remember, it's okay to have your feelings, but practicing how you express them can lead to a better response. Would you be open to trying some techniques to keep yourself calm when talking to your family?
+
+User: Yes, that sounds good. I need some ways to handle my worries.
+
+Consultant: Great! We can explore some breathing exercises or ways to pause and think before responding when you feel overwhelmed. How do you think practicing those might help you during family conversations?
+
+User: I think it would help me not to snap at them. I sometimes say things I regret because I get too angry.
+
+Consultant: That’s a positive insight! Recognizing that can make a big difference. When you practice these techniques, it might lead to more peaceful conversations. Would you like to try out a breathing exercise together?
+
+User: Sure, I’d like to learn something like that.
+
+Consultant: Awesome! Let’s take a deep breath in through your nose for four counts, hold it for four, and exhale slowly through your mouth for six counts. Ready? Inhale… 1, 2, 3, 4. Hold… 1, 2, 3, 4. Exhale… 1, 2, 3, 4, 5, 6. How did that feel?
+
+User: I feel a bit more relaxed. I think I could use this when I’m feeling tense.
+
+Consultant: That’s fantastic to hear! Using that technique can really help calm your mind before talking. What do you think would be your next step to try this at home?
+
+User: I guess I could practice it before family dinners. That’s usually when we argue.
+
+Consultant: That’s a perfect idea! Preparing yourself before a potentially tense time is smart. How might you feel afterward if it goes well and you manage to stay calm?
+
+User: I think I could feel proud of myself for handling it better. Maybe it won’t be so bad.
+
+Consultant: Absolutely! Feeling proud can boost your confidence as well. Each positive experience will create a stronger foundation for improving your family dynamics over time. What do you hope for in your relationships with your family going forward?
+
+User: I want to feel more connected to them, like I felt with my classmates. Maybe we can all laugh together sometimes.
+
+Consultant: That’s a lovely goal! Creating joyful memories together can strengthen your bond. Remember that you’re already on the right path by acknowledging these feelings and wanting to improve them. Together, we can work on strategies to help you get there. 
+
+User: Thank you. I feel more hopeful about things now. I think I can try getting closer to my family.
+
+Consultant: I'm really glad to hear that, and you've done well by articulating your feelings today. Remember, reaching out for connection takes practice. Whenever you're ready, we can continue our work here. You’re making great progress!
+
+User: Thanks, I appreciate your help. I’ll try to keep in touch with everyone more! 
+
+Consultant: You’re very welcome! I look forward to hearing more about your progress next time. Keep practicing those techniques, and know that it’s okay to take your time. Have a great day!
+###################
+Consultant: Hello, G! I'm glad you're here for our session today. Last time, we talked about your ability to connect with your classmates. How have you been feeling about that recently?
+
+User: Hi! I've been feeling pretty good. I really enjoy talking to my friends, and it feels nice to share my thoughts with them. But when I think about talking to my parents, I still get that anxious feeling.
+
+Consultant: It sounds like you've made great progress in your friendships, which is wonderful. But I understand that talking to your parents is still a challenge for you. Can you tell me more about what makes you feel anxious when thinking about those conversations?
+
+User: I just worry that they'll judge me or not understand. I want to tell them how I feel, but I’m scared they’ll react negatively.
+
+Consultant: That fear of judgment can be really tough. It's understandable to want to be accepted, especially when you're trying to open up about your feelings. What would you like to share with them if you could have that conversation without any fear?
+
+User: I want to tell them that I feel lonely sometimes and that I want things to be better at home. I think they just don’t realize how I feel.
+
+Consultant: That's a brave step to take, wanting to share your feelings of loneliness and your desire for improvement. How do you think they might respond if they truly understood how you feel?
+
+User: I hope they would want to help me and make things better, but I’m not sure. Sometimes it seems like they don’t care that much.
+
+Consultant: It's tough to feel that sense of indifference from people you care about. Let's think about ways you can express your feelings. What kind of words or phrases do you think would help convey your emotions to them clearly?
+
+User: I could say something like, "I feel really lonely at times, and I just want us to spend more time together.” But part of me thinks they won’t listen anyway.
+
+Consultant: That’s a good start! You're expressing your feelings directly, which is important. I can see your hesitation, though. What if we worked on some strategies to help you feel more confident when approaching this conversation with them?
+
+User: Okay, that sounds helpful. I really want to gain the courage to talk to them. 
+
+Consultant: Great! We could practice some role-playing where you practice saying things you want to express. How does that sound to you?
+
+User: That could work! I’ve never done that before, though. I hope I won’t mess it up.
+
+Consultant: It's perfectly okay to feel a bit nervous about it! Remember, mistakes are part of learning, and this role-play can help ease some of that anxiety. Would you like to try saying what you’ve thought of earlier now?
+
+User: Sure! “I feel really lonely at times, and I just want us to spend more time together.”
+
+Consultant: That was a strong statement! It shows vulnerability and your desire for connection. How do you feel after saying that aloud?
+
+User: I feel a bit nervous but also lighter. Like getting it out there has helped a little.
+
+Consultant: That’s excellent progress, G! How about we identify a time in the near future when you might want to have this conversation with them? 
+
+User: I think I could try this weekend when we’re all at home together. 
+
+Consultant: That sounds like a good plan! Having the conversation when everyone is calm can help ease the tension. What do you think could help you feel more at ease before the weekend?
+
+User: Maybe I could write down some points I want to say. That way, I won’t forget while talking.
+
+Consultant: Writing it down is a fantastic idea. It can help you organize your thoughts and reduce anxiety. Do you feel ready to try this approach?
+
+User: Yes, I think so! I feel like I'm starting to believe this can actually work.
+
+Consultant: That’s the spirit! Remember, this is about taking little steps. It's perfectly normal to feel anxious, but you’re showing great courage. As you practice these skills, what’s one thing you’d remind yourself if you start to feel nervous again?
+
+User: I’ll tell myself that it’s okay to be honest. They care about me, and I deserve to express my feelings.
+
+Consultant: That’s a powerful affirmation! Keep that in mind, G. It can help you stay grounded. Do you have any concerns about the conversation this weekend that we should explore further?
+
+User: Well, I’m just scared they might not take it seriously. What if they brush me off?
+
+Consultant: That’s a valid concern. It can be challenging when our feelings are dismissed. How might you respond if they don’t react the way you hope?
+
+User: I guess I could remind them that it’s important to me and ask if they could try to listen. 
+
+Consultant: That’s a mature response! It shows that you value the conversation and emphasizes your need for support. As we start to wrap up today, what’s one takeaway you want to hold onto from our discussion?
+
+User: I want to remember that I can speak up and that my feelings matter. 
+
+Consultant: That’s a wonderful takeaway! You’ve made significant strides today, G. As you prepare for your conversation, remember that it’s about connecting with your parents and sharing your truth. 
+
+User: Thanks! I feel more hopeful about it now.
+
+Consultant: I'm really glad to hear that! You have the tools and courage to improve your family connections. I look forward to hearing how it goes next time. Remember, change takes time, so be kind to yourself in the process. 
+
+User: I will! Thanks for all your help today.
+
+Consultant: You're very welcome, G! I'm here to support you. Take care, and we'll talk again soon.
+###################
+Consultant: Hello, G! I'm glad to see you today. How are you feeling about your recent conversations with your parents?
+
+User: Hi. Honestly, I felt a bit frustrated during the trip planning discussion. There was a lot of yelling, and I don't think they understood me. But, I still hope things can improve between us.
+
+Consultant: It's understandable to feel frustrated in that situation. You had a disagreement, but you also have hope for improvement. Can you tell me more about what you wanted to communicate to them during that conversation?
+
+User: I just wanted to suggest some places we could go together. I thought it would be nice for the family, but they seemed more focused on work and not interested in my ideas.
+
+Consultant: It sounds like you wanted to share an exciting opportunity for family bonding, but faced resistance. How did that make you feel when your suggestions were not received well?
+
+User: I felt kind of ignored. Like, I wanted to be part of the decision, but it was like they didn’t even care.
+
+Consultant: That must have been tough for you, feeling overlooked. Let's explore this further. When you felt ignored, did any specific thoughts go through your mind at that moment?
+
+User: I kept thinking that they never listen to me. It’s always like that when I try to say something important.
+
+Consultant: It seems like you might believe that you’re not being heard in your family. This thought could create a feeling of helplessness. What would you like to happen instead when you express your ideas?
+
+User: I just want them to listen and maybe consider my thoughts. I want to feel like my opinions matter to them.
+
+Consultant: That's a valid wish, G. Let’s work on building your communication skills so your thoughts can be better understood. What if we practiced how you could express your ideas in a way that might catch their attention?
+
+User: Sure, that sounds helpful. But I’m not great at talking to them without getting upset. 
+
+Consultant: It's okay to feel that way. Let's start by discussing how you can share your thoughts calmly. How do you usually start a conversation with them about something important?
+
+User: Sometimes I just dive right into it, but it doesn’t always go well. 
+
+Consultant: Diving straight into a topic can sometimes lead to misunderstandings. What if you began by asking them if they have a moment to talk? This way, you can set a respectful tone. How does that sound?
+
+User: I guess that could work. It might give them a chance to be ready for what I want to say.
+
+Consultant: Exactly! You can also frame your ideas with “I” statements, like “I think it would be fun if we went to the beach together.” This can help convey your feelings without sounding confrontational. How do you feel about trying that?
+
+User: That sounds okay. I think it might help them understand where I’m coming from. 
+
+Consultant: I'm glad to hear that! Remember, the goal is to foster a constructive dialogue. Would you like to role-play this scenario together to practice?
+
+User: Yes! Let’s do it.
+
+Consultant: Great! I’ll be your parent, and you can practice how you'd start the conversation.
+
+User: Okay. (pauses) Hey, can we talk about the family trip? I have some places in mind that might be fun to explore together.
+
+Consultant: Sure, G! What did you have in mind?
+
+User: I thought we could go to the beach or the amusement park. I think it would be great for everyone to spend time together.
+
+Consultant: Those sound like fun options! How do you feel about bringing those ideas up in a calm way next time?
+
+User: I feel more confident. I think if I stay calm like this, they might really listen.
+
+Consultant: Exactly! Practice helps build confidence. Now, let’s discuss ways to manage your emotions if the conversation doesn’t go as planned. What strategies do you think might help?
+
+User: Maybe I could take a deep breath before responding? 
+
+Consultant: That's a fantastic idea! Deep breathing can help you stay grounded. You can also remind yourself that it’s okay to express your feelings, and that disagreements don't mean they don't care. Would you like to explore more techniques for staying calm during stressful conversations?
+
+User: Yes, I want to be better at handling those situations.
+
+Consultant: Awesome! We can also introduce some phrases you can use if things get heated, like, “I feel overwhelmed, can we take a moment?” This reminds everyone to pause and reset. How do you feel about that?
+
+User: I think that could help a lot. I don’t want to argue; I just want to talk.
+
+Consultant: That’s great to hear, G! Building these skills will help you nurture better family interactions. How are you feeling about our discussion today?
+
+User: I feel more hopeful. I think if I try these things, it might really change how we communicate.
+
+Consultant: I’m glad to hear that! It sounds like you are opening up to the possibility of better communication. Before we wrap up, let’s review what you’ll practice before our next session.
+
+User: I’ll try starting conversations calmly, using “I” statements, and practicing deep breathing.
+
+Consultant: That sounds like a solid plan! I believe you'll see progress with your family. Remember, it's a journey, and every step counts. I look forward to hearing how it goes next time!
+
+User: Thank you! I feel better about this now.
+
+Consultant: You're very welcome, G! I'm proud of you for being open to change. If you need to talk before our next session, feel free to reach out. Take care!
+
+User: I will! Bye!
+###################
+Consultant: Hello, Xiao G! I’m glad to see you again. Last time, we talked about some positive changes in your family interactions. How have you been feeling about those changes since then?
+
+User: Hi! I've been feeling pretty good. The trip we took as a family helped a lot. I noticed my parents being more relaxed, and it felt nice to enjoy our time together without too much tension.
+
+Consultant: That sounds wonderful, and it's great to hear that the trip contributed to a more relaxed atmosphere. Can you share a specific moment from the trip that made you feel particularly positive about your family interactions?
+
+User: There was this moment when we were just sitting around a campfire, joking and laughing. It felt really nice to connect with them and not worry about the usual stuff. I think that was my favorite part of the trip.
+
+Consultant: Connecting with family during moments of joy can be very nourishing. It sounds like that campfire experience helped strengthen your bond. How have you been feeling about your studies and your time spent on games since the trip?
+
+User: Honestly, I still find myself playing a lot of games. Sometimes I just can't focus on my schoolwork like I used to. I know I should be more responsible, but it's hard to get away from the games.
+
+Consultant: It's understandable that games can be very engaging, and it can be tough to balance that with school responsibilities. Do you think there's a connection between how you feel about your family now and your motivation to focus on your studies?
+
+User: Maybe. I think when my family was more tense, I used games as a way to escape. Now that things are better at home, I feel less urge to escape, but I'm still not sure how to get back on track with studying.
+
+Consultant: It’s insightful that you recognize the link between your home environment and your motivation. Since you’re feeling more relaxed at home, could we explore some ways to channel that positive energy into your study routine? What would it look like for you to find some motivation?
+
+User: I’d like to create a schedule or something. Maybe plan fun study breaks in between. I guess if I know I have a reward, I might focus better.
+
+Consultant: That sounds like a solid plan! Having a schedule with fun breaks can actually help maintain your motivation. What kind of rewards do you think would work best for you? 
+
+User: I could reward myself with some extra game time after studying or maybe watching a show I like. 
+
+Consultant: Those sound like great incentives! Have you had a chance to set up any study time or create that schedule yet?
+
+User: Not yet. I keep thinking about it, but I can be pretty lazy sometimes.
+
+Consultant: It’s completely normal to feel that way. Sometimes, taking the first step is the hardest part. How about we break it down? What is one small step you could take today to move towards creating your study schedule?
+
+User: I could write down a simple plan for tomorrow. Just like, what subjects to study and when to take breaks.
+
+Consultant: That’s an excellent idea! Writing it down can really help solidify your commitment. After you write it down, how would you feel in terms of accountability to stick to it?
+
+User: I think I’d feel more responsible if it’s written out. It helps to see it on paper.
+
+Consultant: Exactly, having a visual reminder can be a powerful tool. Just out of curiosity, if you do manage to follow your plan tomorrow, how do you think you'll feel by the end of the day?
+
+User: I think I’d feel accomplished, and maybe I'd enjoy the gaming time even more after I’ve worked hard.
+
+Consultant: That’s a fantastic reward mindset! Not only would you feel accomplished, but also get to enjoy your gaming time guilt-free. As we talk about these strategies, how does it feel to think about being more in control of your studying and gaming balance?
+
+User: It feels good. I guess I just need to remind myself that I can actually manage it better if I try.
+
+Consultant: Absolutely, and recognizing that you have the ability to manage your time is a great step forward. Remember, it's also okay to reach out for support or make adjustments if you find something isn't working. How can I support you in this plan moving forward?
+
+User: Maybe checking in on me about how my study plan is going would help. Just knowing someone cares makes it easier.
+
+Consultant: I’m more than happy to check in with you about your progress! Accountability can make a big difference. Let’s set up some goals for our next session. What is one specific goal you’d like to achieve by then?
+
+User: I want to stick to my study plan at least three days in a row before our next session!
+
+Consultant: That’s a great goal, Xiao G! Three consecutive days is achievable and a perfect way to start this journey. When are you planning to come back for our next check-in?
+
+User: Maybe next week? After I've had some time to work on my plan.
+
+Consultant: Sounds good! I’m looking forward to hearing about your progress. Remember, you have the tools to achieve your goals and I believe in your ability to see this through. Is there anything else on your mind today that you’d like to talk about?
+
+User: No, I think that’s it for today. I feel pretty good about what we discussed.
+
+Consultant: I’m glad to hear that! It’s been a pleasure talking with you today, and I’m here to support you as you make these changes. Take care, and I look forward to seeing you next week!
+
+User: Thanks! See you next week!
+###################

@@ -1,0 +1,422 @@
+Consultant: Hello! I'm glad you're here today. I want to start by understanding how you've been feeling lately, especially regarding school and your studies.
+
+User: Hi. Honestly, I've been feeling pretty annoyed. My grades aren't great, and my teacher called me out for it. It just feels like nobody understands where I'm coming from.
+
+Consultant: I hear you. It sounds frustrating to feel like you're not being understood, especially when it comes to your performance in school. Can you tell me more about what you've been experiencing in the classroom?
+
+User: In class, I just want to be left alone. I talk to my friends and sometimes make jokes, but I don’t really care about what the teacher is saying. It feels boring, and I don’t see the point in doing any work.
+
+Consultant: It seems like you’re feeling a disconnect between what’s happening in class and your interests. I'm curious about what you find uninteresting about the subjects being taught. Can you share that with me?
+
+User: It's just all so dry and pointless. I can't relate to any of it. I sometimes feel like the teachers are just out to get me because I'm not engaging the way they want me to.
+
+Consultant: It makes sense that you would feel that way, especially when the material doesn't resonate with you. Let’s explore how these feelings affect your actions. When you joke around or avoid work, how do you feel afterward?
+
+User: I feel like I’m just wasting time, but at the same time, I can't bring myself to focus. It's like I’m stuck in this loop.
+
+Consultant: That sounds really tough. It sounds like you're caught between wanting to engage and feeling disconnected from the content. What do you think might happen if you tried to find something in the subjects that did interest you?
+
+User: I don't know. Maybe I'd actually pay attention, but it just feels like effort for something that ultimately doesn't matter to me.
+
+Consultant: I understand that it feels like it wouldn't be worth the effort at this point. What if we looked at it from a different angle? What’s something you enjoy doing outside of school that gives you a sense of accomplishment?
+
+User: I like playing video games. They give me a rush and I can level up or achieve something.
+
+Consultant: That's great! Gaming can be a wonderful source of motivation. How could we connect some of that excitement and motivation from gaming to your schoolwork? 
+
+User: I guess I could try setting small goals like leveling up in a game, but it feels silly to compare it to school.
+
+Consultant: It may feel a bit unusual, but using the same goal-setting strategy might help you see progress in a different light and keep you motivated. What small goal could you start with? 
+
+User: Maybe just trying to pay attention for a full class instead of zoning out.
+
+Consultant: That’s a fantastic start! Committing to a singular class can help create a positive experience. If you manage that, how would you feel afterward?
+
+User: I’d probably feel a sense of achievement, but still a bit doubtful.
+
+Consultant: Those mixed feelings are completely normal. What if we devised a way for you to reflect on that achievement afterward? Would journaling or talking about it with someone help?
+
+User: I could try writing it down. It might help to clear my head and see if anything changes.
+
+Consultant: That sounds like a positive approach! It would also be a good way to express your feelings and track your progress over time. What else would you like to express about your situation?
+
+User: I just wish people understood why I don’t care about school. It feels like they just blame me for everything.
+
+Consultant: It sounds painful to feel blamed and misunderstood. I want you to know that it’s okay to feel this way, and your thoughts and feelings are valid. How do you think you could communicate these feelings to your teacher or peers?
+
+User: I guess I could try talking to my teacher about it. But I'm not sure how to start without sounding defensive.
+
+Consultant: That's understandable. What if you started by sharing your feelings rather than just what you're frustrated about? For instance, you could mention that you’re struggling to connect with the material. Would that feel possible to you?
+
+User: I think I could try that. It feels more honest than just getting angry about it.
+
+Consultant: Honesty can indeed create more understanding and open dialogue. How would that conversation be different from what you’ve usually done? 
+
+User: I think I’d feel less pressured to defend myself and more like I’m asking for help.
+
+Consultant: That’s an important distinction. Asking for help can often be the first step toward feeling better and bridging that gap. How does that approach make you feel going forward?
+
+User: I feel a bit relieved thinking about it. Like I don’t have to carry all this alone.
+
+Consultant: Exactly! You’re not alone in this. There are ways to express your needs and seek support without isolation. Let's reflect on this session. What stands out to you the most?
+
+User: I think it's the idea of setting small goals and talking honestly about my feelings. It’s pretty refreshing.
+
+Consultant: I'm glad to hear that! Before we finish today, can you share one intention you’d like to carry with you in the coming week based on what we discussed?
+
+User: I’m going to write down my feelings and try to talk to my teacher. That feels like a good starting point.
+
+Consultant: That sounds like a solid plan! Remember, you’re taking steps toward understanding both yourself and others. If you need to talk again, I’m here for you. 
+
+User: Thanks! I appreciate it. 
+
+Consultant: You're welcome! Good luck with your goals, and I'll be looking forward to hearing how it goes next time. Take care!
+###################
+Consultant: Hello, it's nice to meet you today. I understand you're feeling misunderstood and isolated. Can you tell me more about how you've been feeling lately?
+
+User: Hi. I've just been really frustrated. I feel like my parents don’t understand me at all. Whenever I talk to them, it’s like they’re in another world. 
+
+Consultant: That sounds really tough. Feeling misunderstood by your parents can be very isolating. Could you share an example of a recent conversation with them that left you feeling this way?
+
+User: Well, the other day I told them I was feeling overwhelmed with school, but they just said I should focus more and stop slacking off. It was like they didn’t even hear me.
+
+Consultant: It sounds like you were looking for support, but instead, you felt dismissed. What kind of support were you hoping to receive from them?
+
+User: I don’t really know... Maybe just someone to listen and understand what it’s like for me, not just criticize me. 
+
+Consultant: That makes sense. You wanted a sense of understanding rather than judgment. How do you think you could express this need to them in a way that might help them understand?
+
+User: I guess I could try to explain how their words affect me when they say such things. But I'm not sure how to start that conversation.
+
+Consultant: It’s understandable to feel uncertain about starting that conversation. We could practice a role-play where you express your feelings to your parents. Would you like to try that?
+
+User: Sure, I can try. I just hope it helps.
+
+Consultant: Great! Let’s start. You can begin by telling me your parents how you're feeling. 
+
+User: Okay... “Mom, Dad, I need to talk. Sometimes I feel really overwhelmed with school. I want to do well, but it’s hard, and I wish you could understand what I’m going through.”
+
+Consultant: That’s a good start! How do you think they would respond to that? 
+
+User: They would probably just tell me to try harder or that I need to stop making excuses.
+
+Consultant: If they respond that way, how could you still stand your ground and communicate your feelings without feeling dismissed?
+
+User: Maybe I could say, “I understand you want what’s best for me, but I really need to share my feelings. I feel lost sometimes, and I wish for your support.”
+
+Consultant: That’s a really strong way to express yourself! It shows you're acknowledging their intentions while still stating your feelings. How did it feel to say that? 
+
+User: It felt a little empowering, but I still worry they might not get it. 
+
+Consultant: It’s natural to have that worry. Remember, you’re practicing a new way of communicating your feelings, and it may take time for them to adjust. What other strategies could help you keep expressing your needs despite their responses?
+
+User: Maybe setting a specific time to talk instead of just springing it on them. 
+
+Consultant: That’s a proactive approach! Choosing the right time can make a difference in how they respond. How about discussing it after a family meal when everyone is relaxed?
+
+User: Yeah, that sounds good. 
+
+Consultant: Excellent! Establishing a comfortable environment for open communication can help lower defenses and promote understanding. Let’s explore how you feel expressing these thoughts about the future. How do you think this could change your relationship with your parents? 
+
+User: I guess if they hear me, it might help. I don’t want to keep feeling so alone in everything.
+
+Consultant: It sounds like you're seeking connection and support. What do you think you can do to create connections with your peers too, alongside communicating with your parents?
+
+User: I don’t know… maybe I should start talking to them more about school stuff? 
+
+Consultant: That could be a good start! Building rapport with classmates through shared experiences can help foster connections. Do you often find you’re able to share your thoughts in the classroom, or is it mostly a struggle?
+
+User: Well, in class, I just joke around a lot and don’t talk seriously. 
+
+Consultant: Humor can be a way to connect, but it can also mask your feelings. How might you balance humor with more genuine sharing about what’s happening with you?
+
+User: Maybe I could share my struggles honestly first and then use jokes to lighten the mood?
+
+Consultant: That sounds like a balanced approach! Sharing your genuine feelings first opens the door for deeper connections before lightening it up with humor. How comfortable do you feel about trying this with your classmates?
+
+User: It makes me nervous, but I think I can try. It should help.
+
+Consultant: I admire your willingness to take this step! As you practice this new way of expressing yourself, remember that it’s also okay to feel nervous. What could help boost your confidence before trying these conversations with others?
+
+User: Just reminding myself that it’s okay to be vulnerable. 
+
+Consultant: Absolutely! Vulnerability can create deeper connections. How do you think this new approach of expressing yourself will impact your feelings of isolation?
+
+User: If it works, I hope it will help me feel less alone in my experiences. I want to feel like I belong somewhere.
+
+Consultant: That’s a wonderful goal! Seeking belonging is something we all desire. As we reflect on our conversation today, what are the key takeaways you’ll hold onto moving forward?
+
+User: I want to communicate better with my parents and classmates. Setting the right tone and being honest about my feelings.
+
+Consultant: Those are fantastic takeaways! Remember that practice makes progress. Each time you express your needs, you’re taking steps toward building those connections. As we conclude today’s session, how do you feel about the progress you've made?
+
+User: It feels good, but I still have a long way to go.
+
+Consultant: It’s perfectly normal to feel that way. Change takes time, and you’ve already taken important steps today. If you keep practicing these skills, you’ll find your voice growing stronger. Don’t hesitate to reach out if you need more support. 
+
+User: Thank you. This helps a lot. 
+
+Consultant: You're very welcome! Remember, you're not alone on this journey. I wish you the best, and we can always chat again whenever you feel the need.
+###################
+Consultant: Hello, Ma! It’s good to see you today. I understand that recently you've been feeling isolated during team activities, and I’d like to explore this with you. How have you been feeling about that?
+
+User: Hi. Yeah, I’ve felt left out a lot. During the group projects, I just don’t know how to connect with my classmates. They seem to have their own little groups, and I feel awkward trying to join in.
+
+Consultant: That sounds really difficult, Ma. Feeling left out can be very painful, especially in a social setting like school. Can you tell me more about what thoughts go through your mind when you feel this way?
+
+User: I often think that they don’t want me around, or that I’m bothering them if I try to join in. It makes me feel really self-conscious and anxious.
+
+Consultant: It’s understandable to feel self-conscious in those situations. It can be tough when you believe others don’t want you around. Have there been specific moments recently when you felt this especially strong?
+
+User: Yes, during a recent team meeting, I tried to share my ideas, but no one seemed to listen. It felt like they were more interested in each other. I wished I could just disappear.
+
+Consultant: That sounds really frustrating, and it’s normal to feel hurt when your ideas don't get acknowledged. Let’s think about those moments—what thoughts were running through your mind as you tried to share?
+
+User: I thought, “They’ll just ignore me, so why bother?” I felt like I was just wasting my breath.
+
+Consultant: So, you were convinced that trying to participate would lead to getting ignored. It seems that this thought made you hesitant to engage more. Can we explore whether there are other interpretations of this situation?
+
+User: I guess… maybe they were just busy? But it still feels like they don’t care about what I think.
+
+Consultant: That’s a valid point, Ma. It’s possible they were focused on their own conversations and didn’t mean to ignore you. How do you think you could reframe that thought to help you feel less discouraged next time?
+
+User: Maybe I could think, “They didn’t hear me this time, but I can try again later.” But it’s hard to change the way I feel in the moment.
+
+Consultant: Absolutely, it can be tough to make that shift when emotions are running high. It might help to practice this reframe before you enter group settings so it’s fresh in your mind. Would you be comfortable trying that?
+
+User: Yeah, I think I could try reminding myself to be patient and that it's okay to keep trying. 
+
+Consultant: That’s a great strategy! And in addition to reframing thoughts, what about taking small steps to engage with your classmates? Have you thought about ways to connect with them outside of group projects?
+
+User: I haven’t really thought about that. I usually just stick to my own space.
+
+Consultant: It’s understandable to seek comfort in familiar routines. What if you tried initiating small conversations with a classmate before projects begin or during breaks? It could help ease the way into group interactions.
+
+User: I could give that a shot. Maybe chatting casually about schoolwork could help break the ice.
+
+Consultant: Exactly! Small interactions can build your confidence. You might discover that people are more approachable than they seem. How are you feeling about that idea?
+
+User: I feel a bit hopeful! It seems less intimidating when I think of it as just casual chat instead of diving straight into projects.
+
+Consultant: I’m glad to hear that! Remember, building connections takes time and practice. What’s one small step you might take this week toward chatting with a classmate?
+
+User: I could try to ask someone about our next assignment tomorrow. Just a simple question.
+
+Consultant: That sounds like a perfect plan! Starting with a simple question can ease a lot of pressure. As you try this, notice how it feels and what thoughts come up for you. 
+
+User: Okay, I will! I’ll let you know how it goes next time.
+
+Consultant: Great! I'm looking forward to hearing about it. Remember, it's all about progress, no matter how small. Also, how are you feeling now about your ability to manage these social situations?
+
+User: I feel like I have a slightly different perspective now. It’s nice to think I could actually make small changes.
+
+Consultant: That’s wonderful, Ma! It’s encouraging to hear that you’re feeling empowered to make those changes. As you work on this, remember to be kind to yourself. 
+
+User: Thanks! I appreciate your support. I'm starting to think I might not be so alone in this after all.
+
+Consultant: You’re quite welcome! You’re definitely not alone, and it’s great that you’re realizing this. Each step you take toward developing your social skills will make it easier over time. Do you feel ready to continue exploring this in our next session?
+
+User: Yes, I can't wait to share how things go!
+
+Consultant: I’m excited for our next conversation. Keep reflecting on your feelings and those small steps. You’re making significant progress, and I’m proud of you. Until next time, take care!
+
+User: Thank you! See you!
+###################
+Consultant: Hello, Marco! I'm glad to see you today. I remember you mentioned feeling a bit more connected after the mental health day at school. How have you been since our last session?
+
+User: Hi! Yes, I felt less alone after hearing that other students also have similar pressures. But I still feel a bit lost. I'm not really sure how to manage my emotions.
+
+Consultant: It’s great to hear you're feeling some connection with your peers. It’s a good first step toward managing your emotions. Can you share a bit about what feelings you've been experiencing lately? 
+
+User: I guess I feel a mix of frustration and boredom. Sometimes, I just don’t see the point in doing assignments or studying. 
+
+Consultant: That makes sense. It sounds like you're grappling with frustration about your studies and that it leads to boredom. Have you noticed any specific situations that trigger these feelings for you? 
+
+User: Usually, it's when I sit down to do homework. I just can't focus, and then I feel annoyed with myself for not doing anything.
+
+Consultant: I appreciate you sharing that with me. Recognizing those triggers is an important part of understanding your emotions. When you sit down to do homework and feel that frustration starting, what thoughts go through your mind? 
+
+User: I often think, "Why should I even try? It's not like it matters anyway." 
+
+Consultant: That thought sounds heavy, Marco. It’s common for negative thoughts to creep in and affect how we feel about a situation. Do you think it’s possible that this belief might be overly harsh or not entirely true? 
+
+User: Maybe. I don't know. It just feels like nothing I do really changes anything. 
+
+Consultant: It’s completely understandable to feel that way sometimes. However, let's explore whether there might be evidence that contradicts that thought. Can you think of any instances where your efforts led to a positive outcome, even if it seemed small? 
+
+User: Well, I guess I did pass my last math test. I wasn't expecting to, but I studied a little for it. 
+
+Consultant: That’s a great example of your effort paying off! It shows that when you put in some effort, you can achieve good results. How does that realization make you feel about your studies moving forward? 
+
+User: It makes me feel a bit hopeful, I suppose. I just wish I felt that way more often.
+
+Consultant: Hope is a powerful feeling, and it’s completely normal not to feel it all the time. Would you be open to trying some techniques to help manage those challenging emotions when they arise, perhaps incorporating deep breathing or mindfulness exercises? 
+
+User: Yeah, I think I could try that. I have heard of mindfulness but never really practiced it.
+
+Consultant: That’s a great starting point! Mindfulness is about being present in the moment and acknowledging your thoughts and feelings without judgment. Would you like to try a simple breathing exercise together now to get a feel for it? 
+
+User: Sure, that sounds fine.
+
+Consultant: Let’s take a deep breath in through your nose for a count of four… hold it for a moment… and then slowly breathe out through your mouth for a count of six. Let’s repeat that a couple of times. How do you feel after that?
+
+User: I feel a bit more relaxed. I didn’t realize how tense I was.
+
+Consultant: I’m glad to hear that! It’s amazing how something as simple as focused breathing can help calm the mind. Practicing this regularly might assist you in reducing that frustration and boredom you feel when facing homework. Would you be willing to commit to trying this a few times a week? 
+
+User: Yeah, I think I can do that!
+
+Consultant: Fantastic! Also, remember that engaging with your classmates and discussing these feelings can help too. Maybe even share your experiences with your study challenges. Do you think that could be helpful? 
+
+User: Definitely! I feel like I could open up more, especially after seeing that I’m not alone in this.
+
+Consultant: That’s wonderful to hear, Marco. Building a support system is key. As we continue, it might help to keep track of your emotions and the techniques you try out. Would you like to create a simple journal or notes to log your thoughts and feelings? 
+
+User: I think writing things down could be useful. It might help me see things more clearly.
+
+Consultant: Absolutely! Writing can create clarity and serve as a reflection tool. Let’s set a goal for yourself: how about writing at least one entry per week about your feelings and the techniques you practiced? 
+
+User: That sounds doable. I’ll give it a shot.
+
+Consultant: Great! You’re making excellent progress today, Marco. Before our next meeting, revisit the breathing exercises and try your hand at journaling your thoughts. How do you feel about our session today? 
+
+User: I feel much better, actually. It’s nice to have someone understand what I’m dealing with.
+
+Consultant: I’m happy to hear that! Remember, you’re not alone in this journey. I look forward to our next session where we can discuss how these strategies are working for you. 
+
+User: Thanks! I’ll see you next time.
+
+Consultant: See you, Marco! Take care.
+###################
+Consultant: Hello, Ma! I'm glad to see you again. How have you been feeling since our last session?
+
+User: Hi! I've been feeling a bit more confident, especially after sharing my ideas in class. It was nice to get positive feedback from my teacher and classmates.
+
+Consultant: That's wonderful to hear! It sounds like that experience really made an impact on you. How has this increased confidence influenced your desire to participate in class discussions?
+
+User: I think I'm more willing to speak up now. I used to be afraid that people would laugh or think my ideas were silly, but now I feel like maybe my thoughts are valuable.
+
+Consultant: That's a significant shift in your thinking! Recognizing the value of your contributions is an important step. Can you share how this newfound confidence feels for you in class?
+
+User: It feels good. I feel like I belong more, and I actually look forward to discussing topics with my classmates now.
+
+Consultant: I'm glad to hear that, Ma! It’s great that you’re feeling a stronger sense of belonging. Let's explore how we can maintain this positive momentum. What small goals could you set to continue participating in class activities?
+
+User: Maybe I could aim to ask a question in each class or share my opinion at least once a week.
+
+Consultant: Those sound like excellent goals! They’re achievable and can help reinforce your confidence even more. How would you feel about tracking your progress on these goals?
+
+User: I think that would be helpful. If I can check off each time I do it, it would motivate me to keep going.
+
+Consultant: Tracking your progress can definitely serve as a great motivator. How about we discuss some strategies you can use to remind yourself to speak up when you're in class?
+
+User: Maybe I can take some notes before class with questions or comments I want to share. That way, I have something ready to say.
+
+Consultant: That’s a very proactive approach! Preparing notes can provide you with the confidence to express your ideas. How do you think this will impact your feelings during class discussions?
+
+User: I think it will make me less anxious because I won't have to think on the spot. Having notes will give me something to lean on.
+
+Consultant: Absolutely! It reduces pressure and allows you to engage more comfortably. Let’s reflect on the positive feedback you received recently. How can you use that acknowledgment to boost your confidence further?
+
+User: I could remind myself that my thoughts are valid and that people appreciate what I have to say, which makes me want to speak up more.
+
+Consultant: That’s an excellent realization, Ma. It’s important to hold onto that feedback as a source of strength. What could you do when you have doubts about speaking up in the future?
+
+User: I guess I can remind myself of the last time people reacted positively to my ideas and try to think about that moment.
+
+Consultant: That’s a great strategy! Visualizing those positive experiences can help counter any negative thoughts. Let's also consider how you could strengthen your relationships with your classmates further. What do you think?
+
+User: I could try to join in group discussions more or even suggest studying together. It might help me connect better with others.
+
+Consultant: Fantastic idea! Engaging in group studies can build bonds and create a supportive environment for sharing ideas. How does the thought of studying with classmates make you feel?
+
+User: It makes me a little nervous, but I also think it could be fun. Plus, it would be nice to get to know them better.
+
+Consultant: It’s completely natural to feel a bit nervous about stepping out of your comfort zone, but it’s also a great opportunity for connection. Would you be willing to take a small step towards setting up a study group?
+
+User: Yeah, I could ask a couple of classmates if they'd like to get together after school sometime.
+
+Consultant: That sounds like a wonderful plan! Taking that initiative can lead to positive experiences and strengthen your confidence further. Have you thought about how you would initiate the conversation?
+
+User: I could just say something like, “Hey, I’m thinking about studying for the upcoming test. Want to team up?”
+
+Consultant: That’s an excellent way to approach it! It's casual and inviting. Remember, it shows your willingness to engage. Lastly, let’s summarize our session today. What are you most proud of accomplishing regarding your progress in class participation?
+
+User: I’m proud of feeling more confident and planning to set goals for myself and take action to speak up more.
+
+Consultant: You should be proud! Recognizing your growth is vital. As we conclude, how do you plan to maintain this newfound confidence in your interactions both in class and at home?
+
+User: I’ll try to keep reminding myself of the positive feedback I’ve received and continue to set small goals for both school and my family communication.
+
+Consultant: That sounds like a solid plan, Ma. It’s essential to carry these positive experiences forward. Remember, you’re doing great, and I’m here to support you whenever you need it. 
+
+User: Thank you! I really appreciate your help and guidance. 
+
+Consultant: You’re very welcome! I'm looking forward to hearing about your progress in our next session. Take care, Ma!
+###################
+Consultant: Hello! I'm really glad to see you today. How are you feeling about your recent conversations with your parents?
+
+User: Hi! I actually feel pretty good about it. We've been communicating better lately, and it seems like our relationship is improving.
+
+Consultant: That sounds great! It’s wonderful to hear that you’re feeling more satisfied with how things are going. What specific changes have you noticed in your interactions with them?
+
+User: Well, I’ve been trying to talk rather than argue. I used to just shout back, but now I'm actually listening to what they say.
+
+Consultant: That’s a significant step forward! Listening can really help build that emotional connection. How do you feel when you listen to them now?
+
+User: It feels calmer. I guess I used to feel frustrated when they talked, but now I’m realizing they just want to help.
+
+Consultant: It’s really insightful of you to notice that. A calmer mindset can lead to better discussions. Do you find it easier to express your thoughts to them now?
+
+User: Yes, definitely! I don't feel the need to just defend myself all the time. I can tell them how I feel without it turning into a fight.
+
+Consultant: That’s excellent progress! Being able to express your feelings without conflict is a key part of constructive communication. Are there any specific strategies you’ve used that helped with these changes?
+
+User: I started taking a deep breath before responding. It helps me think before I react.
+
+Consultant: Breathing is a fantastic technique for staying calm. It sounds like you've been quite proactive in making positive changes. Do you feel this approach has influenced your emotions during your conversations?
+
+User: Yeah, I feel less anxious during our talks now. I used to dread them, but now it feels manageable.
+
+Consultant: That’s wonderful to hear! Feeling more at ease certainly sets a better tone for conversation. Have you thought about how you might maintain this momentum moving forward?
+
+User: I think I can keep reminding myself to listen and take my time when responding. It seems to be working.
+
+Consultant: That’s a great plan! Regular self-reminders can be very effective. Are there any challenges you anticipate might come up as you continue this journey?
+
+User: I guess sometimes it’s hard not to revert to my old ways. I just need to stay focused on what I’m trying to achieve.
+
+Consultant: It’s completely normal to have those concerns. Recognizing potential challenges is a good first step. What do you think you could do if you find yourself slipping back into old habits?
+
+User: Maybe I’ll just take a pause and go for a walk or something to clear my head before reacting.
+
+Consultant: That sounds like a solid strategy! Taking a break can really help in staying grounded. How do you think your parents would respond to this new approach?
+
+User: I think they’d appreciate it. I can tell they’re trying too, and they want to keep things positive between us.
+
+Consultant: It’s fantastic that both you and your parents are making efforts for a better relationship. Would it help to set some goals together with them to validate this progress?
+
+User: Yeah, that could be a good idea. Maybe we could set aside time each week to check in with each other.
+
+Consultant: That’s a wonderful idea! Regular check-ins can help keep the lines of communication open. What would you like to focus on during these check-ins?
+
+User: Well, I’d like to share how our conversations are going. Maybe ask them how they feel about the changes too.
+
+Consultant: That sounds great! Sharing feedback can strengthen the relationship. How do you think you’ll feel after those check-ins?
+
+User: I think it would be nice. It’d help me to feel more connected and supported.
+
+Consultant: Absolutely! Feeling connected is essential. As we wrap up this session, how do you feel about the improvements you've noticed in your family communication so far?
+
+User: I feel really proud. It’s not perfect, but we’re definitely on the right track.
+
+Consultant: You should be proud of the progress you’ve made! It's important to celebrate these achievements. Is there anything else you'd like to discuss today?
+
+User: No, I think we covered everything. I’m just excited to keep working on this!
+
+Consultant: That’s wonderful to hear! Remember, communication is a journey, and it’s great that you’re committed to ongoing improvement. I believe you can continue to manage this well. If you ever need support again, feel free to reach out. 
+
+User: Thank you! I appreciate your help. 
+
+Consultant: You’re very welcome! Take care, and I look forward to hearing about your progress in the future.
+###################

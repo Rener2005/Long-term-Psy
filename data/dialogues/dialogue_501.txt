@@ -1,0 +1,436 @@
+Consultant: Hello, C! I'm glad you're here for our session today. I want to start by checking in with you—how have you been feeling since our last conversation?
+
+User: Hi. I’ve been feeling really overwhelmed lately. School just started again, and everything feels so intense. I’m having such a hard time sleeping at night too, and I keep having these awful dreams.
+
+Consultant: I'm really sorry to hear that you're feeling this way. It sounds so tough to deal with such intense emotions and sleep issues. Can you share a bit more about what has been on your mind or what might be contributing to these feelings?
+
+User: Well, I think it’s school pressure. I feel like I have to excel because I’m the eldest, and there’s just so much expected from me. My dad can be really strict, and my mom doesn’t seem to help much either.
+
+Consultant: It sounds like you’re carrying a heavy load, especially being the oldest and feeling the expectations from your dad. Can you describe how these expectations make you feel? 
+
+User: I feel really sad and alone sometimes. Like, even when I'm at school, I struggle to connect with my classmates. I just want to fit in, but I feel out of place.
+
+Consultant: I can understand why you might feel alone. It seems like the pressure at home, combined with feeling disconnected at school, creates a really heavy emotional burden for you. Have you had a chance to talk to anyone about how you’re feeling at school?
+
+User: Not really. I don’t think anyone would understand. I’m worried they would judge me for it.
+
+Consultant: That sounds really isolating. It’s understandable to worry about judgment, but sometimes sharing our feelings with someone can help lighten that burden. What do you think is stopping you from reaching out to a friend or someone you trust?
+
+User: I guess I fear being seen as weak. It feels like I should be strong and just deal with it myself.
+
+Consultant: I hear you, C. It sounds like you feel a lot of pressure to appear strong. But it’s okay to ask for help. Remember that everyone struggles at times, and reaching out might actually show your strength. Can we explore what being “strong” means to you a little more?
+
+User: To me, being strong means never giving up and handling everything on my own. I feel like I should be able to do that, especially for my siblings.
+
+Consultant: That’s a powerful perspective; however, relying on others can also be a form of strength. Let’s think about this—if you were encouraging a friend in your position, what would you tell them about asking for support?
+
+User: I’d probably tell them it’s okay to talk about their feelings and that it’s normal to ask for help.
+
+Consultant: Exactly! So, how might it feel for you to apply that same advice to yourself? 
+
+User: It feels kind of relieving to think that I could talk about it, but I still feel nervous.
+
+Consultant: It’s completely normal to feel nervous about opening up. How about we consider some small steps you can take toward sharing your feelings, even if it’s just with somebody you trust?
+
+User: I think I could try talking to my younger sister. We sometimes share things, and I feel a bit safer with her.
+
+Consultant: That sounds like a great starting point, C! Sharing with your sister might not only help you feel less alone but also strengthen your bond. How do you think she might react?
+
+User: I think she would be understanding. She also feels stressed about school sometimes.
+
+Consultant: That shared understanding can create a supportive space for both of you. What do you think you could say to open that conversation with her?
+
+User: Maybe I could tell her I’ve been feeling overwhelmed and ask if she feels the same sometimes.
+
+Consultant: That’s a wonderful approach! Starting with your feelings and inviting her to share her experiences can foster a deeper connection. How about exploring a bit more about how these feelings of being overwhelmed affect your daily life?
+
+User: Well, it’s hard for me to concentrate on schoolwork, and I often feel drained. It’s like I want to do well but I just can’t seem to get there.
+
+Consultant: It sounds like the stress is really taking a toll on your focus and energy. What emotions surface when you struggle to concentrate? 
+
+User: I get frustrated and sometimes I just want to give up. It feels hopeless.
+
+Consultant: That frustration can be really draining. It’s important to acknowledge those feelings. What if we brainstorm some strategies to help you regain a sense of control and energy for your studies?
+
+User: I’d really like that. I’ve tried studying longer, but it only makes me feel worse.
+
+Consultant: Finding ways that work for you is key. Have you thought about breaking down your study tasks into smaller, manageable chunks? This way, you can celebrate small achievements instead of feeling overwhelmed by the whole task.
+
+User: I haven't tried that. It sounds easier, but I’m still worried it won’t help.
+
+Consultant: It’s natural to feel hesitant about a new approach. How about we set a small goal this week to try studying for a shorter period of time and see how that impacts your feelings?
+
+User: Okay, I could try studying for 20 minutes and then taking a break. That sounds doable.
+
+Consultant: That’s a fantastic plan! Taking breaks can really help refresh your mind. After your study session, how do you think you might reward yourself?
+
+User: Maybe I can watch a show I like or spend some time doodling. That sounds nice.
+
+Consultant: That sounds lovely, C! Finding joy in those little moments can be really uplifting. As we near the end of our session, what would you say has been the most valuable thing you’ve taken from our conversation today?
+
+User: I feel more encouraged to share my feelings, and I have some new strategies to try with my studying. It’s nice to have a plan.
+
+Consultant: I’m really glad to hear that! Remember, opening up and trying new strategies can take time, and that’s perfectly okay. As we move forward, what can you take with you to help maintain this newfound focus on sharing and managing your feelings?
+
+User: I think connecting with my sister and trying shorter study breaks will help me a lot.
+
+Consultant: Those are both excellent strategies to carry with you. I’m proud of you for taking these steps. If you ever feel overwhelmed again, remember that you can reach out for support, whether it’s here or with someone in your life. 
+
+User: Thank you! I feel more hopeful and motivated after talking with you.
+
+Consultant: You’re very welcome, C! It's been a pleasure working through these feelings with you. Remember, you aren't alone in this, and I believe in your ability to navigate these challenges. Until next time, take care of yourself!
+
+User: Bye! I’ll do my best!
+###################
+Consultant: Hi there, I'm glad to see you today! How has your week been? 
+
+User: Hi! Honestly, it's been tough. I feel really distant from my classmates, and I just can't shake off this feeling of loneliness. 
+
+Consultant: I understand that feeling distant can be really challenging. Can you tell me more about what happened in your class activity that made you feel this way?
+
+User: Well, I wanted to join in, but I felt too nervous to participate. I ended up just standing on the sidelines, watching everyone. It was really uncomfortable.
+
+Consultant: That sounds really difficult, feeling left out like that. It's understandable to feel nervous in those situations. What thoughts were going through your mind while you were watching?
+
+User: I kept thinking that nobody really wanted me there. I thought they would just laugh at me if I tried to join in.
+
+Consultant: It sounds like those thoughts were pretty harsh. How did those feelings impact your emotions during the activity?
+
+User: I felt really embarrassed and sad. I wanted to be part of the group, but I felt like I didn’t belong. 
+
+Consultant: Those feelings of sadness and embarrassment must have been quite overwhelming for you. Have you experienced similar feelings in other situations with your classmates?
+
+User: Yes, a lot. Sometimes I feel like I don't know how to connect with them or what to say, and it just makes me want to give up trying.
+
+Consultant: It’s really common to feel unsure about connecting with others, especially in a school environment. What if we looked at some of those thoughts and tried to challenge them? 
+
+User: I guess I’d like that. But it seems hard to change how I think.
+
+Consultant: I completely understand. It can be tough. Let's start by identifying some of those automatic thoughts you have when you feel nervous or out of place. 
+
+User: Okay, when I think about joining them, I always think, "They're not interested in me."
+
+Consultant: That’s really insightful! Let’s explore that thought a little more. What evidence do you have that supports that belief? 
+
+User: Well, I guess I see them laughing and having fun, but it feels like they’re not including me.
+
+Consultant: That makes sense. However, is there any evidence that suggests they want you to be included too?
+
+User: I mean, sometimes a few of them smile at me, but I just brush it off as them being polite.
+
+Consultant: Those smiles could actually be their way of inviting you in. What if, instead of assuming they're not interested, you considered that they might welcome your participation?
+
+User: I never thought of it that way. Maybe they wouldn’t mind me joining in.
+
+Consultant: Absolutely! Let’s keep exploring those moments when you felt included. Can you think of a time when someone reached out to you positively?
+
+User: There was a time when a classmate asked me to join a project with them. I felt really good at that moment. 
+
+Consultant: Fantastic! That sounds like a positive experience. How did it feel to be included in that project?
+
+User: It felt nice! I enjoyed working together and it made me feel more connected.
+
+Consultant: Great! Let’s use that feeling as a foundation. I want you to try to recall that moment when you start feeling negative about your relationships. Can we think about some strategies to help you connect with your classmates again?
+
+User: Okay. What should I do?
+
+Consultant: One idea could be to take small steps, like asking a classmate about their weekend or sharing something about your own activities. Would that feel manageable?
+
+User: I think so! It’s a bit scary, but I want to try.
+
+Consultant: That’s a positive attitude! Remember, it’s perfectly okay to feel nervous. What other activities could we plan together that might help you feel more confident in social situations?
+
+User: Maybe we could practice some conversations or role-play? 
+
+Consultant: Role-playing can certainly help. Let’s imagine a situation. How about we role-play you approaching a classmate to say hello?
+
+User: That sounds good! I’m imagining it already, and it feels a little less scary.
+
+Consultant: That’s wonderful progress! We can practice multiple scenarios to help build your confidence. How do you feel about setting small goals each week to help you connect?
+
+User: I like that idea! It seems less overwhelming.
+
+Consultant: Excellent! Let’s summarize what we’ve discussed today. We talked about your feelings of loneliness, challenged negative thoughts, and came up with strategies to help you connect. 
+
+User: Yes, and I feel a bit more hopeful!
+
+Consultant: That’s great to hear! I want you to remember this feeling as we move forward. You’re making progress, and I believe in your ability to connect more with your classmates. 
+
+User: Thanks, that means a lot! 
+
+Consultant: You're welcome! As we continue, let's work on maintaining this sense of hope and exploring further ways to enhance your social confidence. 
+
+User: I really want to keep working on this. Thank you for your support! 
+
+Consultant: Absolutely, I’m here for you. I’m looking forward to our next session where we can dive even deeper into your progress. 
+
+User: Me too! See you next time!
+
+Consultant: Take care, and remember to celebrate the small victories along the way. See you soon!
+###################
+Consultant: Hello, little C! I'm really glad you're here today. How have you been feeling lately?
+
+User: Hi. Honestly, I've been feeling really down. My mid-term exam scores didn't meet my expectations, and I just feel like I've failed. My parents didn't even seem to notice or support me, which makes it even worse.
+
+Consultant: I'm sorry to hear that you're feeling this way. It’s tough when you’re putting in so much effort and don’t feel recognized or supported. Can you tell me more about how this has been affecting you day-to-day?
+
+User: I’ve been feeling really overwhelmed and anxious. I used to enjoy studying, but now I dread it. Sometimes, I just sit at my desk and feel like I can't do anything.
+
+Consultant: It sounds like the pressure from school and the expectations you have for yourself are really weighing heavily on you. What do you think would help relieve some of that pressure or anxiety?
+
+User: I just wish I could feel more motivated and less stressed out. I want to enjoy studying again instead of feeling like I’m stuck.
+
+Consultant: That’s a great insight, wanting to enjoy your studies again. Let’s explore your expectations a bit more. What do you feel is a realistic goal for yourself in your studies right now?
+
+User: I guess I just want to pass! I set these really high goals for myself, like getting top scores, but now it just feels too much.
+
+Consultant: It’s completely normal to set high goals, but it can sometimes lead to discouragement if they feel unattainable. What if we tried breaking those goals down into smaller, more manageable steps? How would that feel to you?
+
+User: That might help... If I set smaller goals, maybe I wouldn’t feel so pressured. Like aiming to improve in one subject at a time or something.
+
+Consultant: Exactly! Focusing on one subject at a time can help you build confidence and make progress without overwhelming yourself. Can you think of one subject you’d like to focus on first?
+
+User: Maybe math. I’ve always struggled with it, but I want to improve.
+
+Consultant: Great choice! What small goal could you set for your math studies this week?
+
+User: I think I could aim to complete one chapter rather than trying to finish everything at once.
+
+Consultant: That sounds very doable! Completing one chapter will give you a sense of accomplishment without feeling overwhelmed. How do you feel about this plan?
+
+User: I feel a bit more hopeful! It seems less scary.
+
+Consultant: I'm glad to hear that! Hope is a powerful thing. As you work on this goal, how can you celebrate your progress or reward yourself for completing the chapter?
+
+User: I could treat myself to some time with my favorite show or a small snack when I finish!
+
+Consultant: I love that idea! Rewarding yourself can help motivate you to stick to your goals. Remember, it’s important to recognize your hard work. How will you remind yourself to stay positive during this process?
+
+User: Maybe I can write down some positive affirmations or reminders about my abilities. 
+
+Consultant: That’s a fantastic strategy! Writing down positive affirmations can really change your mindset. If you ever find yourself feeling overwhelmed, it could be helpful to read those affirmations aloud to yourself. 
+
+User: That sounds helpful, I think I’ll try it!
+
+Consultant: Excellent! I’m excited for you to start this journey. It’s all about small steps and finding what works for you. Is there anything else you want to talk about today?
+
+User: Not really, I feel like we covered a lot. I appreciate your help!
+
+Consultant: You’re very welcome, little C! I’m proud of you for opening up and sharing today. Remember, it’s okay to take things one step at a time. Let’s continue building on this progress in our future sessions. 
+
+User: Yes, I’m looking forward to it! Thank you!
+
+Consultant: You're doing great! Keep believing in yourself, and we’ll work together to find more ways to manage your emotions and studies. See you next time!
+###################
+Consultant: Hello, C! I'm glad you're here for our session today. How have you been feeling recently?
+
+User: Hi there! I’ve been feeling a bit better, actually. I attended a mental health workshop at school, and it sparked my interest in learning more about managing my emotions. 
+
+Consultant: That sounds like a positive experience! It’s great to hear that you’re feeling a bit better. What specifically about emotional management are you hoping to understand or practice more?
+
+User: I want to learn techniques to regulate my emotions better, especially when I feel overwhelmed at home with my dad’s strict expectations.
+
+Consultant: I understand that family dynamics can be challenging, especially with a strict parent. Let's explore some techniques that can help you manage those feelings. Have you had a chance to try any specific techniques since the workshop?
+
+User: Not really. I’m not sure where to start. 
+
+Consultant: That's completely okay! We can take it step by step. One technique that many people find helpful is deep breathing. It's a simple way to calm your mind and body when you're feeling overwhelmed. Would you like to try that together?
+
+User: Sure, I’d be open to trying it. 
+
+Consultant: Great! Let's try a simple deep breathing exercise. Find a comfortable position, and we'll inhale deeply through our noses for a count of four, hold it for a count of four, and then exhale slowly through our mouths for a count of four. Ready?
+
+User: Okay, I’m ready. 
+
+Consultant: Alright, let's begin. Inhale… 2… 3… 4… Hold… 2… 3… 4… Now exhale… 2… 3… 4… How do you feel after that?
+
+User: It feels a bit relaxing. I think I could see myself doing this more often.
+
+Consultant: I’m glad to hear that! Deep breathing can be a fantastic tool. It's helpful to practice regularly, especially before challenging situations, like interacting with your dad. Have you noticed any specific moments where you struggle emotionally with him?
+
+User: Yes, usually when he critiques my schoolwork. I tend to feel really stressed and anxious, thinking that I’m not good enough.
+
+Consultant: That’s a tough situation, feeling critiqued can be very stressful. What thoughts go through your mind when those moments happen?
+
+User: I often think, “I’ll never meet his expectations.” It feels like I’m always disappointing him.
+
+Consultant: It sounds like those thoughts are quite heavy for you. Let’s look at that belief together. On a scale of 1 to 10, how true does that thought feel to you right now?
+
+User: Probably an 8. It feels pretty true.
+
+Consultant: Thank you for your honesty. Now let’s challenge that thought a bit. Can you think of any times where you did meet his expectations or times when he was proud of you?
+
+User: Well, I did receive good grades on my last exams, and he seemed happy about that.
+
+Consultant: That’s an important piece of evidence! It sounds like you have accomplished things that he appreciates. Let’s try to reframe your thought then. Instead of “I’ll never meet his expectations,” what’s a more balanced thought you could tell yourself?
+
+User: Maybe I can meet some of his expectations sometimes?
+
+Consultant: That sounds much more balanced! It acknowledges your efforts while also recognizing that it’s normal to have ups and downs. How does that new thought make you feel?
+
+User: It feels a little lighter. Like maybe there’s hope.
+
+Consultant: I’m really glad to hear that! Hope can be a powerful motivator. As we continue, we can focus on cultivating that hope and recognizing your strengths. Now, let’s also talk about practical steps you can take to improve your relationship with your dad. What do you think you could do this week to bridge that gap?
+
+User: Maybe I could try talking to him about how I feel? 
+
+Consultant: That sounds like a wonderful idea! Opening up to him could foster understanding and help him see your perspective. How do you feel about initiating that conversation?
+
+User: I feel a bit scared, but I think it could be worthwhile.
+
+Consultant: It’s completely normal to feel scared. A helpful approach might be to express your feelings using “I” statements, like “I feel anxious when…” This way, it focuses on your feelings rather than sounding accusatory. Would you like to role-play a bit?
+
+User: Yes, that could help.
+
+Consultant: Great! I'll be your dad. Start whenever you’re ready. 
+
+User: Alright… “Dad, I feel really anxious when you critique my schoolwork… it makes me feel like I’m not good enough.” 
+
+Consultant: I appreciate your honesty, C. How do you think your dad might respond?
+
+User: I’m not sure, maybe he’ll get defensive?
+
+Consultant: That’s a possibility. Preparing for that response can help you feel more in control. If he does respond that way, remember to stick to your feelings and how it affects you. It’s about opening a line of communication. Does that feel clear?
+
+User: Yes, it feels more manageable now.
+
+Consultant: Excellent! Building this skill will take time, but it’s a step toward improving your connection with him. As we wrap up, what do you think you’ll take away from our session today?
+
+User: I think I’ll practice deep breathing and try to talk to my dad about my feelings. 
+
+Consultant: That sounds like a solid plan! I’m proud of you for taking these steps. Remember to reach out if you need support or guidance along the way. You’ve made wonderful progress. 
+
+User: Thank you! I'm feeling hopeful about things.
+
+Consultant: I’m so glad to hear that! Keep building on that hope. I look forward to our next session. Take care, C!
+###################
+Consultant: Hello, C! I'm glad to see you today. How have you been feeling since our last session?
+
+User: Hi! I've been feeling a mix of happiness and anxiety. My dad has started to pay more attention to my studies, which makes me feel somewhat supported, but I'm worried if it’s just temporary.
+
+Consultant: It’s great to hear that you're feeling some support from your dad, even if it comes with a bit of anxiety. Let’s explore this further—what specifically made you feel happy about the support, and what are the worries you have about it being temporary?
+
+User: Well, I feel like he actually cares now, and he asks about my homework. But I’m scared that once I improve my grades, he’ll go back to being strict and not really notice me again.
+
+Consultant: That makes sense. It sounds like you appreciate his current involvement but have fears about it not lasting. Let’s think about how you might communicate these feelings to him. What would you want him to know?
+
+User: I’d want him to understand that I appreciate his support but that I need him to keep talking to me about my feelings, not just my grades.
+
+Consultant: It’s wonderful that you’re recognizing the importance of expressing your feelings. How comfortable do you feel about starting that kind of conversation with him?
+
+User: I’m not sure. I feel nervous because I don’t want to upset him or make him think I’m not trying hard enough.
+
+Consultant: It’s completely normal to feel nervous about these conversations, especially with someone you want to impress. Would it help to practice how you might start that conversation together?
+
+User: Yes, I think that would help! I just want to say the right thing.
+
+Consultant: Let’s try a role-play. Pretend I’m your dad. You can start the conversation however you feel is right.
+
+User: Okay… Dad, can we talk? I’ve been feeling like I need your support—not just for my grades, but also emotionally.
+
+Consultant: That’s a good start, C! How do you think I, as your dad, might respond? 
+
+User: I guess he might say he’s proud of my effort but might get defensive.
+
+Consultant: That's a valuable insight. If he responds defensively, how can you redirect the conversation back to your feelings? 
+
+User: Maybe I could say, “I appreciate that, but I also need to feel like I matter beyond my grades.”
+
+Consultant: Exactly! That could help him understand your perspective better. How do you feel about saying that in real life?
+
+User: I feel a bit more confident. It helps to have a plan!
+
+Consultant: I’m glad to hear that! It’s important to have a plan. Let’s talk about some other strategies you can use if the conversation doesn’t go as expected. For example, how can you keep the dialogue open if he becomes more focused on grades again?
+
+User: I could remind him that I can’t always do great in everything and that emotional support is just as important for me. 
+
+Consultant: That’s a strong point, C. It’s all about balancing academic expectations with emotional connection. How do you think this conversation might change your relationship with him moving forward?
+
+User: I think it could help us understand each other better and make things less tense at home.
+
+Consultant: That’s a great insight! Building that understanding is key. Let’s also discuss ways to reinforce this positive change. What can you do to keep this dialogue going over time?
+
+User: Maybe I can have regular check-ins with him about how things are going—not just about my schoolwork.
+
+Consultant: That's an excellent idea! Regular check-ins could foster a more supportive atmosphere at home. How do you feel about initiating those?
+
+User: I think I can do that. It’s nice to think about having our own little tradition.
+
+Consultant: I love that notion of creating a tradition! It will definitely deepen your connection. As we wrap up today, what would you say are your main takeaways from our conversation?
+
+User: I’ve learned that it’s okay to express my feelings and that I can have a say in how I want my dad to support me.
+
+Consultant: Absolutely! You're gaining valuable communication skills that will serve you well. How confident do you feel about implementing these strategies in your relationship with your dad?
+
+User: I feel much more confident now! I believe I can do it.
+
+Consultant: That’s fantastic to hear, C. Let’s continue to build on this momentum in our next session. Remember, it’s all about maintaining progress. 
+
+User: Thank you! I'm really looking forward to it.
+
+Consultant: You’re welcome! Keep practicing, and I look forward to hearing how it goes next time. Take care!
+###################
+Consultant: Hello, Xiao C! It's great to see you again. How have you been since our last session?
+
+User: Hi! I feel a bit better actually. I've been enjoying my time with my new friends in the club, but I still sometimes feel overwhelmed at home.
+
+Consultant: I'm glad to hear that you've made new friends and are enjoying yourself! It's understandable to feel overwhelmed given your family situation. Can you tell me a bit more about what makes you feel overwhelmed at home?
+
+User: Well, my dad is pretty strict, and sometimes he just doesn't understand me. I feel like he expects too much from me, and it creates a lot of pressure.
+
+Consultant: That sounds really tough. It's hard when you feel like there's a lot of pressure coming from someone close to you. How does this strictness affect your daily life or your emotions?
+
+User: It makes me anxious, and sometimes I feel like I can't meet his expectations no matter how hard I try. I just wish he would listen and be more supportive.
+
+Consultant: It's completely valid to want support and understanding from your father. It sounds like you're feeling both anxious and frustrated. Have you been able to express these feelings to him at all?
+
+User: I haven't really talked to him about it. I’m scared he might get angry or dismiss my feelings. 
+
+Consultant: That makes sense; it can be intimidating to open up about deep feelings, especially with someone you care about. It might help to think of some ways to communicate your feelings in a way that he can understand better. What do you think would help in having that kind of conversation?
+
+User: Maybe if I wrote a letter to him? I could explain how I feel without getting too nervous in the moment.
+
+Consultant: Writing a letter sounds like a wonderful idea! It gives you the chance to express yourself freely and allows him to process your feelings without an immediate reaction. How do you think you would feel after sending that letter?
+
+User: I think it would be a relief to finally get everything off my chest, even if I’m not sure how he will react.
+
+Consultant: Releasing those feelings can certainly help you feel lighter. It’s a courageous step to take. Have you thought about who else in your life might be able to support you while navigating this situation at home?
+
+User: I think my mom could help, but sometimes she seems a bit distant with her own things. 
+
+Consultant: It's great that you recognize your mom as a potential support. Even if she might seem distant, you could still choose to share your feelings with her. Do you think she would listen if you opened up about how her support could help you with your dad?
+
+User: I think she would be open to listening; it’s just hard for me to start that conversation.
+
+Consultant: Starting that conversation can definitely be a challenge. Maybe you could practice what you want to say in front of a mirror to build confidence before talking to her. How does that sound?
+
+User: That might actually work! I could rehearse so I don't get too nervous and forget what I want to say.
+
+Consultant: Absolutely! Practicing can help you feel more prepared and confident. And remember, it’s okay to be honest about your feelings—you're doing this for your own well-being, which is very important. 
+
+User: Yeah, I really want to manage my feelings and not let them get the best of me.
+
+Consultant: That’s a strong outlook to have, Xiao C. You've made progress in understanding your emotions, and these steps can further empower you to maintain that stability. Have you noticed any changes in how you handle your feelings since we began our sessions?
+
+User: I think I’ve been more aware of my feelings and trying to take time for myself. It’s helped me not feel as overwhelmed.
+
+Consultant: That’s fantastic to hear! Self-awareness is a significant part of emotional management. Can you think of any specific strategies or activities you’ve used to take care of yourself?
+
+User: I started drawing again and listening to music when I feel stressed. It makes me feel better.
+
+Consultant: Those are wonderful activities! Creative outlets and music can indeed be soothing. Perhaps you could make a list of things you enjoy doing that help bring you calm—this could be your little toolkit for stress relief.
+
+User: That’s a good idea! I can keep that list handy for when I need it.
+
+Consultant: Exactly! Having a toolkit can be a great reference when you need to relieve stress. As we wrap up today’s session, let’s review the steps we discussed: writing a letter to your dad, possibly talking to your mom, and building a stress-relief toolkit. How do you feel about these steps?
+
+User: I feel more hopeful about trying them! It's nice to have a plan.
+
+Consultant: I'm so glad to hear that, Xiao C! You’ve shown great openness to change and improvement. Remember that growth takes time, and it's okay to take things one step at a time. For our next session, we can discuss how your conversations went and any new thoughts that come up.
+
+User: That sounds good! Thank you for your help today.
+
+Consultant: You're very welcome! I'm proud of you for taking these steps. Don't hesitate to reach out if you need anything before our next session. Take care, and I'll see you soon!
+
+User: See you soon!
+###################

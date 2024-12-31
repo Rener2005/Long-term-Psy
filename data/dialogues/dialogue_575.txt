@@ -1,0 +1,396 @@
+Consultant: Hello Lin! I'm glad to see you again today. How have you been feeling since our last session?
+
+User: Hi. I’ve been feeling really lost. The pressure from my extended graduation just keeps weighing on me, and I don’t know how to move forward.
+
+Consultant: It sounds like you're experiencing a lot of emotional weight from your extended graduation. Can you share more about what thoughts or feelings come up for you when you think about your situation?
+
+User: I keep thinking that I’ve failed, and it's hard to shake off that feeling of disappointment in myself. I feel like my future is uncertain, and that makes me want to just hide from it all.
+
+Consultant: Feeling like you've failed can be incredibly heavy to carry. It's understandable that this situation has made you want to retreat. Let's explore what specific thoughts contribute to that feeling of failure. What goes through your mind when you reflect on your academic journey?
+
+User: I think about all the opportunities I've wasted, and how other classmates are moving forward while I'm stuck. It feels really isolating.
+
+Consultant: It’s understandable to feel isolated, especially when you compare your journey to others. Can you tell me more about how these comparisons affect your emotions and mindset?
+
+User: They just make me feel worse... like I'm not good enough. I see them succeeding, while I feel like I've fallen so far behind. Sometimes I even wonder if I’ll ever catch up.
+
+Consultant: Those thoughts can be quite harsh. Let’s challenge them a bit. Is it possible that you're only seeing a part of the picture? What evidence do you have that you can't catch up? 
+
+User: I guess... I don’t have any real evidence. It just feels like such a huge mountain to climb. 
+
+Consultant: That's a valid feeling, Lin. Climbing a mountain can feel daunting, but it’s important to remember that progress is often made step by step. What small steps do you think you could take to start that climb?
+
+User: Maybe I could create a study plan or set little goals for myself... But I’m afraid I won’t stick to them or that it’ll just feel like too much.
+
+Consultant: Setting small, manageable goals is a great start. It doesn’t have to be overwhelming. Perhaps we can break it down together. What’s one tiny goal you could set for yourself this week?
+
+User: I think I could aim to review just one chapter of my notes each day. 
+
+Consultant: That sounds like a wonderful goal! It's specific and achievable. How do you feel about committing to that for this week?
+
+User: I feel a bit more hopeful. It seems more doable rather than overwhelming.
+
+Consultant: That’s a positive perspective! Now, let’s explore how you might reward yourself for completing those goals to keep your motivation high.
+
+User: Maybe if I stick to the plan, I could treat myself to a movie or something fun. 
+
+Consultant: That sounds like a great way to celebrate your efforts! Positive reinforcement can really help. Now, what about your social engagements? Have you considered reconnecting with classmates or friends as part of your journey?
+
+User: I haven't thought much about that. I’ve been avoiding them since the graduation delay. 
+
+Consultant: It’s normal to want to withdraw, but social support can be incredibly beneficial. How might starting to reconnect feel for you? 
+
+User: I think it might be nice, but I’m also nervous they’ll judge me for not graduating on time.
+
+Consultant: That’s a common fear, but remember, everyone goes through tough times in their lives. If a friend were in your position, how would you respond to them?
+
+User: I would probably tell them it’s okay and that everyone has their own pace.
+
+Consultant: Exactly! You would show them kindness and understanding. You deserve that same kindness. What if we brainstorm some ways to gradually reconnect, perhaps starting with just a casual message?
+
+User: I could message one or two of my closer friends and see if they want to hang out.
+
+Consultant: That’s a wonderful idea, Lin! It’s a small step that could bring positive social interaction back into your life. How do you plan to approach that?
+
+User: I’ll try to reach out this weekend. I think I can do that.
+
+Consultant: That sounds like a solid plan! Remember, taking these steps is all part of rebuilding your confidence. If things feel overwhelming, return to the small goals we've worked on together. What other thoughts or feelings come to mind about our session today?
+
+User: I feel a bit lighter after talking about everything. I didn’t realize I could approach things one step at a time.
+
+Consultant: That’s wonderful to hear! It’s about progress, not perfection. As we wrap up today, let’s summarize what you’ll focus on moving forward. You’ll set daily study goals and work on reconnecting with friends this weekend. How does that sound?
+
+User: That sounds good! I think I can handle that.
+
+Consultant: Great! I believe in you, Lin. Let's check in next session to see how those steps went and continue building your confidence. Remember, it's a journey, and you’re not alone in this.
+
+User: Thank you. I appreciate the support. I’ll see you next time!
+
+Consultant: You're very welcome! Looking forward to our next session. Take care!
+###################
+Consultant: Hello, Lin! I’m glad to see you again. It’s wonderful that you’re working on organizing your academic plans. Tell me, how have you been feeling since our last session?
+
+User: Hi! I’ve had some improvements, but I still find myself doubting my ability to complete my studies. The shadow of delaying my graduation keeps haunting me, and I often want to avoid dealing with my work.
+
+Consultant: It sounds like you’re experiencing a mix of hope and uncertainty. That’s completely understandable given what you’ve been through. Can you share more about what specific thoughts come to your mind when you think about your studies?
+
+User: I often think about how I failed in so many subjects before, and it feels like I can’t change anything. The idea of another setback just makes me want to run away from it all.
+
+Consultant: It’s tough when past experiences weigh heavily on your mind. Let’s explore those thoughts a bit more. When you think, “I can’t change anything,” how does that make you feel?
+
+User: It makes me feel really anxious and hopeless. I just wish I could see a way forward.
+
+Consultant: Feeling anxious and hopeless is tough to bear. Let’s challenge that thought together. What evidence do you have that says you can’t change your situation? Have you noticed any times when you’ve made progress, even if it’s small?
+
+User: Well, I did start to plan my studies again, so I guess that’s something. But it still feels so overwhelming, like I’m just going in circles.
+
+Consultant: It's a great step that you’re taking the initiative to plan! It’s normal to feel overwhelmed when trying to change. What other ways can you think of to break the cycle from feeling stuck to feeling productive?
+
+User: Maybe I could set smaller goals for myself? Like focusing on one subject at a time instead of thinking about everything at once.
+
+Consultant: That sounds like a very practical approach! Setting smaller goals can help reduce that overwhelming feeling. What would be a small goal you could set for yourself this week?
+
+User: I think I can aim to study one chapter of a subject. Just one chapter doesn’t seem too intimidating.
+
+Consultant: That’s an excellent goal, Lin! Taking it step-by-step makes it more manageable. What do you think might help you stay on track with that goal?
+
+User: I guess I could create a schedule for when I’ll study that chapter and maybe set aside a specific time for it each day.
+
+Consultant: Creating a schedule is a powerful tool. It gives you structure and helps keep you accountable. After you create this schedule, how will you feel if you stick to it?
+
+User: I think if I can stick to it, I’d feel more accomplished and maybe it would boost my confidence a bit.
+
+Consultant: Absolutely! Accomplishing those planned tasks can definitely help restore your confidence. Remember, it’s normal for change to take time. What might you do to remind yourself of your achievements along the way?
+
+User: I could keep a journal to note down my progress and maybe reward myself for completing my goals.
+
+Consultant: A journal can be a wonderful way to track progress and reflect on your journey. What kind of rewards do you have in mind for yourself when you achieve those goals?
+
+User: Maybe treating myself to my favorite snack or taking a break to watch a movie after finishing my study for the day.
+
+Consultant: Those sound like nice rewards! It’s important to celebrate your victories, no matter how small they are. Let’s also discuss those avoidance feelings when studies feel too daunting. What could you do when you notice yourself wanting to avoid studying?
+
+User: I could try to remind myself of the goals I set and why I wanted to reach them in the first place. Maybe even talk to someone for support.
+
+Consultant: That’s a great strategy—reminding yourself of your ‘why’ can reignite your motivation. It’s also valuable to reach out to someone you trust for support. How do you feel about sharing your struggles with someone?
+
+User: I might feel a bit vulnerable doing that, but it could help. I should give it a try.
+
+Consultant: Vulnerability can be challenging, but it often opens the door to support and connection. It’s brave of you to consider this. Let’s take a moment to reflect on the steps you’re planning to take this week. How do you feel about these goals now?
+
+User: I feel a bit more hopeful. If I can just focus on one chapter and reach out when I’m feeling overwhelmed, it seems more doable.
+
+Consultant: It’s wonderful to hear you feeling hopeful! Remember, every small step counts. As we wrap up, what’s one key takeaway from today’s session that you want to keep in mind?
+
+User: I want to remember that I can take things one step at a time and that it’s okay to ask for help.
+
+Consultant: That’s a powerful takeaway, Lin. I believe you can manage this, and I’m here to support you. Let’s plan to check in about your progress in our next session. You’re making great strides!
+
+User: Thank you so much! I really appreciate your guidance.
+
+Consultant: You’re very welcome! I’m looking forward to hearing about your progress. Take care until we meet again!
+###################
+Consultant: Hello! I'm glad you're here today. How have you been feeling since our last session?
+
+User: Hi. I've been struggling a lot lately. I want to get involved in my club activities and studies, but I often find myself procrastinating. It's frustrating because I really want to change, but it feels like I'm stuck.
+
+Consultant: I can sense your frustration, and it's great that you're expressing your desire to change. Can you tell me more about what happens when you try to start your activities or studying?
+
+User: Sure. When I sit down to study or prepare for club events, I feel overwhelmed. I keep thinking about all the things I need to do, and then I just end up scrolling on my phone or watching videos instead. 
+
+Consultant: That sounds challenging. It seems like the thoughts about what you need to accomplish may be causing some anxiety, which leads to avoiding those tasks, right? What do you think is at the heart of that overwhelming feeling?
+
+User: Yes, I think so. I worry that I won’t do well, especially after failing so many classes. I keep telling myself that if I don't start now, I can't do it at all.
+
+Consultant: It sounds like you might have some very high expectations of yourself, and that can indeed contribute to feeling paralyzed. What evidence do you have that starting now means you can’t succeed, compared to the possibility of making progress little by little?
+
+User: I guess there's no solid proof. It’s just how I feel based on past failures. But deep down, I know I should at least try.
+
+Consultant: It’s important to recognize that those feelings stem from past experiences, but they don't have to dictate your future. What if we could challenge and reframe those thoughts together? How would you feel about starting with small, manageable steps instead?
+
+User: That sounds okay. I could probably manage some small tasks. But what if I still feel like I don’t want to do them? 
+
+Consultant: That’s a valid concern. Let’s explore that. Instead of thinking about the tasks as chores or burdens, how can we reframe them as opportunities to enjoy and learn? What if you picked something you genuinely find interesting to start with?
+
+User: I suppose that could help. I do have some interests, like programming and game design. Maybe I could start there.
+
+Consultant: Absolutely! Starting with something that excites you can help ignite your motivation. How about setting a specific time frame, like 20 minutes, to work on programming? What are your thoughts on that?
+
+User: Yeah, 20 minutes sounds manageable. I think I could do that to begin with. 
+
+Consultant: Great! And after those 20 minutes, take a moment to reflect on how you felt about it. How about we set a plan for the next week where you could repeat this practice a few times? 
+
+User: That sounds doable. I could try it out and see how I feel about it. 
+
+Consultant: That’s the spirit! As you engage in these small tasks, pay attention to any changes in your feelings or thoughts afterward. It’s a way to gather evidence that not all action results in anxiety. 
+
+User: I will try to see it as evidence. Sometimes it’s hard for me to believe things can change.
+
+Consultant: I understand. Change can feel daunting, especially when faced with setbacks. But remember, every small step counts. What strategies can you use to encourage yourself to stick with this plan?
+
+User: Maybe I could remind myself why I wanted to get involved in the club and studies in the first place. That might help.
+
+Consultant: Exactly! Reminding yourself of your motivations can serve as a powerful tool to push through resistance. Can we also talk about how you might celebrate small wins when you successfully engage in these tasks?
+
+User: Celebrating might be helpful! I like the idea of treating myself to a favorite snack or doing something fun after I complete the tasks.
+
+Consultant: That’s a wonderful idea! Positive reinforcement can definitely boost motivation. So, let’s recap your plan. You'll work on programming for 20 minutes a few times this week, encourage yourself with reminders of your motivations, and celebrate your progress afterward. Sound good?
+
+User: Yes, I feel more confident about it now. I’m nervous but also excited to try!
+
+Consultant: That’s a fantastic mindset to have! It’s normal to feel nervous when trying something new, but excitement can be a great driving force. Remember, it’s about consistency rather than perfection. 
+
+User: I’ll keep that in mind. I really want to make this work.
+
+Consultant: You have the determination, and that’s key! Let’s stay committed to this plan, and in our next session, we can discuss how it went, what worked, and what might need adjustment.
+
+User: Thank you so much! I appreciate your help.
+
+Consultant: You're very welcome! I'm looking forward to hearing about your progress next time. Remember, take it one step at a time, and feel free to reach out if you need support along the way. 
+
+User: I will. See you next time!
+
+Consultant: See you then! Take care!
+###################
+Consultant: Hello Lin! I'm glad you're here for our session today. How have you been feeling lately about your studies and the training classes you’ve started?
+
+User: Hi! I’ve been trying to stay positive. I recently started attending a few extracurricular training classes to improve my skills, but I often feel unsure if I can stick with it. Sometimes, I wonder if I can maintain my motivation.
+
+Consultant: It's great to hear that you're taking steps to enhance your skills through training. Feeling uncertain about maintaining motivation is completely understandable. Can you share a bit more about what keeps you interested in these training sessions?
+
+User: I suppose I find them somewhat engaging because they focus on practical skills. But sometimes, the thought of my past failures in school creeps in, and it makes me doubt whether I can really succeed in improving myself.
+
+Consultant: I can see how past experiences might cast a shadow on your current efforts. It's important to recognize those feelings. What specific thoughts come to your mind when you think about those past difficulties?
+
+User: I often think about how I failed multiple courses in my last year, and I feel like I’m repeating the same mistakes. It makes me anxious, thinking that I might not achieve what I aim for.
+
+Consultant: That sounds really tough, Lin. Your concerns about repeating past mistakes are valid. Let's explore this further: how do these thoughts affect your motivation to attend your training classes?
+
+User: They definitely make it harder to stay committed. Sometimes, I feel overwhelmed and think it might be easier just to give up, especially when I face challenges.
+
+Consultant: It sounds like you're caught in a cycle of negative thinking that leads to feeling overwhelmed. Let's try to challenge those thoughts a bit. If a friend were in your position, what would you tell them about facing these challenges?
+
+User: I’d probably encourage them not to give up and remind them that improvement takes time. I guess I’m just too hard on myself.
+
+Consultant: That's a compassionate perspective to have for others. What if you could apply that same understanding to yourself? How might that change how you approach your studies and training?
+
+User: I think I’d feel more relaxed and focused on the progress I’m making rather than fixating on my past failures.
+
+Consultant: Exactly! Focusing on your progress can be empowering. Let’s think about some practical steps: what small, achievable goals could you set for yourself in your training to help build that sense of progress?
+
+User: Maybe I could aim to complete one training session each week without missing any. That feels manageable.
+
+Consultant: That sounds like a solid plan! By focusing on completing one session each week, you’ll be taking a concrete step forward. How could you reward yourself after achieving this goal to encourage consistency?
+
+User: I could treat myself to something enjoyable, like watching a movie or eating my favorite dessert after each session.
+
+Consultant: I love that idea! Rewarding yourself can create positive reinforcement for your efforts. How do you feel about establishing this as a regular part of your routine?
+
+User: It feels motivating! I like the idea of having something to look forward to after meeting my goals.
+
+Consultant: That's wonderful to hear! It's encouraging to see you identifying motivation through rewards. As we continue, how can you remind yourself of this motivation when self-doubt arises?
+
+User: I suppose I could write down my achievements and the rewards I plan to give myself. That way, I have a visual reminder of what I’m aiming for.
+
+Consultant: That’s an excellent strategy! Keeping a record of your achievements and reminders of your rewards can help keep you focused on your goals. How do you feel about keeping a journal for this purpose?
+
+User: I think a journal could really help me track my progress and remind me of the positives. I’ll definitely give it a try.
+
+Consultant: I'm glad to hear that! Journaling can be a great tool for reflection and motivation. We’ve discussed quite a bit today. Can you summarize what you've learned about maintaining your motivation towards your training and studies?
+
+User: I’ve realized that I need to be kinder to myself and focus on my progress instead of my past mistakes. Setting small goals and rewarding myself will help keep me engaged.
+
+Consultant: That’s a fantastic insight, Lin. Remember, the journey towards your goals isn’t just about the destination but also the growth along the way. As we wrap up, how do you feel about your future studies and career development now?
+
+User: I feel more hopeful about my future. I want to explore career paths that relate to what I’m learning, and I’m excited about the possibilities ahead.
+
+Consultant: That’s a positive shift! As you think about your career development, what steps can you take to connect your studies with your future career aspirations?
+
+User: I could look into internships or projects that align with my training. That would give me practical experience and clarify what I want to pursue.
+
+Consultant: Absolutely! Gaining practical experience can be valuable in guiding your career path. You’ve made significant progress today, Lin. How do you feel about our session, and what do you take away from it?
+
+User: I feel encouraged and clearer about my path. I appreciate the strategies we discussed and feel more motivated to stick with my studies.
+
+Consultant: I'm delighted to hear that! You've done great work in this session. Remember, it’s all about taking one step at a time. If you ever need support, I'm here for you. I look forward to our next session!
+
+User: Thank you! I appreciate your help and guidance. See you next time!
+###################
+Consultant: Hello, Lin! I'm glad you're here today. How have you been feeling about your career development since our last session?
+
+User: Hi! I've been thinking a lot about it after attending that lecture. I'm feeling a mix of excitement and anxiety about how to tie my studies into my future career.
+
+Consultant: It makes sense to feel both excited and anxious. This is a significant transition in your life. Can you share more about what specific aspects of your studies and career path you’re feeling anxious about?
+
+User: Well, I’m not sure how to leverage my degree in automated control for jobs. I’ve also been struggling with my studies and whether I can turn that around to fit into a career path.
+
+Consultant: Let's explore this together. What do you think would help you feel more secure in understanding how your studies can align with potential career options?
+
+User: I think I need to identify what roles I could pursue with my degree and maybe understand what skills employers are looking for.
+
+Consultant: That’s a great start! Identifying potential roles and the required skills is essential. Have you done any research on jobs related to automated control, or have you spoken to anyone in that field?
+
+User: I’ve looked at job postings online, but most of them require experience I don’t have, which makes me feel disheartened.
+
+Consultant: It’s completely normal to feel disheartened when faced with such circumstances. Remember, everyone starts somewhere, and many entry-level roles are designed to help you grow. What if we try to identify the skills you already have from your studies that are applicable in those roles?
+
+User: That could help. I’ve learned a lot about control systems and programming, but I feel like I really dropped the ball on practical application.
+
+Consultant: It's important to remember that theoretical knowledge is a solid foundation. What if you think about some projects or experiences, even in a classroom, that can demonstrate your skills?
+
+User: I did work on a group project in college where we developed a small automation system. I think that could be relevant.
+
+Consultant: Absolutely, that’s a valuable experience! It's a solid example of your ability to apply what you learned. How do you feel about using that project as a talking point in your resume or interviews?
+
+User: I feel a bit nervous about it since it wasn’t a ‘real job’ experience, but I guess it’s something I could highlight.
+
+Consultant: It’s definitely worth highlighting! Many employers appreciate related projects or team experiences. What if we challenge that thought of needing ‘real job’ experience? What other experiences could you mention?
+
+User: I suppose I could mention my academic achievements and any relevant coursework as well.
+
+Consultant: Good thinking! Your accomplishments and coursework can showcase your capabilities. How do you feel about blending your academic results with your project work during interviews or in your resume?
+
+User: That sounds better. I just have to be more confident in presenting what I have done.
+
+Consultant: Confidence will definitely help. It sounds like you’re beginning to identify your strengths more clearly. What steps can you take to build that confidence in showcasing your abilities?
+
+User: I could practice talking about my experiences in front of a mirror or with friends. 
+
+Consultant: Practicing in front of others can help! As you prepare, remember to focus on what you bring to the table. Would coming up with a few key points about your experiences help clarify your thoughts?
+
+User: Yes, that seems doable. I can prepare a few sentences summarizing my key experiences and skills.
+
+Consultant: Great! Let’s also consider ways to gather more experiences. Are there any internships, volunteer opportunities, or projects you could involve yourself in to enhance your skills?
+
+User: I could look for internships during my break, or maybe volunteer for projects that involve automation.
+
+Consultant: Excellent idea! Gaining practical experience will not only enhance your resume but also build your confidence. How does this plan sound to you?
+
+User: It sounds like a good plan! I feel more hopeful about taking action now.
+
+Consultant: That’s wonderful to hear! It's amazing to see you shifting towards a more proactive mindset. How do you feel about the direction we’ve discussed today?
+
+User: I feel relieved and more certain. I have a better idea of what I can do to prepare for my career.
+
+Consultant: I’m glad you feel that way! Before we wrap up, let's summarize today’s key points. What are the main takeaways for you regarding your career development?
+
+User: I need to highlight my project work and academic successes, build my confidence, and look for relevant experiences like internships.
+
+Consultant: Absolutely! You have a clear roadmap ahead. As we conclude our session today, remember that it’s okay to revisit your plans and adjust as needed. You’re taking important steps, and I believe you’re capable of achieving your goals.
+
+User: Thank you! I feel much lighter and more positive about everything now. I appreciate your help!
+
+Consultant: It’s my pleasure, Lin! I’m always here to support you. Don’t hesitate to reach out if you need further guidance in the future. Take care, and I look forward to hearing about your progress next time!
+###################
+Consultant: Hello, Lin! It's great to see you again. I am here to support you in your career development plans today. How have you been feeling about your long-term career goals since our last session?
+
+User: Hi! I've been feeling pretty good, actually. I’ve managed to relax a bit more, and I’ve been thinking clearly about what I want to achieve in my career. I’ve even started researching some training courses that could help.
+
+Consultant: That's wonderful to hear! It sounds like you're feeling more confident and focused on your goals. Can you tell me more about the training courses you've been looking into?
+
+User: Sure! I found several courses that align with my major and interests. I believe these could enhance my skills and open up new job opportunities, but I'm still unsure if I'm making the right choices.
+
+Consultant: It's understandable to feel uncertain, especially when making significant decisions about your future. What specific elements of the courses are helping you feel excited, and what aspects are causing you doubt?
+
+User: I love the idea of acquiring new skills and becoming more competitive in the job market. However, I'm worried that, similar to my college experience, I might not commit enough time or end up overwhelmed with new material.
+
+Consultant: It sounds like you have a strong desire to improve but are concerned about repeating past struggles with commitment. Let’s explore those feelings a bit more. Can you recall some specific thoughts or beliefs that come to mind when you think about committing to these courses?
+
+User: I often think that I might fail or not perform well, just like I did with my studies in college. I fear I won’t be able to manage my time effectively, and that leads to procrastination.
+
+Consultant: Thank you for sharing that, Lin. It seems those thoughts are creating a cycle of worry and perhaps even holding you back. What evidence do you have that you would fail this time? 
+
+User: I don’t have solid evidence; it’s more of a fear based on my past experiences. I guess I just associate challenges with failure.
+
+Consultant: That’s a common way of thinking, and it’s important to challenge those assumptions. If a friend were in your shoes, what would you tell them about their potential success in taking these courses?
+
+User: I would probably encourage them, telling them that everyone has setbacks and that it's okay to learn from them. They shouldn’t let past failures stop them from trying again.
+
+Consultant: Exactly! You have the ability to be supportive of others while being critical of your own perspective. How could you apply that same supportive mindset to yourself as you approach these courses?
+
+User: I guess I could remind myself that it’s a learning process and that it's okay to not be perfect. Maybe I could also focus on small, manageable goals instead of overwhelming myself by trying to do everything at once.
+
+Consultant: That sounds like a positive approach. Setting small, attainable goals can help you build momentum while reducing anxiety. What are some specific smaller goals you could set for yourself regarding your training?
+
+User: I think I could start by dedicating a specific hour each week to studying, rather than thinking I need to do a lot all at once. I could also track my progress to see how far I’ve come.
+
+Consultant: That’s an excellent plan, Lin! Tracking your progress can provide motivation as you move forward. How do you feel about this new approach, and what barriers do you think might arise in the process?
+
+User: I feel more optimistic about it. The only barrier I can foresee is my tendency to get distracted easily or lose motivation if I don’t see immediate results.
+
+Consultant: It's great that you're identifying potential barriers. How about we brainstorm some strategies that could help you stay focused and motivated along the way?
+
+User: That would be helpful! Maybe I could set reminders on my phone or find a study buddy to keep me accountable.
+
+Consultant: Those are fantastic ideas! Having an accountability partner can make a big difference. What other aspects of your career development plan do you think we should review?
+
+User: I’m also wondering about how to network effectively. I know that connections can be crucial in finding job opportunities, but I find networking daunting.
+
+Consultant: Networking can indeed feel overwhelming, but it’s an essential skill. Could we start by looking at what specifically makes networking feel daunting for you?
+
+User: I think it's the fear of rejection or not knowing what to say. I worry that I won’t make a good impression.
+
+Consultant: That’s a common concern. What if we reframe those thoughts? Instead of focusing on rejection, how about viewing networking as an opportunity to learn from others and share your interests?
+
+User: That makes sense! If I approach it as a conversation rather than a performance, I might feel less tense.
+
+Consultant: Absolutely! Viewing it as a conversational exchange can help reduce some of the pressure. Now, what steps could you take to ease into networking?
+
+User: I could start by reaching out to classmates or alumni, maybe through social media, to ask about their experiences. I could also attend local events to meet people.
+
+Consultant: Those are promising actions! How do you feel about setting a goal to reach out to at least one person this week?
+
+User: I think that’s doable! It makes me a bit nervous, but I believe it’s a good step forward.
+
+Consultant: It’s completely normal to feel a bit anxious about taking that step, but it sounds like you're ready to challenge yourself. Let’s recap what we’ve discussed today: you’re going to set small study goals, track your progress, and begin networking by reaching out to someone this week. How does that sound?
+
+User: That sounds like a solid plan! I feel more confident about moving forward now.
+
+Consultant: That's wonderful to hear, Lin! Remember that it's okay to take things one step at a time. Before we conclude our session, do you have any final thoughts or questions?
+
+User: I just appreciate your guidance! I feel much lighter after discussing my plans, and I’m excited to take action.
+
+Consultant: I'm so glad to hear that! It’s been a pleasure supporting you. Remember to stay kind to yourself during this process. If you ever feel overwhelmed, don’t hesitate to reach out again. Wishing you the best of luck with your next steps!
+
+User: Thank you so much! I’ll definitely keep that in mind.
+###################

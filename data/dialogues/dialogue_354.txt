@@ -1,0 +1,410 @@
+Consultant: Hello, Zhang Wei! I'm glad you're here today. Let’s start by talking about how you’re feeling. Can you share with me what’s been on your mind lately?
+
+User: Hi. Honestly, it’s been really tough. I lost my home recently and now I'm just living on the streets. I feel like there’s no hope for the future, and it gets overwhelming sometimes. 
+
+Consultant: That sounds incredibly challenging. It’s understandable to feel overwhelmed in such a situation. Can you tell me more about your feelings? What specific thoughts come to your mind when you think about your current situation?
+
+User: I often think that there’s no way out of this situation. I feel trapped and sometimes I just want to give up. I don’t really see a future for myself anymore.
+
+Consultant: It sounds like you’re experiencing a lot of despair and hopelessness right now. I appreciate you sharing that with me. Let's explore those thoughts together—what do you think are the most distressing thoughts you have when you feel trapped?
+
+User: I keep telling myself that I’ll never get a job or a house. It’s like I can’t break free from this cycle of negativity. 
+
+Consultant: I hear you. Those thoughts can feel very heavy. It’s important to acknowledge how they impact your emotions. When you think, “I’ll never get a job or a house,” how does that make you feel?
+
+User: It makes me feel worthless, like I don’t matter. Sometimes I wonder if it’s even worth trying anymore.
+
+Consultant: That feeling of worthlessness is very difficult to bear. But let’s take a moment to examine those thoughts—what evidence do you have that supports the idea that you’ll never be able to get a job or a home?
+
+User: I’ve applied to several jobs and haven’t heard back from anyone. It feels like there’s no use in trying.
+
+Consultant: I can see how those experiences would lead you to feel that way. It can be discouraging. But is it possible that there could be other factors at play? For instance, could there be some jobs that you might not have applied to yet?
+
+User: I guess there are always more places to look. But I feel so exhausted by this process, it’s hard to keep trying.
+
+Consultant: That exhaustion is completely understandable given everything you’re facing. Let’s think about small steps you can take. What if we focused on just one small action you could take this week regarding job applications? 
+
+User: Maybe I could look for a local shelter that has job programs. That seems more manageable.
+
+Consultant: That sounds like a great idea! Focusing on something manageable can help you regain a sense of control. How do you feel about setting that as your goal for the week?
+
+User: It feels a bit better to have a small step to focus on. I can try that.
+
+Consultant: I’m glad to hear that! Taking small steps can lead to meaningful change. While we’re exploring these options, how have your feelings about your living situation been affecting your overall mood?
+
+User: I often feel anxious and sad. I can’t sleep well, and I’m always worried about my safety. I just feel this weight on my chest.
+
+Consultant: It’s understandable to feel anxious and sad given your current circumstances. Those feelings can definitely take a toll on your mental health. When you feel this weight pressing down, what do you think might help ease that feeling, even if just a little?
+
+User: I used to enjoy drawing when I was younger. Maybe I could start that again? 
+
+Consultant: That sounds like a wonderful outlet! Engaging in something you enjoy can be a great way to cope with overwhelming emotions. How do you think starting to draw might impact your feelings?
+
+User: It might help me feel a little lighter. I think it could be a good distraction from everything going on.
+
+Consultant: Absolutely! It could serve as both a distraction and a form of expressing yourself. Let's plan on this: after you look into that job program, you can also set aside some time to draw. How does that sound to you?
+
+User: That sounds manageable. I feel a little hopeful thinking about it. 
+
+Consultant: I'm really glad to hear that! It's important to find moments of hope amidst the struggles. We’ve talked about looking for job programs and starting to draw. Are there any other areas you’d like to explore in our time together today?
+
+User: I think I just want to understand if it's normal to feel so down and hopeless. 
+
+Consultant: Feeling down and hopeless in difficult circumstances like yours is a common response. However, it’s essential to address those feelings and not stay stuck in them. We can also look at ways to build a support system for you. What do you think about reaching out to local support groups or people you trust?
+
+User: I haven’t really talked to anyone about how I’m feeling. I guess I could try to reach out to some support groups.
+
+Consultant: That could be a beneficial step, connecting with people who can relate to your experience. It might help you feel less isolated. Would you like to set a goal around this, too?
+
+User: Yes, I can look for some support group meetings this week.
+
+Consultant: That sounds like a solid plan! Remember, every step you take, no matter how small, is a step towards feeling better. As we wrap up today, how are you feeling about the progress we’ve made in this session? 
+
+User: I feel like I have a few things to work on, and that’s encouraging. I’m still unsure, but this feels like a start. 
+
+Consultant: Starting is often the hardest part, but you’ve taken important steps by acknowledging your feelings and planning some actions. Let’s continue to build on this progress in our future sessions. I’ll be here to support you along the way. 
+
+User: Thank you! I appreciate that. 
+
+Consultant: You’re very welcome, Zhang Wei. Remember, it’s okay to take things one day at a time. I look forward to hearing how things go for you next time. Take care!
+###################
+Consultant: Hello, Zhang Wei! It's great to see you today. How have you been feeling since our last session?
+
+User: Hi. Honestly, not much has changed. I've been really down, especially after my attempts to contact the shelter failed. It just feels hopeless at this point.
+
+Consultant: I hear you, and it sounds really tough not to see a way forward after reaching out for help. When you think about your situation, what thoughts come to mind that intensify those feelings of hopelessness?
+
+User: I keep thinking that I'll never find a safe place to stay, like I’m stuck in this endless cycle of trying to get help but failing.
+
+Consultant: It sounds like those thoughts are very discouraging. Can you tell me how that belief affects your mood and motivation to seek out help?
+
+User: It makes me feel even more hopeless, like what's the point? I end up just staying where I am because I don’t have the energy to keep trying.
+
+Consultant: That sounds really draining, Zhang Wei. Let’s explore that thought further. When you say "I’ll never find a safe place," how true do you feel that belief is on a scale from 0 to 10, where 0 means "not true at all" and 10 means "completely true"?
+
+User: I'd say it's about an 8. I haven't had much luck, so it feels really real.
+
+Consultant: That’s a strong feeling to carry. But let's think about it together: can you recall any instances where you did manage to get closer to help, even if they didn’t lead to a solution?
+
+User: Well, I did manage to find a couple of shelters online—they just turned me away when I called. So I guess that counts a little?
+
+Consultant: Yes, that definitely counts! It shows that you’ve taken steps, even when they didn't lead to what you hoped for. Can we challenge that “8” belief a little? What else could be a possible outcome besides “I will never find help”?
+
+User: I suppose there might still be options I haven’t explored, or maybe I just need to try again.
+
+Consultant: Absolutely! It sounds like there is a little room to shift that belief. If we considered a possible “5” instead, how would that change your actions moving forward?
+
+User: Hmm… if I thought I had a chance, I might feel more motivated to keep looking instead of giving up.
+
+Consultant: That's a valuable insight! It seems like shifting your mindset may help in seeking new opportunities. What do you think could be one small step you could take in the next few days to explore those remaining options?
+
+User: Maybe I could call a few more places, or I could ask around at local community centers. That feels less overwhelming.
+
+Consultant: That sounds like a solid plan, Zhang Wei! Taking those manageable steps could help you regain a sense of control. How do you feel about trying that?
+
+User: It feels a bit less daunting now that we've talked about it. I really appreciate your help.
+
+Consultant: I'm glad to hear that! It's great to see you finding some potential solutions. Let's also discuss some supportive thoughts to help you combat that feeling of hopelessness when it arises. What would a more balanced perspective on your situation look like?
+
+User: Maybe something like “I have tried to find help, and there are still options remaining” instead of thinking that there’s nothing out there.
+
+Consultant: That’s a great thought! It’s much more realistic and can help foster hope. How can you remind yourself of that when those negative thoughts creep back in?
+
+User: I could write it down somewhere or tell myself that when I start feeling bad.
+
+Consultant: Writing it down sounds like an excellent strategy! Keeping that reminder visible can indeed help. As we wrap up today, let’s reflect on what we’ve achieved. You’ve recognized some unhelpful beliefs and taken steps to counter them. How do you feel about the progress you’ve made today?
+
+User: I feel a bit lighter, honestly. Just talking it out helps me see things differently.
+
+Consultant: It’s wonderful to hear that! Progress takes time and talking through these feelings is an important part of the process. For our next session, let’s check on how those outreach efforts went and continue to build on this progress together.
+
+User: Sounds good! I’ll give those steps a try and see what happens.
+
+Consultant: Perfect! Remember, you’re taking active steps towards change. Take care of yourself, Zhang Wei, and I’m looking forward to hearing about your experiences next time.
+
+User: Thank you! I appreciate your support.
+###################
+Consultant: Hello, Zhang Wei! I'm glad you're here for our session today. How have you been feeling since our last talk? 
+
+User: Hi. I feel slightly better since I got a temporary place to stay. But I still worry about not having a stable home in the long run. It keeps me anxious.
+
+Consultant: It's good to hear that your situation has improved a bit. It's natural to feel anxious about stability, especially when things are uncertain. Can you tell me more about what worries you the most regarding this instability?
+
+User: I guess it’s the thought of being homeless again. It makes me feel really helpless. I just want to find a place I can call home, but I don't know how to go about it.
+
+Consultant: That feeling of helplessness is quite understandable. Looking for a stable home can be overwhelming. Let’s explore what steps you might be able to take toward finding that long-term place. What options have you considered so far?
+
+User: I've thought about applying for some government housing programs, but I’m not sure if I’m eligible. I tried searching online, and it just feels confusing.
+
+Consultant: Navigating those programs can be confusing, especially when you're under pressure. We can tackle this step by step. How about we assess the eligibility criteria together? That way, you can see if it's a feasible option for you.
+
+User: That sounds helpful. I just worry that even if I find a program, it might take forever.
+
+Consultant: Waiting can be stressful, especially when you feel uncertain. What if we break down the application process into smaller steps? It might make the whole thing feel less daunting. How do you feel about that?
+
+User: I think that could work. I just don’t know where to start.
+
+Consultant: Let’s start by identifying the first step you can take. Do you have the information about the housing programs you mentioned? Perhaps we can look at it together to see what immediate actions you could take.
+
+User: I do have some links saved, but I haven’t opened them. I keep putting it off.
+
+Consultant: It sounds like there's some hesitation there. Could it be related to feeling overwhelmed, or perhaps fearing it won’t work out?
+
+User: Yes, I’m definitely afraid it won’t work. I feel like I’ll just be disappointed if it doesn’t happen.
+
+Consultant: That’s a very valid concern. Let's acknowledge that fear but also challenge it. Is there any evidence that suggests applying for housing programs won't help you? 
+
+User: I guess I don’t really know for sure. I just remember times when things didn’t work out for me.
+
+Consultant: It’s easy to associate past disappointments with future possibilities. But not all situations are the same. If a friend was in your position, what encouragement would you give them?
+
+User: I’d tell them to at least try. They might find something good. 
+
+Consultant: That's a great mindset! It’s important to give yourself the same encouragement. Let’s set a goal to review those links together and create an action plan. How does that sound?
+
+User: That sounds good. I feel like having a plan might help reduce some of my anxiety.
+
+Consultant: Absolutely! Having a clear plan can provide a sense of control. Which of the links do you feel most ready to explore first?
+
+User: I think I’ll start with the one about the application process. It seems more straightforward.
+
+Consultant: Great choice! Let’s focus on that. How about setting aside some time this week to go through it? You can let me know how it goes in our next session.
+
+User: I can do that. I’ll try to set aside some time this weekend.
+
+Consultant: Perfect! This way, you’ll have a specific time to focus on it. Remember, it's okay to take it one step at a time. How are you feeling about this approach now?
+
+User: I feel a bit more positive. Just making a plan makes it seem less overwhelming.
+
+Consultant: That’s wonderful to hear! It’s excellent progress to feel a bit more hopeful. Is there anything else you’d like to discuss today regarding your situation or feelings?
+
+User: I think we’ve covered a lot. I appreciate your help with this.
+
+Consultant: I’m glad to hear you feel that way. Remember that there’s no rush to get everything done perfectly. Keep taking these small steps, and you will create a path towards your long-term housing stability. 
+
+User: Thank you. It helps to remember that.
+
+Consultant: You're very welcome, Zhang Wei! Keeping in mind the support around you can be beneficial too. Don’t hesitate to reach out if you need encouragement between sessions. 
+
+User: I will. Thanks again for everything.
+
+Consultant: It’s my pleasure! I believe in your ability to make these changes and navigate through uncertainties. I look forward to hearing about your progress next time! Take care.
+
+User: You too! Bye!
+
+Consultant: Goodbye!
+###################
+Consultant: Hello, Zhang Wei! It's great to see you again. How have you been feeling since our last session?
+
+User: Hi. I’ve been feeling a bit better, but there are still moments of doubt. Being part of the community support group has helped me share my feelings.
+
+Consultant: I’m glad to hear that participating in the group has been beneficial for you. It’s important to have a space to express yourself. What moments have stood out to you since you joined the group?
+
+User: Well, during one of the sessions, I was able to share my experience of being homeless. It felt good to be heard without judgment.
+
+Consultant: That sounds like a significant moment of connection. Being heard can be validating. How did it feel to share your situation with others who might understand?
+
+User: It felt relieving, really. There was a sense of understanding in the room, and it made me feel a bit less alone. But sometimes, I still struggle with feelings of hopelessness.
+
+Consultant: It’s completely natural to have mixed feelings as you navigate these challenges. Let’s explore those moments of hopelessness a bit. Can you share what thoughts come to mind when you feel that way?
+
+User: I often think that I won’t be able to get back on my feet or that things will never improve. It makes me feel stuck.
+
+Consultant: Those thoughts sound really heavy and can be quite overwhelming. When you think about not being able to get back on your feet, what emotions does that evoke for you?
+
+User: I feel really anxious and sad. It's like a weight on my chest. I know I want to feel hopeful, but it’s hard to imagine a better future.
+
+Consultant: It must be difficult to hold onto hope when those feelings weigh you down. Let’s challenge that thought a bit. Is there any evidence that suggests things might improve in the future?
+
+User: I guess being part of the support group is one sign. It shows that I can connect with others and share my experiences. 
+
+Consultant: That’s an excellent insight, Zhang Wei! You’ve already taken a proactive step towards change by joining the group. If you were to advise a friend in your position, what would you tell them about facing similar challenges?
+
+User: I would tell them to keep trying and to reach out to others. It helps to talk about things rather than bottling it up.
+
+Consultant: That’s a wise perspective. It sounds like you have the capacity to see the value in social support. Would you be open to discussing activities or interactions that could further strengthen your connection with others?
+
+User: Yes, I’d like that. Sometimes I hesitate to engage more deeply because I fear rejection or judgment.
+
+Consultant: I understand. It’s natural to worry about rejection, especially when you’re trying to open up. What kind of interactions would you find comfortable to start with?
+
+User: Maybe starting with smaller gatherings or activities where I can gradually open up rather than being in a large group right away.
+
+Consultant: That sounds like a reasonable approach! Starting small can help build your confidence. Would you be willing to identify one small social activity to try this week?
+
+User: Perhaps I could join a local art class? I’ve always liked drawing, and it might be a good way to meet people.
+
+Consultant: Joining an art class sounds like a wonderful idea! Engaging in a creative activity can also be soothing. How do you feel about setting that as a goal for this week?
+
+User: I feel excited about it. It’s something I’ve wanted to do for a while, and it seems like a positive step forward.
+
+Consultant: That’s fantastic to hear! Setting that intention can make a difference. As you prepare for this class, let’s discuss ways to cope with any anxious feelings that might arise.
+
+User: I think focusing on my breathing might help. Sometimes just taking a moment can ease the anxiety.
+
+Consultant: Absolutely! Deep breathing is a great strategy for managing anxiety in the moment. Would practicing that before entering the class be helpful for you?
+
+User: Yes, I think practicing that beforehand would really help. I’ll also remind myself that everyone is there to enjoy the activity, too.
+
+Consultant: That’s a great mindset! Remembering that everyone shares the same objective can create a sense of camaraderie. How do you feel about our progress today, Zhang Wei?
+
+User: I feel like I have a clearer path ahead and some strategies to manage my feelings. I’m hopeful about the art class.
+
+Consultant: That’s wonderful to hear! You’ve made significant progress in understanding your feelings and how to interact with others. Is there anything else you’d like to discuss before we wrap up today?
+
+User: No, I think we’ve covered a lot. I appreciate your support.
+
+Consultant: It’s my pleasure, Zhang Wei. I’m here to support you. Remember the progress you’ve made, and I look forward to hearing how the art class goes next time we meet. Take care!
+
+User: Thank you! I’ll keep in touch.
+###################
+Consultant: Hello, Zhang Wei! I'm glad to see you today. How have you been feeling lately?
+
+User: Hi! I've been doing a little better, actually. I've started attending some skills development courses, and I feel like I might be gaining some control over my life again. But I still have moments where I feel a bit lost.
+
+Consultant: It's great to hear that you're feeling a bit better and taking steps towards your goals. Gaining control is important. What kind of feelings do you experience when you think about your future after these courses?
+
+User: I feel cautiously optimistic. I think learning new skills can open new doors for me. But there’s still this nagging concern about whether I can actually find a job afterwards.
+
+Consultant: It’s completely natural to have concerns about the future, especially when entering a new phase. Let’s explore that feeling further. What specific thoughts come to your mind when you worry about finding a job?
+
+User: I often think that I'll get turned down because I don't have enough experience. I can’t help but feel like I’ll fail.
+
+Consultant: That sounds challenging. The thought of not having enough experience can be quite daunting. When you think like this, what emotions arise in you?
+
+User: I feel anxious and a bit hopeless. It’s like a cycle—if I don’t believe I’ll succeed, it makes me hesitate even more.
+
+Consultant: It sounds like there's a strong connection between those thoughts and your feelings of anxiety and hopelessness. Let’s try to break that cycle. Is there a different way you might consider viewing your situation, maybe something more positive or encouraging?
+
+User: I guess I could think that everyone has to start somewhere, right? Maybe I shouldn’t be so hard on myself.
+
+Consultant: Absolutely, that’s a great perspective. Starting somewhere means you’re already taking steps in the right direction. What evidence do you have that you can succeed, despite your fears?
+
+User: Well, I’ve been doing well in my courses, and I’ve learned a lot. I received some positive feedback from my instructors too.
+
+Consultant: That’s a wonderful piece of evidence to hold onto! Focusing on your successes can help shift how you feel about future job prospects. Have you thought about specific goals you could set related to finding a job?
+
+User: I haven’t really sat down to think about that yet. I suppose I could aim for internships or entry-level jobs, which might be more manageable.
+
+Consultant: That sounds like an excellent plan! Setting achievable, progressive goals like internships can make the process feel less overwhelming. What’s the first step you could take towards achieving that goal?
+
+User: Maybe I could update my resume and start applying for some internships related to the skills I’m learning.
+
+Consultant: That’s a proactive step! Updating your resume can help boost your confidence as well. How do you feel about creating a timeline for applying to a few internships?
+
+User: I think that could help me stay focused and less anxious about the process.
+
+Consultant: Great! A timeline can give you a sense of structure and purpose. When you plan out your applications, make sure to set small, realistic targets. How many applications do you think you could comfortably complete in a week?
+
+User: I think I could manage two or three per week, depending on how busy the courses get.
+
+Consultant: That sounds very manageable! And by consistently applying, you’ll gradually build up your confidence. How do you feel about this plan we've created together?
+
+User: I feel good about it! It gives me a sense of direction, and I think it will help alleviate some anxiety.
+
+Consultant: I’m glad to hear that! Remember, it’s normal to feel some anxiety about this process. How about we develop some strategies for managing that anxiety as you move forward?
+
+User: Yeah, I think having some techniques would really help me stay calm.
+
+Consultant: We could explore techniques like deep breathing exercises or brief mindfulness sessions before you start your job applications. Have you tried any relaxation techniques before?
+
+User: I haven’t really used relaxation techniques consistently, but I’ve heard they can be beneficial.
+
+Consultant: They can be very helpful! Would you be open to trying a simple breathing exercise to see how it makes you feel?
+
+User: Sure, I’d be willing to give it a try.
+
+Consultant: Let’s take a moment. Take a deep breath in through your nose for four counts, hold it for four counts, and then exhale through your mouth for four counts. Let’s do that a couple of times together. 
+
+User: Okay, let’s do it. 
+
+(After completing the exercise)
+
+Consultant: How did that feel for you?
+
+User: I feel a bit lighter, actually! It was nice to take a moment for myself.
+
+Consultant: I’m glad to hear that! Incorporating techniques like this can really help ground you when stress arises. As you continue applying for jobs, remember to check in with your feelings and treat yourself kindly. 
+
+User: Thanks, I will try to remember that.
+
+Consultant: Excellent! As we wrap up today’s session, let’s summarize what we’ve achieved. You’ve set tangible goals for applying to internships, and developed some strategies for managing anxiety. How do you feel about the progress we've made?
+
+User: I feel a lot more hopeful and organized. It’s nice to have a clear plan.
+
+Consultant: That’s fantastic! Remember, every step counts. If challenges arise, you have the tools and support to navigate through them. I look forward to our next session, where we can check in on your progress.
+
+User: Thank you! I’m looking forward to it too. 
+
+Consultant: You're very welcome, Zhang Wei! Take care until then.
+###################
+Consultant: Hello, Zhang Wei! It’s great to see you again. How have you been feeling since our last session?
+
+User: Hi! I've actually been feeling a bit better. I'm starting to regain some confidence after completing the first phase of my skills course and getting a part-time job offer.
+
+Consultant: That sounds like a wonderful development! It's great to hear that you're starting to feel more confident. What specific changes have you noticed in your feelings or outlook since achieving these milestones?
+
+User: I think I feel less hopeless. I can see that I have potential and I can create a better future for myself. But sometimes the weight of my past still lingers.
+
+Consultant: It's completely normal to have lingering feelings from the past, especially when you're facing significant changes. Let’s explore those feelings a bit more. What thoughts come to mind when you think about your past challenges?
+
+User: I often find myself thinking about my previous failures. I worry that I might fail again in this new job.
+
+Consultant: Those worries sound heavy, Zhang Wei. It's understandable to feel that way, especially after having faced difficulties. Can you identify any specific thoughts that make you feel like you might fail in this new opportunity?
+
+User: I keep telling myself that I'm not good enough, and that I won't be able to handle the job responsibilities.
+
+Consultant: It seems like you're experiencing some negative thinking patterns. When you say you're "not good enough," can you share what evidence you have to support that thought? 
+
+User: I guess I don't have any concrete evidence. It’s just a feeling I have. My past experiences make it seem more real, even if it's not true.
+
+Consultant: That’s an important realization, Zhang Wei. A lot of how we feel can stem from our beliefs, even if they aren't based on current evidence. Would you be open to exploring some alternative perspectives on your capabilities?
+
+User: Yes, I would like that. I want to challenge those negative thoughts.
+
+Consultant: Great! Let's take a look at a time when you felt proud after accomplishing something. Can you recall a moment when you succeeded in overcoming a challenge?
+
+User: I remember when I completed the first phase of my skills training. I worked hard, and it felt fulfilling to get through it.
+
+Consultant: That’s a fantastic example! How did that success make you feel about your abilities?
+
+User: It made me feel proud and, for a moment, I believed I could do more. It was a boost for my confidence.
+
+Consultant: That’s a powerful feeling, and it’s important to hold onto. How can we use that experience to counteract your current feelings of inadequacy in your job?
+
+User: I suppose I could remind myself of that achievement when I start feeling anxious or doubtful at work.
+
+Consultant: Absolutely! That’s a very constructive strategy. As you step into this new role, could you set a small goal for yourself to remind you of your capabilities?
+
+User: Maybe I can set a goal to ask questions when I don’t understand something. That way, I won’t feel overwhelmed.
+
+Consultant: That sounds like a wonderful plan! Asking questions shows that you’re engaged and willing to learn, which is an important trait. How do you feel about taking that small step?
+
+User: I feel better just thinking about it. It feels manageable, and it could help me build my confidence gradually.
+
+Consultant: That's what we want! Incremental steps lead to significant changes over time. Let’s also discuss how you can maintain this positive mindset. What might be some practical ways to help you stay focused on your achievements?
+
+User: I could keep a journal of my experiences and achievements. Writing it down might help me reflect on my progress.
+
+Consultant: Journaling is an excellent idea! Reflecting on your experiences can help solidify your accomplishments in your mind and remind you of your growth when you’re feeling low. Do you have any concerns about starting a journaling practice?
+
+User: I’m not sure if I’d remember to do it every day. Sometimes I forget things with everything going on.
+
+Consultant: That’s a common concern. Perhaps you could set a specific time each day, like before bed, or use a reminder on your phone to prompt you. How does that sound?
+
+User: That sounds doable! I could even do it while I’m winding down for the night.
+
+Consultant: Perfect! Establishing a routine can help you stay consistent. As we're nearing the end of our session, let’s recap how you’ve prepared to face your new job and maintain your progress.
+
+User: I plan to ask questions when I’m unsure, focus on my accomplishments, and start journaling my experiences.
+
+Consultant: That’s an excellent summary, Zhang Wei. Remember, it’s important to celebrate these small steps. How do you feel about our session today and the progress you’ve made?
+
+User: I feel hopeful and motivated. I’m proud of the steps I’m planning to take.
+
+Consultant: I'm glad to hear that! You’ve made significant progress, and I believe you can continue to build on this momentum. This is our last session for now, but remember, if you ever need support again, I’m here for you. 
+
+User: Thank you! I appreciate all your help. I feel more ready to take on my next challenges!
+
+Consultant: You're very welcome, Zhang Wei! Take care of yourself, and remember to be kind to yourself as you embark on this new journey. Goodbye for now!
+###################
